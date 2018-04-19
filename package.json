@@ -35,6 +35,8 @@
     "node": ">= 0.12.0"
   },
   "scripts": {
+    "buildAll": "node build/buildSet.js allsets",
+    "buildSet": "node build/buildSet.js",
     "test": "jshint build/*.js shared/*.js util/*.js",
     "build": "node web/index.js",
     "checkJson": "jslint cron/*.json decks/*.json shared/set_configs/**/*.json util/**/*.json web/*.json",
