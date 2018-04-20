@@ -8770,7 +8770,8 @@
         "M14",
         "BNG",
         "M15",
-        "CN2"
+        "CN2",
+        "DOM"
       ],
       "rarity": "Common",
       "text": "Draw two cards.",

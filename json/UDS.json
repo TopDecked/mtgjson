@@ -2547,7 +2547,8 @@
       "originalText": "Return target permanent you control to its owner's hand.",
       "originalType": "Instant",
       "printings": [
-        "UDS"
+        "UDS",
+        "DOM"
       ],
       "rarity": "Common",
       "text": "Return target permanent you control to its owner's hand.",
@@ -7112,7 +7113,8 @@
         "UDS",
         "S99",
         "7ED",
-        "8ED"
+        "8ED",
+        "DOM"
       ],
       "rarity": "Rare",
       "rulings": [

@@ -7,8 +7,14 @@
   "border": "black",
   "type": "expansion",
   "booster": [
-    "uncommon",
-    "uncommon",
+    [
+      "rare",
+      "uncommon"
+    ],
+    [
+      "rare",
+      "uncommon"
+    ],
     "common",
     "common",
     "common",
@@ -2790,7 +2796,8 @@
       "power": "1",
       "printings": [
         "ATQ",
-        "8ED"
+        "8ED",
+        "DOM"
       ],
       "rarity": "Common",
       "subtypes": [

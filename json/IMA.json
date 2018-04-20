@@ -2496,7 +2496,8 @@
         "EMA",
         "W17",
         "CMA",
-        "IMA"
+        "IMA",
+        "DOM"
       ],
       "rarity": "Uncommon",
       "subtypes": [

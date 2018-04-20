@@ -994,7 +994,8 @@
       "originalType": "Land",
       "printings": [
         "ISD",
-        "MD1"
+        "MD1",
+        "DOM"
       ],
       "rarity": "Rare",
       "text": "Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B}.",
@@ -1363,7 +1364,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -1625,7 +1627,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [

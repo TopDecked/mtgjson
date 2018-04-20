@@ -119,12 +119,6 @@
         "CMD"
       ],
       "rarity": "Rare",
-      "rulings": [
-        {
-          "date": "2008-04-01",
-          "text": "A \"creature card\" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards."
-        }
-      ],
       "subtypes": [
         "Lhurgoyf"
       ],
@@ -549,10 +543,10 @@
         },
         {
           "date": "2014-09-20",
-          "text": "If some of the creatures are illegal targets as Arc Lightning tries to resolve, the original division of damage still applies but no damage is dealt to the illegal targets. If all targets are illegal, Arc Lightning is countered."
+          "text": "If some of the creatures are illegal targets as Arc Lightning tries to resolve, the original division of damage still applies but no damage is dealt to the illegal targets. If all targets are illegal, Arc Lightning doesn't resolve."
         }
       ],
-      "text": "Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.",
+      "text": "Arc Lightning deals 3 damage divided as you choose among one, two, or three targets.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -607,7 +601,7 @@
           "text": "If the creature leaves the battlefield before this resolves, it still damages the player."
         }
       ],
-      "text": "Shower of Sparks deals 1 damage to target creature and 1 damage to target player.",
+      "text": "Shower of Sparks deals 1 damage to target creature and 1 damage to target player or planeswalker.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -753,6 +747,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -790,14 +788,15 @@
         "C14",
         "DD3_EVG",
         "EMA",
-        "CMA"
+        "CMA",
+        "DOM"
       ],
       "rarity": "Common",
       "subtypes": [
         "Elf",
         "Druid"
       ],
-      "text": "{T}: Add {G} to your mana pool.",
+      "text": "{T}: Add {G}.",
       "toughness": "1",
       "type": "Creature — Elf Druid",
       "types": [
@@ -1331,7 +1330,7 @@
         "TPR"
       ],
       "rarity": "Uncommon",
-      "text": "{T}: Add {C} to your mana pool.\n{T}: Add {R} or {G} to your mana pool. Mogg Hollows doesn't untap during your next untap step.",
+      "text": "{T}: Add {C}.\n{T}: Add {R} or {G}. Mogg Hollows doesn't untap during your next untap step.",
       "type": "Land",
       "types": [
         "Land"
@@ -1584,7 +1583,9 @@
         "XLN",
         "DDT",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -1853,7 +1854,9 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2531,7 +2534,7 @@
         "Human",
         "Wizard"
       ],
-      "text": "{T}: Prodigal Sorcerer deals 1 damage to target creature or player.",
+      "text": "{T}: Prodigal Sorcerer deals 1 damage to any target.",
       "toughness": "1",
       "type": "Creature — Human Wizard",
       "types": [
@@ -2604,7 +2607,7 @@
         "DD3_DVD"
       ],
       "rarity": "Common",
-      "text": "Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to target creature or player this turn.",
+      "text": "Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to any target this turn.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -2968,7 +2971,7 @@
         "IMA"
       ],
       "rarity": "Uncommon",
-      "text": "Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.",
+      "text": "Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -3016,7 +3019,7 @@
         "BRB"
       ],
       "rarity": "Common",
-      "text": "Each player returns a creature he or she controls to its owner's hand.",
+      "text": "Each player returns a creature they control to its owner's hand.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -3566,7 +3569,9 @@
         "XLN",
         "DDT",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3829,7 +3834,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3893,7 +3899,7 @@
         "TPR"
       ],
       "rarity": "Uncommon",
-      "text": "{T}: Add {C} to your mana pool.\n{T}: Add {W} or {U} to your mana pool. Thalakos Lowlands doesn't untap during your next untap step.",
+      "text": "{T}: Add {C}.\n{T}: Add {W} or {U}. Thalakos Lowlands doesn't untap during your next untap step.",
       "type": "Land",
       "types": [
         "Land"
@@ -4288,7 +4294,7 @@
         "PD3"
       ],
       "rarity": "Common",
-      "text": "Each player puts a creature card from his or her graveyard onto the battlefield.",
+      "text": "Each player puts a creature card from their graveyard onto the battlefield.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -4379,7 +4385,7 @@
         "A25"
       ],
       "rarity": "Common",
-      "text": "Add {B}{B}{B} to your mana pool.",
+      "text": "Add {B}{B}{B}.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -4435,19 +4441,15 @@
       "rarity": "Rare",
       "rulings": [
         {
-          "date": "2004-10-04",
-          "text": "The creatures which are sacrificed can't be regenerated."
+          "date": "2018-03-16",
+          "text": "As Living Death resolves, all players exile their creature cards from graveyards at the same time. Then all players sacrifice all creatures they control at the same time. Then all players put all creatures they exiled onto the battlefield at the same time."
         },
         {
-          "date": "2004-10-04",
-          "text": "Both players exile their creature cards at once. Then both players sacrifice all creatures they control at once. Then both players put all creatures they exiled onto the battlefield. If there are any choices involved for a given step, the current player makes their choices first, then the other player, and finally you do the action all at once."
-        },
-        {
-          "date": "2013-09-20",
-          "text": "\"All cards he or she exiled this way\" refers only to the cards exiled in the first part of the effect. If a replacement effect (such as Leyline of the Void) exiles any of the sacrificed creatures instead of putting them into the graveyard, those cards aren't returned to the battlefield."
+          "date": "2018-03-16",
+          "text": "Only cards exiled by Living Death's first instruction are put onto the battlefield. If a replacement effect (such as that of Leyline of the Void) causes any of the sacrificed creatures to be exiled instead of put into a graveyard, those cards aren't returned to the battlefield."
         }
       ],
-      "text": "Each player exiles all creature cards from his or her graveyard, then sacrifices all creatures he or she controls, then puts all cards he or she exiled this way onto the battlefield.",
+      "text": "Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -4634,14 +4636,14 @@
         },
         {
           "date": "2015-08-25",
-          "text": "If some, but not all, of the targets become illegal by the time Rolling Thunder tries to resolve, the original division of damage still applies, but no damage is dealt to illegal targets. If all the targets are illegal, the spell will be countered."
+          "text": "If some, but not all, of the targets become illegal by the time Rolling Thunder tries to resolve, the original division of damage still applies, but no damage is dealt to illegal targets. If all the targets are illegal, the spell won't resolve."
         },
         {
           "date": "2015-08-25",
           "text": "If Rolling Thunder is copied, the copy will retain the original damage divsion. The spell or ability will likely allow you to choose new targets, but you can't change the way damage is divided."
         }
       ],
-      "text": "Rolling Thunder deals X damage divided as you choose among any number of target creatures and/or players.",
+      "text": "Rolling Thunder deals X damage divided as you choose among any number of targets.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -5371,7 +5373,7 @@
         "TPR"
       ],
       "rarity": "Uncommon",
-      "text": "{T}: Add {C} to your mana pool.\n{T}: Add {B} or {R} to your mana pool. Cinder Marsh doesn't untap during your next untap step.",
+      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. Cinder Marsh doesn't untap during your next untap step.",
       "type": "Land",
       "types": [
         "Land"
@@ -5622,7 +5624,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -5707,11 +5710,11 @@
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2017-11-17",
-          "text": "The amount of life gained is equal to the power of the target creature as it last existed on the battlefield."
+          "date": "2018-03-16",
+          "text": "The amount of life gained is equal to the power of the targeted creature as it last existed on the battlefield."
         },
         {
-          "date": "2017-11-17",
+          "date": "2018-03-16",
           "text": "If the creature's power is negative, its controller doesn't lose or gain life."
         }
       ],
@@ -5843,7 +5846,7 @@
       "subtypes": [
         "Aura"
       ],
-      "text": "Enchant land\nWhenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).",
+      "text": "Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.",
       "type": "Enchantment — Aura",
       "types": [
         "Enchantment"
@@ -6013,7 +6016,7 @@
         "TPR"
       ],
       "rarity": "Uncommon",
-      "text": "{T}: Add {C} to your mana pool.\n{T}: Add {G} or {W} to your mana pool. Vec Townships doesn't untap during your next untap step.",
+      "text": "{T}: Add {C}.\n{T}: Add {G} or {W}. Vec Townships doesn't untap during your next untap step.",
       "type": "Land",
       "types": [
         "Land"
@@ -6375,7 +6378,7 @@
         "Human",
         "Cleric"
       ],
-      "text": "{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.",
+      "text": "{T}: Prevent the next 2 damage that would be dealt to any target this turn.",
       "toughness": "2",
       "type": "Creature — Human Cleric",
       "types": [
@@ -6434,7 +6437,7 @@
         "Human",
         "Cleric"
       ],
-      "text": "Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.",
+      "text": "Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to any target this turn, prevent that damage.",
       "toughness": "4",
       "type": "Creature — Human Cleric",
       "types": [
@@ -7241,7 +7244,7 @@
           "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
         }
       ],
-      "text": "Slippery Karst enters the battlefield tapped.\n{T}: Add {G} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "text": "Slippery Karst enters the battlefield tapped.\n{T}: Add {G}.\nCycling {2} ({2}, Discard this card: Draw a card.)",
       "type": "Land",
       "types": [
         "Land"
@@ -7292,7 +7295,7 @@
           "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
         }
       ],
-      "text": "Remote Isle enters the battlefield tapped.\n{T}: Add {U} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "text": "Remote Isle enters the battlefield tapped.\n{T}: Add {U}.\nCycling {2} ({2}, Discard this card: Draw a card.)",
       "type": "Land",
       "types": [
         "Land"
@@ -7349,7 +7352,7 @@
           "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
         }
       ],
-      "text": "Polluted Mire enters the battlefield tapped.\n{T}: Add {B} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "text": "Polluted Mire enters the battlefield tapped.\n{T}: Add {B}.\nCycling {2} ({2}, Discard this card: Draw a card.)",
       "type": "Land",
       "types": [
         "Land"
@@ -7402,7 +7405,7 @@
           "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
         }
       ],
-      "text": "Drifting Meadow enters the battlefield tapped.\n{T}: Add {W} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "text": "Drifting Meadow enters the battlefield tapped.\n{T}: Add {W}.\nCycling {2} ({2}, Discard this card: Draw a card.)",
       "type": "Land",
       "types": [
         "Land"
@@ -7757,7 +7760,9 @@
         "XLN",
         "DDT",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8029,7 +8034,9 @@
         "XLN",
         "DDT",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8301,7 +8308,9 @@
         "XLN",
         "DDT",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8573,7 +8582,9 @@
         "XLN",
         "DDT",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8845,7 +8856,9 @@
         "XLN",
         "DDT",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9117,7 +9130,9 @@
         "XLN",
         "DDT",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9389,7 +9404,9 @@
         "XLN",
         "DDT",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9661,7 +9678,9 @@
         "XLN",
         "DDT",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9930,7 +9949,9 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -10199,7 +10220,9 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -10468,7 +10491,9 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -10737,7 +10762,9 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11006,7 +11033,9 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11275,7 +11304,9 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11544,7 +11575,9 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11813,7 +11846,9 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -12080,7 +12115,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -12347,7 +12383,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -12614,7 +12651,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -12881,7 +12919,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -13148,7 +13187,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -13415,7 +13455,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -13682,7 +13723,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -13949,7 +13991,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -14215,7 +14258,9 @@
         "XLN",
         "DDT",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -14477,7 +14522,9 @@
         "XLN",
         "DDT",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -14739,7 +14786,9 @@
         "XLN",
         "DDT",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -15001,7 +15050,9 @@
         "XLN",
         "DDT",
         "UST",
-        "RIX"
+        "RIX",
+        "DDU",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -15267,7 +15318,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -15532,7 +15584,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -15797,7 +15850,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [

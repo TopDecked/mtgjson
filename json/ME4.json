@@ -1471,7 +1471,8 @@
         "EMA",
         "W17",
         "CMA",
-        "IMA"
+        "IMA",
+        "DOM"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -10210,7 +10211,8 @@
       "printings": [
         "ALL",
         "ATH",
-        "ME4"
+        "ME4",
+        "DOM"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -11756,7 +11758,8 @@
         "9ED",
         "10E",
         "ME4",
-        "DDH"
+        "DDH",
+        "DOM"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -11873,7 +11876,8 @@
         "DDF",
         "ME4",
         "M15",
-        "EMA"
+        "EMA",
+        "DOM"
       ],
       "rarity": "Uncommon",
       "rulings": [

@@ -651,7 +651,8 @@
         "EMA",
         "W17",
         "CMA",
-        "IMA"
+        "IMA",
+        "DOM"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -1911,7 +1912,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2174,7 +2176,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2437,7 +2440,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2700,7 +2704,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4905,7 +4910,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -5171,7 +5177,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -5437,7 +5444,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -5703,7 +5711,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [

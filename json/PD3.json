@@ -558,7 +558,8 @@
         "PD3",
         "TPR",
         "C15",
-        "CMA"
+        "CMA",
+        "DOM"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -1865,7 +1866,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2131,7 +2133,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2397,7 +2400,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2663,7 +2667,8 @@
         "C17",
         "XLN",
         "UST",
-        "RIX"
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [

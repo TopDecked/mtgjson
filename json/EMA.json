@@ -2143,7 +2143,8 @@
         "EMA",
         "W17",
         "CMA",
-        "IMA"
+        "IMA",
+        "DOM"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -10940,7 +10941,8 @@
         "EVG",
         "M10",
         "DD3_EVG",
-        "EMA"
+        "EMA",
+        "DOM"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -12480,7 +12482,8 @@
         "WTH",
         "TSB",
         "EMA",
-        "DDR"
+        "DDR",
+        "DOM"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -13045,7 +13048,8 @@
         "C14",
         "DD3_EVG",
         "EMA",
-        "CMA"
+        "CMA",
+        "DOM"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -16694,7 +16698,8 @@
         "DDF",
         "ME4",
         "M15",
-        "EMA"
+        "EMA",
+        "DOM"
       ],
       "rarity": "Uncommon",
       "rulings": [

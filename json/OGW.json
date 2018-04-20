@@ -19747,7 +19747,8 @@
       "originalType": "Land",
       "printings": [
         "OGW",
-        "AKH"
+        "AKH",
+        "DOM"
       ],
       "rarity": "Uncommon",
       "text": "Meandering River enters the battlefield tapped.\n{T}: Add {W} or {U}.",
@@ -20437,7 +20438,8 @@
       "originalType": "Land",
       "printings": [
         "OGW",
-        "AKH"
+        "AKH",
+        "DOM"
       ],
       "rarity": "Uncommon",
       "text": "Timber Gorge enters the battlefield tapped.\n{T}: Add {R} or {G}.",

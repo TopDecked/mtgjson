@@ -8311,7 +8311,8 @@
         "EVG",
         "VMA",
         "DDN",
-        "DD3_EVG"
+        "DD3_EVG",
+        "DOM"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -8834,7 +8835,8 @@
         "EVG",
         "M10",
         "DD3_EVG",
-        "EMA"
+        "EMA",
+        "DOM"
       ],
       "rarity": "Rare",
       "rulings": [
