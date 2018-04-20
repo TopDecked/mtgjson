@@ -35,10 +35,11 @@
     "node": ">= 0.12.0"
   },
   "scripts": {
+    "build": "node web/index.js",
     "buildAll": "node build/buildSet.js allsets",
     "buildSet": "node build/buildSet.js",
+    "clearSet": "node util/clearCacheForSet.js",
     "test": "jshint build/*.js shared/*.js util/*.js",
-    "build": "node web/index.js",
     "checkJson": "jslint cron/*.json decks/*.json shared/set_configs/**/*.json util/**/*.json web/*.json",
     "validateSchema": "ajv -s schema/singleSet.schema.json -d 'json/*.json'"
   }
