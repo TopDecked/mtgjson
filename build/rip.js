@@ -275,6 +275,10 @@ var processMultiverseDocs = function(docs, callback) {
             else
                 newCards = [];
         }
+        else if (newCards.length === 2 && newCards[0].layout === "normal") {
+            newCards.length = 1; // Remove the "other card" from non-split/flip cards.
+        }
+
 
         cards = cards.concat(newCards);
     }
@@ -380,7 +384,9 @@ var processCardPart = function(doc, cardPart, printedDoc, printedCardPart) {
             if (secondCardText.includes('aftermath')) card.layout = 'aftermath';
         }
         else {
-            if (firstCardText.includes("flip"))
+            if (firstCardText.includes("partner with"))
+                card.layout = "normal";
+            else if (firstCardText.includes("flip"))
                 card.layout = "flip";
             else if (firstCardText.includes("transform"))
                 card.layout = "double-faced";
@@ -389,7 +395,9 @@ var processCardPart = function(doc, cardPart, printedDoc, printedCardPart) {
             else {
                 // Can't find a suitable match on the first card text. Let's search on the second...
                 // TODO: This bunch of code needs to be optimized.
-                if (secondCardText.includes("flip"))
+                if (secondCardText.includes("partner with"))
+                    card.layout = "normal";
+                else if (secondCardText.includes("flip"))
                     card.layout = "flip";
                 else if (secondCardText.includes("transform"))
                     card.layout = "double-faced";
@@ -399,11 +407,13 @@ var processCardPart = function(doc, cardPart, printedDoc, printedCardPart) {
                     winston.warn("card1 text: %s", secondCardText);
                 }
             }
-
-            card.names = [
-                getTextContent(cardParts[0].querySelector(getCardPartIDPrefix(cardParts[0]) + "_nameRow .value")).trim(),
-                getTextContent(cardParts[1].querySelector(getCardPartIDPrefix(cardParts[1]) + "_nameRow .value")).trim()
-            ];
+            
+            if(card.layout !== "normal") {
+                card.names = [
+                    getTextContent(cardParts[0].querySelector(getCardPartIDPrefix(cardParts[0]) + "_nameRow .value")).trim(),
+                    getTextContent(cardParts[1].querySelector(getCardPartIDPrefix(cardParts[1]) + "_nameRow .value")).trim()
+                ];
+            }
         }
     }
 
@@ -511,11 +521,14 @@ var processCardPart = function(doc, cardPart, printedDoc, printedCardPart) {
     // Card Number
     var cardNumberValue = getTextContent(cardPart.querySelector(idPrefix + "_numberRow .value")).trim();
     if (cardNumberValue) {
+        if (card.layout === "normal" && (!card.variations || card.variations.length === 0))
+            cardNumberValue = cardNumberValue.replace(/[^\d.]/g, "");
         if (card.layout === "split")
             cardNumberValue = cardNumberValue.replace(/[^\d.]/g, "") + ["a", "b"][card.names.indexOf(card.name)];
 
         card.number = cardNumberValue;
     }
+    console.log(cardNumberValue, card.name, card.layout);
 
     // Watermark
     var cardWatermark = processTextBlocks(cardPart.querySelectorAll(idPrefix + "_markRow .value .cardtextbox")).trim();
