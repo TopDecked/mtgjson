@@ -2309,7 +2309,8 @@
       "power": "3",
       "printings": [
         "XLN",
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -5018,7 +5019,8 @@
       "originalType": "Creature — Human Pirate",
       "power": "2",
       "printings": [
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -5422,7 +5424,8 @@
         "OGW",
         "CN2",
         "AER",
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -24644,7 +24647,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -24956,7 +24960,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25271,7 +25276,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25589,7 +25595,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25904,7 +25911,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [

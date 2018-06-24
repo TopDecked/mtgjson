@@ -4797,7 +4797,8 @@
       "originalText": "Target player discards two cards from his or her hand.\nScry 2 (Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)",
       "originalType": "Sorcery",
       "printings": [
-        "5DN"
+        "5DN",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Target player discards two cards. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",

@@ -1766,7 +1766,8 @@
         "C16",
         "C17",
         "IMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -9129,7 +9130,8 @@
         "DD3_EVG",
         "DD3_GVL",
         "E02",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Target creature gets +3/+3 until end of turn.",
@@ -11877,7 +11879,8 @@
         "ME4",
         "M15",
         "EMA",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -13464,7 +13467,8 @@
         "ATQ",
         "4ED",
         "MRD",
-        "ME4"
+        "ME4",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [

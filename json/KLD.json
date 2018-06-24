@@ -11710,7 +11710,8 @@
       "originalText": "As an additional cost to cast Morbid Curiosity, sacrifice an artifact or creature.\nDraw cards equal to the converted mana cost of the sacrificed permanent.",
       "originalType": "Sorcery",
       "printings": [
-        "KLD"
+        "KLD",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12204,7 +12205,8 @@
       "originalType": "Creature — Aetherborn Warrior",
       "power": "3",
       "printings": [
-        "KLD"
+        "KLD",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -18451,7 +18453,8 @@
       "originalType": "Creature — Wurm",
       "power": "6",
       "printings": [
-        "KLD"
+        "KLD",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -25234,7 +25237,8 @@
       "originalType": "Artifact Creature — Wall",
       "power": "0",
       "printings": [
-        "KLD"
+        "KLD",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -26195,7 +26199,8 @@
       "originalType": "Artifact Creature — Construct",
       "power": "2",
       "printings": [
-        "KLD"
+        "KLD",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -31549,7 +31554,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31939,7 +31945,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32329,7 +32336,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32719,7 +32727,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33109,7 +33118,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33499,7 +33509,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33892,7 +33903,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34285,7 +34297,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34678,7 +34691,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35074,7 +35088,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35470,7 +35485,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35866,7 +35882,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36259,7 +36276,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36652,7 +36670,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -37045,7 +37064,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [

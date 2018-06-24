@@ -1592,7 +1592,8 @@
         "M12",
         "M14",
         "DDN",
-        "AER"
+        "AER",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Shock deals 2 damage to any target.",
@@ -2811,7 +2812,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3103,7 +3105,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3395,7 +3398,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3681,7 +3685,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3965,7 +3970,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4248,7 +4254,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4531,7 +4538,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -6151,7 +6159,8 @@
         "pFNM",
         "BTD",
         "V13",
-        "DDN"
+        "DDN",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -7240,7 +7249,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7520,7 +7530,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7800,7 +7811,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8091,7 +8103,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8377,7 +8390,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8663,7 +8677,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8949,7 +8964,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [

@@ -5594,7 +5594,8 @@
         "DDQ",
         "CN2",
         "E01",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -6470,7 +6471,8 @@
       "power": "2",
       "printings": [
         "ISD",
-        "CNS"
+        "CNS",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -6699,7 +6701,8 @@
         "C16",
         "C17",
         "IMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -8180,7 +8183,8 @@
         "ZEN",
         "CNS",
         "SOI",
-        "E01"
+        "E01",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -8832,7 +8836,8 @@
         "M11",
         "PC2",
         "CNS",
-        "PCA"
+        "PCA",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Destroy target tapped creature.",
@@ -10610,7 +10615,8 @@
         "FUT",
         "MOR",
         "CNS",
-        "DDS"
+        "DDS",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -11825,7 +11831,8 @@
         "KTK",
         "CN2",
         "IMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -12117,7 +12124,8 @@
       "printings": [
         "ROE",
         "CNS",
-        "MM2"
+        "MM2",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -12199,7 +12207,8 @@
         "POR",
         "TMP",
         "CNS",
-        "M15"
+        "M15",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -15207,7 +15216,8 @@
       "power": "3",
       "printings": [
         "MBS",
-        "CNS"
+        "CNS",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -15466,7 +15476,8 @@
       "originalType": "Artifact",
       "printings": [
         "RAV",
-        "CNS"
+        "CNS",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [

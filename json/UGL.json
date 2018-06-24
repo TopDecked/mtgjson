@@ -1053,11 +1053,7 @@
       "manaCost": "{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}",
       "multiverseid": 9780,
       "name": "B.F.M. (Big Furry Monster)",
-      "names": [
-        "B.F.M. (Big Furry Monster)",
-        "B.F.M. (Big Furry Monster, Right Side)"
-      ],
-      "number": "28a",
+      "number": "28",
       "originalText": "You must play both B.F.M. cards to put\nleaves play, sacrifice the other.\nB.F.M. can be blocked only by three or",
       "originalType": "Summon — The Biggest, Baddest, Nastiest,",
       "power": "99",
@@ -1097,101 +1093,9 @@
       "manaCost": "{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}",
       "multiverseid": 9780,
       "name": "B.F.M. (Big Furry Monster)",
-      "names": [
-        "B.F.M. (Big Furry Monster)",
-        "B.F.M. (Big Furry Monster, Right Side)"
-      ],
-      "number": "28a",
+      "number": "28",
       "originalText": "You must play both B.F.M. cards to put\nleaves play, sacrifice the other.\nB.F.M. can be blocked only by three or",
       "originalType": "Summon — The Biggest, Baddest, Nastiest,",
-      "power": "99",
-      "printings": [
-        "UGL"
-      ],
-      "rarity": "Rare",
-      "text": "B.F.M. onto the battlefield. If one B.F.M. card\nmore creatures.",
-      "toughness": "99",
-      "type": "Scariest Creature You’ll Ever See",
-      "types": [
-        "Scariest",
-        "Creature",
-        "Ever",
-        "See"
-      ]
-    },
-    {
-      "artist": "Douglas Shuler",
-      "cmc": 15,
-      "colorIdentity": [
-        "B"
-      ],
-      "colors": [
-        "Black"
-      ],
-      "flavor": "than that. Even bigger. Keep going. More.\ndreadnoughts for jewelry. It was big\"\n—Arna Kennerüd, skyknight",
-      "id": "f507bc33e26dff35c3715e99025d19c567ab6966",
-      "imageName": "b.f.m. (big furry monster, right side)1",
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        }
-      ],
-      "manaCost": "{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}",
-      "multiverseid": 9844,
-      "name": "B.F.M. (Big Furry Monster, Right Side)",
-      "names": [
-        "B.F.M. (Big Furry Monster)",
-        "B.F.M. (Big Furry Monster, Right Side)"
-      ],
-      "number": "29b",
-      "originalText": "B.F.M. into play. If either B.F.M. card\nmore creatures.",
-      "originalType": "Scariest Creature You'll Ever See",
-      "power": "99",
-      "printings": [
-        "UGL"
-      ],
-      "rarity": "Rare",
-      "text": "B.F.M. onto the battlefield. If one B.F.M. card\nmore creatures.",
-      "toughness": "99",
-      "type": "Scariest Creature You’ll Ever See",
-      "types": [
-        "Scariest",
-        "Creature",
-        "Ever",
-        "See"
-      ]
-    },
-    {
-      "artist": "Douglas Shuler",
-      "cmc": 15,
-      "colorIdentity": [
-        "B"
-      ],
-      "colors": [
-        "Black"
-      ],
-      "flavor": "than that. Even bigger. Keep going. More.\ndreadnoughts for jewelry. It was big\"\n—Arna Kennerüd, skyknight",
-      "id": "0f4bb07c3fa89b82277f825e8d82adce70a918a7",
-      "imageName": "b.f.m. (big furry monster, right side)2",
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        }
-      ],
-      "manaCost": "{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}",
-      "multiverseid": 9844,
-      "name": "B.F.M. (Big Furry Monster, Right Side)",
-      "names": [
-        "B.F.M. (Big Furry Monster)",
-        "B.F.M. (Big Furry Monster, Right Side)"
-      ],
-      "number": "29b",
-      "originalText": "B.F.M. into play. If either B.F.M. card\nmore creatures.",
-      "originalType": "Scariest Creature You'll Ever See",
       "power": "99",
       "printings": [
         "UGL"
@@ -3427,7 +3331,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3688,7 +3593,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3952,7 +3858,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4219,7 +4126,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4483,7 +4391,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [

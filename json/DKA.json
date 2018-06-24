@@ -1731,7 +1731,8 @@
       "power": "2",
       "printings": [
         "DKA",
-        "M15"
+        "M15",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -10072,7 +10073,8 @@
       "originalText": "Target creature fights another target creature. (Each deals damage equal to its power to the other.)",
       "originalType": "Sorcery",
       "printings": [
-        "DKA"
+        "DKA",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [

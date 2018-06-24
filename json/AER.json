@@ -5174,7 +5174,8 @@
         "OGW",
         "CN2",
         "AER",
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -12672,7 +12673,8 @@
         "M12",
         "M14",
         "DDN",
-        "AER"
+        "AER",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Shock deals 2 damage to any target.",
@@ -21617,7 +21619,8 @@
       "originalType": "Artifact Creature — Construct",
       "power": "3",
       "printings": [
-        "AER"
+        "AER",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [

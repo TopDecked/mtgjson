@@ -844,7 +844,8 @@
       "printings": [
         "MRD",
         "CM1",
-        "MPS"
+        "MPS",
+        "BBD"
       ],
       "rarity": "Rare",
       "text": "Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.",

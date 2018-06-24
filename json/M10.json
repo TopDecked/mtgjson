@@ -2362,7 +2362,8 @@
         "DTK",
         "TPR",
         "EMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -3485,7 +3486,8 @@
         "M10",
         "M11",
         "M14",
-        "M15"
+        "M15",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -6963,7 +6965,8 @@
         "OGW",
         "CN2",
         "AER",
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -7074,7 +7077,8 @@
         "10E",
         "M10",
         "DPA",
-        "M14"
+        "M14",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -9005,7 +9009,8 @@
         "M11",
         "PC2",
         "CNS",
-        "PCA"
+        "PCA",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Destroy target tapped creature.",
@@ -17280,7 +17285,8 @@
         "KTK",
         "CN2",
         "IMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -19167,7 +19173,8 @@
         "ORI",
         "C15",
         "DDR",
-        "CMA"
+        "CMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -19832,7 +19839,8 @@
         "DD3_EVG",
         "DD3_GVL",
         "E02",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Target creature gets +3/+3 until end of turn.",
@@ -25013,7 +25021,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25404,7 +25413,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25795,7 +25805,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26186,7 +26197,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26577,7 +26589,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26968,7 +26981,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27359,7 +27373,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27750,7 +27765,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28144,7 +28160,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28538,7 +28555,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28932,7 +28950,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29326,7 +29345,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29723,7 +29743,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30120,7 +30141,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30517,7 +30539,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30914,7 +30937,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31308,7 +31332,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31702,7 +31727,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32096,7 +32122,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32490,7 +32517,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [

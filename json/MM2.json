@@ -10724,7 +10724,8 @@
       "printings": [
         "ROE",
         "CNS",
-        "MM2"
+        "MM2",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -13472,7 +13473,8 @@
       "power": "0",
       "printings": [
         "CON",
-        "MM2"
+        "MM2",
+        "BBD"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -16275,7 +16277,8 @@
       "originalType": "Artifact",
       "printings": [
         "SOM",
-        "MM2"
+        "MM2",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [

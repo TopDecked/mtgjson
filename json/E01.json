@@ -383,7 +383,8 @@
         "DDQ",
         "CN2",
         "E01",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -557,7 +558,8 @@
       "power": "2",
       "printings": [
         "OGW",
-        "E01"
+        "E01",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -1974,7 +1976,8 @@
       "originalType": "Sorcery",
       "printings": [
         "OGW",
-        "E01"
+        "E01",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -2512,7 +2515,8 @@
         "ZEN",
         "CNS",
         "SOI",
-        "E01"
+        "E01",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -3341,7 +3345,8 @@
         "ROE",
         "MM3",
         "E01",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -4902,7 +4907,8 @@
         "ARC",
         "CMD",
         "DDR",
-        "E01"
+        "E01",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -7210,7 +7216,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7472,7 +7479,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7737,7 +7745,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8005,7 +8014,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8270,7 +8280,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8532,7 +8543,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8794,7 +8806,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9059,7 +9072,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9327,7 +9341,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9592,7 +9607,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [

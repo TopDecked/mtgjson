@@ -529,7 +529,8 @@
         "LRW",
         "DDL",
         "M15",
-        "DTK"
+        "DTK",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -2456,7 +2457,8 @@
       "power": "2",
       "printings": [
         "DKA",
-        "M15"
+        "M15",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -3947,7 +3949,8 @@
         "M10",
         "M11",
         "M14",
-        "M15"
+        "M15",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -6464,7 +6467,8 @@
       "power": "2",
       "printings": [
         "M15",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -8325,7 +8329,8 @@
         "OGW",
         "CN2",
         "AER",
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -8432,7 +8437,8 @@
       "originalType": "Creature — Elemental",
       "power": "3",
       "printings": [
-        "M15"
+        "M15",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -12984,7 +12990,8 @@
       "power": "3",
       "printings": [
         "M15",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15132,7 +15139,8 @@
         "M15",
         "W16",
         "EMA",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -19727,7 +19735,8 @@
         "POR",
         "TMP",
         "CNS",
-        "M15"
+        "M15",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -25409,7 +25418,8 @@
         "ME4",
         "M15",
         "EMA",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -27345,7 +27355,8 @@
       "originalText": "{4}, {T}: Tap target creature.",
       "originalType": "Artifact",
       "printings": [
-        "M15"
+        "M15",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "{4}, {T}: Tap target creature.",
@@ -28996,7 +29007,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29387,7 +29399,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29778,7 +29791,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30169,7 +30183,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30560,7 +30575,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30951,7 +30967,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31342,7 +31359,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31733,7 +31751,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32127,7 +32146,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32521,7 +32541,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32915,7 +32936,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33309,7 +33331,8 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33706,7 +33729,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34103,7 +34127,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34500,7 +34525,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34897,7 +34923,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35291,7 +35318,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35685,7 +35713,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36079,7 +36108,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36473,7 +36503,8 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Basic Land",
       "subtypes": [

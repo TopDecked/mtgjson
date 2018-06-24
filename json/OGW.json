@@ -1998,7 +1998,8 @@
       "power": "2",
       "printings": [
         "OGW",
-        "E01"
+        "E01",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -3861,7 +3862,8 @@
       "originalType": "Sorcery",
       "printings": [
         "OGW",
-        "E01"
+        "E01",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -4097,7 +4099,8 @@
       "originalType": "Creature — Elemental",
       "power": "2",
       "printings": [
-        "OGW"
+        "OGW",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -6784,7 +6787,8 @@
         "OGW",
         "CN2",
         "AER",
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -12284,7 +12288,8 @@
       "originalText": "Target creature gains haste until end of turn.\nDraw a card.",
       "originalType": "Instant",
       "printings": [
-        "OGW"
+        "OGW",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Target creature gains haste until end of turn.\nDraw a card.",
@@ -15305,7 +15310,8 @@
       "originalText": "Support 2. (Put a +1/+1 counter on each of up to two target creatures.)",
       "originalType": "Instant",
       "printings": [
-        "OGW"
+        "OGW",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -16113,7 +16119,8 @@
       "originalText": "Return target creature or land card from a graveyard to its owner's hand. You gain 6 life.",
       "originalType": "Instant",
       "printings": [
-        "OGW"
+        "OGW",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Return target creature or land card from a graveyard to its owner's hand. You gain 6 life.",
@@ -16219,7 +16226,8 @@
       "power": "3",
       "printings": [
         "OGW",
-        "DDR"
+        "DDR",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -18112,7 +18120,8 @@
       "power": "3",
       "printings": [
         "OGW",
-        "DDS"
+        "DDS",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -18868,7 +18877,8 @@
       "originalText": "{T}: Add {C} to your mana pool. ({C} represents colorless mana.)\n{2}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
       "originalType": "Artifact",
       "printings": [
-        "OGW"
+        "OGW",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "{T}: Add {C}. ({C} represents colorless mana.)\n{2}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",

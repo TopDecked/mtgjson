@@ -3360,7 +3360,8 @@
       "originalType": "Instant",
       "printings": [
         "DIS",
-        "MMA"
+        "MMA",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "text": "Counter target spell with converted mana cost 2.",
@@ -3455,7 +3456,8 @@
       "originalType": "Creature — Djinn",
       "power": "5",
       "printings": [
-        "DIS"
+        "DIS",
+        "BBD"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -7844,7 +7846,8 @@
       "originalText": "Whenever an opponent taps a land for mana, tap all lands that player controls.\nIf a creature an opponent controls attacks, all creatures that opponent controls attack if able.",
       "originalType": "Enchantment",
       "printings": [
-        "DIS"
+        "DIS",
+        "BBD"
       ],
       "rarity": "Rare",
       "rulings": [

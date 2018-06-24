@@ -5002,7 +5002,8 @@
       "originalType": "Creature — Insect Warrior",
       "power": "2",
       "printings": [
-        "DGM"
+        "DGM",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -9176,7 +9177,8 @@
       "originalType": "Creature — Sphinx",
       "power": "1",
       "printings": [
-        "DGM"
+        "DGM",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -13355,7 +13357,8 @@
       "originalType": "Enchantment — Aura",
       "printings": [
         "DGM",
-        "MM3"
+        "MM3",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [

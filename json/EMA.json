@@ -1766,7 +1766,8 @@
         "DTK",
         "TPR",
         "EMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -2440,7 +2441,8 @@
         "C16",
         "C17",
         "IMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -4849,7 +4851,8 @@
         "USG",
         "PC2",
         "EMA",
-        "PCA"
+        "PCA",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -8965,7 +8968,8 @@
         "M15",
         "W16",
         "EMA",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -9176,7 +9180,8 @@
         "PD2",
         "VMA",
         "EMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -16699,7 +16704,8 @@
         "ME4",
         "M15",
         "EMA",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [

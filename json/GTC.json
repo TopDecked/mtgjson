@@ -6490,7 +6490,8 @@
       "originalType": "Instant",
       "printings": [
         "GTC",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Put target nonland permanent on top of its owner's library.",
@@ -10689,7 +10690,8 @@
       "printings": [
         "ODY",
         "GTC",
-        "CN2"
+        "CN2",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -18453,7 +18455,8 @@
       "power": "4",
       "printings": [
         "GTC",
-        "MM3"
+        "MM3",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -27781,7 +27784,8 @@
       "originalType": "Artifact Creature — Gargoyle",
       "power": "2",
       "printings": [
-        "GTC"
+        "GTC",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [

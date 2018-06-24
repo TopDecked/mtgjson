@@ -2273,7 +2273,8 @@
         "DTK",
         "TPR",
         "EMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -2834,7 +2835,8 @@
         "C16",
         "C17",
         "IMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -3900,7 +3902,8 @@
       "power": "2",
       "printings": [
         "BFZ",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -5894,7 +5897,8 @@
       "originalType": "Instant",
       "printings": [
         "GTC",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Put target nonland permanent on top of its owner's library.",
@@ -10203,7 +10207,8 @@
       "power": "3",
       "printings": [
         "ORI",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12186,7 +12191,8 @@
         "KTK",
         "CN2",
         "IMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -13660,7 +13666,8 @@
         "DD3_EVG",
         "DD3_GVL",
         "E02",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Target creature gets +3/+3 until end of turn.",

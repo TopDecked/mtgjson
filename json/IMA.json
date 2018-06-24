@@ -1329,7 +1329,8 @@
         "DDQ",
         "CN2",
         "E01",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -2990,7 +2991,8 @@
         "C16",
         "C17",
         "IMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -3733,7 +3735,8 @@
         "DDM",
         "ORI",
         "DDT",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -4625,7 +4628,8 @@
         "M13",
         "C13",
         "C14",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -4697,7 +4701,8 @@
       "power": "2",
       "printings": [
         "M15",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -8063,7 +8068,8 @@
       "power": "4",
       "printings": [
         "FRF",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -8449,7 +8455,8 @@
       "power": "3",
       "printings": [
         "M15",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -8753,7 +8760,8 @@
       "printings": [
         "RTR",
         "DDM",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -9392,7 +9400,8 @@
         "ROE",
         "MM3",
         "E01",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -9554,7 +9563,8 @@
         "M15",
         "W16",
         "EMA",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -10164,7 +10174,8 @@
         "S99",
         "10E",
         "DPA",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -12221,7 +12232,8 @@
         "KTK",
         "CN2",
         "IMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [

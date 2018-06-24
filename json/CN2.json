@@ -6840,7 +6840,8 @@
         "DDQ",
         "CN2",
         "E01",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -9421,7 +9422,8 @@
         "OGW",
         "CN2",
         "AER",
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -9494,7 +9496,8 @@
       "printings": [
         "THS",
         "DDO",
-        "CN2"
+        "CN2",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -12301,7 +12304,8 @@
       "printings": [
         "ODY",
         "GTC",
-        "CN2"
+        "CN2",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -13630,7 +13634,8 @@
         "KTK",
         "CN2",
         "IMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -13788,7 +13793,8 @@
         "DDL",
         "CN2",
         "C16",
-        "PCA"
+        "PCA",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -16556,7 +16562,8 @@
       "power": "5",
       "printings": [
         "MBS",
-        "CN2"
+        "CN2",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [

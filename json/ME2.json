@@ -1906,7 +1906,8 @@
       "power": "2",
       "printings": [
         "S99",
-        "ME2"
+        "ME2",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -2241,7 +2242,8 @@
         "C16",
         "C17",
         "IMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -9766,7 +9768,8 @@
         "DD3_EVG",
         "DD3_GVL",
         "E02",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Target creature gets +3/+3 until end of turn.",

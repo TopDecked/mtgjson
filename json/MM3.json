@@ -3277,7 +3277,8 @@
       "printings": [
         "ZEN",
         "M13",
-        "MM3"
+        "MM3",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -3492,7 +3493,8 @@
         "M14",
         "C13",
         "MM3",
-        "C17"
+        "C17",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "text": "Target player draws four cards.",
@@ -6896,7 +6898,8 @@
         "ROE",
         "MM3",
         "E01",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -11781,7 +11784,8 @@
       "originalType": "Instant",
       "printings": [
         "RTR",
-        "MM3"
+        "MM3",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Target creature gets +4/-4 until end of turn.",
@@ -12149,7 +12153,8 @@
       "power": "3",
       "printings": [
         "RTR",
-        "MM3"
+        "MM3",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -12461,7 +12466,8 @@
       "power": "4",
       "printings": [
         "GTC",
-        "MM3"
+        "MM3",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -12638,7 +12644,8 @@
       "power": "0",
       "printings": [
         "ISD",
-        "MM3"
+        "MM3",
+        "BBD"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -15414,7 +15421,8 @@
       "originalType": "Enchantment — Aura",
       "printings": [
         "DGM",
-        "MM3"
+        "MM3",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [

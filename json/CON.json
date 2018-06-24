@@ -5230,7 +5230,8 @@
       "originalType": "Creature — Elemental",
       "power": "7",
       "printings": [
-        "CON"
+        "CON",
+        "BBD"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -6826,7 +6827,8 @@
       "power": "3",
       "printings": [
         "CON",
-        "DDT"
+        "DDT",
+        "BBD"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -10438,7 +10440,8 @@
       "power": "0",
       "printings": [
         "CON",
-        "MM2"
+        "MM2",
+        "BBD"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -11745,7 +11748,8 @@
       "power": "2",
       "printings": [
         "CON",
-        "C16"
+        "C16",
+        "BBD"
       ],
       "rarity": "Rare",
       "rulings": [

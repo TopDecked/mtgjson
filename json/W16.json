@@ -1342,7 +1342,8 @@
         "M15",
         "W16",
         "EMA",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
