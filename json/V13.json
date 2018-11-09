@@ -56,7 +56,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "1",
       "multiverseid": 373329,
       "name": "Dark Ritual",
       "number": "1",
@@ -133,7 +132,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "2",
       "multiverseid": 373334,
       "name": "Swords to Plowshares",
       "number": "2",
@@ -211,7 +209,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "3",
       "multiverseid": 373324,
       "name": "Hymn to Tourach",
       "number": "3",
@@ -264,7 +261,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "4",
       "multiverseid": 373320,
       "name": "Fyndhorn Elves",
       "number": "4",
@@ -322,7 +318,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "5",
       "multiverseid": 373330,
       "name": "Impulse",
       "number": "5",
@@ -385,7 +380,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "6",
       "multiverseid": 373319,
       "name": "Wall of Blossoms",
       "number": "6",
@@ -441,7 +435,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "7",
       "multiverseid": 373331,
       "name": "Thran Dynamo",
       "number": "7",
@@ -486,7 +479,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "8",
       "multiverseid": 373322,
       "name": "Tangle Wire",
       "number": "8",
@@ -534,7 +526,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "9",
       "multiverseid": 373325,
       "name": "Fact or Fiction",
       "number": "9",
@@ -600,7 +591,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "10",
       "multiverseid": 373317,
       "name": "Chainer's Edict",
       "number": "10",
@@ -651,7 +641,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "11",
       "multiverseid": 373328,
       "name": "Akroma's Vengeance",
       "number": "11",
@@ -712,7 +701,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "12",
       "multiverseid": 373335,
       "name": "Gilded Lotus",
       "number": "12",
@@ -766,7 +754,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "13",
       "multiverseid": 373327,
       "name": "Ink-Eyes, Servant of Oni",
       "number": "13",
@@ -837,7 +824,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "14",
       "multiverseid": 373332,
       "name": "Char",
       "number": "14",
@@ -891,7 +877,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "15",
       "multiverseid": 373326,
       "name": "Venser, Shaper Savant",
       "number": "15",
@@ -967,7 +952,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "16",
       "multiverseid": 373321,
       "name": "Chameleon Colossus",
       "number": "16",
@@ -1031,7 +1015,6 @@
         }
       ],
       "manaCost": "{U}{U}{B}{B}{B}{R}{R}",
-      "mciNumber": "17",
       "multiverseid": 373318,
       "name": "Cruel Ultimatum",
       "number": "17",
@@ -1102,7 +1085,6 @@
       ],
       "loyalty": 3,
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "18",
       "multiverseid": 373316,
       "name": "Jace, the Mind Sculptor",
       "number": "18",
@@ -1174,7 +1156,6 @@
         }
       ],
       "manaCost": "{X}{G}",
-      "mciNumber": "19",
       "multiverseid": 373333,
       "name": "Green Sun's Zenith",
       "number": "19",
@@ -1243,7 +1224,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "20",
       "multiverseid": 373323,
       "name": "Kessig Wolf Run",
       "number": "20",

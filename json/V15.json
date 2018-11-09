@@ -43,7 +43,6 @@
         }
       ],
       "manaCost": "{5}{R}{R}{R}",
-      "mciNumber": "1",
       "multiverseid": 401628,
       "name": "Akroma, Angel of Fury",
       "number": "1",
@@ -129,7 +128,6 @@
         }
       ],
       "manaCost": "{5}{W}{W}{W}",
-      "mciNumber": "2",
       "multiverseid": 401629,
       "name": "Akroma, Angel of Wrath",
       "number": "2",
@@ -191,7 +189,6 @@
         }
       ],
       "manaCost": "{5}{W}{W}",
-      "mciNumber": "3",
       "multiverseid": 401630,
       "name": "Archangel of Strife",
       "number": "3",
@@ -274,7 +271,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}{W}{W}",
-      "mciNumber": "4",
       "multiverseid": 401631,
       "name": "Aurelia, the Warleader",
       "number": "4",
@@ -349,7 +345,6 @@
         }
       ],
       "manaCost": "{5}{W}{W}{W}",
-      "mciNumber": "5",
       "multiverseid": 401632,
       "name": "Avacyn, Angel of Hope",
       "number": "5",
@@ -425,7 +420,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "6",
       "multiverseid": 401633,
       "name": "Baneslayer Angel",
       "number": "6",
@@ -489,7 +483,6 @@
         }
       ],
       "manaCost": "{X}{X}{W}{W}{W}",
-      "mciNumber": "7",
       "multiverseid": 401634,
       "name": "Entreat the Angels",
       "number": "7",
@@ -548,7 +541,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "8",
       "multiverseid": 401635,
       "name": "Exalted Angel",
       "number": "8",
@@ -613,7 +605,6 @@
         }
       ],
       "manaCost": "{6}{W}{W}{W}",
-      "mciNumber": "9",
       "multiverseid": 401636,
       "name": "Iona, Shield of Emeria",
       "number": "9",
@@ -683,7 +674,6 @@
         }
       ],
       "manaCost": "{5}{W}{U}",
-      "mciNumber": "10",
       "multiverseid": 401637,
       "name": "Iridescent Angel",
       "number": "10",
@@ -751,7 +741,6 @@
         }
       ],
       "manaCost": "{G}{W}{U}",
-      "mciNumber": "11",
       "multiverseid": 401638,
       "name": "Jenara, Asura of War",
       "number": "11",
@@ -820,7 +809,6 @@
         }
       ],
       "manaCost": "{1}{U}{R}{W}",
-      "mciNumber": "12",
       "multiverseid": 401639,
       "name": "Lightning Angel",
       "number": "12",
@@ -874,7 +862,6 @@
         }
       ],
       "manaCost": "{7}",
-      "mciNumber": "13",
       "multiverseid": 401640,
       "name": "Platinum Angel",
       "number": "13",
@@ -960,7 +947,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "14",
       "multiverseid": 401641,
       "name": "Serra Angel",
       "number": "14",
@@ -998,7 +984,8 @@
         "W17",
         "CMA",
         "IMA",
-        "DOM"
+        "DOM",
+        "GNT"
       ],
       "rarity": "Mythic Rare",
       "subtypes": [
@@ -1043,7 +1030,6 @@
         }
       ],
       "manaCost": "{4}{R}{W}{B}",
-      "mciNumber": "15",
       "multiverseid": 401642,
       "name": "Tariel, Reckoner of Souls",
       "number": "15",

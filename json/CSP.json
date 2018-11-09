@@ -114,7 +114,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "1",
       "multiverseid": 121196,
       "name": "Adarkar Valkyrie",
       "number": "1",
@@ -224,7 +223,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "2",
       "multiverseid": 121244,
       "name": "Boreal Griffin",
       "number": "2",
@@ -325,7 +323,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "3",
       "multiverseid": 121140,
       "name": "Cover of Winter",
       "number": "3",
@@ -440,7 +437,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "4",
       "multiverseid": 122049,
       "name": "Darien, King of Kjeldor",
       "number": "4",
@@ -550,7 +546,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "5",
       "multiverseid": 121265,
       "name": "Field Marshal",
       "number": "5",
@@ -650,7 +645,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "6",
       "multiverseid": 121213,
       "name": "Gelid Shackles",
       "number": "6",
@@ -759,7 +753,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "7",
       "multiverseid": 121211,
       "name": "Glacial Plating",
       "number": "7",
@@ -858,7 +851,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "8",
       "multiverseid": 122075,
       "name": "Jötun Grunt",
       "number": "8",
@@ -965,7 +957,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "9",
       "multiverseid": 121236,
       "name": "Jötun Owl Keeper",
       "number": "9",
@@ -1064,7 +1055,6 @@
         }
       ],
       "manaCost": "{5}{W}",
-      "mciNumber": "10",
       "multiverseid": 121207,
       "name": "Kjeldoran Gargoyle",
       "number": "10",
@@ -1162,7 +1152,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "11",
       "multiverseid": 121235,
       "name": "Kjeldoran Javelineer",
       "number": "11",
@@ -1268,7 +1257,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "12",
       "multiverseid": 121188,
       "name": "Kjeldoran Outrider",
       "number": "12",
@@ -1368,7 +1356,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "13",
       "multiverseid": 121148,
       "name": "Kjeldoran War Cry",
       "number": "13",
@@ -1462,7 +1449,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "14",
       "multiverseid": 121153,
       "name": "Luminesce",
       "number": "14",
@@ -1557,7 +1543,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "15",
       "multiverseid": 121263,
       "name": "Martyr of Sands",
       "number": "15",
@@ -1671,7 +1656,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "16",
       "multiverseid": 121237,
       "name": "Ronom Unicorn",
       "number": "16",
@@ -1770,7 +1754,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "17",
       "multiverseid": 121273,
       "name": "Squall Drifter",
       "number": "17",
@@ -1872,7 +1855,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "18",
       "multiverseid": 121494,
       "name": "Sun's Bounty",
       "number": "18",
@@ -1965,7 +1947,6 @@
         }
       ],
       "manaCost": "{5}{W}{W}",
-      "mciNumber": "19",
       "multiverseid": 121251,
       "name": "Sunscour",
       "number": "19",
@@ -2076,7 +2057,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "20",
       "multiverseid": 122118,
       "name": "Surging Sentinels",
       "number": "20",
@@ -2176,7 +2156,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "21",
       "multiverseid": 121255,
       "name": "Swift Maneuver",
       "number": "21",
@@ -2269,7 +2248,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "22",
       "multiverseid": 121150,
       "name": "Ursine Fylgja",
       "number": "22",
@@ -2368,7 +2346,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "23",
       "multiverseid": 121225,
       "name": "Wall of Shards",
       "number": "23",
@@ -2480,7 +2457,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "24",
       "multiverseid": 121216,
       "name": "White Shield Crusader",
       "number": "24",
@@ -2579,7 +2555,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "25",
       "multiverseid": 121230,
       "name": "Woolly Razorback",
       "number": "25",
@@ -2689,7 +2664,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "26",
       "multiverseid": 121268,
       "name": "Adarkar Windform",
       "number": "26",
@@ -2791,7 +2765,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "27",
       "multiverseid": 122124,
       "name": "Arcum Dagsson",
       "number": "27",
@@ -2904,7 +2877,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "28",
       "multiverseid": 121175,
       "name": "Balduvian Frostwaker",
       "number": "28",
@@ -3017,7 +2989,6 @@
         }
       ],
       "manaCost": "{5}{U}{U}",
-      "mciNumber": "29",
       "multiverseid": 121243,
       "name": "Commandeer",
       "number": "29",
@@ -3144,7 +3115,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "30",
       "multiverseid": 122121,
       "name": "Controvert",
       "number": "30",
@@ -3237,7 +3207,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "31",
       "multiverseid": 121159,
       "name": "Counterbalance",
       "number": "31",
@@ -3342,7 +3311,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "32",
       "multiverseid": 121174,
       "name": "Drelnoch",
       "number": "32",
@@ -3442,7 +3410,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "33",
       "multiverseid": 121218,
       "name": "Flashfreeze",
       "number": "33",
@@ -3541,7 +3508,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "34",
       "multiverseid": 121132,
       "name": "Frost Raptor",
       "number": "34",
@@ -3647,7 +3613,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "35",
       "multiverseid": 121228,
       "name": "Frozen Solid",
       "number": "35",
@@ -3745,7 +3710,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "36",
       "multiverseid": 121147,
       "name": "Heidar, Rimewind Master",
       "number": "36",
@@ -3847,7 +3811,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}{U}",
-      "mciNumber": "37",
       "multiverseid": 121198,
       "name": "Jokulmorder",
       "number": "37",
@@ -3946,7 +3909,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "38",
       "multiverseid": 122047,
       "name": "Krovikan Mist",
       "number": "38",
@@ -4046,7 +4008,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "39",
       "multiverseid": 121493,
       "name": "Krovikan Whispers",
       "number": "39",
@@ -4143,7 +4104,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "40",
       "multiverseid": 121164,
       "name": "Martyr of Frost",
       "number": "40",
@@ -4259,7 +4219,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "41",
       "multiverseid": 121238,
       "name": "Perilous Research",
       "number": "41",
@@ -4354,7 +4313,6 @@
         }
       ],
       "manaCost": "{5}{U}{U}",
-      "mciNumber": "42",
       "multiverseid": 122116,
       "name": "Rimefeather Owl",
       "number": "42",
@@ -4462,7 +4420,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "43",
       "multiverseid": 121215,
       "name": "Rimewind Cryomancer",
       "number": "43",
@@ -4568,7 +4525,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "44",
       "multiverseid": 121239,
       "name": "Rimewind Taskmage",
       "number": "44",
@@ -4668,7 +4624,6 @@
         }
       ],
       "manaCost": "{5}{U}",
-      "mciNumber": "45",
       "multiverseid": 121176,
       "name": "Ronom Serpent",
       "number": "45",
@@ -4770,7 +4725,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "46",
       "multiverseid": 121247,
       "name": "Rune Snag",
       "number": "46",
@@ -4863,7 +4817,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "47",
       "multiverseid": 122052,
       "name": "Surging Aether",
       "number": "47",
@@ -4956,7 +4909,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "48",
       "multiverseid": 121224,
       "name": "Survivor of the Unseen",
       "number": "48",
@@ -5065,7 +5017,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "49",
       "multiverseid": 122119,
       "name": "Thermal Flux",
       "number": "49",
@@ -5164,7 +5115,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "50",
       "multiverseid": 122071,
       "name": "Vexing Sphinx",
       "number": "50",
@@ -5273,7 +5223,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "51",
       "multiverseid": 121272,
       "name": "Balduvian Fallen",
       "number": "51",
@@ -5378,7 +5327,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "52",
       "multiverseid": 121190,
       "name": "Chill to the Bone",
       "number": "52",
@@ -5472,7 +5420,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "53",
       "multiverseid": 121258,
       "name": "Chilling Shade",
       "number": "53",
@@ -5574,7 +5521,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "54",
       "multiverseid": 121119,
       "name": "Deathmark",
       "number": "54",
@@ -5673,7 +5619,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "55",
       "multiverseid": 121222,
       "name": "Disciple of Tevesh Szat",
       "number": "55",
@@ -5773,7 +5718,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "56",
       "multiverseid": 121137,
       "name": "Feast of Flesh",
       "number": "56",
@@ -5866,7 +5810,6 @@
         }
       ],
       "manaCost": "{B}{B}{B}",
-      "mciNumber": "57",
       "multiverseid": 122051,
       "name": "Garza's Assassin",
       "number": "57",
@@ -5965,7 +5908,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "58",
       "multiverseid": 122114,
       "name": "Grim Harvest",
       "number": "58",
@@ -6059,7 +6001,6 @@
         }
       ],
       "manaCost": "{4}{B}",
-      "mciNumber": "59",
       "multiverseid": 121133,
       "name": "Gristle Grinner",
       "number": "59",
@@ -6158,7 +6099,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "60",
       "multiverseid": 121194,
       "name": "Gutless Ghoul",
       "number": "60",
@@ -6259,7 +6199,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "61",
       "multiverseid": 122045,
       "name": "Haakon, Stromgald Scourge",
       "number": "61",
@@ -6371,7 +6310,6 @@
         }
       ],
       "manaCost": "{6}{B}",
-      "mciNumber": "62",
       "multiverseid": 121250,
       "name": "Herald of Leshrac",
       "number": "62",
@@ -6487,7 +6425,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "63",
       "multiverseid": 122050,
       "name": "Krovikan Rot",
       "number": "63",
@@ -6581,7 +6518,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "64",
       "multiverseid": 121226,
       "name": "Krovikan Scoundrel",
       "number": "64",
@@ -6679,7 +6615,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "65",
       "multiverseid": 121131,
       "name": "Martyr of Bones",
       "number": "65",
@@ -6792,7 +6727,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "66",
       "multiverseid": 121146,
       "name": "Phobian Phantasm",
       "number": "66",
@@ -6896,7 +6830,6 @@
         }
       ],
       "manaCost": "{B}{B}{B}",
-      "mciNumber": "67",
       "multiverseid": 121121,
       "name": "Phyrexian Etchings",
       "number": "67",
@@ -6990,7 +6923,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "68",
       "multiverseid": 121257,
       "name": "Rime Transfusion",
       "number": "68",
@@ -7090,7 +7022,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "69",
       "multiverseid": 121136,
       "name": "Rimebound Dead",
       "number": "69",
@@ -7191,7 +7122,6 @@
         }
       ],
       "manaCost": "{5}{B}{B}",
-      "mciNumber": "70",
       "multiverseid": 121165,
       "name": "Soul Spike",
       "number": "70",
@@ -7299,7 +7229,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "71",
       "multiverseid": 121253,
       "name": "Stromgald Crusader",
       "number": "71",
@@ -7398,7 +7327,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "72",
       "multiverseid": 122053,
       "name": "Surging Dementia",
       "number": "72",
@@ -7492,7 +7420,6 @@
         }
       ],
       "manaCost": "{5}{B}{B}",
-      "mciNumber": "73",
       "multiverseid": 121195,
       "name": "Tresserhorn Skyknight",
       "number": "73",
@@ -7601,7 +7528,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "74",
       "multiverseid": 121129,
       "name": "Void Maw",
       "number": "74",
@@ -7710,7 +7636,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "75",
       "multiverseid": 121154,
       "name": "Zombie Musher",
       "number": "75",
@@ -7818,7 +7743,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "76",
       "multiverseid": 121248,
       "name": "Balduvian Rage",
       "number": "76",
@@ -7911,7 +7835,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "77",
       "multiverseid": 122056,
       "name": "Balduvian Warlord",
       "number": "77",
@@ -8041,7 +7964,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "78",
       "multiverseid": 122123,
       "name": "Braid of Fire",
       "number": "78",
@@ -8145,7 +8067,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "79",
       "multiverseid": 121169,
       "name": "Cryoclasm",
       "number": "79",
@@ -8240,7 +8161,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "80",
       "multiverseid": 121254,
       "name": "Earthen Goo",
       "number": "80",
@@ -8344,7 +8264,6 @@
         }
       ],
       "manaCost": "{5}{R}{R}",
-      "mciNumber": "81",
       "multiverseid": 121181,
       "name": "Fury of the Horde",
       "number": "81",
@@ -8461,7 +8380,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "82",
       "multiverseid": 121185,
       "name": "Goblin Furrier",
       "number": "82",
@@ -8567,7 +8485,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "83",
       "multiverseid": 121219,
       "name": "Goblin Rimerunner",
       "number": "83",
@@ -8670,7 +8587,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "84",
       "multiverseid": 121208,
       "name": "Greater Stone Spirit",
       "number": "84",
@@ -8781,7 +8697,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "85",
       "multiverseid": 121143,
       "name": "Icefall",
       "number": "85",
@@ -8874,7 +8789,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "86",
       "multiverseid": 122070,
       "name": "Karplusan Minotaur",
       "number": "86",
@@ -8992,7 +8906,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "87",
       "multiverseid": 121179,
       "name": "Karplusan Wolverine",
       "number": "87",
@@ -9095,7 +9008,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "88",
       "multiverseid": 121220,
       "name": "Lightning Serpent",
       "number": "88",
@@ -9200,7 +9112,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "89",
       "multiverseid": 121495,
       "name": "Lightning Storm",
       "number": "89",
@@ -9316,7 +9227,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "90",
       "multiverseid": 113542,
       "name": "Lovisa Coldeyes",
       "number": "90",
@@ -9424,7 +9334,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "91",
       "multiverseid": 121163,
       "name": "Magmatic Core",
       "number": "91",
@@ -9536,7 +9445,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "92",
       "multiverseid": 121170,
       "name": "Martyr of Ashes",
       "number": "92",
@@ -9650,7 +9558,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "93",
       "multiverseid": 121144,
       "name": "Ohran Yeti",
       "number": "93",
@@ -9752,7 +9659,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "94",
       "multiverseid": 121232,
       "name": "Orcish Bloodpainter",
       "number": "94",
@@ -9851,7 +9757,6 @@
         }
       ],
       "manaCost": "{5}{R}{R}",
-      "mciNumber": "95",
       "multiverseid": 121184,
       "name": "Rimescale Dragon",
       "number": "95",
@@ -9959,7 +9864,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "96",
       "multiverseid": 121217,
       "name": "Rite of Flame",
       "number": "96",
@@ -10053,7 +9957,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "97",
       "multiverseid": 122120,
       "name": "Skred",
       "number": "97",
@@ -10146,7 +10049,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "98",
       "multiverseid": 122046,
       "name": "Stalking Yeti",
       "number": "98",
@@ -10253,7 +10155,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "99",
       "multiverseid": 121269,
       "name": "Surging Flame",
       "number": "99",
@@ -10348,7 +10249,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "100",
       "multiverseid": 121173,
       "name": "Thermopod",
       "number": "100",
@@ -10449,7 +10349,6 @@
         }
       ],
       "manaCost": "{5}{G}{G}",
-      "mciNumber": "101",
       "multiverseid": 121157,
       "name": "Allosaurus Rider",
       "number": "101",
@@ -10570,7 +10469,6 @@
         }
       ],
       "manaCost": "{5}{G}",
-      "mciNumber": "102",
       "multiverseid": 121229,
       "name": "Arctic Nishoba",
       "number": "102",
@@ -10675,7 +10573,6 @@
         }
       ],
       "manaCost": "{5}{G}",
-      "mciNumber": "103",
       "multiverseid": 121260,
       "name": "Aurochs Herd",
       "number": "103",
@@ -10774,7 +10671,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "104",
       "multiverseid": 121200,
       "name": "Boreal Centaur",
       "number": "104",
@@ -10877,7 +10773,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "105",
       "multiverseid": 121193,
       "name": "Boreal Druid",
       "number": "105",
@@ -10980,7 +10875,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "106",
       "multiverseid": 122055,
       "name": "Brooding Saurian",
       "number": "106",
@@ -11086,7 +10980,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "107",
       "multiverseid": 121152,
       "name": "Bull Aurochs",
       "number": "107",
@@ -11190,7 +11083,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "108",
       "multiverseid": 122059,
       "name": "Freyalise's Radiance",
       "number": "108",
@@ -11284,7 +11176,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "109",
       "multiverseid": 121197,
       "name": "Frostweb Spider",
       "number": "109",
@@ -11395,7 +11286,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "110",
       "multiverseid": 121139,
       "name": "Hibernation's End",
       "number": "110",
@@ -11495,7 +11385,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "111",
       "multiverseid": 121199,
       "name": "Into the North",
       "number": "111",
@@ -11589,7 +11478,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "112",
       "multiverseid": 121214,
       "name": "Karplusan Strider",
       "number": "112",
@@ -11690,7 +11578,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "113",
       "multiverseid": 121145,
       "name": "Martyr of Spores",
       "number": "113",
@@ -11804,7 +11691,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "114",
       "multiverseid": 121141,
       "name": "Mystic Melting",
       "number": "114",
@@ -11898,7 +11784,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "115",
       "multiverseid": 121266,
       "name": "Ohran Viper",
       "number": "115",
@@ -12002,7 +11887,6 @@
         }
       ],
       "manaCost": "{5}{G}{G}",
-      "mciNumber": "116",
       "multiverseid": 121264,
       "name": "Panglacial Wurm",
       "number": "116",
@@ -12130,7 +12014,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "117",
       "multiverseid": 121223,
       "name": "Resize",
       "number": "117",
@@ -12223,7 +12106,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "118",
       "multiverseid": 121210,
       "name": "Rimehorn Aurochs",
       "number": "118",
@@ -12334,7 +12216,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "119",
       "multiverseid": 121270,
       "name": "Ronom Hulk",
       "number": "119",
@@ -12442,7 +12323,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}{G}",
-      "mciNumber": "120",
       "multiverseid": 122073,
       "name": "Shape of the Wiitigo",
       "number": "120",
@@ -12544,7 +12424,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "121",
       "multiverseid": 122069,
       "name": "Sheltering Ancient",
       "number": "121",
@@ -12661,7 +12540,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "122",
       "multiverseid": 121183,
       "name": "Simian Brawler",
       "number": "122",
@@ -12761,7 +12639,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "123",
       "multiverseid": 121156,
       "name": "Sound the Call",
       "number": "123",
@@ -12862,7 +12739,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "124",
       "multiverseid": 121240,
       "name": "Steam Spitter",
       "number": "124",
@@ -12960,7 +12836,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "125",
       "multiverseid": 121205,
       "name": "Surging Might",
       "number": "125",
@@ -13058,7 +12933,6 @@
         }
       ],
       "manaCost": "{2}{U}{B}",
-      "mciNumber": "126",
       "multiverseid": 121151,
       "name": "Blizzard Specter",
       "number": "126",
@@ -13173,7 +13047,6 @@
         }
       ],
       "manaCost": "{4}{B}{R}",
-      "mciNumber": "127",
       "multiverseid": 122057,
       "name": "Deepfire Elemental",
       "number": "127",
@@ -13283,7 +13156,6 @@
         }
       ],
       "manaCost": "{2}{G}{W}{U}",
-      "mciNumber": "128",
       "multiverseid": 121138,
       "name": "Diamond Faerie",
       "number": "128",
@@ -13388,7 +13260,6 @@
         }
       ],
       "manaCost": "{4}{U}{B}{R}",
-      "mciNumber": "129",
       "multiverseid": 121126,
       "name": "Garza Zol, Plague Queen",
       "number": "129",
@@ -13492,7 +13363,6 @@
         }
       ],
       "manaCost": "{3}{G}{W}",
-      "mciNumber": "130",
       "multiverseid": 121172,
       "name": "Juniper Order Ranger",
       "number": "130",
@@ -13605,7 +13475,6 @@
         }
       ],
       "manaCost": "{2}{B}{R}{G}",
-      "mciNumber": "131",
       "multiverseid": 121261,
       "name": "Sek'Kuar, Deathkeeper",
       "number": "131",
@@ -13713,7 +13582,6 @@
         }
       ],
       "manaCost": "{R}{G}{W}",
-      "mciNumber": "132",
       "multiverseid": 121262,
       "name": "Tamanoa",
       "number": "132",
@@ -13824,7 +13692,6 @@
         }
       ],
       "manaCost": "{2}{W}{U}",
-      "mciNumber": "133",
       "multiverseid": 121187,
       "name": "Vanish into Memory",
       "number": "133",
@@ -13936,7 +13803,6 @@
         }
       ],
       "manaCost": "{1}{R}{G}",
-      "mciNumber": "134",
       "multiverseid": 121191,
       "name": "Wilderness Elemental",
       "number": "134",
@@ -14040,7 +13906,6 @@
         }
       ],
       "manaCost": "{1}{W}{U}{B}",
-      "mciNumber": "135",
       "multiverseid": 121162,
       "name": "Zur the Enchanter",
       "number": "135",
@@ -14144,7 +14009,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "136",
       "multiverseid": 121123,
       "name": "Coldsteel Heart",
       "number": "136",
@@ -14235,7 +14099,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "137",
       "multiverseid": 122066,
       "name": "Jester's Scepter",
       "number": "137",
@@ -14341,7 +14204,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "138",
       "multiverseid": 122122,
       "name": "Mishra's Bauble",
       "number": "138",
@@ -14430,7 +14292,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "139",
       "multiverseid": 121127,
       "name": "Phyrexian Ironfoot",
       "number": "139",
@@ -14527,7 +14388,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "140",
       "multiverseid": 121142,
       "name": "Phyrexian Snowcrusher",
       "number": "140",
@@ -14624,7 +14484,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "141",
       "multiverseid": 121160,
       "name": "Phyrexian Soulgorger",
       "number": "141",
@@ -14726,7 +14585,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "142",
       "multiverseid": 124451,
       "name": "Thrumming Stone",
       "number": "142",
@@ -14830,7 +14688,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "143",
       "multiverseid": 121158,
       "name": "Arctic Flats",
       "number": "143",
@@ -14924,7 +14781,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "144",
       "multiverseid": 121189,
       "name": "Boreal Shelf",
       "number": "144",
@@ -15013,7 +14869,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "145",
       "multiverseid": 121155,
       "name": "Dark Depths",
       "number": "145",
@@ -15119,7 +14974,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "146",
       "multiverseid": 121212,
       "name": "Frost Marsh",
       "number": "146",
@@ -15213,7 +15067,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "147",
       "multiverseid": 121259,
       "name": "Highland Weald",
       "number": "147",
@@ -15302,7 +15155,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "148",
       "multiverseid": 121234,
       "name": "Mouth of Ronom",
       "number": "148",
@@ -15391,7 +15243,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "149",
       "multiverseid": 121204,
       "name": "Scrying Sheets",
       "number": "149",
@@ -15491,7 +15342,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "150",
       "multiverseid": 121125,
       "name": "Tresserhorn Sinks",
       "number": "150",
@@ -15583,7 +15433,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "151",
       "multiverseid": 121267,
       "name": "Snow-Covered Plains",
       "number": "151",
@@ -15699,7 +15548,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "152",
       "multiverseid": 121130,
       "name": "Snow-Covered Island",
       "number": "152",
@@ -15815,7 +15663,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "153",
       "multiverseid": 121256,
       "name": "Snow-Covered Swamp",
       "number": "153",
@@ -15931,7 +15778,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "154",
       "multiverseid": 121233,
       "name": "Snow-Covered Mountain",
       "number": "154",
@@ -16047,7 +15893,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "155",
       "multiverseid": 121192,
       "name": "Snow-Covered Forest",
       "number": "155",

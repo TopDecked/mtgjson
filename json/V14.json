@@ -36,7 +36,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "1",
       "multiverseid": 386284,
       "name": "Armageddon",
       "number": "1",
@@ -98,7 +97,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "2",
       "multiverseid": 386285,
       "name": "Burning of Xinye",
       "number": "2",
@@ -171,7 +169,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "3",
       "multiverseid": 386286,
       "name": "Cataclysm",
       "number": "3",
@@ -255,7 +252,6 @@
         }
       ],
       "manaCost": "{W}{U}{B}{R}{G}",
-      "mciNumber": "4",
       "multiverseid": 386287,
       "name": "Child of Alara",
       "number": "4",
@@ -311,7 +307,6 @@
         }
       ],
       "manaCost": "{8}{R}{R}",
-      "mciNumber": "5",
       "multiverseid": 386288,
       "name": "Decree of Annihilation",
       "number": "5",
@@ -379,7 +374,6 @@
         }
       ],
       "manaCost": "{2}{R/G}",
-      "mciNumber": "6",
       "multiverseid": 386289,
       "name": "Firespout",
       "number": "6",
@@ -449,7 +443,6 @@
         }
       ],
       "manaCost": "{2}{G/W}{G/W}{G/W}",
-      "mciNumber": "7",
       "multiverseid": 386290,
       "name": "Fracturing Gust",
       "number": "7",
@@ -503,7 +496,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "8",
       "multiverseid": 386291,
       "name": "Living Death",
       "number": "8",
@@ -573,7 +565,6 @@
         }
       ],
       "manaCost": "{X}{W}{W}",
-      "mciNumber": "9",
       "multiverseid": 386292,
       "name": "Martial Coup",
       "number": "9",
@@ -632,7 +623,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "10",
       "multiverseid": 386293,
       "name": "Rolling Earthquake",
       "number": "10",
@@ -675,7 +665,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "11",
       "multiverseid": 386294,
       "name": "Smokestack",
       "number": "11",
@@ -738,7 +727,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "12",
       "multiverseid": 386295,
       "name": "Terminus",
       "number": "12",
@@ -794,7 +782,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "13",
       "multiverseid": 386296,
       "name": "Upheaval",
       "number": "13",
@@ -840,7 +827,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "14",
       "multiverseid": 386297,
       "name": "Virtue's Ruin",
       "number": "14",
@@ -889,7 +875,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "15",
       "multiverseid": 386298,
       "name": "Wrath of God",
       "number": "15",

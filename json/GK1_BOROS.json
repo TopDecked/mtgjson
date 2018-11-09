@@ -1,0 +1,2527 @@
+{
+  "name": "Guild Kit: Boros",
+  "code": "GK1_BOROS",
+  "releaseDate": "2018-11-02",
+  "border": "black",
+  "type": "box",
+  "cards": [
+    {
+      "artist": "Paul Scott Canavan",
+      "cmc": 6,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "flavor": "Where Razia was aloof and untouchable, Aurelia is on the frontlines, calling for war.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Kriegsführerin Aurelia",
+          "multiverseid": 455779
+        },
+        {
+          "language": "Spanish",
+          "name": "Aurelia, la líder de guerra",
+          "multiverseid": 455804
+        },
+        {
+          "language": "French",
+          "name": "Aurélia, la Meneuse de guerre",
+          "multiverseid": 455829
+        },
+        {
+          "language": "Italian",
+          "name": "Aurelia, la Condottiera",
+          "multiverseid": 455854
+        },
+        {
+          "language": "Japanese",
+          "name": "戦導者オレリア",
+          "multiverseid": 455879
+        }
+      ],
+      "id": "ccd9b22f018590ab86dcc2ec2ad9d56f30b77ba1",
+      "imageName": "aurelia, the warleader",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{R}{R}{W}{W}",
+      "multiverseid": 455754,
+      "name": "Aurelia, the Warleader",
+      "number": "77",
+      "originalText": "Flying, vigilance, haste\nWhenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.",
+      "originalType": "Legendary Creature — Angel",
+      "power": "3",
+      "printings": [
+        "GTC",
+        "V15",
+        "GK1_BOROS"
+      ],
+      "rarity": "Mythic Rare",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "You untap all creatures you control, including ones that aren't attacking."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "You don't have to attack with any creatures during the additional combat phase."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "If Aurelia is put onto the battlefield attacking, the triggered ability won't trigger."
+        }
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying, vigilance, haste\nWhenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.",
+      "toughness": "4",
+      "type": "Legendary Creature — Angel",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Willian Murai",
+      "cmc": 1,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"First, you must fight among the rank and file. It is there I will discern your skills as a leader.\"\n—Aurelia, to Gideon Jura",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Boros-Elite",
+          "multiverseid": 455780
+        },
+        {
+          "language": "Spanish",
+          "name": "Élite boros",
+          "multiverseid": 455805
+        },
+        {
+          "language": "French",
+          "name": "Élite de Boros",
+          "multiverseid": 455830
+        },
+        {
+          "language": "Italian",
+          "name": "Elite Boros",
+          "multiverseid": 455855
+        },
+        {
+          "language": "Japanese",
+          "name": "ボロスの精鋭",
+          "multiverseid": 455880
+        }
+      ],
+      "id": "78587a6bdd5bb34919c22091742673c093a2f8d1",
+      "imageName": "boros elite",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{W}",
+      "multiverseid": 455755,
+      "name": "Boros Elite",
+      "number": "78",
+      "originalText": "Battalion — Whenever Boros Elite and at least two other creatures attack, Boros Elite gets +2/+2 until end of turn.",
+      "originalType": "Creature — Human Soldier",
+      "power": "1",
+      "printings": [
+        "GTC",
+        "GK1_BOROS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "The three attacking creatures don't have to be attacking the same player or planeswalker."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Once a battalion ability has triggered, it doesn't matter how many creatures are still attacking when that ability resolves."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The effects of battalion abilities vary from card to card. Read each card carefully."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "text": "Battalion — Whenever Boros Elite and at least two other creatures attack, Boros Elite gets +2/+2 until end of turn.",
+      "toughness": "1",
+      "type": "Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Jason Chan",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"The hard part isn't landing in the saddle. The hard part is leaping before you see it.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Wagemutiger Luftjek",
+          "multiverseid": 455781
+        },
+        {
+          "language": "Spanish",
+          "name": "Jek celeste temerario",
+          "multiverseid": 455806
+        },
+        {
+          "language": "French",
+          "name": "Airjek audacieux",
+          "multiverseid": 455831
+        },
+        {
+          "language": "Italian",
+          "name": "Skyjek Audace",
+          "multiverseid": 455856
+        },
+        {
+          "language": "Japanese",
+          "name": "果敢なスカイジェク",
+          "multiverseid": 455881
+        }
+      ],
+      "id": "8240273d902c0d29f3ce5ad52486c9e4b1dba344",
+      "imageName": "daring skyjek",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{W}",
+      "multiverseid": 455756,
+      "name": "Daring Skyjek",
+      "number": "79",
+      "originalText": "Battalion — Whenever Daring Skyjek and at least two other creatures attack, Daring Skyjek gains flying until end of turn.",
+      "originalType": "Creature — Human Knight",
+      "power": "3",
+      "printings": [
+        "GTC",
+        "GK1_BOROS"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "The three attacking creatures don't have to be attacking the same player or planeswalker."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Once a battalion ability has triggered, it doesn't matter how many creatures are still attacking when that ability resolves."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The effects of battalion abilities vary from card to card. Read each card carefully."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Knight"
+      ],
+      "text": "Battalion — Whenever Daring Skyjek and at least two other creatures attack, Daring Skyjek gains flying until end of turn.",
+      "toughness": "1",
+      "type": "Creature — Human Knight",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Chase Stone",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"Subtlety is for lawmages and spies.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Bomberkorps",
+          "multiverseid": 455782
+        },
+        {
+          "language": "Spanish",
+          "name": "Cuerpo de bombarderos",
+          "multiverseid": 455807
+        },
+        {
+          "language": "French",
+          "name": "Corps de bombardiers",
+          "multiverseid": 455832
+        },
+        {
+          "language": "Italian",
+          "name": "Bombardiera",
+          "multiverseid": 455857
+        },
+        {
+          "language": "Japanese",
+          "name": "爆弾部隊",
+          "multiverseid": 455882
+        }
+      ],
+      "id": "1bf5cce34cbcabc001e99bc30bc8f2a3b59d17d6",
+      "imageName": "bomber corps",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{R}",
+      "multiverseid": 455757,
+      "name": "Bomber Corps",
+      "number": "80",
+      "originalText": "Battalion — Whenever Bomber Corps and at least two other creatures attack, Bomber Corps deals 1 damage to any target.",
+      "originalType": "Creature — Human Soldier",
+      "power": "1",
+      "printings": [
+        "GTC",
+        "GK1_BOROS"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "The three attacking creatures don't have to be attacking the same player or planeswalker."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Once a battalion ability has triggered, it doesn't matter how many creatures are still attacking when that ability resolves."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The effects of battalion abilities vary from card to card. Read each card carefully."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "text": "Battalion — Whenever Bomber Corps and at least two other creatures attack, Bomber Corps deals 1 damage to any target.",
+      "toughness": "2",
+      "type": "Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Carl Critchlow",
+      "cmc": 1,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "The upside to not thinking about the consequences is that you'll always surprise those who do.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Wildgewordener Goblin",
+          "multiverseid": 455783
+        },
+        {
+          "language": "Spanish",
+          "name": "Trasgo frenético",
+          "multiverseid": 455808
+        },
+        {
+          "language": "French",
+          "name": "Gobelin hystérique",
+          "multiverseid": 455833
+        },
+        {
+          "language": "Italian",
+          "name": "Goblin Delirante",
+          "multiverseid": 455858
+        },
+        {
+          "language": "Japanese",
+          "name": "激情のゴブリン",
+          "multiverseid": 455883
+        }
+      ],
+      "id": "e385ee67269de01a3999cd77490c00d772f5af48",
+      "imageName": "frenzied goblin",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{R}",
+      "multiverseid": 455758,
+      "name": "Frenzied Goblin",
+      "number": "81",
+      "originalText": "Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn.",
+      "originalType": "Creature — Goblin Berserker",
+      "power": "1",
+      "printings": [
+        "pFNM",
+        "RAV",
+        "M15",
+        "DDN",
+        "A25",
+        "GK1_BOROS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "Frenzied Goblin's ability has only one target. You can't pay {R} multiple times to stop multiple creatures from blocking."
+        }
+      ],
+      "subtypes": [
+        "Goblin",
+        "Berserker"
+      ],
+      "text": "Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn.",
+      "toughness": "1",
+      "type": "Creature — Goblin Berserker",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Eric Deschamps",
+      "cmc": 1,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Getreuer der Legion",
+          "multiverseid": 455784
+        },
+        {
+          "language": "Spanish",
+          "name": "Partidario de la Legión",
+          "multiverseid": 455809
+        },
+        {
+          "language": "French",
+          "name": "Loyaliste de la Légion",
+          "multiverseid": 455834
+        },
+        {
+          "language": "Italian",
+          "name": "Lealista della Legione",
+          "multiverseid": 455859
+        },
+        {
+          "language": "Japanese",
+          "name": "軍勢の忠節者",
+          "multiverseid": 455884
+        }
+      ],
+      "id": "630806aac6a878748904830e536975d10d4b5a2d",
+      "imageName": "legion loyalist",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{R}",
+      "multiverseid": 455759,
+      "name": "Legion Loyalist",
+      "number": "82",
+      "originalText": "Haste\nBattalion — Whenever Legion Loyalist and at least two other creatures attack, creatures you control gain first strike and trample until end of turn and can't be blocked by creature tokens this turn.",
+      "originalType": "Creature — Goblin Soldier",
+      "power": "1",
+      "printings": [
+        "GTC",
+        "GK1_BOROS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "The three attacking creatures don't have to be attacking the same player or planeswalker."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Once a battalion ability has triggered, it doesn't matter how many creatures are still attacking when that ability resolves."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The effects of battalion abilities vary from card to card. Read each card carefully."
+        }
+      ],
+      "subtypes": [
+        "Goblin",
+        "Soldier"
+      ],
+      "text": "Haste\nBattalion — Whenever Legion Loyalist and at least two other creatures attack, creatures you control gain first strike and trample until end of turn and can't be blocked by creature tokens this turn.",
+      "toughness": "1",
+      "type": "Creature — Goblin Soldier",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Donato Giancola",
+      "cmc": 5,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "flavor": "Lieutenant Kos has never met a group of recruits he could not inspire or a mob he could not quell.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Agrus Kos, Wojek-Veteran",
+          "multiverseid": 455785
+        },
+        {
+          "language": "Spanish",
+          "name": "Agrus Kos, veterano wojek",
+          "multiverseid": 455810
+        },
+        {
+          "language": "French",
+          "name": "Agrus Kos, vétéran wojek",
+          "multiverseid": 455835
+        },
+        {
+          "language": "Italian",
+          "name": "Agrus Kos, Veterano Wojek",
+          "multiverseid": 455860
+        },
+        {
+          "language": "Japanese",
+          "name": "ウォジェクの古参兵、アグルス・コス",
+          "multiverseid": 455885
+        }
+      ],
+      "id": "7eb3a68584aef939288c860a774df23677922d43",
+      "imageName": "agrus kos, wojek veteran",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{R}{W}",
+      "multiverseid": 455760,
+      "name": "Agrus Kos, Wojek Veteran",
+      "number": "83",
+      "originalText": "Whenever Agrus Kos, Wojek Veteran attacks, attacking red creatures get +2/+0 and attacking white creatures get +0/+2 until end of turn.",
+      "originalType": "Legendary Creature — Human Soldier",
+      "power": "3",
+      "printings": [
+        "RAV",
+        "GK1_BOROS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "Attacking creatures (including Agrus Kos) that are both red and white get +2/+2 until end of turn."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Whenever Agrus Kos, Wojek Veteran attacks, attacking red creatures get +2/+0 and attacking white creatures get +0/+2 until end of turn.",
+      "toughness": "3",
+      "type": "Legendary Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Zoltan Boros",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Boros-Amulett",
+          "multiverseid": 455786
+        },
+        {
+          "language": "Spanish",
+          "name": "Amuleto boros",
+          "multiverseid": 455811
+        },
+        {
+          "language": "French",
+          "name": "Charme de Boros",
+          "multiverseid": 455836
+        },
+        {
+          "language": "Italian",
+          "name": "Talismano Boros",
+          "multiverseid": 455861
+        },
+        {
+          "language": "Japanese",
+          "name": "ボロスの魔除け",
+          "multiverseid": 455886
+        }
+      ],
+      "id": "cc6c0df6a13c285fc71117331696d0344bbb84d2",
+      "imageName": "boros charm",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{R}{W}",
+      "multiverseid": 455761,
+      "name": "Boros Charm",
+      "number": "84",
+      "originalText": "Choose one —\n• Boros Charm deals 4 damage to target player or planeswalker.\n• Permanents you control gain indestructible until end of turn.\n• Target creature gains double strike until end of turn.",
+      "originalType": "Instant",
+      "printings": [
+        "GTC",
+        "C13",
+        "C16",
+        "A25",
+        "GK1_BOROS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "If you choose the second mode, permanents that come under your control later in the turn will not have indestructible."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Planeswalkers with indestructible will still have loyalty counters removed from them as they are dealt damage. If planeswalker with indestructible has no loyalty counters, it will still be put into its owner's graveyard, as the rule that does this doesn't destroy the planeswalker."
+        }
+      ],
+      "text": "Choose one —\n• Boros Charm deals 4 damage to target player or planeswalker.\n• Permanents you control gain indestructible until end of turn.\n• Target creature gains double strike until end of turn.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Howard Lyon",
+      "cmc": 3,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "flavor": "\"Imagine a thunderstorm that's also a tactical genius. That's him.\"\n—Dars Gostok, Firefist captain",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Boros-Abwäger",
+          "multiverseid": 455787
+        },
+        {
+          "language": "Spanish",
+          "name": "Vengador boros",
+          "multiverseid": 455812
+        },
+        {
+          "language": "French",
+          "name": "Héliaste de Boros",
+          "multiverseid": 455837
+        },
+        {
+          "language": "Italian",
+          "name": "Censore Boros",
+          "multiverseid": 455862
+        },
+        {
+          "language": "Japanese",
+          "name": "ボロスの反攻者",
+          "multiverseid": 455887
+        }
+      ],
+      "id": "8239541d107541c34d8bb0fc95382bab3f078970",
+      "imageName": "boros reckoner",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{R/W}{R/W}{R/W}",
+      "multiverseid": 455762,
+      "name": "Boros Reckoner",
+      "number": "85",
+      "originalText": "Whenever Boros Reckoner is dealt damage, it deals that much damage to any target.\n{R/W}: Boros Reckoner gains first strike until end of turn.",
+      "originalType": "Creature — Minotaur Wizard",
+      "power": "3",
+      "printings": [
+        "GTC",
+        "MM3",
+        "GK1_BOROS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2017-03-14",
+          "text": "Boros Reckoner's first ability will trigger even if it is dealt lethal damage. For example, if it blocks a 7/7 creature, its ability will trigger and Boros Reckoner will deal 7 damage to the target."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "Damage dealt by Boros Reckoner due to its first ability isn't combat damage, even if it was combat damage that caused that ability to trigger."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "If Boros Reckoner is dealt damage by multiple sources at once, such as by two creatures blocking it, its ability triggers once and one target is dealt that much damage."
+        }
+      ],
+      "subtypes": [
+        "Minotaur",
+        "Wizard"
+      ],
+      "text": "Whenever Boros Reckoner is dealt damage, it deals that much damage to any target.\n{R/W}: Boros Reckoner gains first strike until end of turn.",
+      "toughness": "3",
+      "type": "Creature — Minotaur Wizard",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Doug Chaffee",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "flavor": "When the Boros Legion attacks, swiftblades enter the fray first. They pick off the archers and mages, softening the enemy front before the flame-kin and giants go in.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Boros-Flinkklingen",
+          "multiverseid": 455788
+        },
+        {
+          "language": "Spanish",
+          "name": "Filoveloz boros",
+          "multiverseid": 455813
+        },
+        {
+          "language": "French",
+          "name": "Filelame boros",
+          "multiverseid": 455838
+        },
+        {
+          "language": "Italian",
+          "name": "Lamalesta Boros",
+          "multiverseid": 455863
+        },
+        {
+          "language": "Japanese",
+          "name": "ボロスの速太刀",
+          "multiverseid": 455888
+        }
+      ],
+      "id": "24c2433f84783e51910f1d24e2f927928b4ae39d",
+      "imageName": "boros swiftblade",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{R}{W}",
+      "multiverseid": 455763,
+      "name": "Boros Swiftblade",
+      "number": "86",
+      "originalText": "Double strike",
+      "originalType": "Creature — Human Soldier",
+      "power": "1",
+      "printings": [
+        "RAV",
+        "HOP",
+        "MM2",
+        "GK1_BOROS"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "text": "Double strike",
+      "toughness": "2",
+      "type": "Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Dave Dorman",
+      "cmc": 4,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "flavor": "\"Let the pyres of the unbelievers light our way.\"\n—Razia",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Helle Flamme",
+          "multiverseid": 455789
+        },
+        {
+          "language": "Spanish",
+          "name": "Flama brillante",
+          "multiverseid": 455814
+        },
+        {
+          "language": "French",
+          "name": "Claireflamme",
+          "multiverseid": 455839
+        },
+        {
+          "language": "Italian",
+          "name": "Fiamma Radiosa",
+          "multiverseid": 455864
+        },
+        {
+          "language": "Japanese",
+          "name": "光り輝く炎",
+          "multiverseid": 455889
+        }
+      ],
+      "id": "c42e0f8473fa236a9d35901e9699d230a407d36c",
+      "imageName": "brightflame",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{X}{R}{R}{W}{W}",
+      "multiverseid": 455764,
+      "name": "Brightflame",
+      "number": "87",
+      "originalText": "Radiance — Brightflame deals X damage to target creature and each other creature that shares a color with it. You gain life equal to the damage dealt this way.",
+      "originalType": "Sorcery",
+      "printings": [
+        "RAV",
+        "GK1_BOROS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "You gain life equal to the total damage dealt by Brightflame to all creatures. You don't gain life for any damage that was prevented."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "All creatures that share a color are affected, even your own."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "A creature \"shares a color\" with any creature that is at least one of its colors. For example, a green-white creature shares a color with creatures that are green, white, green-white, red-white, black-green, and so on."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "If it targets a colorless creature, it doesn't affect any other creatures. A colorless creature shares a color with nothing, not even other colorless creatures."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "You check which creatures share a color with the target when the spell resolves."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "Only one creature is targeted. If that creature leaves the battlefield or otherwise becomes an illegal target, the entire spell doesn't resolve. No other creatures are affected."
+        }
+      ],
+      "text": "Radiance — Brightflame deals X damage to target creature and each other creature that shares a color with it. You gain life equal to the damage dealt this way.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Matt Cavotta",
+      "cmc": 6,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Feuerschweif-Engel",
+          "multiverseid": 455790
+        },
+        {
+          "language": "Spanish",
+          "name": "Ángel melenafuego",
+          "multiverseid": 455815
+        },
+        {
+          "language": "French",
+          "name": "Ange crinefeu",
+          "multiverseid": 455840
+        },
+        {
+          "language": "Italian",
+          "name": "Angelo Chioma di Fuoco",
+          "multiverseid": 455865
+        },
+        {
+          "language": "Japanese",
+          "name": "炎まといの天使",
+          "multiverseid": 455890
+        }
+      ],
+      "id": "5fd27ddae3aca3bbb386d4712f81de5afd7f0997",
+      "imageName": "firemane angel",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{R}{W}{W}",
+      "multiverseid": 455765,
+      "name": "Firemane Angel",
+      "number": "88",
+      "originalText": "Flying, first strike\nAt the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.\n{6}{R}{R}{W}{W}: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.",
+      "originalType": "Creature — Angel",
+      "power": "4",
+      "printings": [
+        "RAV",
+        "DDH",
+        "IMA",
+        "GK1_BOROS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "If Firemane Angel is put into your graveyard from the battlefield or returned from your graveyard to the battlefield during your upkeep before its triggered ability resolves, you won't gain 1 life."
+        }
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "text": "Flying, first strike\nAt the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.\n{6}{R}{R}{W}{W}: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.",
+      "toughness": "3",
+      "type": "Creature — Angel",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Wayne Reynolds",
+      "cmc": 4,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "flavor": "Firemane Nevena led the victorious assault on the Barbu Rooftop rebels. Now the Gateless have marked her for death.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Feuerschweif-Rächerin",
+          "multiverseid": 455791
+        },
+        {
+          "language": "Spanish",
+          "name": "Vengadora melenafuego",
+          "multiverseid": 455816
+        },
+        {
+          "language": "French",
+          "name": "Vengeresse crinefeu",
+          "multiverseid": 455841
+        },
+        {
+          "language": "Italian",
+          "name": "Vendicatrice Chioma di Fuoco",
+          "multiverseid": 455866
+        },
+        {
+          "language": "Japanese",
+          "name": "炎まといの報復者",
+          "multiverseid": 455891
+        }
+      ],
+      "id": "678124663b741ab39f8f2b16ea083c7e126e5531",
+      "imageName": "firemane avenger",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{R}{W}",
+      "multiverseid": 455766,
+      "name": "Firemane Avenger",
+      "number": "89",
+      "originalText": "Flying\nBattalion — Whenever Firemane Avenger and at least two other creatures attack, Firemane Avenger deals 3 damage to any target and you gain 3 life.",
+      "originalType": "Creature — Angel",
+      "power": "3",
+      "printings": [
+        "pMGD",
+        "GTC",
+        "GK1_BOROS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "If the target permanent or player is an illegal target when Firemane Avenger's battalion ability tries to resolve, the ability won't resolve and none of its effects will happen. You won't gain life."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "If Firemane Avenger's battalion ability resolves but some or all of the damage is prevented, you'll still gain 3 life."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The three attacking creatures don't have to be attacking the same player or planeswalker."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Once a battalion ability has triggered, it doesn't matter how many creatures are still attacking when that ability resolves."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The effects of battalion abilities vary from card to card. Read each card carefully."
+        }
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "text": "Flying\nBattalion — Whenever Firemane Avenger and at least two other creatures attack, Firemane Avenger deals 3 damage to any target and you gain 3 life.",
+      "toughness": "3",
+      "type": "Creature — Angel",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "flavor": "Though less well-known than its army of soldiers, the Boros Legion's mage-priests are as respected by the innocent as they are hated by the ghosts of the guilty.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Blitzhelix",
+          "multiverseid": 455792
+        },
+        {
+          "language": "Spanish",
+          "name": "Hélice de relámpagos",
+          "multiverseid": 455817
+        },
+        {
+          "language": "French",
+          "name": "Hélice d'éclairs",
+          "multiverseid": 455842
+        },
+        {
+          "language": "Italian",
+          "name": "Spirale Fulminante",
+          "multiverseid": 455867
+        },
+        {
+          "language": "Japanese",
+          "name": "稲妻のらせん",
+          "multiverseid": 455892
+        }
+      ],
+      "id": "b0c07f653f808a21d072a28053e0a08229766b0f",
+      "imageName": "lightning helix",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{R}{W}",
+      "multiverseid": 455767,
+      "name": "Lightning Helix",
+      "number": "90",
+      "originalText": "Lightning Helix deals 3 damage to any target and you gain 3 life.",
+      "originalType": "Instant",
+      "printings": [
+        "pMPR",
+        "RAV",
+        "HOP",
+        "DDH",
+        "MMA",
+        "DDN",
+        "IMA",
+        "E02",
+        "GK1_BOROS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "If the chosen target is illegal when Lightning Helix tries to resolve, it won't resolve and none of its effects will happen. You won't gain 3 life."
+        }
+      ],
+      "text": "Lightning Helix deals 3 damage to any target and you gain 3 life.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Raymond Swanland",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "flavor": "\"Yes, Boros tactics are unparalleled. But when your comrades are dying around you, inner strength must carry the day.\"\n—Gideon Jura, to Aurelia",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Soldatische Pracht",
+          "multiverseid": 455793
+        },
+        {
+          "language": "Spanish",
+          "name": "Gloria marcial",
+          "multiverseid": 455818
+        },
+        {
+          "language": "French",
+          "name": "Gloire martiale",
+          "multiverseid": 455843
+        },
+        {
+          "language": "Italian",
+          "name": "Gloria Marziale",
+          "multiverseid": 455868
+        },
+        {
+          "language": "Japanese",
+          "name": "軍部の栄光",
+          "multiverseid": 455893
+        }
+      ],
+      "id": "d6459f33ed0962e0cf8c8f22bd3ebe3a7948dd97",
+      "imageName": "martial glory",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{R}{W}",
+      "multiverseid": 455768,
+      "name": "Martial Glory",
+      "number": "91",
+      "originalText": "Target creature gets +3/+0 until end of turn.\nTarget creature gets +0/+3 until end of turn.",
+      "originalType": "Instant",
+      "printings": [
+        "GTC",
+        "GK1_BOROS"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "You may choose the same creature for both targets since the card says \"target creature\" multiple times. You may also choose two different creatures."
+        }
+      ],
+      "text": "Target creature gets +3/+0 until end of turn.\nTarget creature gets +0/+3 until end of turn.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "cmc": 4,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Meisterhafte Kriegskunst",
+          "multiverseid": 455794
+        },
+        {
+          "language": "Spanish",
+          "name": "Maestría estratégica",
+          "multiverseid": 455819
+        },
+        {
+          "language": "French",
+          "name": "Maîtrise de l'art de la guerre",
+          "multiverseid": 455844
+        },
+        {
+          "language": "Italian",
+          "name": "Maestro di Tattiche",
+          "multiverseid": 455869
+        },
+        {
+          "language": "Japanese",
+          "name": "手練れの戦術",
+          "multiverseid": 455894
+        }
+      ],
+      "id": "dbefd79d2fa6b18287b2477eff1a4e5bec10af6a",
+      "imageName": "master warcraft",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{R/W}{R/W}",
+      "multiverseid": 455769,
+      "name": "Master Warcraft",
+      "number": "92",
+      "originalText": "Cast this spell only before attackers are declared.\nYou choose which creatures attack this turn.\nYou choose which creatures block this turn and how those creatures block.",
+      "originalType": "Instant",
+      "printings": [
+        "RAV",
+        "CMD",
+        "CMA",
+        "GK1_BOROS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "You choose attackers and make blocking assignments regardless of whether it's your turn and regardless of whether the creatures are attacking you. Your choices must be legal within the normal rules for attacking and blocking."
+        },
+        {
+          "date": "2006-01-01",
+          "text": "You can decide that a creature won't block."
+        },
+        {
+          "date": "2008-04-01",
+          "text": "If the defending player controls a planeswalker, the person who cast Master Warcraft first chooses the complete group of creatures that are going to attack. Then, for each of those creatures, the active player chooses who or what it's going to attack."
+        },
+        {
+          "date": "2013-09-20",
+          "text": "If a turn has multiple combat phases, this spell can only be cast before the beginning of the Declare Attackers Step of the first combat phase in that turn."
+        }
+      ],
+      "text": "Cast this spell only before attackers are declared.\nYou choose which creatures attack this turn.\nYou choose which creatures block this turn and how those creatures block.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Donato Giancola",
+      "cmc": 8,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "flavor": "Her sword burns with such brightness that foes avert their eyes and arrows divert their paths.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Razia, Boros-Erzengel",
+          "multiverseid": 455795
+        },
+        {
+          "language": "Spanish",
+          "name": "Razia, arcángel boros",
+          "multiverseid": 455820
+        },
+        {
+          "language": "French",
+          "name": "Razia, archange de Boros",
+          "multiverseid": 455845
+        },
+        {
+          "language": "Italian",
+          "name": "Razia, Arcangelo Boros",
+          "multiverseid": 455870
+        },
+        {
+          "language": "Japanese",
+          "name": "ボロスの大天使、ラジア",
+          "multiverseid": 455895
+        }
+      ],
+      "id": "f1e75025c13727f219849c2cacef19fb0ef80f96",
+      "imageName": "razia, boros archangel",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{R}{R}{W}{W}",
+      "multiverseid": 455770,
+      "name": "Razia, Boros Archangel",
+      "number": "93",
+      "originalText": "Flying, vigilance, haste\n{T}: The next 3 damage that would be dealt to target creature you control this turn is dealt to another target creature instead.",
+      "originalType": "Legendary Creature — Angel",
+      "power": "6",
+      "printings": [
+        "RAV",
+        "HOP",
+        "GK1_BOROS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "The 3 damage doesn't have to be from the same source, and it doesn't have to be all dealt at once. If only 2 damage is redirected, the next 1 damage will also be redirected."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "If either target creature leaves the battlefield before damage is dealt, that damage won't be redirected. It doesn't matter if Razia leaves the battlefield."
+        }
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying, vigilance, haste\n{T}: The next 3 damage that would be dealt to target creature you control this turn is dealt to another target creature instead.",
+      "toughness": "3",
+      "type": "Legendary Creature — Angel",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "James Ryman",
+      "cmc": 4,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "flavor": "Izzet-designed conductors atop Sunhome charge empty sets of armor that give form to the fluctuating elementals.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Funkengardist",
+          "multiverseid": 455796
+        },
+        {
+          "language": "Spanish",
+          "name": "Tropa de asalto de chispas",
+          "multiverseid": 455821
+        },
+        {
+          "language": "French",
+          "name": "Troupier d'étincelles",
+          "multiverseid": 455846
+        },
+        {
+          "language": "Italian",
+          "name": "Truppe Scintilla",
+          "multiverseid": 455871
+        },
+        {
+          "language": "Japanese",
+          "name": "火花の強兵",
+          "multiverseid": 455896
+        }
+      ],
+      "id": "cf47a735f4f3be5ba83aeed65e9e4f4ecad0b3dd",
+      "imageName": "spark trooper",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{R}{R}{W}",
+      "multiverseid": 455771,
+      "name": "Spark Trooper",
+      "number": "94",
+      "originalText": "Trample, lifelink, haste\nAt the beginning of the end step, sacrifice Spark Trooper.",
+      "originalType": "Creature — Elemental Soldier",
+      "power": "6",
+      "printings": [
+        "GTC",
+        "GK1_BOROS"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Elemental",
+        "Soldier"
+      ],
+      "text": "Trample, lifelink, haste\nAt the beginning of the end step, sacrifice Spark Trooper.",
+      "toughness": "1",
+      "type": "Creature — Elemental Soldier",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Eric Deschamps",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Sonnenheim-Gildenmagier",
+          "multiverseid": 455797
+        },
+        {
+          "language": "Spanish",
+          "name": "Mago del gremio de Casa Solar",
+          "multiverseid": 455822
+        },
+        {
+          "language": "French",
+          "name": "Ghildmage de Solcastel",
+          "multiverseid": 455847
+        },
+        {
+          "language": "Italian",
+          "name": "Mago della Gilda di Sol-Dimora",
+          "multiverseid": 455872
+        },
+        {
+          "language": "Japanese",
+          "name": "サンホームのギルド魔道士",
+          "multiverseid": 455897
+        }
+      ],
+      "id": "2ebba59d7e282c01db89baf81401a93b958fad0e",
+      "imageName": "sunhome guildmage",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{R}{W}",
+      "multiverseid": 455772,
+      "name": "Sunhome Guildmage",
+      "number": "95",
+      "originalText": "{1}{R}{W}: Creatures you control get +1/+0 until end of turn.\n{2}{R}{W}: Create a 1/1 red and white Soldier creature token with haste.",
+      "originalType": "Creature — Human Wizard",
+      "power": "2",
+      "printings": [
+        "GTC",
+        "MM3",
+        "GK1_BOROS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "Only creatures you control when Sunhome Guildmage's first ability resolves will get +1/+0. Creatures that come under your control later in the turn will not."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "text": "{1}{R}{W}: Creatures you control get +1/+0 until end of turn.\n{2}{R}{W}: Create a 1/1 red and white Soldier creature token with haste.",
+      "toughness": "2",
+      "type": "Creature — Human Wizard",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Daniel Ljunggren",
+      "cmc": 3,
+      "colorIdentity": [
+        "R",
+        "W"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Boros-Runenschlüssel",
+          "multiverseid": 455798
+        },
+        {
+          "language": "Spanish",
+          "name": "Llave rúnica boros",
+          "multiverseid": 455823
+        },
+        {
+          "language": "French",
+          "name": "Runeclé de Boros",
+          "multiverseid": 455848
+        },
+        {
+          "language": "Italian",
+          "name": "Runachiave Boros",
+          "multiverseid": 455873
+        },
+        {
+          "language": "Japanese",
+          "name": "ボロスの魔鍵",
+          "multiverseid": 455898
+        }
+      ],
+      "id": "a76cea2407c61db1ea2119be41014032ec25c65c",
+      "imageName": "boros keyrune",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}",
+      "multiverseid": 455773,
+      "name": "Boros Keyrune",
+      "number": "96",
+      "originalText": "{T}: Add {R} or {W}.\n{R}{W}: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature with double strike until end of turn.",
+      "originalType": "Artifact",
+      "printings": [
+        "GTC",
+        "GK1_BOROS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "Until the ability that turns the Keyrune into a creature resolves, the Keyrune is colorless."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Activating the ability that turns the Keyrune into a creature while it's already a creature will override any effects that set its power and/or toughness to another number, but effects that modify power and/or toughness without directly setting them will still apply."
+        }
+      ],
+      "text": "{T}: Add {R} or {W}.\n{R}{W}: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature with double strike until end of turn. (It deals both first-strike and regular combat damage.)",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Mike Sass",
+      "cmc": 2,
+      "colorIdentity": [
+        "R",
+        "W"
+      ],
+      "flavor": "\"Have you ever held a Boros signet? There's a weight to it that belies its size—a weight of strength and of pride.\"\n—Agrus Kos",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Boros-Petschaft",
+          "multiverseid": 455799
+        },
+        {
+          "language": "Spanish",
+          "name": "Sello boros",
+          "multiverseid": 455824
+        },
+        {
+          "language": "French",
+          "name": "Cachet de Boros",
+          "multiverseid": 455849
+        },
+        {
+          "language": "Italian",
+          "name": "Sigillo Boros",
+          "multiverseid": 455874
+        },
+        {
+          "language": "Japanese",
+          "name": "ボロスの印鑑",
+          "multiverseid": 455899
+        }
+      ],
+      "id": "2b5dc835115c736e21c201e20cc783b08b3f1132",
+      "imageName": "boros signet",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}",
+      "multiverseid": 455774,
+      "name": "Boros Signet",
+      "number": "97",
+      "originalText": "{1}, {T}: Add {R}{W}.",
+      "originalType": "Artifact",
+      "printings": [
+        "RAV",
+        "HOP",
+        "CMD",
+        "C15",
+        "MM3",
+        "CMA",
+        "C17",
+        "CM2",
+        "GK1_BOROS"
+      ],
+      "rarity": "Common",
+      "text": "{1}, {T}: Add {R}{W}.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "John Avon",
+      "cmc": 0,
+      "colorIdentity": [
+        "R",
+        "W"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Boros-Garnison",
+          "multiverseid": 455800
+        },
+        {
+          "language": "Spanish",
+          "name": "Fuerte boros",
+          "multiverseid": 455825
+        },
+        {
+          "language": "French",
+          "name": "Garnison de Boros",
+          "multiverseid": 455850
+        },
+        {
+          "language": "Italian",
+          "name": "Presidio Boros",
+          "multiverseid": 455875
+        },
+        {
+          "language": "Japanese",
+          "name": "ボロスの駐屯地",
+          "multiverseid": 455900
+        }
+      ],
+      "id": "082dea667ae1b40e05eb22eea1a7f7f28a8be9bb",
+      "imageName": "boros garrison",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 455775,
+      "name": "Boros Garrison",
+      "number": "98",
+      "originalText": "Boros Garrison enters the battlefield tapped.\nWhen Boros Garrison enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {R}{W}.",
+      "originalType": "Land",
+      "printings": [
+        "RAV",
+        "HOP",
+        "CMD",
+        "C13",
+        "MM2",
+        "C15",
+        "C16",
+        "CMA",
+        "C17",
+        "IMA",
+        "CM2",
+        "GK1_BOROS"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand."
+        }
+      ],
+      "text": "Boros Garrison enters the battlefield tapped.\nWhen Boros Garrison enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {R}{W}.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Martina Pilcerova",
+      "cmc": 0,
+      "colorIdentity": [
+        "R",
+        "W"
+      ],
+      "flavor": "Sunhome—the stalwart shield, the towering sentinel, the seat of justice.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Sonnenheim, Festung der Legion",
+          "multiverseid": 455801
+        },
+        {
+          "language": "Spanish",
+          "name": "Casa Solar, base de la Legión",
+          "multiverseid": 455826
+        },
+        {
+          "language": "French",
+          "name": "Solcastel, forteresse de la Légion",
+          "multiverseid": 455851
+        },
+        {
+          "language": "Italian",
+          "name": "Sol-Dimora, Rocca della Legione",
+          "multiverseid": 455876
+        },
+        {
+          "language": "Japanese",
+          "name": "軍の要塞、サンホーム",
+          "multiverseid": 455901
+        }
+      ],
+      "id": "92dd399a495bc67fbd8b8bdc8312906e2f2ef060",
+      "imageName": "sunhome, fortress of the legion",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 455776,
+      "name": "Sunhome, Fortress of the Legion",
+      "number": "99",
+      "originalText": "{T}: Add {C}.\n{2}{R}{W}, {T}: Target creature gains double strike until end of turn.",
+      "originalType": "Land",
+      "printings": [
+        "RAV",
+        "HOP",
+        "GK1_BOROS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "If you give double strike to a creature with first strike after first-strike combat damage has been dealt, that creature will also deal damage during the normal combat damage step."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "If you give double strike to a creature after either first-strike or normal combat damage has been dealt, it won't help that creature deal any additional combat damage."
+        }
+      ],
+      "text": "{T}: Add {C}.\n{2}{R}{W}, {T}: Target creature gains double strike until end of turn.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Boros"
+    },
+    {
+      "artist": "Yeong-Hao Han",
+      "cmc": 0,
+      "colorIdentity": [
+        "W"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Ebene",
+          "multiverseid": 455802
+        },
+        {
+          "language": "Spanish",
+          "name": "Llanura",
+          "multiverseid": 455827
+        },
+        {
+          "language": "French",
+          "name": "Plaine",
+          "multiverseid": 455852
+        },
+        {
+          "language": "Italian",
+          "name": "Pianura",
+          "multiverseid": 455877
+        },
+        {
+          "language": "Japanese",
+          "name": "平地",
+          "multiverseid": 455902
+        }
+      ],
+      "id": "56c3ba927b330e696292ed370ced9bb6cb854bd4",
+      "imageName": "plains",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 455777,
+      "name": "Plains",
+      "number": "100",
+      "originalText": "W",
+      "originalType": "Basic Land — Plains",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_SELESN",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Plains"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Plains",
+      "types": [
+        "Land"
+      ],
+      "watermark": "White"
+    },
+    {
+      "artist": "Noah Bradley",
+      "cmc": 0,
+      "colorIdentity": [
+        "R"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Gebirge",
+          "multiverseid": 455803
+        },
+        {
+          "language": "Spanish",
+          "name": "Montaña",
+          "multiverseid": 455828
+        },
+        {
+          "language": "French",
+          "name": "Montagne",
+          "multiverseid": 455853
+        },
+        {
+          "language": "Italian",
+          "name": "Montagna",
+          "multiverseid": 455878
+        },
+        {
+          "language": "Japanese",
+          "name": "山",
+          "multiverseid": 455903
+        }
+      ],
+      "id": "419194c96f19fcea6a0aec52418ac35c968af777",
+      "imageName": "mountain",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 455778,
+      "name": "Mountain",
+      "number": "101",
+      "originalText": "R",
+      "originalType": "Basic Land — Mountain",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_IZZET",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Mountain"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Mountain",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Red"
+    }
+  ]
+}

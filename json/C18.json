@@ -10442,7 +10442,8 @@
       "printings": [
         "ORI",
         "DDU",
-        "C18"
+        "C18",
+        "GNT"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -20265,7 +20266,8 @@
         "EMA",
         "CMA",
         "CM2",
-        "C18"
+        "C18",
+        "GNT"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -27126,7 +27128,9 @@
         "CM2",
         "GS1",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27386,7 +27390,9 @@
         "CM2",
         "GS1",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27646,7 +27652,9 @@
         "CM2",
         "GS1",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27906,7 +27914,9 @@
         "CM2",
         "GS1",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28166,7 +28176,9 @@
         "CM2",
         "GS1",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28426,7 +28438,9 @@
         "CM2",
         "GS1",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28688,7 +28702,9 @@
         "BBD",
         "CM2",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28950,7 +28966,9 @@
         "BBD",
         "CM2",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29212,7 +29230,9 @@
         "BBD",
         "CM2",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29478,7 +29498,9 @@
         "CM2",
         "GS1",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29744,7 +29766,9 @@
         "CM2",
         "GS1",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30010,7 +30034,9 @@
         "CM2",
         "GS1",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30273,7 +30299,9 @@
         "CM2",
         "GS1",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30536,7 +30564,9 @@
         "CM2",
         "GS1",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30799,7 +30829,9 @@
         "CM2",
         "GS1",
         "M19",
-        "C18"
+        "C18",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

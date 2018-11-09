@@ -52,7 +52,6 @@
         }
       ],
       "manaCost": "{5}{W}",
-      "mciNumber": "1",
       "multiverseid": 73937,
       "name": "Atinlay Igpay",
       "number": "1",
@@ -99,7 +98,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "2",
       "multiverseid": 74231,
       "name": "AWOL",
       "number": "2",
@@ -142,7 +140,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "3",
       "multiverseid": 73977,
       "name": "Bosom Buddy",
       "number": "3",
@@ -190,7 +187,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "4",
       "multiverseid": 74244,
       "name": "Cardpecker",
       "number": "4",
@@ -238,7 +234,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "5",
       "multiverseid": 74220,
       "name": "Cheap Ass",
       "number": "5",
@@ -286,7 +281,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "6",
       "multiverseid": 73940,
       "name": "Circle of Protection: Art",
       "number": "6",
@@ -330,7 +324,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "7",
       "multiverseid": 74354,
       "name": "Collector Protector",
       "number": "7",
@@ -379,7 +372,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "8",
       "multiverseid": 74325,
       "name": "Drawn Together",
       "number": "8",
@@ -422,7 +414,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "9",
       "multiverseid": 73944,
       "name": "Emcee",
       "number": "9",
@@ -471,7 +462,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "10",
       "multiverseid": 74275,
       "name": "Erase (Not the Urza's Legacy One)",
       "number": "10",
@@ -514,7 +504,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "11",
       "multiverseid": 74348,
       "name": "Fascist Art Director",
       "number": "11",
@@ -563,7 +552,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "12",
       "multiverseid": 74261,
       "name": "First Come, First Served",
       "number": "12",
@@ -606,7 +594,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "13",
       "multiverseid": 73950,
       "name": "Frankie Peanuts",
       "number": "13",
@@ -657,7 +644,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "14",
       "multiverseid": 74307,
       "name": "Head to Head",
       "number": "14",
@@ -700,7 +686,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "15",
       "multiverseid": 74260,
       "name": "Ladies' Knight",
       "number": "15",
@@ -751,7 +736,6 @@
         }
       ],
       "manaCost": "{hw}",
-      "mciNumber": "16",
       "multiverseid": 74257,
       "name": "Little Girl",
       "number": "16",
@@ -797,7 +781,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "17",
       "multiverseid": 74360,
       "name": "Look at Me, I'm R&D",
       "number": "17",
@@ -840,7 +823,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "18",
       "multiverseid": 74268,
       "name": "Man of Measure",
       "number": "18",
@@ -889,7 +871,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "19",
       "multiverseid": 74277,
       "name": "Save Life",
       "number": "19",
@@ -932,7 +913,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "20",
       "multiverseid": 74343,
       "name": "Standing Army",
       "number": "20",
@@ -981,7 +961,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "21",
       "multiverseid": 74276,
       "name": "Staying Power",
       "number": "21",
@@ -1024,7 +1003,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "22",
       "multiverseid": 73972,
       "name": "Wordmail",
       "number": "22",
@@ -1070,7 +1048,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "23",
       "multiverseid": 74252,
       "name": "_____",
       "number": "23",
@@ -1117,7 +1094,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "24",
       "multiverseid": 74317,
       "name": "Ambiguity",
       "number": "24",
@@ -1160,7 +1136,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "25",
       "multiverseid": 74356,
       "name": "Artful Looter",
       "number": "25",
@@ -1208,7 +1183,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "26",
       "multiverseid": 74254,
       "name": "Avatar of Me",
       "number": "26",
@@ -1256,7 +1230,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "27",
       "multiverseid": 74249,
       "name": "Brushstroke Paintermage",
       "number": "27",
@@ -1305,7 +1278,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "28",
       "multiverseid": 74289,
       "name": "Bursting Beebles",
       "number": "28",
@@ -1353,7 +1325,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "29",
       "multiverseid": 74236,
       "name": "Carnivorous Death-Parrot",
       "number": "29",
@@ -1400,7 +1371,6 @@
         }
       ],
       "manaCost": "{U}{U}{U}",
-      "mciNumber": "30",
       "multiverseid": 74306,
       "name": "Cheatyface",
       "number": "30",
@@ -1448,7 +1418,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "31",
       "multiverseid": 74262,
       "name": "Double Header",
       "number": "31",
@@ -1496,7 +1465,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "32",
       "multiverseid": 74330,
       "name": "Flaccify",
       "number": "32",
@@ -1539,7 +1507,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "33",
       "multiverseid": 74218,
       "name": "Framed!",
       "number": "33",
@@ -1581,7 +1548,6 @@
         }
       ],
       "manaCost": "{6}{U}{U}",
-      "mciNumber": "34",
       "multiverseid": 74296,
       "name": "Greater Morphling",
       "number": "34",
@@ -1629,7 +1595,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "35",
       "multiverseid": 74271,
       "name": "Johnny, Combo Player",
       "number": "35",
@@ -1681,7 +1646,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "36",
       "multiverseid": 73964,
       "name": "Loose Lips",
       "number": "36",
@@ -1727,7 +1691,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "37",
       "multiverseid": 74256,
       "name": "Magical Hacker",
       "number": "37",
@@ -1776,7 +1739,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "38",
       "multiverseid": 74304,
       "name": "Mise",
       "number": "38",
@@ -1819,7 +1781,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "39",
       "multiverseid": 74255,
       "name": "Moniker Mage",
       "number": "39",
@@ -1868,7 +1829,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "40",
       "multiverseid": 73949,
       "name": "Mouth to Mouth",
       "number": "40",
@@ -1911,7 +1871,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "41",
       "multiverseid": 73959,
       "name": "Now I Know My ABC's",
       "number": "41",
@@ -1954,7 +1913,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "42",
       "multiverseid": 74337,
       "name": "Number Crunch",
       "number": "42",
@@ -1997,7 +1955,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "43",
       "multiverseid": 74294,
       "name": "Question Elemental?",
       "number": "43",
@@ -2045,7 +2002,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "44",
       "multiverseid": 74250,
       "name": "Richard Garfield, Ph.D.",
       "number": "44",
@@ -2097,7 +2053,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "45",
       "multiverseid": 74270,
       "name": "Smart Ass",
       "number": "45",
@@ -2146,7 +2101,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "46",
       "multiverseid": 74339,
       "name": "Spell Counter",
       "number": "46",
@@ -2189,7 +2143,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "47",
       "multiverseid": 74321,
       "name": "Topsy Turvy",
       "number": "47",
@@ -2231,7 +2184,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "48",
       "multiverseid": 74284,
       "name": "Aesthetic Consultation",
       "number": "48",
@@ -2274,7 +2226,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "49",
       "multiverseid": 74350,
       "name": "Bad Ass",
       "number": "49",
@@ -2323,7 +2274,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "50",
       "multiverseid": 73979,
       "name": "Bloodletter",
       "number": "50",
@@ -2371,7 +2321,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "51",
       "multiverseid": 73939,
       "name": "Booster Tutor",
       "number": "51",
@@ -2415,7 +2364,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "52",
       "multiverseid": 73943,
       "name": "Duh",
       "number": "52",
@@ -2457,7 +2405,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "53",
       "multiverseid": 74312,
       "name": "Enter the Dungeon",
       "number": "53",
@@ -2500,7 +2447,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "54",
       "multiverseid": 73936,
       "name": "Eye to Eye",
       "number": "54",
@@ -2542,7 +2488,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "55",
       "multiverseid": 74288,
       "name": "The Fallen Apart",
       "number": "55",
@@ -2589,7 +2534,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "56",
       "multiverseid": 74300,
       "name": "Farewell to Arms",
       "number": "56",
@@ -2631,7 +2575,6 @@
         }
       ],
       "manaCost": "{8}{B}{B}",
-      "mciNumber": "57",
       "multiverseid": 73981,
       "name": "Infernal Spawn of Infernal Spawn of Evil",
       "number": "57",
@@ -2680,7 +2623,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "58",
       "multiverseid": 74322,
       "name": "Kill! Destroy!",
       "number": "58",
@@ -2723,7 +2665,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "59",
       "multiverseid": 74292,
       "name": "Mother of Goons",
       "number": "59",
@@ -2771,7 +2712,6 @@
         }
       ],
       "manaCost": "{B}{B}{B}",
-      "mciNumber": "60",
       "multiverseid": 74326,
       "name": "Necro-Impotence",
       "number": "60",
@@ -2814,7 +2754,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "61",
       "multiverseid": 74238,
       "name": "Persecute Artist",
       "number": "61",
@@ -2856,7 +2795,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "62",
       "multiverseid": 73962,
       "name": "Phyrexian Librarian",
       "number": "62",
@@ -2904,7 +2842,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "63",
       "multiverseid": 74346,
       "name": "Stop That",
       "number": "63",
@@ -2947,7 +2884,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "64",
       "multiverseid": 73974,
       "name": "Tainted Monkey",
       "number": "64",
@@ -2994,7 +2930,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "65",
       "multiverseid": 74319,
       "name": "Vile Bile",
       "number": "65",
@@ -3042,7 +2977,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "66",
       "multiverseid": 74219,
       "name": "Wet Willie of the Damned",
       "number": "66",
@@ -3085,7 +3019,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "67",
       "multiverseid": 74274,
       "name": "When Fluffy Bunnies Attack",
       "number": "67",
@@ -3128,7 +3061,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "68",
       "multiverseid": 74241,
       "name": "Working Stiff",
       "number": "68",
@@ -3176,7 +3108,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "69",
       "multiverseid": 74290,
       "name": "Zombie Fanboy",
       "number": "69",
@@ -3225,7 +3156,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "70",
       "multiverseid": 74336,
       "name": "Zzzyxas's Abyss",
       "number": "70",
@@ -3268,7 +3198,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "71",
       "multiverseid": 74251,
       "name": "Assquatch",
       "number": "71",
@@ -3315,7 +3244,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "72",
       "multiverseid": 74227,
       "name": "Blast from the Past",
       "number": "72",
@@ -3404,7 +3332,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "74",
       "multiverseid": 74359,
       "name": "Deal Damage",
       "number": "74",
@@ -3447,7 +3374,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "75",
       "multiverseid": 74287,
       "name": "Dumb Ass",
       "number": "75",
@@ -3496,7 +3422,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "76",
       "multiverseid": 73966,
       "name": "Face to Face",
       "number": "76",
@@ -3539,7 +3464,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "77",
       "multiverseid": 73941,
       "name": "Frazzled Editor",
       "number": "77",
@@ -3588,7 +3512,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "78",
       "multiverseid": 74221,
       "name": "Goblin Mime",
       "number": "78",
@@ -3638,7 +3561,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "79",
       "multiverseid": 74295,
       "name": "Goblin Secret Agent",
       "number": "79",
@@ -3687,7 +3609,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "80",
       "multiverseid": 74314,
       "name": "Goblin S.W.A.T. Team",
       "number": "80",
@@ -3736,7 +3657,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "81",
       "multiverseid": 74266,
       "name": "Mana Flair",
       "number": "81",
@@ -3779,7 +3699,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "82",
       "multiverseid": 73957,
       "name": "Mons's Goblin Waiters",
       "number": "82",
@@ -3828,7 +3747,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "83",
       "multiverseid": 73960,
       "name": "Orcish Paratroopers",
       "number": "83",
@@ -3877,7 +3795,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "84",
       "multiverseid": 74248,
       "name": "Punctuate",
       "number": "84",
@@ -3920,7 +3837,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "85",
       "multiverseid": 74333,
       "name": "Pygmy Giant",
       "number": "85",
@@ -3968,7 +3884,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "86",
       "multiverseid": 74267,
       "name": "Red-Hot Hottie",
       "number": "86",
@@ -4015,7 +3930,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "87",
       "multiverseid": 74324,
       "name": "Rocket-Powered Turbo Slug",
       "number": "87",
@@ -4063,7 +3977,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "88",
       "multiverseid": 74242,
       "name": "Sauté",
       "number": "88",
@@ -4106,7 +4019,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "89",
       "multiverseid": 73934,
       "name": "Six-y Beast",
       "number": "89",
@@ -4154,7 +4066,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "90",
       "multiverseid": 74349,
       "name": "Touch and Go",
       "number": "90",
@@ -4197,7 +4108,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "91",
       "multiverseid": 74331,
       "name": "Yet Another Aether Vortex",
       "number": "91",
@@ -4240,7 +4150,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "92",
       "multiverseid": 73938,
       "name": "B-I-N-G-O",
       "number": "92",
@@ -4288,7 +4197,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "93",
       "multiverseid": 74303,
       "name": "Creature Guy",
       "number": "93",
@@ -4336,7 +4244,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}",
-      "mciNumber": "94",
       "multiverseid": 73961,
       "name": "Elvish House Party",
       "number": "94",
@@ -4385,7 +4292,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "95",
       "multiverseid": 74224,
       "name": "Fat Ass",
       "number": "95",
@@ -4433,7 +4339,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "96",
       "multiverseid": 74318,
       "name": "Form of the Squirrel",
       "number": "96",
@@ -4476,7 +4381,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "97",
       "multiverseid": 74301,
       "name": "Fraction Jackson",
       "number": "97",
@@ -4524,7 +4428,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "98",
       "multiverseid": 74298,
       "name": "Gluetius Maximus",
       "number": "98",
@@ -4572,7 +4475,6 @@
         }
       ],
       "manaCost": "{7}{G}",
-      "mciNumber": "99",
       "multiverseid": 74281,
       "name": "Granny's Payback",
       "number": "99",
@@ -4616,7 +4518,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "100",
       "multiverseid": 74328,
       "name": "Graphic Violence",
       "number": "100",
@@ -4659,7 +4560,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "101",
       "multiverseid": 73971,
       "name": "Keeper of the Sacred Word",
       "number": "101",
@@ -4707,7 +4607,6 @@
         }
       ],
       "manaCost": "{G}{G}",
-      "mciNumber": "102",
       "multiverseid": 74259,
       "name": "Land Aid '04",
       "number": "102",
@@ -4750,7 +4649,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "103",
       "multiverseid": 74293,
       "name": "Laughing Hyena",
       "number": "103",
@@ -4798,7 +4696,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "104",
       "multiverseid": 74233,
       "name": "Monkey Monkey Monkey",
       "number": "104",
@@ -4846,7 +4743,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "105",
       "multiverseid": 74286,
       "name": "Name Dropping",
       "number": "105",
@@ -4889,7 +4785,6 @@
         }
       ],
       "manaCost": "{G}{G}",
-      "mciNumber": "106",
       "multiverseid": 74235,
       "name": "Old Fogey",
       "number": "106",
@@ -4930,7 +4825,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "107",
       "multiverseid": 74237,
       "name": "Our Market Research Shows That Players Like Really Long Card Names So We Made this Card to Have the Absolute Longest Card Name Ever Elemental",
       "number": "107",
@@ -4978,7 +4872,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "108",
       "multiverseid": 74310,
       "name": "Remodel",
       "number": "108",
@@ -5021,7 +4914,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "109",
       "multiverseid": 74332,
       "name": "Shoe Tree",
       "number": "109",
@@ -5069,7 +4961,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "110",
       "multiverseid": 73948,
       "name": "Side to Side",
       "number": "110",
@@ -5111,7 +5002,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "111",
       "multiverseid": 73942,
       "name": "S.N.O.T.",
       "number": "111",
@@ -5158,7 +5048,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "112",
       "multiverseid": 74246,
       "name": "Stone-Cold Basilisk",
       "number": "112",
@@ -5206,7 +5095,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "113",
       "multiverseid": 74315,
       "name": "Supersize",
       "number": "113",
@@ -5249,7 +5137,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "114",
       "multiverseid": 74265,
       "name": "Symbol Status",
       "number": "114",
@@ -5292,7 +5179,6 @@
         }
       ],
       "manaCost": "{5}{G}{G}{G}",
-      "mciNumber": "115",
       "multiverseid": 73976,
       "name": "Uktabi Kong",
       "number": "115",
@@ -5341,7 +5227,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}{G}{G}",
-      "mciNumber": "116",
       "multiverseid": 73935,
       "name": "\"Ach! Hans, Run!\"",
       "number": "116",
@@ -5386,7 +5271,6 @@
         }
       ],
       "manaCost": "{1}{W}{B}",
-      "mciNumber": "117",
       "multiverseid": 74329,
       "name": "Ass Whuppin'",
       "number": "117",
@@ -5432,7 +5316,6 @@
         }
       ],
       "manaCost": "{2}{W}{U}",
-      "mciNumber": "118",
       "multiverseid": 74347,
       "name": "Meddling Kids",
       "number": "118",
@@ -5483,7 +5366,6 @@
         }
       ],
       "manaCost": "{2}{B}{R}",
-      "mciNumber": "119",
       "multiverseid": 73968,
       "name": "Rare-B-Gone",
       "number": "119",
@@ -5528,7 +5410,6 @@
         }
       ],
       "manaCost": "{X}{W}",
-      "mciNumber": "120a",
       "multiverseid": 74358,
       "name": "Who",
       "names": [
@@ -5580,7 +5461,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "120b",
       "multiverseid": 74358,
       "name": "What",
       "names": [
@@ -5632,7 +5512,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "120c",
       "multiverseid": 74358,
       "name": "When",
       "names": [
@@ -5684,7 +5563,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "120d",
       "multiverseid": 74358,
       "name": "Where",
       "names": [
@@ -5736,7 +5614,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "120e",
       "multiverseid": 74358,
       "name": "Why",
       "names": [
@@ -5780,7 +5657,6 @@
         }
       ],
       "manaCost": "{1000000}",
-      "mciNumber": "121",
       "multiverseid": 73947,
       "name": "Gleemax",
       "number": "121",
@@ -5820,7 +5696,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "122",
       "multiverseid": 74232,
       "name": "Letter Bomb",
       "number": "122",
@@ -5857,7 +5732,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "123",
       "multiverseid": 73955,
       "name": "Mana Screw",
       "number": "123",
@@ -5893,7 +5767,6 @@
         }
       ],
       "manaCost": "{15}",
-      "mciNumber": "124",
       "multiverseid": 74323,
       "name": "Mox Lotus",
       "number": "124",
@@ -5930,7 +5803,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "125",
       "multiverseid": 73945,
       "name": "My First Tome",
       "number": "125",
@@ -5967,7 +5839,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "126",
       "multiverseid": 74263,
       "name": "Pointy Finger of Doom",
       "number": "126",
@@ -6004,7 +5875,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "127",
       "multiverseid": 74344,
       "name": "Rod of Spanking",
       "number": "127",
@@ -6040,7 +5910,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "128",
       "multiverseid": 74342,
       "name": "Time Machine",
       "number": "128",
@@ -6076,7 +5945,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "129",
       "multiverseid": 73985,
       "name": "Togglodyte",
       "number": "129",
@@ -6118,7 +5986,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "130",
       "multiverseid": 74234,
       "name": "Toy Boat",
       "number": "130",
@@ -6161,7 +6028,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "131",
       "multiverseid": 74345,
       "name": "Urza's Hot Tub",
       "number": "131",
@@ -6197,7 +6063,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "132",
       "multiverseid": 73953,
       "name": "Water Gun Balloon Game",
       "number": "132",
@@ -6234,7 +6099,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "133",
       "multiverseid": 74334,
       "name": "World-Bottling Kit",
       "number": "133",
@@ -6270,7 +6134,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "134",
       "multiverseid": 74327,
       "name": "City of Ass",
       "number": "134",
@@ -6306,7 +6169,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "135",
       "multiverseid": 73967,
       "name": "R&D's Secret Lair",
       "number": "135",
@@ -6468,7 +6330,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "136",
       "multiverseid": 73963,
       "name": "Plains",
       "number": "136",
@@ -6578,7 +6439,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -6736,7 +6600,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "137",
       "multiverseid": 73951,
       "name": "Island",
       "number": "137",
@@ -6846,7 +6709,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7004,7 +6870,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "138",
       "multiverseid": 73973,
       "name": "Swamp",
       "number": "138",
@@ -7117,7 +6982,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7275,7 +7143,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "139",
       "multiverseid": 73958,
       "name": "Mountain",
       "number": "139",
@@ -7391,7 +7258,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7549,7 +7419,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "140",
       "multiverseid": 73946,
       "name": "Forest",
       "number": "140",
@@ -7662,7 +7531,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7698,7 +7570,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "141",
       "multiverseid": 74272,
       "name": "Super Secret Tech",
       "number": "141",

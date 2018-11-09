@@ -55,7 +55,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}{R}{R}",
-      "mciNumber": "1",
       "multiverseid": 292738,
       "name": "Niv-Mizzet, the Firemind",
       "number": "1",
@@ -139,7 +138,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "2",
       "multiverseid": 292742,
       "name": "Kiln Fiend",
       "number": "2",
@@ -215,7 +213,6 @@
         }
       ],
       "manaCost": "{U}{R}",
-      "mciNumber": "3",
       "multiverseid": 338414,
       "name": "Goblin Electromancer",
       "number": "3",
@@ -227,7 +224,8 @@
         "RTR",
         "C15",
         "MM3",
-        "DDS"
+        "DDS",
+        "GRN"
       ],
       "rarity": "Common",
       "rulings": [
@@ -303,7 +301,6 @@
         }
       ],
       "manaCost": "{U/R}{U/R}",
-      "mciNumber": "4",
       "multiverseid": 292735,
       "name": "Izzet Guildmage",
       "number": "4",
@@ -371,7 +368,6 @@
         }
       ],
       "manaCost": "{1}{U}{R}",
-      "mciNumber": "5",
       "multiverseid": 292731,
       "name": "Gelectrode",
       "number": "5",
@@ -438,7 +434,6 @@
         }
       ],
       "manaCost": "{1}{U}{R}",
-      "mciNumber": "6",
       "multiverseid": 292741,
       "name": "Wee Dragonauts",
       "number": "6",
@@ -449,7 +444,8 @@
         "pARL",
         "GPT",
         "DDJ",
-        "EMA"
+        "EMA",
+        "GRN"
       ],
       "rarity": "Common",
       "rulings": [
@@ -513,7 +509,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "7",
       "multiverseid": 338393,
       "name": "Steamcore Weird",
       "number": "7",
@@ -580,7 +575,6 @@
         }
       ],
       "manaCost": "{3}{U/R}",
-      "mciNumber": "8",
       "multiverseid": 338395,
       "name": "Shrewd Hatchling",
       "number": "8",
@@ -657,7 +651,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "9",
       "multiverseid": 338389,
       "name": "Ogre Savant",
       "number": "9",
@@ -734,7 +727,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "10",
       "multiverseid": 338469,
       "name": "Galvanoth",
       "number": "10",
@@ -819,7 +811,6 @@
         }
       ],
       "manaCost": "{3}{U}{R}",
-      "mciNumber": "11",
       "multiverseid": 292734,
       "name": "Izzet Chronarch",
       "number": "11",
@@ -888,7 +879,6 @@
         }
       ],
       "manaCost": "{5}{U/R}{U/R}",
-      "mciNumber": "12",
       "multiverseid": 292730,
       "name": "Djinn Illuminatus",
       "number": "12",
@@ -964,7 +954,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "13",
       "multiverseid": 292751,
       "name": "Brainstorm",
       "number": "13",
@@ -1034,7 +1023,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "14",
       "multiverseid": 292750,
       "name": "Force Spike",
       "number": "14",
@@ -1116,7 +1104,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "15",
       "multiverseid": 338470,
       "name": "Magma Spray",
       "number": "15",
@@ -1178,7 +1165,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "16",
       "multiverseid": 292752,
       "name": "Isochron Scepter",
       "number": "16",
@@ -1269,7 +1255,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "17",
       "multiverseid": 292736,
       "name": "Izzet Signet",
       "number": "17",
@@ -1332,7 +1317,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "18",
       "multiverseid": 292748,
       "name": "Call to Heel",
       "number": "18",
@@ -1403,7 +1387,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "19",
       "multiverseid": 292740,
       "name": "Train of Thought",
       "number": "19",
@@ -1462,7 +1445,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "20",
       "multiverseid": 292739,
       "name": "Pyromatics",
       "number": "20",
@@ -1523,7 +1505,6 @@
         }
       ],
       "manaCost": "{U}{R}",
-      "mciNumber": "21",
       "multiverseid": 338413,
       "name": "Izzet Charm",
       "number": "21",
@@ -1585,7 +1566,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "22",
       "multiverseid": 338471,
       "name": "Reminisce",
       "number": "22",
@@ -1653,7 +1633,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "23",
       "multiverseid": 338397,
       "name": "Thunderheads",
       "number": "23",
@@ -1712,7 +1691,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "24",
       "multiverseid": 338398,
       "name": "Vacuumelt",
       "number": "24",
@@ -1776,7 +1754,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "25",
       "multiverseid": 292758,
       "name": "Dissipate",
       "number": "25",
@@ -1847,7 +1824,6 @@
         }
       ],
       "manaCost": "{1}{U}{R}",
-      "mciNumber": "26",
       "multiverseid": 292757,
       "name": "Quicksilver Dagger",
       "number": "26",
@@ -1914,7 +1890,6 @@
         }
       ],
       "manaCost": "{3}{U}{R}",
-      "mciNumber": "27",
       "multiverseid": 338392,
       "name": "Prophetic Bolt",
       "number": "27",
@@ -1977,7 +1952,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "28",
       "multiverseid": 292759,
       "name": "Overwhelming Intellect",
       "number": "28",
@@ -2031,7 +2005,6 @@
         }
       ],
       "manaCost": "{7}",
-      "mciNumber": "29",
       "multiverseid": 292760,
       "name": "Sphinx-Bone Wand",
       "number": "29",
@@ -2104,7 +2077,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "30",
       "multiverseid": 338411,
       "name": "Street Spasm",
       "number": "30",
@@ -2197,7 +2169,6 @@
         }
       ],
       "manaCost": "{X}{U}{U}{R}",
-      "mciNumber": "31",
       "multiverseid": 292732,
       "name": "Invoke the Firemind",
       "number": "31",
@@ -2259,7 +2230,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "32a",
       "multiverseid": 292753,
       "name": "Fire",
       "names": [
@@ -2321,7 +2291,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "32b",
       "multiverseid": 292753,
       "name": "Ice",
       "names": [
@@ -2378,7 +2347,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "33",
       "multiverseid": 292761,
       "name": "Forgotten Cave",
       "number": "33",
@@ -2449,7 +2417,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "34",
       "multiverseid": 292733,
       "name": "Izzet Boilerworks",
       "number": "34",
@@ -2513,7 +2480,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "35",
       "multiverseid": 292762,
       "name": "Lonely Sandbar",
       "number": "35",
@@ -2581,7 +2547,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "36",
       "multiverseid": 292737,
       "name": "Nivix, Aerie of the Firemind",
       "number": "36",
@@ -2879,7 +2844,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3166,7 +3134,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3453,7 +3424,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3740,7 +3714,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4033,7 +4010,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4326,7 +4306,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4619,7 +4602,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4912,7 +4898,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4976,7 +4965,6 @@
         }
       ],
       "manaCost": "{B}{B}{G}{G}",
-      "mciNumber": "45",
       "multiverseid": 292771,
       "name": "Jarad, Golgari Lich Lord",
       "number": "45",
@@ -5065,7 +5053,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "46",
       "multiverseid": 338396,
       "name": "Plagued Rusalka",
       "number": "46",
@@ -5133,7 +5120,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "47",
       "multiverseid": 292942,
       "name": "Elves of Deep Shadow",
       "number": "47",
@@ -5201,7 +5187,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "48",
       "multiverseid": 292953,
       "name": "Golgari Thug",
       "number": "48",
@@ -5285,7 +5270,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "49",
       "multiverseid": 338404,
       "name": "Ravenous Rats",
       "number": "49",
@@ -5356,7 +5340,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "50",
       "multiverseid": 338402,
       "name": "Reassembling Skeleton",
       "number": "50",
@@ -5369,7 +5352,8 @@
         "M12",
         "DDJ",
         "DDK",
-        "MM2"
+        "MM2",
+        "M19"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -5426,7 +5410,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "51",
       "multiverseid": 338400,
       "name": "Boneyard Wurm",
       "number": "51",
@@ -5499,7 +5482,6 @@
         }
       ],
       "manaCost": "{B}{G}",
-      "mciNumber": "52",
       "multiverseid": 338415,
       "name": "Korozda Guildmage",
       "number": "52",
@@ -5576,7 +5558,6 @@
         }
       ],
       "manaCost": "{B}{G}",
-      "mciNumber": "53",
       "multiverseid": 338388,
       "name": "Putrid Leech",
       "number": "53",
@@ -5642,7 +5623,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "54",
       "multiverseid": 292958,
       "name": "Stinkweed Imp",
       "number": "54",
@@ -5728,7 +5708,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "55",
       "multiverseid": 292966,
       "name": "Eternal Witness",
       "number": "55",
@@ -5800,7 +5779,6 @@
         }
       ],
       "manaCost": "{1}{B}{G}",
-      "mciNumber": "56",
       "multiverseid": 338412,
       "name": "Dreg Mangler",
       "number": "56",
@@ -5874,7 +5852,6 @@
         }
       ],
       "manaCost": "{1}{B}{G}",
-      "mciNumber": "57",
       "multiverseid": 292957,
       "name": "Shambling Shell",
       "number": "57",
@@ -5939,7 +5916,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "58",
       "multiverseid": 338401,
       "name": "Brain Weevil",
       "number": "58",
@@ -6010,7 +5986,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "59",
       "multiverseid": 338472,
       "name": "Greater Mossdog",
       "number": "59",
@@ -6090,7 +6065,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "60",
       "multiverseid": 338406,
       "name": "Golgari Grave-Troll",
       "number": "60",
@@ -6170,7 +6144,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "61",
       "multiverseid": 338403,
       "name": "Stingerfling Spider",
       "number": "61",
@@ -6238,7 +6211,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "62",
       "multiverseid": 338408,
       "name": "Sadistic Hypnotist",
       "number": "62",
@@ -6312,7 +6284,6 @@
         }
       ],
       "manaCost": "{3}{B}{G}",
-      "mciNumber": "63",
       "multiverseid": 292951,
       "name": "Golgari Rotwurm",
       "number": "63",
@@ -6380,7 +6351,6 @@
         }
       ],
       "manaCost": "{3}{B/G}{B/G}{B/G}",
-      "mciNumber": "64",
       "multiverseid": 338391,
       "name": "Gleancrawler",
       "number": "64",
@@ -6455,7 +6425,6 @@
         }
       ],
       "manaCost": "{4}{B/G}{B/G}{B/G}",
-      "mciNumber": "65",
       "multiverseid": 292979,
       "name": "Doomgape",
       "number": "65",
@@ -6524,7 +6493,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "66",
       "multiverseid": 292952,
       "name": "Golgari Signet",
       "number": "66",
@@ -6585,7 +6553,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "67",
       "multiverseid": 338407,
       "name": "Ghoul's Feast",
       "number": "67",
@@ -6645,7 +6612,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "68",
       "multiverseid": 338474,
       "name": "Yoke of the Damned",
       "number": "68",
@@ -6707,7 +6673,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "69",
       "multiverseid": 338409,
       "name": "Life from the Loam",
       "number": "69",
@@ -6784,7 +6749,6 @@
         }
       ],
       "manaCost": "{1}{B}{G}",
-      "mciNumber": "70",
       "multiverseid": 292948,
       "name": "Golgari Germination",
       "number": "70",
@@ -6851,7 +6815,6 @@
         }
       ],
       "manaCost": "{1}{B}{G}",
-      "mciNumber": "71",
       "multiverseid": 292956,
       "name": "Putrefy",
       "number": "71",
@@ -6919,7 +6882,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "72",
       "multiverseid": 338405,
       "name": "Feast or Famine",
       "number": "72",
@@ -6979,7 +6941,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "73",
       "multiverseid": 338410,
       "name": "Nightmare Void",
       "number": "73",
@@ -7058,7 +7019,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "74",
       "multiverseid": 338473,
       "name": "Vigor Mortis",
       "number": "74",
@@ -7124,7 +7084,6 @@
         }
       ],
       "manaCost": "{5}{G}",
-      "mciNumber": "75",
       "multiverseid": 338390,
       "name": "Grim Flowering",
       "number": "75",
@@ -7188,7 +7147,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "76",
       "multiverseid": 338399,
       "name": "Twilight's Call",
       "number": "76",
@@ -7254,7 +7212,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "77a",
       "multiverseid": 292976,
       "name": "Life",
       "names": [
@@ -7321,7 +7278,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "77b",
       "multiverseid": 292976,
       "name": "Death",
       "names": [
@@ -7377,7 +7333,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "78",
       "multiverseid": 292964,
       "name": "Barren Moor",
       "number": "78",
@@ -7447,7 +7402,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "79",
       "multiverseid": 292984,
       "name": "Dakmor Salvage",
       "number": "79",
@@ -7518,7 +7472,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "80",
       "multiverseid": 292950,
       "name": "Golgari Rot Farm",
       "number": "80",
@@ -7587,7 +7540,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "81",
       "multiverseid": 292959,
       "name": "Svogthos, the Restless Tomb",
       "number": "81",
@@ -7653,7 +7605,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "82",
       "multiverseid": 292969,
       "name": "Tranquil Thicket",
       "number": "82",
@@ -7956,7 +7907,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8246,7 +8200,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8536,7 +8493,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8826,7 +8786,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9116,7 +9079,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9406,7 +9372,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9696,7 +9665,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9986,7 +9958,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

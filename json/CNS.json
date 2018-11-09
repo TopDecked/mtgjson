@@ -66,7 +66,6 @@
           "legality": "Banned"
         }
       ],
-      "mciNumber": "1",
       "multiverseid": 382206,
       "name": "Advantageous Proclamation",
       "number": "1",
@@ -153,7 +152,6 @@
           "legality": "Banned"
         }
       ],
-      "mciNumber": "2",
       "multiverseid": 382216,
       "name": "Backup Plan",
       "number": "2",
@@ -239,7 +237,6 @@
           "legality": "Banned"
         }
       ],
-      "mciNumber": "3",
       "multiverseid": 382222,
       "name": "Brago's Favor",
       "number": "3",
@@ -361,7 +358,6 @@
           "legality": "Banned"
         }
       ],
-      "mciNumber": "4",
       "multiverseid": 382253,
       "name": "Double Stroke",
       "number": "4",
@@ -495,7 +491,6 @@
           "legality": "Banned"
         }
       ],
-      "mciNumber": "5",
       "multiverseid": 382289,
       "name": "Immediate Action",
       "number": "5",
@@ -605,7 +600,6 @@
           "legality": "Banned"
         }
       ],
-      "mciNumber": "6",
       "multiverseid": 382292,
       "name": "Iterative Analysis",
       "number": "6",
@@ -715,7 +709,6 @@
           "legality": "Banned"
         }
       ],
-      "mciNumber": "7",
       "multiverseid": 382315,
       "name": "Muzzio's Preparations",
       "number": "7",
@@ -793,7 +786,6 @@
           "legality": "Banned"
         }
       ],
-      "mciNumber": "8",
       "multiverseid": 382332,
       "name": "Power Play",
       "number": "8",
@@ -875,7 +867,6 @@
           "legality": "Banned"
         }
       ],
-      "mciNumber": "9",
       "multiverseid": 382355,
       "name": "Secret Summoning",
       "number": "9",
@@ -985,7 +976,6 @@
           "legality": "Banned"
         }
       ],
-      "mciNumber": "10",
       "multiverseid": 382356,
       "name": "Secrets of Paradise",
       "number": "10",
@@ -1096,7 +1086,6 @@
           "legality": "Banned"
         }
       ],
-      "mciNumber": "11",
       "multiverseid": 382360,
       "name": "Sentinel Dispatch",
       "number": "11",
@@ -1174,7 +1163,6 @@
           "legality": "Banned"
         }
       ],
-      "mciNumber": "12",
       "multiverseid": 382393,
       "name": "Unexpected Potential",
       "number": "12",
@@ -1284,7 +1272,6 @@
           "legality": "Banned"
         }
       ],
-      "mciNumber": "13",
       "multiverseid": 382411,
       "name": "Worldknit",
       "number": "13",
@@ -1374,7 +1361,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "14",
       "multiverseid": 382223,
       "name": "Brago's Representative",
       "number": "14",
@@ -1449,7 +1435,6 @@
         }
       ],
       "manaCost": "{5}{W}",
-      "mciNumber": "15",
       "multiverseid": 382238,
       "name": "Council Guardian",
       "number": "15",
@@ -1541,7 +1526,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "16",
       "multiverseid": 382239,
       "name": "Council's Judgment",
       "number": "16",
@@ -1627,7 +1611,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "17",
       "multiverseid": 382242,
       "name": "Custodi Soulbinders",
       "number": "17",
@@ -1689,7 +1672,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "18",
       "multiverseid": 382243,
       "name": "Custodi Squire",
       "number": "18",
@@ -1781,7 +1763,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "19",
       "multiverseid": 382348,
       "name": "Rousing of Souls",
       "number": "19",
@@ -1842,7 +1823,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "20",
       "multiverseid": 382205,
       "name": "Academy Elite",
       "number": "20",
@@ -1906,7 +1886,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "21",
       "multiverseid": 382304,
       "name": "Marchesa's Emissary",
       "number": "21",
@@ -1986,7 +1965,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "22",
       "multiverseid": 382305,
       "name": "Marchesa's Infiltrator",
       "number": "22",
@@ -2065,7 +2043,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "23",
       "multiverseid": 382314,
       "name": "Muzzio, Visionary Architect",
       "number": "23",
@@ -2136,7 +2113,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "24",
       "multiverseid": 382329,
       "name": "Plea for Power",
       "number": "24",
@@ -2214,7 +2190,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "25",
       "multiverseid": 382371,
       "name": "Split Decision",
       "number": "25",
@@ -2311,7 +2286,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "26",
       "multiverseid": 382219,
       "name": "Bite of the Black Rose",
       "number": "26",
@@ -2392,7 +2366,6 @@
         }
       ],
       "manaCost": "{4}{B}",
-      "mciNumber": "27",
       "multiverseid": 382254,
       "name": "Drakestown Forgotten",
       "number": "27",
@@ -2460,7 +2433,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "28",
       "multiverseid": 382280,
       "name": "Grudge Keeper",
       "number": "28",
@@ -2539,7 +2511,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "29",
       "multiverseid": 382343,
       "name": "Reign of the Pit",
       "number": "29",
@@ -2605,7 +2576,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "30",
       "multiverseid": 382391,
       "name": "Tyrant's Choice",
       "number": "30",
@@ -2688,7 +2658,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "31",
       "multiverseid": 382261,
       "name": "Enraged Revolutionary",
       "number": "31",
@@ -2768,7 +2737,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "32",
       "multiverseid": 382277,
       "name": "Grenzo's Cutthroat",
       "number": "32",
@@ -2847,7 +2815,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "33",
       "multiverseid": 382278,
       "name": "Grenzo's Rebuttal",
       "number": "33",
@@ -2920,7 +2887,6 @@
         }
       ],
       "manaCost": "{5}{R}{R}",
-      "mciNumber": "34",
       "multiverseid": 382287,
       "name": "Ignition Team",
       "number": "34",
@@ -3003,7 +2969,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "35",
       "multiverseid": 382353,
       "name": "Scourge of the Throne",
       "number": "35",
@@ -3087,7 +3052,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "36",
       "multiverseid": 382386,
       "name": "Treasonous Ogre",
       "number": "36",
@@ -3167,7 +3131,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "37",
       "multiverseid": 382333,
       "name": "Predator's Howl",
       "number": "37",
@@ -3222,7 +3185,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}",
-      "mciNumber": "38",
       "multiverseid": 382339,
       "name": "Realm Seekers",
       "number": "38",
@@ -3296,7 +3258,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "39",
       "multiverseid": 382358,
       "name": "Selvala's Charge",
       "number": "39",
@@ -3357,7 +3318,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "40",
       "multiverseid": 382359,
       "name": "Selvala's Enforcer",
       "number": "40",
@@ -3431,7 +3391,6 @@
         }
       ],
       "manaCost": "{2}{W}{U}",
-      "mciNumber": "41",
       "multiverseid": 382221,
       "name": "Brago, King Eternal",
       "number": "41",
@@ -3513,7 +3472,6 @@
       ],
       "loyalty": 3,
       "manaCost": "{1}{U}{R}",
-      "mciNumber": "42",
       "multiverseid": 382244,
       "name": "Dack Fayden",
       "number": "42",
@@ -3600,7 +3558,6 @@
         }
       ],
       "manaCost": "{2}{U}{R}",
-      "mciNumber": "43",
       "multiverseid": 382245,
       "name": "Dack's Duplicate",
       "number": "43",
@@ -3718,7 +3675,6 @@
         }
       ],
       "manaCost": "{2}{B}{G}",
-      "mciNumber": "44",
       "multiverseid": 382248,
       "name": "Deathreap Ritual",
       "number": "44",
@@ -3787,7 +3743,6 @@
         }
       ],
       "manaCost": "{3}{U}{B}",
-      "mciNumber": "45",
       "multiverseid": 382264,
       "name": "Extract from Darkness",
       "number": "45",
@@ -3853,7 +3808,6 @@
         }
       ],
       "manaCost": "{R}{W}",
-      "mciNumber": "46",
       "multiverseid": 382269,
       "name": "Flamewright",
       "number": "46",
@@ -3916,7 +3870,6 @@
         }
       ],
       "manaCost": "{X}{B}{R}",
-      "mciNumber": "47",
       "multiverseid": 382276,
       "name": "Grenzo, Dungeon Warden",
       "number": "47",
@@ -3994,7 +3947,6 @@
         }
       ],
       "manaCost": "{4}{W}{B}",
-      "mciNumber": "48",
       "multiverseid": 382300,
       "name": "Magister of Worth",
       "number": "48",
@@ -4082,7 +4034,6 @@
         }
       ],
       "manaCost": "{1}{U}{B}{R}",
-      "mciNumber": "49",
       "multiverseid": 382303,
       "name": "Marchesa, the Black Rose",
       "number": "49",
@@ -4181,7 +4132,6 @@
         }
       ],
       "manaCost": "{U}{R}",
-      "mciNumber": "50",
       "multiverseid": 382306,
       "name": "Marchesa's Smuggler",
       "number": "50",
@@ -4263,7 +4213,6 @@
         }
       ],
       "manaCost": "{1}{G}{W}",
-      "mciNumber": "51",
       "multiverseid": 382357,
       "name": "Selvala, Explorer Returned",
       "number": "51",
@@ -4345,7 +4294,6 @@
         }
       ],
       "manaCost": "{4}{G}{W}",
-      "mciNumber": "52",
       "multiverseid": 382410,
       "name": "Woodvine Elemental",
       "number": "52",
@@ -4405,7 +4353,6 @@
         }
       ],
       "manaCost": "{7}",
-      "mciNumber": "53",
       "multiverseid": 382207,
       "name": "Aether Searcher",
       "number": "53",
@@ -4498,7 +4445,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "54",
       "multiverseid": 382209,
       "name": "Agent of Acquisitions",
       "number": "54",
@@ -4563,7 +4509,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "55",
       "multiverseid": 382227,
       "name": "Canal Dredger",
       "number": "55",
@@ -4632,7 +4577,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "56",
       "multiverseid": 382231,
       "name": "Coercive Portal",
       "number": "56",
@@ -4704,7 +4648,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "57",
       "multiverseid": 382232,
       "name": "Cogwork Grinder",
       "number": "57",
@@ -4786,7 +4729,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "58",
       "multiverseid": 382233,
       "name": "Cogwork Librarian",
       "number": "58",
@@ -4856,7 +4798,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "59",
       "multiverseid": 382234,
       "name": "Cogwork Spy",
       "number": "59",
@@ -4922,7 +4863,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "60",
       "multiverseid": 382235,
       "name": "Cogwork Tracker",
       "number": "60",
@@ -5000,7 +4940,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "61",
       "multiverseid": 382246,
       "name": "Deal Broker",
       "number": "61",
@@ -5090,7 +5029,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "62",
       "multiverseid": 382298,
       "name": "Lore Seeker",
       "number": "62",
@@ -5163,7 +5101,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "63",
       "multiverseid": 382299,
       "name": "Lurking Automaton",
       "number": "63",
@@ -5229,7 +5166,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "64",
       "multiverseid": 382406,
       "name": "Whispergear Sneak",
       "number": "64",
@@ -5297,7 +5233,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "65",
       "multiverseid": 382320,
       "name": "Paliano, the High City",
       "number": "65",
@@ -5370,7 +5305,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "66",
       "multiverseid": 382211,
       "name": "Ajani's Sunstriker",
       "number": "66",
@@ -5440,7 +5374,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "67",
       "multiverseid": 382214,
       "name": "Apex Hawks",
       "number": "67",
@@ -5510,7 +5443,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "68",
       "multiverseid": 382240,
       "name": "Courier Hawk",
       "number": "68",
@@ -5580,7 +5512,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "69",
       "multiverseid": 382252,
       "name": "Doomed Traveler",
       "number": "69",
@@ -5656,7 +5587,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "70",
       "multiverseid": 382274,
       "name": "Glimmerpoint Stag",
       "number": "70",
@@ -5744,7 +5674,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "71",
       "multiverseid": 382281,
       "name": "Guardian Zendikon",
       "number": "71",
@@ -5838,7 +5767,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "72",
       "multiverseid": 382291,
       "name": "Intangible Virtue",
       "number": "72",
@@ -5902,7 +5830,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "73",
       "multiverseid": 382294,
       "name": "Kor Chant",
       "number": "73",
@@ -5968,7 +5895,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "74",
       "multiverseid": 382311,
       "name": "Moment of Heroism",
       "number": "74",
@@ -6036,7 +5962,6 @@
         }
       ],
       "manaCost": "{5}{W}",
-      "mciNumber": "75",
       "multiverseid": 382318,
       "name": "Noble Templar",
       "number": "75",
@@ -6111,7 +6036,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "76",
       "multiverseid": 382325,
       "name": "Pillarfield Ox",
       "number": "76",
@@ -6177,7 +6101,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "77",
       "multiverseid": 382334,
       "name": "Pride Guardian",
       "number": "77",
@@ -6253,7 +6176,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "78",
       "multiverseid": 382335,
       "name": "Pristine Angel",
       "number": "78",
@@ -6323,7 +6245,6 @@
         }
       ],
       "manaCost": "{6}{W}{W}{W}",
-      "mciNumber": "79",
       "multiverseid": 382347,
       "name": "Reya Dawnbringer",
       "number": "79",
@@ -6396,7 +6317,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "80",
       "multiverseid": 382349,
       "name": "Rout",
       "number": "80",
@@ -6462,7 +6382,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "81",
       "multiverseid": 382363,
       "name": "Silverchase Fox",
       "number": "81",
@@ -6529,7 +6448,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "82",
       "multiverseid": 382368,
       "name": "Soulcatcher",
       "number": "82",
@@ -6603,7 +6521,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "83",
       "multiverseid": 382376,
       "name": "Stave Off",
       "number": "83",
@@ -6671,7 +6588,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "84",
       "multiverseid": 382380,
       "name": "Swords to Plowshares",
       "number": "84",
@@ -6765,7 +6681,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "85",
       "multiverseid": 382395,
       "name": "Unquestioned Authority",
       "number": "85",
@@ -6833,7 +6748,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "86",
       "multiverseid": 382396,
       "name": "Valor Made Real",
       "number": "86",
@@ -6890,7 +6804,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "87",
       "multiverseid": 382402,
       "name": "Vow of Duty",
       "number": "87",
@@ -6961,7 +6874,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "88",
       "multiverseid": 382404,
       "name": "Wakestone Gargoyle",
       "number": "88",
@@ -7049,7 +6961,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "89",
       "multiverseid": 382208,
       "name": "Aether Tradewinds",
       "number": "89",
@@ -7117,7 +7028,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "90",
       "multiverseid": 382210,
       "name": "Air Servant",
       "number": "90",
@@ -7190,7 +7100,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "91",
       "multiverseid": 382224,
       "name": "Brainstorm",
       "number": "91",
@@ -7269,7 +7178,6 @@
         }
       ],
       "manaCost": "{X}{U}",
-      "mciNumber": "92",
       "multiverseid": 382225,
       "name": "Breakthrough",
       "number": "92",
@@ -7334,7 +7242,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "93",
       "multiverseid": 382236,
       "name": "Compulsive Research",
       "number": "93",
@@ -7407,7 +7314,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "94",
       "multiverseid": 382241,
       "name": "Crookclaw Transmuter",
       "number": "94",
@@ -7488,7 +7394,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "95",
       "multiverseid": 382255,
       "name": "Dream Fracture",
       "number": "95",
@@ -7552,7 +7457,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "96",
       "multiverseid": 382260,
       "name": "Enclave Elite",
       "number": "96",
@@ -7619,7 +7523,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "97",
       "multiverseid": 382265,
       "name": "Fact or Fiction",
       "number": "97",
@@ -7710,7 +7613,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "98",
       "multiverseid": 382266,
       "name": "Favorable Winds",
       "number": "98",
@@ -7719,7 +7621,8 @@
       "printings": [
         "AVR",
         "CNS",
-        "XLN"
+        "XLN",
+        "GNT"
       ],
       "rarity": "Uncommon",
       "text": "Creatures you control with flying get +1/+1.",
@@ -7776,7 +7679,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "99",
       "multiverseid": 382279,
       "name": "Grixis Illusionist",
       "number": "99",
@@ -7857,7 +7759,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "100",
       "multiverseid": 382293,
       "name": "Jetting Glasskite",
       "number": "100",
@@ -7928,7 +7829,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "101",
       "multiverseid": 382307,
       "name": "Minamo Scrollkeeper",
       "number": "101",
@@ -8000,7 +7900,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "102",
       "multiverseid": 382310,
       "name": "Misdirection",
       "number": "102",
@@ -8100,7 +7999,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "103",
       "multiverseid": 382328,
       "name": "Plated Seastrider",
       "number": "103",
@@ -8172,7 +8070,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "104",
       "multiverseid": 382340,
       "name": "Reckless Scholar",
       "number": "104",
@@ -8184,7 +8081,8 @@
         "CNS",
         "SOI",
         "E01",
-        "BBD"
+        "BBD",
+        "GNT"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -8241,7 +8139,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "105",
       "multiverseid": 382354,
       "name": "Screaming Seahawk",
       "number": "105",
@@ -8312,7 +8209,6 @@
         }
       ],
       "manaCost": "{5}{U}",
-      "mciNumber": "106",
       "multiverseid": 382361,
       "name": "Shoreline Ranger",
       "number": "106",
@@ -8385,7 +8281,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "107",
       "multiverseid": 382375,
       "name": "Stasis Cell",
       "number": "107",
@@ -8449,7 +8344,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "108",
       "multiverseid": 382377,
       "name": "Stifle",
       "number": "108",
@@ -8525,7 +8419,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "109",
       "multiverseid": 382385,
       "name": "Traveler's Cloak",
       "number": "109",
@@ -8599,7 +8492,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "110",
       "multiverseid": 382388,
       "name": "Turn the Tide",
       "number": "110",
@@ -8666,7 +8558,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "111",
       "multiverseid": 382407,
       "name": "Wind Dancer",
       "number": "111",
@@ -8742,7 +8633,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "112",
       "multiverseid": 382213,
       "name": "Altar's Reap",
       "number": "112",
@@ -8823,7 +8713,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "113",
       "multiverseid": 382215,
       "name": "Assassinate",
       "number": "113",
@@ -8890,7 +8779,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "114",
       "multiverseid": 382288,
       "name": "Ill-Gotten Gains",
       "number": "114",
@@ -8961,7 +8849,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "115",
       "multiverseid": 382290,
       "name": "Infectious Horror",
       "number": "115",
@@ -8971,7 +8858,8 @@
       "printings": [
         "CON",
         "ARC",
-        "CNS"
+        "CNS",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -9029,7 +8917,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "116",
       "multiverseid": 382296,
       "name": "Liliana's Specter",
       "number": "116",
@@ -9102,7 +8989,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "117",
       "multiverseid": 382301,
       "name": "Magus of the Mirror",
       "number": "117",
@@ -9183,7 +9069,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "118",
       "multiverseid": 382312,
       "name": "Morkrut Banshee",
       "number": "118",
@@ -9259,7 +9144,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "119",
       "multiverseid": 382317,
       "name": "Necromantic Thirst",
       "number": "119",
@@ -9332,7 +9216,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}{B}{B}",
-      "mciNumber": "120",
       "multiverseid": 382324,
       "name": "Phage the Untouchable",
       "number": "120",
@@ -9417,7 +9300,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "121",
       "multiverseid": 382327,
       "name": "Plagued Rusalka",
       "number": "121",
@@ -9488,7 +9370,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "122",
       "multiverseid": 382337,
       "name": "Quag Vampires",
       "number": "122",
@@ -9559,7 +9440,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "123",
       "multiverseid": 382341,
       "name": "Reckless Spite",
       "number": "123",
@@ -9623,7 +9503,6 @@
         }
       ],
       "manaCost": "{X}{B}",
-      "mciNumber": "124",
       "multiverseid": 382364,
       "name": "Skeletal Scrying",
       "number": "124",
@@ -9690,7 +9569,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "125",
       "multiverseid": 382367,
       "name": "Smallpox",
       "number": "125",
@@ -9763,7 +9641,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "126",
       "multiverseid": 382378,
       "name": "Stronghold Discipline",
       "number": "126",
@@ -9825,7 +9702,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "127",
       "multiverseid": 382381,
       "name": "Syphon Soul",
       "number": "127",
@@ -9894,7 +9770,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "128",
       "multiverseid": 382384,
       "name": "Tragic Slip",
       "number": "128",
@@ -9965,7 +9840,6 @@
         }
       ],
       "manaCost": "{5}{B}",
-      "mciNumber": "129",
       "multiverseid": 382389,
       "name": "Twisted Abomination",
       "number": "129",
@@ -10065,7 +9939,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "130",
       "multiverseid": 382390,
       "name": "Typhoid Rats",
       "number": "130",
@@ -10137,7 +10010,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "131",
       "multiverseid": 382394,
       "name": "Unhallowed Pact",
       "number": "131",
@@ -10216,7 +10088,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "132",
       "multiverseid": 382397,
       "name": "Vampire Hexmage",
       "number": "132",
@@ -10294,7 +10165,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "133",
       "multiverseid": 382400,
       "name": "Victimize",
       "number": "133",
@@ -10385,7 +10255,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "134",
       "multiverseid": 382403,
       "name": "Wakedancer",
       "number": "134",
@@ -10453,7 +10322,6 @@
         }
       ],
       "manaCost": "{4}{B}",
-      "mciNumber": "135",
       "multiverseid": 382414,
       "name": "Zombie Goliath",
       "number": "135",
@@ -10524,7 +10392,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "136",
       "multiverseid": 382217,
       "name": "Barbed Shocker",
       "number": "136",
@@ -10604,7 +10471,6 @@
         }
       ],
       "manaCost": "{5}{R}{R}",
-      "mciNumber": "137",
       "multiverseid": 382220,
       "name": "Boldwyr Intimidator",
       "number": "137",
@@ -10691,7 +10557,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "138",
       "multiverseid": 382226,
       "name": "Brimstone Volley",
       "number": "138",
@@ -10751,7 +10616,6 @@
         }
       ],
       "manaCost": "{5}{R}",
-      "mciNumber": "139",
       "multiverseid": 382229,
       "name": "Chartooth Cougar",
       "number": "139",
@@ -10846,7 +10710,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "140",
       "multiverseid": 382230,
       "name": "Cinder Wall",
       "number": "140",
@@ -10917,7 +10780,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "141",
       "multiverseid": 382247,
       "name": "Deathforge Shaman",
       "number": "141",
@@ -10988,7 +10850,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "142",
       "multiverseid": 382270,
       "name": "Flaring Flame-Kin",
       "number": "142",
@@ -11055,7 +10916,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "143",
       "multiverseid": 382271,
       "name": "Flowstone Blade",
       "number": "143",
@@ -11124,7 +10984,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "144",
       "multiverseid": 382282,
       "name": "Heartless Hidetsugu",
       "number": "144",
@@ -11198,7 +11057,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "145",
       "multiverseid": 382283,
       "name": "Heckling Fiends",
       "number": "145",
@@ -11270,7 +11128,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "146",
       "multiverseid": 382297,
       "name": "Lizard Warrior",
       "number": "146",
@@ -11339,7 +11196,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "147",
       "multiverseid": 382302,
       "name": "Mana Geyser",
       "number": "147",
@@ -11404,7 +11260,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "148",
       "multiverseid": 382319,
       "name": "Orcish Cannonade",
       "number": "148",
@@ -11470,7 +11325,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "149",
       "multiverseid": 382326,
       "name": "Pitchburn Devils",
       "number": "149",
@@ -11541,7 +11395,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "150",
       "multiverseid": 382331,
       "name": "Power of Fire",
       "number": "150",
@@ -11608,7 +11461,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "151",
       "multiverseid": 382365,
       "name": "Skitter of Lizards",
       "number": "151",
@@ -11673,7 +11525,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "152",
       "multiverseid": 382379,
       "name": "Sulfuric Vortex",
       "number": "152",
@@ -11741,7 +11592,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "153",
       "multiverseid": 382383,
       "name": "Torch Fiend",
       "number": "153",
@@ -11817,7 +11667,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "154",
       "multiverseid": 382387,
       "name": "Trumpet Blast",
       "number": "154",
@@ -11832,7 +11681,8 @@
         "CN2",
         "IMA",
         "A25",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -11902,7 +11752,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "155",
       "multiverseid": 382392,
       "name": "Uncontrollable Anger",
       "number": "155",
@@ -11971,7 +11820,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "156",
       "multiverseid": 382399,
       "name": "Vent Sentinel",
       "number": "156",
@@ -12042,7 +11890,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "157",
       "multiverseid": 382401,
       "name": "Volcanic Fallout",
       "number": "157",
@@ -12115,7 +11962,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "158",
       "multiverseid": 382412,
       "name": "Wrap in Flames",
       "number": "158",
@@ -12196,7 +12042,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "159",
       "multiverseid": 382228,
       "name": "Charging Rhino",
       "number": "159",
@@ -12269,7 +12114,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "160",
       "multiverseid": 382237,
       "name": "Copperhorn Scout",
       "number": "160",
@@ -12351,7 +12195,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "161",
       "multiverseid": 382256,
       "name": "Echoing Courage",
       "number": "161",
@@ -12432,7 +12275,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "162",
       "multiverseid": 382258,
       "name": "Elephant Guide",
       "number": "162",
@@ -12505,7 +12347,6 @@
         }
       ],
       "manaCost": "{5}{G}",
-      "mciNumber": "163",
       "multiverseid": 382259,
       "name": "Elvish Aberration",
       "number": "163",
@@ -12595,7 +12436,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "164",
       "multiverseid": 382262,
       "name": "Exploration",
       "number": "164",
@@ -12655,7 +12495,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "165",
       "multiverseid": 382273,
       "name": "Gamekeeper",
       "number": "165",
@@ -12735,7 +12574,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "166",
       "multiverseid": 382275,
       "name": "Gnarlid Pack",
       "number": "166",
@@ -12801,7 +12639,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "167",
       "multiverseid": 382284,
       "name": "Howling Wolf",
       "number": "167",
@@ -12871,7 +12708,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "168",
       "multiverseid": 382285,
       "name": "Hunger of the Howlpack",
       "number": "168",
@@ -12928,7 +12764,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}",
-      "mciNumber": "169",
       "multiverseid": 382286,
       "name": "Hydra Omnivore",
       "number": "169",
@@ -13003,7 +12838,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "170",
       "multiverseid": 382295,
       "name": "Lead the Stampede",
       "number": "170",
@@ -13071,7 +12905,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "171",
       "multiverseid": 382316,
       "name": "Nature's Claim",
       "number": "171",
@@ -13144,7 +12977,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}{G}",
-      "mciNumber": "172",
       "multiverseid": 382322,
       "name": "Pelakka Wurm",
       "number": "172",
@@ -13154,7 +12986,8 @@
       "printings": [
         "ROE",
         "CNS",
-        "MM2"
+        "MM2",
+        "M19"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -13223,7 +13056,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "173",
       "multiverseid": 382330,
       "name": "Plummet",
       "number": "173",
@@ -13242,7 +13074,8 @@
         "BFZ",
         "CN2",
         "RIX",
-        "A25"
+        "A25",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Destroy target creature with flying.",
@@ -13295,7 +13128,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "174",
       "multiverseid": 382336,
       "name": "Provoke",
       "number": "174",
@@ -13368,7 +13200,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "175",
       "multiverseid": 382345,
       "name": "Relic Crush",
       "number": "175",
@@ -13431,7 +13262,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "176",
       "multiverseid": 382346,
       "name": "Respite",
       "number": "176",
@@ -13496,7 +13326,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "177",
       "multiverseid": 382351,
       "name": "Sakura-Tribe Elder",
       "number": "177",
@@ -13575,7 +13404,6 @@
         }
       ],
       "manaCost": "{7}{G}",
-      "mciNumber": "178",
       "multiverseid": 382352,
       "name": "Scaled Wurm",
       "number": "178",
@@ -13648,7 +13476,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "179",
       "multiverseid": 382373,
       "name": "Sporecap Spider",
       "number": "179",
@@ -13714,7 +13541,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "180",
       "multiverseid": 382374,
       "name": "Squirrel Nest",
       "number": "180",
@@ -13787,7 +13613,6 @@
         }
       ],
       "manaCost": "{6}{G}{G}",
-      "mciNumber": "181",
       "multiverseid": 382382,
       "name": "Terastodon",
       "number": "181",
@@ -13871,7 +13696,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "182",
       "multiverseid": 382408,
       "name": "Wolfbriar Elemental",
       "number": "182",
@@ -13944,7 +13768,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "183",
       "multiverseid": 382413,
       "name": "Wrap in Vigor",
       "number": "183",
@@ -14009,7 +13832,6 @@
         }
       ],
       "manaCost": "{3}{R}{W}",
-      "mciNumber": "184",
       "multiverseid": 382218,
       "name": "Basandra, Battle Seraph",
       "number": "184",
@@ -14096,7 +13918,6 @@
         }
       ],
       "manaCost": "{2}{R}{G}",
-      "mciNumber": "185",
       "multiverseid": 382250,
       "name": "Decimate",
       "number": "185",
@@ -14170,7 +13991,6 @@
         }
       ],
       "manaCost": "{1}{U}{B}",
-      "mciNumber": "186",
       "multiverseid": 382251,
       "name": "Dimir Doppelganger",
       "number": "186",
@@ -14244,7 +14064,6 @@
         }
       ],
       "manaCost": "{1}{G}{U}",
-      "mciNumber": "187",
       "multiverseid": 382257,
       "name": "Edric, Spymaster of Trest",
       "number": "187",
@@ -14329,7 +14148,6 @@
         }
       ],
       "manaCost": "{1}{R}{G}",
-      "mciNumber": "188",
       "multiverseid": 382267,
       "name": "Fires of Yavimaya",
       "number": "188",
@@ -14399,7 +14217,6 @@
         }
       ],
       "manaCost": "{3}{G}{W}",
-      "mciNumber": "189",
       "multiverseid": 382308,
       "name": "Mirari's Wake",
       "number": "189",
@@ -14469,7 +14286,6 @@
         }
       ],
       "manaCost": "{1}{W}{B}",
-      "mciNumber": "190",
       "multiverseid": 382313,
       "name": "Mortify",
       "number": "190",
@@ -14545,7 +14361,6 @@
         }
       ],
       "manaCost": "{1}{B}{G}",
-      "mciNumber": "191",
       "multiverseid": 382323,
       "name": "Pernicious Deed",
       "number": "191",
@@ -14620,7 +14435,6 @@
         }
       ],
       "manaCost": "{1}{W}{U}",
-      "mciNumber": "192",
       "multiverseid": 382366,
       "name": "Sky Spirit",
       "number": "192",
@@ -14688,7 +14502,6 @@
         }
       ],
       "manaCost": "{3}{B}{G}",
-      "mciNumber": "193",
       "multiverseid": 382370,
       "name": "Spiritmonger",
       "number": "193",
@@ -14759,7 +14572,6 @@
         }
       ],
       "manaCost": "{1}{B}{R}",
-      "mciNumber": "194",
       "multiverseid": 382372,
       "name": "Spontaneous Combustion",
       "number": "194",
@@ -14831,7 +14643,6 @@
         }
       ],
       "manaCost": "{G}{U}",
-      "mciNumber": "195",
       "multiverseid": 382409,
       "name": "Wood Sage",
       "number": "195",
@@ -14893,7 +14704,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "196",
       "multiverseid": 382212,
       "name": "Altar of Dementia",
       "number": "196",
@@ -14951,7 +14761,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "197",
       "multiverseid": 382249,
       "name": "Deathrender",
       "number": "197",
@@ -15018,7 +14827,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "198",
       "multiverseid": 382263,
       "name": "Explorer's Scope",
       "number": "198",
@@ -15080,7 +14888,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "199",
       "multiverseid": 382268,
       "name": "Fireshrieker",
       "number": "199",
@@ -15142,7 +14949,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "200",
       "multiverseid": 382272,
       "name": "Galvanic Juggernaut",
       "number": "200",
@@ -15207,7 +15013,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "201",
       "multiverseid": 382321,
       "name": "Peace Strider",
       "number": "201",
@@ -15273,7 +15078,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "202",
       "multiverseid": 382344,
       "name": "Reito Lantern",
       "number": "202",
@@ -15332,7 +15136,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "203",
       "multiverseid": 382350,
       "name": "Runed Servitor",
       "number": "203",
@@ -15403,7 +15206,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "204",
       "multiverseid": 382362,
       "name": "Silent Arbiter",
       "number": "204",
@@ -15468,7 +15270,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "205",
       "multiverseid": 382369,
       "name": "Spectral Searchlight",
       "number": "205",
@@ -15534,7 +15335,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "206",
       "multiverseid": 382398,
       "name": "Vedalken Orrery",
       "number": "206",
@@ -15603,7 +15403,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "207",
       "multiverseid": 382405,
       "name": "Warmonger's Chariot",
       "number": "207",
@@ -15673,7 +15472,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "208",
       "multiverseid": 382309,
       "name": "Mirrodin's Core",
       "number": "208",
@@ -15735,7 +15533,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "209",
       "multiverseid": 382338,
       "name": "Quicksand",
       "number": "209",
@@ -15801,7 +15598,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "210",
       "multiverseid": 382342,
       "name": "Reflecting Pool",
       "number": "210",

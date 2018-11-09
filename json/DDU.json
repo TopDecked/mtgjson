@@ -49,7 +49,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "1",
       "multiverseid": 442737,
       "name": "Ezuri, Renegade Leader",
       "number": "1",
@@ -126,7 +125,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "2",
       "multiverseid": 442738,
       "name": "Dwynen, Gilt-Leaf Daen",
       "number": "2",
@@ -199,7 +197,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "3",
       "multiverseid": 442739,
       "name": "Dwynen's Elite",
       "number": "3",
@@ -260,7 +257,6 @@
         }
       ],
       "manaCost": "{5}{G}",
-      "mciNumber": "4",
       "multiverseid": 442740,
       "name": "Elvish Aberration",
       "number": "4",
@@ -345,7 +341,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "5",
       "multiverseid": 442741,
       "name": "Elvish Archdruid",
       "number": "5",
@@ -426,7 +421,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "6",
       "multiverseid": 442742,
       "name": "Elvish Branchbender",
       "number": "6",
@@ -502,7 +496,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "7",
       "multiverseid": 442743,
       "name": "Elvish Mystic",
       "number": "7",
@@ -568,7 +561,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "8",
       "multiverseid": 442744,
       "name": "Elvish Vanguard",
       "number": "8",
@@ -641,7 +633,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "9",
       "multiverseid": 442745,
       "name": "Ezuri's Archers",
       "number": "9",
@@ -708,7 +699,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "10",
       "multiverseid": 442746,
       "name": "Fierce Empath",
       "number": "10",
@@ -775,7 +765,6 @@
         }
       ],
       "manaCost": "{5}{G}{G}",
-      "mciNumber": "11",
       "multiverseid": 442747,
       "name": "Gladehart Cavalry",
       "number": "11",
@@ -868,7 +857,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "12",
       "multiverseid": 442748,
       "name": "Ivy Lane Denizen",
       "number": "12",
@@ -943,7 +931,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "13",
       "multiverseid": 442749,
       "name": "Jagged-Scar Archers",
       "number": "13",
@@ -1005,7 +992,6 @@
         }
       ],
       "manaCost": "{5}{G}{G}",
-      "mciNumber": "14",
       "multiverseid": 442750,
       "name": "Krosan Tusker",
       "number": "14",
@@ -1098,7 +1084,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "15",
       "multiverseid": 442751,
       "name": "Kujar Seedsculptor",
       "number": "15",
@@ -1169,7 +1154,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "16",
       "multiverseid": 442752,
       "name": "Lead the Stampede",
       "number": "16",
@@ -1232,7 +1216,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "17",
       "multiverseid": 442753,
       "name": "Leaf Gilder",
       "number": "17",
@@ -1299,7 +1282,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "18",
       "multiverseid": 442754,
       "name": "Llanowar Empath",
       "number": "18",
@@ -1394,7 +1376,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "19",
       "multiverseid": 442755,
       "name": "Naturalize",
       "number": "19",
@@ -1419,7 +1400,8 @@
         "KTK",
         "DTK",
         "RIX",
-        "DDU"
+        "DDU",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Destroy target artifact or enchantment.",
@@ -1475,7 +1457,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "20",
       "multiverseid": 442756,
       "name": "Nature's Way",
       "number": "20",
@@ -1552,7 +1533,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "21",
       "multiverseid": 442757,
       "name": "Nissa's Judgment",
       "number": "21",
@@ -1634,7 +1614,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}{G}",
-      "mciNumber": "22",
       "multiverseid": 442758,
       "name": "Regal Force",
       "number": "22",
@@ -1706,7 +1685,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "23",
       "multiverseid": 442759,
       "name": "Sylvan Advocate",
       "number": "23",
@@ -1783,7 +1761,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "24",
       "multiverseid": 442760,
       "name": "Talara's Battalion",
       "number": "24",
@@ -1851,7 +1828,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "25",
       "multiverseid": 442761,
       "name": "Viridian Shaman",
       "number": "25",
@@ -1920,7 +1896,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "26",
       "multiverseid": 442762,
       "name": "Wildheart Invoker",
       "number": "26",
@@ -1984,7 +1959,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "27",
       "multiverseid": 442763,
       "name": "Yeva, Nature's Herald",
       "number": "27",
@@ -2058,7 +2032,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "28",
       "multiverseid": 442764,
       "name": "Oran-Rief, the Vastwood",
       "number": "28",
@@ -2122,7 +2095,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "29",
       "multiverseid": 442765,
       "name": "Tranquil Thicket",
       "number": "29",
@@ -2193,7 +2165,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "30",
       "multiverseid": 442766,
       "name": "Treetop Village",
       "number": "30",
@@ -2497,7 +2468,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2787,7 +2761,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3077,7 +3054,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3367,7 +3347,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3425,7 +3408,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "35",
       "multiverseid": 442771,
       "name": "Goblin Welder",
       "number": "35",
@@ -3495,7 +3477,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "36",
       "multiverseid": 442772,
       "name": "Artificer's Epiphany",
       "number": "36",
@@ -3561,7 +3542,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "37",
       "multiverseid": 442773,
       "name": "Etherium Sculptor",
       "number": "37",
@@ -3643,7 +3623,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "38",
       "multiverseid": 442774,
       "name": "Faerie Mechanist",
       "number": "38",
@@ -3713,7 +3692,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "39",
       "multiverseid": 442775,
       "name": "Riddlesmith",
       "number": "39",
@@ -3778,7 +3756,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "40",
       "multiverseid": 442776,
       "name": "Treasure Mage",
       "number": "40",
@@ -3854,7 +3831,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "41",
       "multiverseid": 442777,
       "name": "Trinket Mage",
       "number": "41",
@@ -3933,7 +3909,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "42",
       "multiverseid": 442778,
       "name": "Trophy Mage",
       "number": "42",
@@ -4000,7 +3975,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "43",
       "multiverseid": 442779,
       "name": "Whirler Rogue",
       "number": "43",
@@ -4009,7 +3983,8 @@
       "power": "2",
       "printings": [
         "ORI",
-        "DDU"
+        "DDU",
+        "GNT"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -4077,7 +4052,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "44",
       "multiverseid": 442780,
       "name": "Barrage Ogre",
       "number": "44",
@@ -4142,7 +4116,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "45",
       "multiverseid": 442781,
       "name": "Galvanic Blast",
       "number": "45",
@@ -4198,7 +4171,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "46",
       "multiverseid": 442782,
       "name": "Ghirapur Gearcrafter",
       "number": "46",
@@ -4259,7 +4231,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "47",
       "multiverseid": 442783,
       "name": "Pia and Kiran Nalaar",
       "number": "47",
@@ -4330,7 +4301,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "48",
       "multiverseid": 442784,
       "name": "Shrapnel Blast",
       "number": "48",
@@ -4407,7 +4377,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "49",
       "multiverseid": 442785,
       "name": "Welding Sparks",
       "number": "49",
@@ -4482,7 +4451,6 @@
         }
       ],
       "manaCost": "{3}{U}{R}",
-      "mciNumber": "50",
       "multiverseid": 442786,
       "name": "Maverick Thopterist",
       "number": "50",
@@ -4546,7 +4514,6 @@
         }
       ],
       "manaCost": "{2}{U}{R}",
-      "mciNumber": "51",
       "multiverseid": 442787,
       "name": "Reclusive Artificer",
       "number": "51",
@@ -4616,7 +4583,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "52",
       "multiverseid": 442788,
       "name": "Darksteel Plate",
       "number": "52",
@@ -4677,7 +4643,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "53",
       "multiverseid": 442789,
       "name": "Filigree Familiar",
       "number": "53",
@@ -4686,7 +4651,8 @@
       "power": "2",
       "printings": [
         "KLD",
-        "DDU"
+        "DDU",
+        "GNT"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -4737,7 +4703,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "54",
       "multiverseid": 442790,
       "name": "Ichor Wellspring",
       "number": "54",
@@ -4802,7 +4767,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "55",
       "multiverseid": 442791,
       "name": "Inventor's Goggles",
       "number": "55",
@@ -4865,7 +4829,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "56",
       "multiverseid": 442792,
       "name": "Mycosynth Wellspring",
       "number": "56",
@@ -4926,7 +4889,6 @@
         }
       ],
       "manaCost": "{7}",
-      "mciNumber": "57",
       "multiverseid": 442793,
       "name": "Myr Battlesphere",
       "number": "57",
@@ -5004,7 +4966,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "58",
       "multiverseid": 442794,
       "name": "Myr Sire",
       "number": "58",
@@ -5068,7 +5029,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "59",
       "multiverseid": 442795,
       "name": "Neurok Replica",
       "number": "59",
@@ -5137,7 +5097,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "60",
       "multiverseid": 442796,
       "name": "Pyrite Spellbomb",
       "number": "60",
@@ -5188,7 +5147,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "61",
       "multiverseid": 442797,
       "name": "Scuttling Doom Engine",
       "number": "61",
@@ -5253,7 +5211,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "62",
       "multiverseid": 442798,
       "name": "Solemn Simulacrum",
       "number": "62",
@@ -5318,7 +5275,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "63",
       "multiverseid": 442799,
       "name": "Thopter Assembly",
       "number": "63",
@@ -5385,7 +5341,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "64",
       "multiverseid": 442800,
       "name": "Voyager Staff",
       "number": "64",
@@ -5438,7 +5393,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "65",
       "multiverseid": 442801,
       "name": "Darksteel Citadel",
       "number": "65",
@@ -5499,7 +5453,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "66",
       "multiverseid": 442802,
       "name": "Foundry of the Consuls",
       "number": "66",
@@ -5555,7 +5508,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "67",
       "multiverseid": 442803,
       "name": "Great Furnace",
       "number": "67",
@@ -5611,7 +5563,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "68",
       "multiverseid": 442804,
       "name": "Phyrexia's Core",
       "number": "68",
@@ -5674,7 +5625,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "69",
       "multiverseid": 442805,
       "name": "Seat of the Synod",
       "number": "69",
@@ -5734,7 +5684,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "70",
       "multiverseid": 442806,
       "name": "Shivan Reef",
       "number": "70",
@@ -5804,7 +5753,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "71",
       "multiverseid": 442807,
       "name": "Swiftwater Cliffs",
       "number": "71",
@@ -5866,7 +5814,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "72",
       "multiverseid": 442808,
       "name": "Temple of Epiphany",
       "number": "72",
@@ -6140,7 +6087,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -6415,7 +6365,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -6696,7 +6649,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -6977,7 +6933,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

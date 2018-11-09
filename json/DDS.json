@@ -50,7 +50,6 @@
         }
       ],
       "manaCost": "{1}{U}{R}",
-      "mciNumber": "1",
       "multiverseid": 426573,
       "name": "Jhoira of the Ghitu",
       "number": "1",
@@ -154,7 +153,6 @@
         }
       ],
       "manaCost": "{6}{U}{U}",
-      "mciNumber": "2",
       "multiverseid": 426574,
       "name": "Beacon of Tomorrows",
       "number": "2",
@@ -219,7 +217,6 @@
         }
       ],
       "manaCost": "{7}{U}{U}{U}",
-      "mciNumber": "3",
       "multiverseid": 426575,
       "name": "Deep-Sea Kraken",
       "number": "3",
@@ -322,7 +319,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "4",
       "multiverseid": 426576,
       "name": "Mind's Desire",
       "number": "4",
@@ -410,7 +406,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "5",
       "multiverseid": 426577,
       "name": "Peer Through Depths",
       "number": "5",
@@ -480,7 +475,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "6",
       "multiverseid": 426578,
       "name": "Quicken",
       "number": "6",
@@ -559,7 +553,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "7",
       "multiverseid": 426579,
       "name": "Reach Through Mists",
       "number": "7",
@@ -622,7 +615,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "8",
       "multiverseid": 426580,
       "name": "Sage-Eye Avengers",
       "number": "8",
@@ -707,7 +699,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "9",
       "multiverseid": 426581,
       "name": "Sift Through Sands",
       "number": "9",
@@ -766,7 +757,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "10",
       "multiverseid": 426582,
       "name": "Snap",
       "number": "10",
@@ -832,7 +822,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "11",
       "multiverseid": 426583,
       "name": "Talrand, Sky Summoner",
       "number": "11",
@@ -907,7 +896,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "12",
       "multiverseid": 426584,
       "name": "Temporal Fissure",
       "number": "12",
@@ -990,7 +978,6 @@
         }
       ],
       "manaCost": "{6}{U}{U}{U}",
-      "mciNumber": "13",
       "multiverseid": 426585,
       "name": "The Unspeakable",
       "number": "13",
@@ -1057,7 +1044,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "14",
       "multiverseid": 426586,
       "name": "Desperate Ritual",
       "number": "14",
@@ -1143,7 +1129,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "15",
       "multiverseid": 426587,
       "name": "Empty the Warrens",
       "number": "15",
@@ -1222,7 +1207,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "16",
       "multiverseid": 426588,
       "name": "Grapeshot",
       "number": "16",
@@ -1304,7 +1288,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "17",
       "multiverseid": 426589,
       "name": "Rift Bolt",
       "number": "17",
@@ -1408,7 +1391,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "18",
       "multiverseid": 426590,
       "name": "Shivan Meteor",
       "number": "18",
@@ -1509,7 +1491,6 @@
         }
       ],
       "manaCost": "{5}{R}{R}",
-      "mciNumber": "19",
       "multiverseid": 426591,
       "name": "Volcanic Vision",
       "number": "19",
@@ -1577,7 +1558,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "20",
       "multiverseid": 426592,
       "name": "Young Pyromancer",
       "number": "20",
@@ -1651,7 +1631,6 @@
         }
       ],
       "manaCost": "{5}{U}{R}",
-      "mciNumber": "21",
       "multiverseid": 426593,
       "name": "Firemind's Foresight",
       "number": "21",
@@ -1724,7 +1703,6 @@
         }
       ],
       "manaCost": "{U}{R}",
-      "mciNumber": "22",
       "multiverseid": 426594,
       "name": "Goblin Electromancer",
       "number": "22",
@@ -1736,7 +1714,8 @@
         "RTR",
         "C15",
         "MM3",
-        "DDS"
+        "DDS",
+        "GRN"
       ],
       "rarity": "Common",
       "rulings": [
@@ -1813,7 +1792,6 @@
         }
       ],
       "manaCost": "{1}{U}{R}",
-      "mciNumber": "23",
       "multiverseid": 426595,
       "name": "Jori En, Ruin Diver",
       "number": "23",
@@ -1894,7 +1872,6 @@
         }
       ],
       "manaCost": "{1}{U}{R}",
-      "mciNumber": "24",
       "multiverseid": 426596,
       "name": "Nivix Cyclops",
       "number": "24",
@@ -1967,7 +1944,6 @@
         }
       ],
       "manaCost": "{1}{U}{R}",
-      "mciNumber": "25",
       "multiverseid": 426597,
       "name": "Spellheart Chimera",
       "number": "25",
@@ -2041,7 +2017,6 @@
         }
       ],
       "manaCost": "{4}{U/R}{U/R}",
-      "mciNumber": "26",
       "multiverseid": 426598,
       "name": "Nucklavee",
       "number": "26",
@@ -2103,7 +2078,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "27",
       "multiverseid": 426599,
       "name": "Swiftwater Cliffs",
       "number": "27",
@@ -2388,7 +2362,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2669,7 +2646,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2950,7 +2930,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3252,7 +3235,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3557,7 +3543,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3862,7 +3851,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3927,7 +3919,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "34",
       "multiverseid": 426606,
       "name": "Lovisa Coldeyes",
       "number": "34",
@@ -4001,7 +3992,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "35",
       "multiverseid": 426607,
       "name": "Beacon of Destruction",
       "number": "35",
@@ -4072,7 +4062,6 @@
         }
       ],
       "manaCost": "{5}{R}{R}",
-      "mciNumber": "36",
       "multiverseid": 426608,
       "name": "Boldwyr Intimidator",
       "number": "36",
@@ -4151,7 +4140,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "37",
       "multiverseid": 426609,
       "name": "Firebolt",
       "number": "37",
@@ -4211,7 +4199,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "38",
       "multiverseid": 426610,
       "name": "Gorehorn Minotaurs",
       "number": "38",
@@ -4280,7 +4267,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "39",
       "multiverseid": 426611,
       "name": "Kamahl, Pit Fighter",
       "number": "39",
@@ -4359,7 +4345,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "40",
       "multiverseid": 426612,
       "name": "Kruin Striker",
       "number": "40",
@@ -4425,7 +4410,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "41",
       "multiverseid": 426613,
       "name": "Zo-Zu the Punisher",
       "number": "41",
@@ -4494,7 +4478,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "42",
       "multiverseid": 426614,
       "name": "Ambassador Oak",
       "number": "42",
@@ -4556,7 +4539,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}{G}",
-      "mciNumber": "43",
       "multiverseid": 426615,
       "name": "Beast Attack",
       "number": "43",
@@ -4621,7 +4603,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "44",
       "multiverseid": 426616,
       "name": "Call of the Herd",
       "number": "44",
@@ -4684,7 +4665,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "45",
       "multiverseid": 426617,
       "name": "Cloudcrown Oak",
       "number": "45",
@@ -4750,7 +4730,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "46",
       "multiverseid": 426618,
       "name": "Harmonize",
       "number": "46",
@@ -4826,7 +4805,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "47",
       "multiverseid": 426619,
       "name": "Increasing Savagery",
       "number": "47",
@@ -4890,7 +4868,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "48",
       "multiverseid": 426620,
       "name": "Rampant Growth",
       "number": "48",
@@ -4971,7 +4948,6 @@
         }
       ],
       "manaCost": "{6}{G}",
-      "mciNumber": "49",
       "multiverseid": 426621,
       "name": "Roar of the Wurm",
       "number": "49",
@@ -5033,7 +5009,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "50",
       "multiverseid": 426622,
       "name": "Skarrgan Pit-Skulk",
       "number": "50",
@@ -5100,7 +5075,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "51",
       "multiverseid": 426623,
       "name": "Sylvan Might",
       "number": "51",
@@ -5161,7 +5135,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "52",
       "multiverseid": 426624,
       "name": "Talara's Battalion",
       "number": "52",
@@ -5231,7 +5204,6 @@
         }
       ],
       "manaCost": "{R}{G}",
-      "mciNumber": "53",
       "multiverseid": 426625,
       "name": "Radha, Heir to Keld",
       "number": "53",
@@ -5308,7 +5280,6 @@
         }
       ],
       "manaCost": "{1}{R}{G}",
-      "mciNumber": "54",
       "multiverseid": 426626,
       "name": "Relentless Hunter",
       "number": "54",
@@ -5377,7 +5348,6 @@
         }
       ],
       "manaCost": "{R/G}{R/G}",
-      "mciNumber": "55",
       "multiverseid": 426627,
       "name": "Burning-Tree Emissary",
       "number": "55",
@@ -5452,7 +5422,6 @@
         }
       ],
       "manaCost": "{R/G}",
-      "mciNumber": "56",
       "multiverseid": 426628,
       "name": "Guttural Response",
       "number": "56",
@@ -5514,7 +5483,6 @@
         }
       ],
       "manaCost": "{1}{R/G}{R/G}{R/G}",
-      "mciNumber": "57",
       "multiverseid": 426629,
       "name": "Rubblebelt Raiders",
       "number": "57",
@@ -5580,7 +5548,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "58",
       "multiverseid": 426630,
       "name": "Coat of Arms",
       "number": "58",
@@ -5658,7 +5625,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "59",
       "multiverseid": 426631,
       "name": "Rugged Highlands",
       "number": "59",
@@ -5961,7 +5927,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -6266,7 +6235,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -6571,7 +6543,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -6858,7 +6833,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7142,7 +7120,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7426,7 +7407,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

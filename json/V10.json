@@ -37,7 +37,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "1",
       "multiverseid": 212630,
       "name": "Aether Vial",
       "number": "1",
@@ -88,7 +87,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "2",
       "multiverseid": 212636,
       "name": "Black Vise",
       "number": "2",
@@ -152,7 +150,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "3",
       "multiverseid": 212626,
       "name": "Isochron Scepter",
       "number": "3",
@@ -224,7 +221,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "4",
       "multiverseid": 212639,
       "name": "Ivory Tower",
       "number": "4",
@@ -281,7 +277,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "5",
       "multiverseid": 212627,
       "name": "Jester's Cap",
       "number": "5",
@@ -331,7 +326,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "6",
       "multiverseid": 212632,
       "name": "Karn, Silver Golem",
       "number": "6",
@@ -395,7 +389,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "7",
       "multiverseid": 212629,
       "name": "Masticore",
       "number": "7",
@@ -445,7 +438,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "8",
       "multiverseid": 212633,
       "name": "Memory Jar",
       "number": "8",
@@ -504,7 +496,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "9",
       "multiverseid": 212635,
       "name": "Mirari",
       "number": "9",
@@ -581,7 +572,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "10",
       "multiverseid": 212634,
       "name": "Mox Diamond",
       "number": "10",
@@ -627,7 +617,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "11",
       "multiverseid": 212637,
       "name": "Nevinyrral's Disk",
       "number": "11",
@@ -687,7 +676,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "12",
       "multiverseid": 212638,
       "name": "Sol Ring",
       "number": "12",
@@ -749,7 +737,6 @@
         }
       ],
       "manaCost": "{8}",
-      "mciNumber": "13",
       "multiverseid": 212631,
       "name": "Sundering Titan",
       "number": "13",
@@ -822,7 +809,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "14",
       "multiverseid": 212640,
       "name": "Sword of Body and Mind",
       "number": "14",
@@ -875,7 +861,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "15",
       "multiverseid": 212628,
       "name": "Zuran Orb",
       "number": "15",

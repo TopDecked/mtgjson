@@ -48,7 +48,6 @@
         }
       ],
       "manaCost": "{5}{W}{W}{W}",
-      "mciNumber": "1",
       "multiverseid": 193871,
       "name": "Akroma, Angel of Wrath",
       "number": "1",
@@ -115,7 +114,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "2",
       "multiverseid": 196996,
       "name": "Icatian Priest",
       "number": "2",
@@ -176,7 +174,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "3",
       "multiverseid": 197009,
       "name": "Angelic Page",
       "number": "3",
@@ -236,7 +233,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "4",
       "multiverseid": 197021,
       "name": "Charging Paladin",
       "number": "4",
@@ -299,7 +295,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "5",
       "multiverseid": 197002,
       "name": "Venerable Monk",
       "number": "5",
@@ -364,7 +359,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "6",
       "multiverseid": 197035,
       "name": "Angelic Protector",
       "number": "6",
@@ -426,7 +420,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "7",
       "multiverseid": 197006,
       "name": "Serra Advocate",
       "number": "7",
@@ -482,7 +475,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "8",
       "multiverseid": 197007,
       "name": "Sustainer of the Realm",
       "number": "8",
@@ -549,7 +541,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "9",
       "multiverseid": 196990,
       "name": "Angel of Mercy",
       "number": "9",
@@ -614,7 +605,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "10",
       "multiverseid": 196999,
       "name": "Serra Angel",
       "number": "10",
@@ -652,7 +642,8 @@
         "W17",
         "CMA",
         "IMA",
-        "DOM"
+        "DOM",
+        "GNT"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -700,7 +691,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}{W}",
-      "mciNumber": "11",
       "multiverseid": 197034,
       "name": "Twilight Shepherd",
       "number": "11",
@@ -790,7 +780,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}{W}",
-      "mciNumber": "12",
       "multiverseid": 193872,
       "name": "Luminous Angel",
       "number": "12",
@@ -849,7 +838,6 @@
         }
       ],
       "manaCost": "{6}{W}{W}{W}",
-      "mciNumber": "13",
       "multiverseid": 196998,
       "name": "Reya Dawnbringer",
       "number": "13",
@@ -917,7 +905,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "14",
       "multiverseid": 197011,
       "name": "Healing Salve",
       "number": "14",
@@ -987,7 +974,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "15",
       "multiverseid": 197014,
       "name": "Angelsong",
       "number": "15",
@@ -1047,7 +1033,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "16",
       "multiverseid": 197017,
       "name": "Otherworldly Journey",
       "number": "16",
@@ -1136,7 +1121,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "17",
       "multiverseid": 196997,
       "name": "Pacifism",
       "number": "17",
@@ -1213,7 +1197,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "18",
       "multiverseid": 197032,
       "name": "Serra's Boon",
       "number": "18",
@@ -1270,7 +1253,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "19",
       "multiverseid": 197013,
       "name": "Angelic Benediction",
       "number": "19",
@@ -1354,7 +1336,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "20",
       "multiverseid": 193869,
       "name": "Faith's Fetters",
       "number": "20",
@@ -1423,7 +1404,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "21",
       "multiverseid": 197000,
       "name": "Serra's Embrace",
       "number": "21",
@@ -1478,7 +1458,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "22",
       "multiverseid": 197030,
       "name": "Righteous Cause",
       "number": "22",
@@ -1528,7 +1507,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "23",
       "multiverseid": 196991,
       "name": "Angel's Feather",
       "number": "23",
@@ -1589,7 +1567,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "24",
       "multiverseid": 197005,
       "name": "Marble Diamond",
       "number": "24",
@@ -1637,7 +1614,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "25",
       "multiverseid": 197031,
       "name": "Secluded Steppe",
       "number": "25",
@@ -1915,7 +1891,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2180,7 +2159,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2445,7 +2427,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2710,7 +2695,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2762,7 +2750,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}{B}",
-      "mciNumber": "30",
       "multiverseid": 193868,
       "name": "Lord of the Pit",
       "number": "30",
@@ -2840,7 +2827,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "31",
       "multiverseid": 197037,
       "name": "Abyssal Gatekeeper",
       "number": "31",
@@ -2909,7 +2895,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "32",
       "multiverseid": 197012,
       "name": "Foul Imp",
       "number": "32",
@@ -2977,7 +2962,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "33",
       "multiverseid": 197022,
       "name": "Daggerclaw Imp",
       "number": "33",
@@ -3037,7 +3021,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "34",
       "multiverseid": 196995,
       "name": "Dusk Imp",
       "number": "34",
@@ -3095,7 +3078,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "35",
       "multiverseid": 197028,
       "name": "Overeager Apprentice",
       "number": "35",
@@ -3154,7 +3136,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "36",
       "multiverseid": 193870,
       "name": "Stinkweed Imp",
       "number": "36",
@@ -3233,7 +3214,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "37",
       "multiverseid": 197020,
       "name": "Soot Imp",
       "number": "37",
@@ -3302,7 +3282,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "38",
       "multiverseid": 197018,
       "name": "Demon's Jester",
       "number": "38",
@@ -3357,7 +3336,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "39",
       "multiverseid": 197036,
       "name": "Souldrinker",
       "number": "39",
@@ -3416,7 +3394,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "40",
       "multiverseid": 197008,
       "name": "Abyssal Specter",
       "number": "40",
@@ -3483,7 +3460,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "41",
       "multiverseid": 197003,
       "name": "Cackling Imp",
       "number": "41",
@@ -3538,7 +3514,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "42",
       "multiverseid": 197010,
       "name": "Fallen Angel",
       "number": "42",
@@ -3611,7 +3586,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}{B}{B}",
-      "mciNumber": "43",
       "multiverseid": 197027,
       "name": "Reiver Demon",
       "number": "43",
@@ -3677,7 +3651,6 @@
         }
       ],
       "manaCost": "{6}{B}{B}{B}",
-      "mciNumber": "44",
       "multiverseid": 197015,
       "name": "Kuro, Pitlord",
       "number": "44",
@@ -3752,7 +3725,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "45",
       "multiverseid": 197019,
       "name": "Dark Ritual",
       "number": "45",
@@ -3845,7 +3817,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "46",
       "multiverseid": 197004,
       "name": "Duress",
       "number": "46",
@@ -3868,7 +3839,8 @@
         "DTK",
         "EMA",
         "XLN",
-        "IMA"
+        "IMA",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
@@ -3909,7 +3881,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "47",
       "multiverseid": 197001,
       "name": "Unholy Strength",
       "number": "47",
@@ -3977,7 +3948,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "48",
       "multiverseid": 196993,
       "name": "Cruel Edict",
       "number": "48",
@@ -4026,7 +3996,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "49",
       "multiverseid": 193867,
       "name": "Demonic Tutor",
       "number": "49",
@@ -4110,7 +4079,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "50",
       "multiverseid": 197023,
       "name": "Dark Banishing",
       "number": "50",
@@ -4172,7 +4140,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "51",
       "multiverseid": 197016,
       "name": "Oni Possession",
       "number": "51",
@@ -4233,7 +4200,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "52",
       "multiverseid": 197025,
       "name": "Barter in Blood",
       "number": "52",
@@ -4297,7 +4263,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "53",
       "multiverseid": 197024,
       "name": "Breeding Pit",
       "number": "53",
@@ -4358,7 +4323,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}{B}",
-      "mciNumber": "54",
       "multiverseid": 197026,
       "name": "Promise of Power",
       "number": "54",
@@ -4431,7 +4395,6 @@
         }
       ],
       "manaCost": "{5}{B}",
-      "mciNumber": "55",
       "multiverseid": 197033,
       "name": "Corrupt",
       "number": "55",
@@ -4511,7 +4474,6 @@
         }
       ],
       "manaCost": "{X}{1}{B}",
-      "mciNumber": "56",
       "multiverseid": 196992,
       "name": "Consume Spirit",
       "number": "56",
@@ -4576,7 +4538,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "57",
       "multiverseid": 196994,
       "name": "Demon's Horn",
       "number": "57",
@@ -4637,7 +4598,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "58",
       "multiverseid": 197029,
       "name": "Barren Moor",
       "number": "58",
@@ -4917,7 +4877,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -5185,7 +5148,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -5453,7 +5419,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -5721,7 +5690,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

@@ -1,0 +1,5216 @@
+{
+  "name": "Game Night",
+  "code": "GNT",
+  "releaseDate": "2018-11-16",
+  "border": "black",
+  "type": "box",
+  "cards": [
+    {
+      "artist": "Victor Adame Minguez",
+      "cmc": 5,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "36b800e033af7b52c3132f0225fea6a52322710a",
+      "imageName": "militant angel",
+      "layout": "normal",
+      "manaCost": "{3}{W}{W}",
+      "multiverseid": 456521,
+      "name": "Militant Angel",
+      "number": "1",
+      "originalText": "Flying, lifelink\nWhen Militant Angel enters the battlefield, create a number of 2/2 white Knight creature tokens with vigilance equal to the number of opponents you attacked this turn.",
+      "originalType": "Creature — Angel",
+      "power": "3",
+      "printings": [
+        "GNT"
+      ],
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Angel"
+      ],
+      "text": "Flying, lifelink\nWhen Militant Angel enters the battlefield, create a number of 2/2 white Knight creature tokens with vigilance equal to the number of opponents you attacked this turn.",
+      "toughness": "4",
+      "type": "Creature — Angel",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Jesper Ejsing",
+      "cmc": 7,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "47430796fed9a766f72544e8409838726f057c82",
+      "imageName": "inspired sphinx",
+      "layout": "normal",
+      "manaCost": "{5}{U}{U}",
+      "multiverseid": 456522,
+      "name": "Inspired Sphinx",
+      "number": "2",
+      "originalText": "Flying\nWhen Inspired Sphinx enters the battlefield, draw cards equal to the number of opponents you have.\n{3}{U}: Create a 1/1 colorless Thopter artifact creature token with flying.",
+      "originalType": "Creature — Sphinx",
+      "power": "5",
+      "printings": [
+        "GNT"
+      ],
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Sphinx"
+      ],
+      "text": "Flying\nWhen Inspired Sphinx enters the battlefield, draw cards equal to the number of opponents you have.\n{3}{U}: Create a 1/1 colorless Thopter artifact creature token with flying.",
+      "toughness": "5",
+      "type": "Creature — Sphinx",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Grzegorz Rutkowski",
+      "cmc": 7,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "1a1b69d2df2727c21aa8a12d7d32f7028e6ed9d6",
+      "imageName": "rot hulk",
+      "layout": "normal",
+      "manaCost": "{5}{B}{B}",
+      "multiverseid": 456523,
+      "name": "Rot Hulk",
+      "number": "3",
+      "originalText": "Menace\nWhen Rot Hulk enters the battlefield, return up to X target Zombie cards from your graveyard to the battlefield, where X is the number of opponents you have.",
+      "originalType": "Creature — Zombie",
+      "power": "5",
+      "printings": [
+        "GNT"
+      ],
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Zombie"
+      ],
+      "text": "Menace\nWhen Rot Hulk enters the battlefield, return up to X target Zombie cards from your graveyard to the battlefield, where X is the number of opponents you have.",
+      "toughness": "5",
+      "type": "Creature — Zombie",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Slawomir Maniak",
+      "cmc": 6,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "1d8adb8e00352058f3aa6b5e93e925d459aba9d5",
+      "imageName": "goblin goliath",
+      "layout": "normal",
+      "manaCost": "{4}{R}{R}",
+      "multiverseid": 456524,
+      "name": "Goblin Goliath",
+      "number": "4",
+      "originalText": "When Goblin Goliath enters the battlefield, create a number of 1/1 red Goblin creature tokens equal to the number of opponents you have.\n{3}{R}, {T}: If a source you control would deal damage to an opponent this turn, it deals double that damage to that player instead.",
+      "originalType": "Creature — Goblin Mutant",
+      "power": "5",
+      "printings": [
+        "GNT"
+      ],
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Goblin",
+        "Mutant"
+      ],
+      "text": "When Goblin Goliath enters the battlefield, create a number of 1/1 red Goblin creature tokens equal to the number of opponents you have.\n{3}{R}, {T}: If a source you control would deal damage to an opponent this turn, it deals double that damage to that player instead.",
+      "toughness": "4",
+      "type": "Creature — Goblin Mutant",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Grzegorz Rutkowski",
+      "cmc": 6,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "d28494bd71da0a80d37962662842e214ccf29e50",
+      "imageName": "avatar of growth",
+      "layout": "normal",
+      "manaCost": "{4}{G}{G}",
+      "multiverseid": 456525,
+      "name": "Avatar of Growth",
+      "number": "5",
+      "originalText": "This spell costs {1} less to cast for each opponent you have.\nTrample\nWhen Avatar of Growth enters the battlefield, each player searches their library for up to two basic land cards, puts them onto the battlefield, then shuffles their library.",
+      "originalType": "Creature — Elemental Avatar",
+      "power": "4",
+      "printings": [
+        "GNT"
+      ],
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Elemental",
+        "Avatar"
+      ],
+      "text": "This spell costs {1} less to cast for each opponent you have.\nTrample\nWhen Avatar of Growth enters the battlefield, each player searches their library for up to two basic land cards, puts them onto the battlefield, then shuffles their library.",
+      "toughness": "4",
+      "type": "Creature — Elemental Avatar",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Raoul Vitale",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "721750b9954bef97c917687f15dc465f3d55e0b9",
+      "imageName": "aerial responder",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{W}{W}",
+      "multiverseid": 456526,
+      "name": "Aerial Responder",
+      "number": "6",
+      "originalText": "Flying\nVigilance (Attacking doesn't cause this creature to tap.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+      "originalType": "Creature — Dwarf Soldier",
+      "power": "2",
+      "printings": [
+        "KLD",
+        "E01",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Dwarf",
+        "Soldier"
+      ],
+      "text": "Flying, vigilance, lifelink",
+      "toughness": "3",
+      "type": "Creature — Dwarf Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Chase Stone",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"We pray to Avacyn on high.\nOn snow-white wings fearless you fly.\nKeep safe our souls. Keep safe our lives.\nMay angels watch us from the skies.\"\n—Children's prayer",
+      "id": "7bd3031a29d74eb026e17a52bed9c4d72b7aade1",
+      "imageName": "always watching",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{W}{W}",
+      "multiverseid": 456527,
+      "name": "Always Watching",
+      "number": "7",
+      "originalText": "Nontoken creatures you control get +1/+1 and have vigilance.",
+      "originalType": "Enchantment",
+      "printings": [
+        "SOI",
+        "GNT"
+      ],
+      "rarity": "Rare",
+      "text": "Nontoken creatures you control get +1/+1 and have vigilance.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Mark Zug",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Some aspire to climb the mountain of Honor. The Benalish are born upon its peak, and from there ascend among the stars.\"\n—History of Benalia",
+      "id": "89b78ff836f4ff4c29fb0e99bf52f367611efbe1",
+      "imageName": "benalish marshal",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{W}{W}{W}",
+      "multiverseid": 456528,
+      "name": "Benalish Marshal",
+      "number": "8",
+      "originalText": "Other creatures you control get +1/+1.",
+      "originalType": "Creature — Human Knight",
+      "power": "3",
+      "printings": [
+        "DOM",
+        "GNT"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2018-04-27",
+          "text": "Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a creature you control may become lethal if Benalish Marshal leaves the battlefield during that turn."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Knight"
+      ],
+      "text": "Other creatures you control get +1/+1.",
+      "toughness": "3",
+      "type": "Creature — Human Knight",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Ryan Alexander Lee",
+      "cmc": 5,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "Vampires know blood and the systems that carry it. And they know exactly where to strike to set it free.",
+      "id": "8e91d3d6c9142cbc1436258de81c88a50ab6522a",
+      "imageName": "bright reprisal",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{W}",
+      "multiverseid": 456529,
+      "name": "Bright Reprisal",
+      "number": "9",
+      "originalText": "Destroy target attacking creature.\nDraw a card.",
+      "originalType": "Instant",
+      "printings": [
+        "XLN",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2017-09-29",
+          "text": "If the target creature is an illegal target by the time Bright Reprisal resolves, the entire spell doesn't resolve. You won't draw a card. If, on the other hand, the target is a legal target but isn't destroyed (most likely because it has indestructible), you'll draw a card."
+        }
+      ],
+      "text": "Destroy target attacking creature.\nDraw a card.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Scott Murphy",
+      "cmc": 4,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "Benalish citizens born under the same constellations share a star-clan. Their loyalty to one another interlaces the Seven Houses.",
+      "id": "cc073da8fbe80003757d1ffa69e724b64e44fd03",
+      "imageName": "call the cavalry",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{W}",
+      "multiverseid": 456530,
+      "name": "Call the Cavalry",
+      "number": "10",
+      "originalText": "Create two 2/2 white Knight creature tokens with vigilance. (Attacking doesn't cause them to tap.)",
+      "originalType": "Sorcery",
+      "printings": [
+        "DOM",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "text": "Create two 2/2 white Knight creature tokens with vigilance.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Sara Winters",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Undefeated in battle, she is the shining future our empire deserves.\"\n—Huatli",
+      "id": "f1b72e6555d1b6bb6c59cf80ab5d8dcf41d88954",
+      "imageName": "everdawn champion",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{W}{W}",
+      "multiverseid": 456531,
+      "name": "Everdawn Champion",
+      "number": "11",
+      "originalText": "Prevent all combat damage that would be dealt to Everdawn Champion.",
+      "originalType": "Creature — Human Soldier",
+      "power": "2",
+      "printings": [
+        "RIX",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2018-01-19",
+          "text": "Combat damage can be assigned to Everdawn Champion as normal, even though that damage will be prevented. For example, if Everdawn Champion blocks a 4/4 creature with trample, the attacking player may assign 2 of that creature's combat damage to the player or planeswalker it's attacking."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "text": "Prevent all combat damage that would be dealt to Everdawn Champion.",
+      "toughness": "2",
+      "type": "Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Anthony Palumbo",
+      "cmc": 1,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "Rest sometimes requires the right prompting.",
+      "id": "7cc8badcefa9f88ad4e85f1c257e37225a21376d",
+      "imageName": "fan bearer",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{W}",
+      "multiverseid": 456532,
+      "name": "Fan Bearer",
+      "number": "12",
+      "originalText": "{2}, {T}: Tap target creature.",
+      "originalType": "Creature — Zombie",
+      "power": "1",
+      "printings": [
+        "AKH",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "subtypes": [
+        "Zombie"
+      ],
+      "text": "{2}, {T}: Tap target creature.",
+      "toughness": "2",
+      "type": "Creature — Zombie",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Willian Murai",
+      "cmc": 4,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"For the lands you have lost and the beauty that remains, for freedom and the future, we must hold nothing back!\"\n—Gideon Jura",
+      "id": "7d4cc95b09eb6298ea6573b5f6e9728a13119312",
+      "imageName": "inspired charge",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{W}{W}",
+      "multiverseid": 456533,
+      "name": "Inspired Charge",
+      "number": "13",
+      "originalText": "Creatures you control get +2/+1 until end of turn.",
+      "originalType": "Instant",
+      "printings": [
+        "M11",
+        "M15",
+        "BFZ",
+        "KLD",
+        "M19",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2016-09-20",
+          "text": "The set of creatures affected by Inspired Charge is determined as the spell resolves. Creatures you begin to control later in the turn and noncreature permanents that become creatures later in the turn won't get +2/+1."
+        }
+      ],
+      "text": "Creatures you control get +2/+1 until end of turn.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Ben Maier",
+      "cmc": 4,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Our enemies will soon discover that we are not as meek as they had believed.\"",
+      "id": "59d954261e7071253be90c73ccc9f6cbd48d9bb7",
+      "imageName": "inspiring captain",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{W}",
+      "multiverseid": 456534,
+      "name": "Inspiring Captain",
+      "number": "14",
+      "originalText": "When Inspiring Captain enters the battlefield, creatures you control get +1/+1 until end of turn.",
+      "originalType": "Creature — Human Knight",
+      "power": "3",
+      "printings": [
+        "SOI",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2016-04-08",
+          "text": "The set of creatures affected by Inspiring Captain's ability is determined as the ability resolves. Creatures you begin to control later in the turn won't get +1/+1."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Knight"
+      ],
+      "text": "When Inspiring Captain enters the battlefield, creatures you control get +1/+1 until end of turn.",
+      "toughness": "3",
+      "type": "Creature — Human Knight",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Winona Nelson",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "The unicorns of Sursi are a manifestation of Serra's joy and compassion. They frolic and dance like children, offering blessings to anyone they encounter.",
+      "id": "d368542ee1b0dc15503310809426c0e08162cc83",
+      "imageName": "mesa unicorn",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{W}",
+      "multiverseid": 456535,
+      "name": "Mesa Unicorn",
+      "number": "15",
+      "originalText": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+      "originalType": "Creature — Unicorn",
+      "power": "2",
+      "printings": [
+        "DOM",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "subtypes": [
+        "Unicorn"
+      ],
+      "text": "Lifelink",
+      "toughness": "2",
+      "type": "Creature — Unicorn",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Donato Giancola",
+      "cmc": 5,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "The angel remembers her past lives like dreams. Her song held up meadows. Her blade drove back darkness. Her wings carried her across the ages.",
+      "id": "8fe304951802a76beec8424aa4a6e8b39c72daf8",
+      "imageName": "serra angel",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{W}{W}",
+      "multiverseid": 456536,
+      "name": "Serra Angel",
+      "number": "16",
+      "originalText": "Flying\nVigilance (Attacking doesn't cause this creature to tap.)",
+      "originalType": "Creature — Angel",
+      "power": "4",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ATH",
+        "pWOS",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "DDC",
+        "M10",
+        "M11",
+        "ME4",
+        "CMD",
+        "M12",
+        "M13",
+        "M14",
+        "M15",
+        "DD3_DVD",
+        "ORI",
+        "V15",
+        "W16",
+        "EMA",
+        "W17",
+        "CMA",
+        "IMA",
+        "DOM",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Angel"
+      ],
+      "text": "Flying, vigilance",
+      "toughness": "4",
+      "type": "Creature — Angel",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Lius Lasahido",
+      "cmc": 6,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "The remnants of Innistrad's corrupted angelic hosts collapsed to form the Flight of Nightmares.",
+      "id": "9c2f994cd92248993ceb84e3bc1eb1fc80ca9484",
+      "imageName": "subjugator angel",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{W}{W}",
+      "multiverseid": 456537,
+      "name": "Subjugator Angel",
+      "number": "17",
+      "originalText": "Flying\nWhen Subjugator Angel enters the battlefield, tap all creatures your opponents control.",
+      "originalType": "Creature — Angel",
+      "power": "4",
+      "printings": [
+        "EMN",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Angel"
+      ],
+      "text": "Flying\nWhen Subjugator Angel enters the battlefield, tap all creatures your opponents control.",
+      "toughness": "3",
+      "type": "Creature — Angel",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Johann Bodin",
+      "cmc": 5,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"Improvement is a consequence of practice.\"\n—Stitcher Geralf",
+      "id": "d3a73d4be3cd809c5f18b1071bc3049e78a66cf3",
+      "imageName": "advanced stitchwing",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{U}{U}",
+      "multiverseid": 456538,
+      "name": "Advanced Stitchwing",
+      "number": "18",
+      "originalText": "Flying\n{2}{U}, Discard two cards: Return Advanced Stitchwing from your graveyard to the battlefield tapped.",
+      "originalType": "Creature — Zombie Horror",
+      "power": "3",
+      "printings": [
+        "EMN",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2016-07-13",
+          "text": "Advanced Stitchwing's last ability can only be activated while it's in your graveyard."
+        }
+      ],
+      "subtypes": [
+        "Zombie",
+        "Horror"
+      ],
+      "text": "Flying\n{2}{U}, Discard two cards: Return Advanced Stitchwing from your graveyard to the battlefield tapped.",
+      "toughness": "4",
+      "type": "Creature — Zombie Horror",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 5,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "Pray that it doesn't seek the safety of your lungs.",
+      "id": "840af6d6c80fd3ce9a46a8c8d6e657cf967c0c00",
+      "imageName": "air elemental",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{U}{U}",
+      "multiverseid": 456539,
+      "name": "Air Elemental",
+      "number": "19",
+      "originalText": "Flying",
+      "originalType": "Creature — Elemental",
+      "power": "4",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "PO2",
+        "6ED",
+        "S99",
+        "BRB",
+        "BTD",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "DD2",
+        "M10",
+        "DPA",
+        "ME4",
+        "DD3_JVC",
+        "W17",
+        "XLN",
+        "M19",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Elemental"
+      ],
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+      "toughness": "4",
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Ryan Pancoast",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "Six feet of earth muffled his cries.",
+      "id": "af2d05ab069065ee783f52b4b9850a722ba20c0d",
+      "imageName": "claustrophobia",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{U}{U}",
+      "multiverseid": 456540,
+      "name": "Claustrophobia",
+      "number": "20",
+      "originalText": "Enchant creature\nWhen Claustrophobia enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+      "originalType": "Enchantment — Aura",
+      "printings": [
+        "ISD",
+        "M14",
+        "DDM",
+        "ORI",
+        "DDT",
+        "IMA",
+        "BBD",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "Claustrophobia can target and enchant a tapped or untapped creature."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The enchanted creature can still be untapped in other ways. Claustrophobia will remain attached, and the creature will continue to not untap during its controller's untap step."
+        }
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant creature\nWhen Claustrophobia enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Shreya Shetty",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"Like ribbons of wind and wisdom the coatls fly, twisting mystery into truth, shaping the clouds to suit their inscrutable will.\"\n—Huatli",
+      "id": "353644f6fc81262ae976d1668ff1460d5b8ac9b8",
+      "imageName": "favorable winds",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{U}",
+      "multiverseid": 456541,
+      "name": "Favorable Winds",
+      "number": "21",
+      "originalText": "Creatures you control with flying get +1/+1.",
+      "originalType": "Enchantment",
+      "printings": [
+        "AVR",
+        "CNS",
+        "XLN",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "text": "Creatures you control with flying get +1/+1.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Clint Cearley",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"I don't need your mage-rings or your mana equations. I call, and the sea answers.\"\n—Keyta, rebel hydromancer",
+      "id": "61ab2b4de06f224960bf02d10261851355cd7122",
+      "imageName": "hydrolash",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{U}",
+      "multiverseid": 456542,
+      "name": "Hydrolash",
+      "number": "22",
+      "originalText": "Attacking creatures get -2/-0 until end of turn.\nDraw a card.",
+      "originalType": "Instant",
+      "printings": [
+        "ORI",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "You may cast Hydrolash even if there aren't any attacking creatures simply to draw a card."
+        }
+      ],
+      "text": "Attacking creatures get -2/-0 until end of turn.\nDraw a card.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Steve Prescott",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "Progress comes at a price.",
+      "id": "254c43bef70a179709406758960b0e6a81071c2a",
+      "imageName": "reckless scholar",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{U}",
+      "multiverseid": 456543,
+      "name": "Reckless Scholar",
+      "number": "23",
+      "originalText": "{T}: Target player draws a card, then discards a card.",
+      "originalType": "Creature — Human Wizard",
+      "power": "2",
+      "printings": [
+        "ZEN",
+        "CNS",
+        "SOI",
+        "E01",
+        "BBD",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "text": "{T}: Target player draws a card, then discards a card.",
+      "toughness": "1",
+      "type": "Creature — Human Wizard",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Viktor Titov",
+      "cmc": 5,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "He grants endless wishes, as long as you always wish for a blade.",
+      "id": "09b7fa0b9141bc2faabc2e1dd72d064af09c5dc0",
+      "imageName": "soulblade djinn",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{U}{U}",
+      "multiverseid": 456544,
+      "name": "Soulblade Djinn",
+      "number": "24",
+      "originalText": "Flying\nWhenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.",
+      "originalType": "Creature — Djinn",
+      "power": "4",
+      "printings": [
+        "pPRE",
+        "ORI",
+        "GNT"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "Any spell you cast that doesn't have the type creature will cause Soulblade Djinn's ability to trigger. If a spell has multiple types, and one of those types is creature (such as an artifact creature), casting it won't cause the ability to trigger. Playing a land also won't cause it to trigger."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "Soulblade Djinn's ability goes on the stack on top of the spell that caused it to trigger. It will resolve before that spell."
+        }
+      ],
+      "subtypes": [
+        "Djinn"
+      ],
+      "text": "Flying\nWhenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.",
+      "toughness": "3",
+      "type": "Creature — Djinn",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Winona Nelson",
+      "cmc": 4,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "71636e1e36b102a4af898946b5d581acba3aa235",
+      "imageName": "whirler rogue",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{U}{U}",
+      "multiverseid": 456545,
+      "name": "Whirler Rogue",
+      "number": "25",
+      "originalText": "When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.\nTap two untapped artifacts you control: Target creature can't be blocked this turn.",
+      "originalType": "Creature — Human Rogue Artificer",
+      "power": "2",
+      "printings": [
+        "ORI",
+        "DDU",
+        "C18",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "You may tap any two untapped artifacts you control, including artifact creatures that haven't been under your control continuously since the beginning of your most recent turn."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "Activating the second ability of Whirler Rogue after a creature has become blocked won't cause it to become unblocked."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Rogue",
+        "Artificer"
+      ],
+      "text": "When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.\nTap two untapped artifacts you control: Target creature can't be blocked this turn.",
+      "toughness": "2",
+      "type": "Creature — Human Rogue Artificer",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Magali Villeneuve",
+      "cmc": 6,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"I do as I please, little mortal. Do go on about your wishes, though—they amuse me to no end.\"",
+      "id": "c3676f8dd9159ab6eefc0a08952d21658db3e116",
+      "imageName": "zahid, djinn of the lamp",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{U}{U}",
+      "multiverseid": 456546,
+      "name": "Zahid, Djinn of the Lamp",
+      "number": "26",
+      "originalText": "You may pay {3}{U} and tap an untapped artifact you control rather than pay this spell's mana cost.\nFlying",
+      "originalType": "Legendary Creature — Djinn",
+      "power": "5",
+      "printings": [
+        "DOM",
+        "GNT"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Djinn"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "You may pay {3}{U} and tap an untapped artifact you control rather than pay this spell's mana cost.\nFlying",
+      "toughness": "6",
+      "type": "Legendary Creature — Djinn",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Deruchenko Alexander",
+      "cmc": 1,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "Vastly outnumbered, the Zendikari found creative ways to even the odds.",
+      "id": "9de9c5d2d44ccde5f78d1117c96f8ed591152cf6",
+      "imageName": "bone splinters",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B}",
+      "multiverseid": 456547,
+      "name": "Bone Splinters",
+      "number": "27",
+      "originalText": "As an additional cost to cast this spell, sacrifice a creature.\nDestroy target creature.",
+      "originalType": "Sorcery",
+      "printings": [
+        "ALA",
+        "AVR",
+        "DDN",
+        "MM2",
+        "BFZ",
+        "MM3",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2017-03-14",
+          "text": "You must sacrifice exactly one creature to cast this spell; you can't cast it without sacrificing a creature, and you can't sacrifice additional creatures."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "Once you begin to cast Bone Splinters, no player may take actions until you're done. Notably, opponents can't try to remove the creature you wish to sacrifice."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "You can cast Bone Splinters targeting the creature you intend to sacrifice for its cost. This is because targets are chosen before costs are paid. Bone Splinters won't resolve as it tries to resolve in this case."
+        }
+      ],
+      "text": "As an additional cost to cast this spell, sacrifice a creature.\nDestroy target creature.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Miles Johnston",
+      "cmc": 5,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "On Innistrad, Liliana embraced necromancy, honing her powers by practicing on scores of undead—and sometimes the living.",
+      "id": "4d02c787b5f733cfd1d973628cdab1f6e8b16b61",
+      "imageName": "cruel revival",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{B}",
+      "multiverseid": 456548,
+      "name": "Cruel Revival",
+      "number": "28",
+      "originalText": "Destroy target non-Zombie creature. It can't be regenerated. Return up to one target Zombie card from your graveyard to your hand.",
+      "originalType": "Instant",
+      "printings": [
+        "ONS",
+        "HOP",
+        "ORI",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "text": "Destroy target non-Zombie creature. It can't be regenerated. Return up to one target Zombie card from your graveyard to your hand.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Mark Zug",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "Grixis is a world where the only things found in abundance are death and decay. Corpses, whole or in part, are the standard currency among necromancers and demons.",
+      "id": "a78c6813f625f3d5d2009299b7d9dd5bfaf32b80",
+      "imageName": "fleshbag marauder",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{B}",
+      "multiverseid": 456549,
+      "name": "Fleshbag Marauder",
+      "number": "29",
+      "originalText": "When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.",
+      "originalType": "Creature — Zombie Warrior",
+      "power": "3",
+      "printings": [
+        "ALA",
+        "DDD",
+        "CMD",
+        "DDN",
+        "DD3_GVL",
+        "ORI",
+        "CN2",
+        "CM2",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "When the ability resolves, you may sacrifice Fleshbag Marauder itself. If you control no other creatures, you'll have to sacrifice Fleshbag Marauder."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "As Fleshbag Marauder's ability resolves, first you choose a creature to sacrifice, then each other player in turn order chooses a creature to sacrifice, then all those creatures are sacrificed simultaneously."
+        }
+      ],
+      "subtypes": [
+        "Zombie",
+        "Warrior"
+      ],
+      "text": "When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.",
+      "toughness": "1",
+      "type": "Creature — Zombie Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Even Amundsen",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"You were keen enough to sink your fangs into us, vampire! And now you're afraid of a few little nibbles?\"\n—Udvil \"Ratty\" Ratlock",
+      "id": "5e337c364b9e5b6bfe36272ac4899679291edd85",
+      "imageName": "gruesome fate",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{B}",
+      "multiverseid": 456550,
+      "name": "Gruesome Fate",
+      "number": "30",
+      "originalText": "Each opponent loses 1 life for each creature you control.",
+      "originalType": "Sorcery",
+      "printings": [
+        "RIX",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2018-01-19",
+          "text": "In a Two-Headed Giant game, Gruesome Fate causes the opposing team to lose 2 life for each creature you control."
+        }
+      ],
+      "text": "Each opponent loses 1 life for each creature you control.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Jeff Simpson",
+      "cmc": 4,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "Life is such a fragile thing.",
+      "id": "47729007f2a563c410df9764237c083d1b813b51",
+      "imageName": "languish",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{B}{B}",
+      "multiverseid": 456551,
+      "name": "Languish",
+      "number": "31",
+      "originalText": "All creatures get -4/-4 until end of turn.",
+      "originalType": "Sorcery",
+      "printings": [
+        "pPRE",
+        "pMGD",
+        "ORI",
+        "C16",
+        "CM2",
+        "GNT"
+      ],
+      "rarity": "Rare",
+      "text": "All creatures get -4/-4 until end of turn.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Kieran Yanner",
+      "cmc": 5,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"There are so many of them. It seems they've just been waiting for someone to serve.\"",
+      "id": "94fa8dbe1ce2c2b88d6fc2bdfb7a86e03a301eee",
+      "imageName": "liliana's mastery",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{B}{B}",
+      "multiverseid": 456552,
+      "name": "Liliana's Mastery",
+      "number": "32",
+      "originalText": "Zombies you control get +1/+1.\nWhen Liliana's Mastery enters the battlefield, create two 2/2 black Zombie creature tokens.",
+      "originalType": "Enchantment",
+      "printings": [
+        "AKH",
+        "GNT"
+      ],
+      "rarity": "Rare",
+      "text": "Zombies you control get +1/+1.\nWhen Liliana's Mastery enters the battlefield, create two 2/2 black Zombie creature tokens.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Grzegorz Rutkowski",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "The Curse of Wandering leaves only hatred.",
+      "id": "a37b600b1da2ae52d87a105fd3e16016fe071200",
+      "imageName": "lord of the accursed",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{B}",
+      "multiverseid": 456553,
+      "name": "Lord of the Accursed",
+      "number": "33",
+      "originalText": "Other Zombies you control get +1/+1.\n{1}{B}, {T}: All Zombies gain menace until end of turn. (They can't be blocked except by two or more creatures.)",
+      "originalType": "Creature — Zombie",
+      "power": "2",
+      "printings": [
+        "AKH",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Zombie"
+      ],
+      "text": "Other Zombies you control get +1/+1.\n{1}{B}, {T}: All Zombies gain menace until end of turn.",
+      "toughness": "3",
+      "type": "Creature — Zombie",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Slawomir Maniak",
+      "cmc": 2,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "The dead who wander beyond the safety of the city crave only to spread their curse.",
+      "id": "fe10c3500e97641e65faa4f307cb346254613892",
+      "imageName": "tattered mummy",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{B}",
+      "multiverseid": 456554,
+      "name": "Tattered Mummy",
+      "number": "34",
+      "originalText": "When Tattered Mummy dies, each opponent loses 2 life.",
+      "originalType": "Creature — Zombie Jackal",
+      "power": "1",
+      "printings": [
+        "AKH",
+        "M19",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2018-07-13",
+          "text": "If your life total is brought to 0 or less at the same time that Tattered Mummy is dealt lethal damage, you lose the game before its triggered ability goes on the stack."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "In a Two-Headed Giant game, the triggered ability of Tattered Mummy causes the opposing team to lose 4 life."
+        }
+      ],
+      "subtypes": [
+        "Zombie",
+        "Jackal"
+      ],
+      "text": "When Tattered Mummy dies, each opponent loses 2 life.",
+      "toughness": "2",
+      "type": "Creature — Zombie Jackal",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Jason A. Engle",
+      "cmc": 4,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "Some of the thallids that escaped into the fens of Urborg began emulating the Cabal's bloodsoaked rituals in their own peculiar way.",
+      "id": "7eb8457911d14ced3fed362f47da1acba49ed43b",
+      "imageName": "thallid soothsayer",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{B}",
+      "multiverseid": 456555,
+      "name": "Thallid Soothsayer",
+      "number": "35",
+      "originalText": "{2}, Sacrifice a creature: Draw a card.",
+      "originalType": "Creature — Fungus",
+      "power": "2",
+      "printings": [
+        "DOM",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2018-04-27",
+          "text": "You can sacrifice Thallid Soothsayer to pay the cost for its own ability."
+        }
+      ],
+      "subtypes": [
+        "Fungus"
+      ],
+      "text": "{2}, Sacrifice a creature: Draw a card.",
+      "toughness": "3",
+      "type": "Creature — Fungus",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Jason Rainville",
+      "cmc": 2,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"Eldrazi? Ha! Try walking through Zulaport at night with your pockets full. Now that's dangerous.\"",
+      "id": "258a37f5fd5f7d7a2a48313d7ea737cb0ffcf17c",
+      "imageName": "zulaport cutthroat",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{B}",
+      "multiverseid": 456556,
+      "name": "Zulaport Cutthroat",
+      "number": "36",
+      "originalText": "Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life.",
+      "originalType": "Creature — Human Rogue Ally",
+      "power": "1",
+      "printings": [
+        "BFZ",
+        "A25",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "If Zulaport Cutthroat dies at the same time as another creature you control, its ability triggers for that creature."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "In a Two-Headed Giant game, Zulaport Cutthroat's ability causes the opposing team to lose 2 life and you to gain 1 life."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Rogue",
+        "Ally"
+      ],
+      "text": "Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life.",
+      "toughness": "1",
+      "type": "Creature — Human Rogue Ally",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Alex Konstad",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"Want to sink a ship? Blow a hole in the hull. Want to kill a regisaur? Same answer.\"\n—Captain Brandis Thorn",
+      "id": "bdf37ecd9a2e7c1411d68aba6e634077b7d9a6c3",
+      "imageName": "bombard",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{R}",
+      "multiverseid": 456557,
+      "name": "Bombard",
+      "number": "37",
+      "originalText": "Bombard deals 4 damage to target creature.",
+      "originalType": "Instant",
+      "printings": [
+        "RIX",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "text": "Bombard deals 4 damage to target creature.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Winona Nelson",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"We sail. We plunder. Then we dance.\"",
+      "id": "ea406a378fa5dd2c8e606e7d2975963adf3db7ed",
+      "imageName": "captivating crew",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{R}",
+      "multiverseid": 456558,
+      "name": "Captivating Crew",
+      "number": "38",
+      "originalText": "{3}{R}: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery.",
+      "originalType": "Creature — Human Pirate",
+      "power": "4",
+      "printings": [
+        "XLN",
+        "GNT"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2017-09-29",
+          "text": "You can target and gain control of an untapped creature this way."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Pirate"
+      ],
+      "text": "{3}{R}: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery.",
+      "toughness": "3",
+      "type": "Creature — Human Pirate",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Jaime Jones",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Goblins journey to the sacrificial peaks in pairs so that the rare survivor might be able to relate the details of the other's grisly demise.",
+      "id": "c8543d89de79c517a595b5fcb923813d06a96577",
+      "imageName": "dragon fodder",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{R}",
+      "multiverseid": 456559,
+      "name": "Dragon Fodder",
+      "number": "39",
+      "originalText": "Create two 1/1 red Goblin creature tokens.",
+      "originalType": "Sorcery",
+      "printings": [
+        "pMEI",
+        "ALA",
+        "ARC",
+        "DDG",
+        "DTK",
+        "ORI",
+        "MM3",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "text": "Create two 1/1 red Goblin creature tokens.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Yohann Schepacz",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"Zendikar is always angry, though I've never seen that anger so precisely directed.\"\n—Nablus, North Hada trapper",
+      "id": "9960d8c0a82226eb4ad9940be0116db877e8771a",
+      "imageName": "rolling thunder",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{X}{R}{R}",
+      "multiverseid": 456560,
+      "name": "Rolling Thunder",
+      "number": "40",
+      "originalText": "Rolling Thunder deals X damage divided as you choose among any number of targets.",
+      "originalType": "Sorcery",
+      "printings": [
+        "TMP",
+        "BRB",
+        "HOP",
+        "TPR",
+        "BFZ",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If X is greater than 0, you can't choose zero targets. You must choose between one and X targets. If X is 0, you can't choose any targets."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "You choose how many targets Rolling Thunder has and how the damage is divided as you cast the spell. Each target must receive at least 1 damage."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "If some, but not all, of the targets become illegal by the time Rolling Thunder tries to resolve, the original division of damage still applies, but no damage is dealt to illegal targets. If all the targets are illegal, the spell won't resolve."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "If Rolling Thunder is copied, the copy will retain the original damage divsion. The spell or ability will likely allow you to choose new targets, but you can't change the way damage is divided."
+        }
+      ],
+      "text": "Rolling Thunder deals X damage divided as you choose among any number of targets.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Jasper Sandner",
+      "cmc": 5,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"Trying to stop it would be foolish. If you feel it coming—run!\"\n—Sergeant Ryda",
+      "id": "739b8d0b78c5ed3a1271eefcc1e62f0b58d56b0f",
+      "imageName": "seismic elemental",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{R}{R}",
+      "multiverseid": 456561,
+      "name": "Seismic Elemental",
+      "number": "41",
+      "originalText": "When Seismic Elemental enters the battlefield, creatures without flying can't block this turn.",
+      "originalType": "Creature — Elemental",
+      "power": "4",
+      "printings": [
+        "ORI",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "No creature without flying will be able to block that turn, including creatures that lose flying after Seismic Elemental's ability resolves and creatures without flying that enter the battlefield after that ability resolves."
+        }
+      ],
+      "subtypes": [
+        "Elemental"
+      ],
+      "text": "When Seismic Elemental enters the battlefield, creatures without flying can't block this turn.",
+      "toughness": "4",
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Aaron Miller",
+      "cmc": 5,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"Ready . . . uh . . . fire!\"",
+      "id": "a968842faf39e117ba430eaee9106a3d31267d5d",
+      "imageName": "siege-gang commander",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{R}{R}",
+      "multiverseid": 456562,
+      "name": "Siege-Gang Commander",
+      "number": "42",
+      "originalText": "When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens.\n{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.",
+      "originalType": "Creature — Goblin",
+      "power": "2",
+      "printings": [
+        "SCG",
+        "10E",
+        "EVG",
+        "M10",
+        "DD3_EVG",
+        "EMA",
+        "DOM",
+        "GNT"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2018-04-27",
+          "text": "You can sacrifice any Goblin you control to activate Siege-Gang Commander's activated ability, not just the ones its triggered ability puts onto the battlefield. You can even sacrifice Siege-Gang Commander itself."
+        }
+      ],
+      "subtypes": [
+        "Goblin"
+      ],
+      "text": "When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens.\n{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.",
+      "toughness": "2",
+      "type": "Creature — Goblin",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Allen Williams",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"You are undeserving of the afterlife. You will never feel the God-Pharaoh's embrace.\"",
+      "id": "a4ebde8df5e4a671554041e6f151daeea6a50296",
+      "imageName": "tormenting voice",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{R}",
+      "multiverseid": 456563,
+      "name": "Tormenting Voice",
+      "number": "43",
+      "originalText": "As an additional cost to cast this spell, discard a card.\nDraw two cards.",
+      "originalType": "Sorcery",
+      "printings": [
+        "KTK",
+        "DTK",
+        "SOI",
+        "CN2",
+        "AKH",
+        "IMA",
+        "M19",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2018-07-13",
+          "text": "You must discard exactly one card to cast Tormenting Voice; you can't cast it without discarding a card, and you can't discard additional cards."
+        }
+      ],
+      "text": "As an additional cost to cast this spell, discard a card.\nDraw two cards.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Chase Stone",
+      "cmc": 12,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "The earth walks, strongest of all.",
+      "id": "4cf0af91998704eb7d32075440e3f13d63e09435",
+      "imageName": "ghalta, primal hunger",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{10}{G}{G}",
+      "multiverseid": 456564,
+      "name": "Ghalta, Primal Hunger",
+      "number": "44",
+      "originalText": "Ghalta, Primal Hunger costs {X} less to cast, where X is the total power of creatures you control.\nTrample",
+      "originalType": "Legendary Creature — Elder Dinosaur",
+      "power": "12",
+      "printings": [
+        "RIX",
+        "GNT"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2018-01-19",
+          "text": "To determine Ghalta's total cost, start with the mana cost (or an alternative cost if another card's effect allows you to pay one instead), add any cost increases, then apply any cost reductions. Ghalta's converted mana cost remains unchanged, no matter what the total cost to cast it was."
+        },
+        {
+          "date": "2018-01-19",
+          "text": "The total cost to cast Ghalta is locked in before you pay that cost. For example, if you control three 2/2 creatures, including one you can sacrifice to add {C} to your mana pool, the total cost of Ghalta is {4}{G}{G}. Then you can sacrifice the creature when you activate mana abilities just before paying the cost."
+        },
+        {
+          "date": "2018-01-19",
+          "text": "If a creature's power is somehow less than 0, it subtracts from the total power of your other creatures. If the total power of your creatures is 0 or less, Ghalta's cost remains {10}{G}{G}."
+        },
+        {
+          "date": "2018-01-19",
+          "text": "Ghalta's first ability can't reduce its cost below {G}{G}."
+        }
+      ],
+      "subtypes": [
+        "Elder",
+        "Dinosaur"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Ghalta, Primal Hunger costs {X} less to cast, where X is the total power of creatures you control.\nTrample",
+      "toughness": "12",
+      "type": "Legendary Creature — Elder Dinosaur",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Kieran Yanner",
+      "cmc": 1,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"There is no power too great to be used in the defense of our ancestral lands.\"",
+      "id": "641c72d072c0f11bcd53f52811b2d6f5c268c534",
+      "imageName": "jungle delver",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}",
+      "multiverseid": 456565,
+      "name": "Jungle Delver",
+      "number": "45",
+      "originalText": "{3}{G}: Put a +1/+1 counter on Jungle Delver.",
+      "originalType": "Creature — Merfolk Warrior",
+      "power": "1",
+      "printings": [
+        "XLN",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "subtypes": [
+        "Merfolk",
+        "Warrior"
+      ],
+      "text": "{3}{G}: Put a +1/+1 counter on Jungle Delver.",
+      "toughness": "1",
+      "type": "Creature — Merfolk Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Chris Rahn",
+      "cmc": 1,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "As patient and generous as life, as harsh and merciless as nature.",
+      "id": "d84b480ee95aacba6c08b41412a01e6721b1cecd",
+      "imageName": "llanowar elves",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}",
+      "multiverseid": 456566,
+      "name": "Llanowar Elves",
+      "number": "46",
+      "originalText": "{T}: Add {G}.",
+      "originalType": "Creature — Elf Druid",
+      "power": "1",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "ATH",
+        "6ED",
+        "BRB",
+        "pFNM",
+        "S00",
+        "BTD",
+        "7ED",
+        "9ED",
+        "pGTW",
+        "10E",
+        "EVG",
+        "M10",
+        "M11",
+        "M12",
+        "C14",
+        "DD3_EVG",
+        "EMA",
+        "CMA",
+        "DOM",
+        "M19",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "subtypes": [
+        "Elf",
+        "Druid"
+      ],
+      "text": "{T}: Add {G}.",
+      "toughness": "1",
+      "type": "Creature — Elf Druid",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Izzy",
+      "cmc": 7,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "The evil inside the mountain pulsed at Nissa in a shock wave of madness.",
+      "id": "b254d597bdf3091ef3239026abad5fe6c89725dc",
+      "imageName": "nissa's revelation",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{5}{G}{G}",
+      "multiverseid": 456567,
+      "name": "Nissa's Revelation",
+      "number": "47",
+      "originalText": "Scry 5, then reveal the top card of your library. If it's a creature card, you draw cards equal to its power and you gain life equal to its toughness.",
+      "originalType": "Sorcery",
+      "printings": [
+        "pPRE",
+        "ORI",
+        "GNT"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "If the top card of your library isn't a creature card or it's a creature card with power 0 or less, you won't draw any cards. Otherwise, the first card you draw will be the card you revealed."
+        }
+      ],
+      "text": "Scry 5, then reveal the top card of your library. If it's a creature card, you draw cards equal to its power and you gain life equal to its toughness.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Craig J Spearing",
+      "cmc": 5,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"Forward! Until the horizon is ours!\"\n—Khemses, charioteer",
+      "id": "dce644f4c9192b2ba4b13850206b29b21bffc3d5",
+      "imageName": "overcome",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{G}{G}",
+      "multiverseid": 456568,
+      "name": "Overcome",
+      "number": "48",
+      "originalText": "Creatures you control get +2/+2 and gain trample until end of turn. (A creature with trample can deal excess combat damage to the player or planeswalker it's attacking.)",
+      "originalType": "Sorcery",
+      "printings": [
+        "HOU",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "text": "Creatures you control get +2/+2 and gain trample until end of turn.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Anna Steinbauer",
+      "cmc": 2,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"In my downtime I used to paint the vistas. Now the vistas disappear faster than my downtime.\"",
+      "id": "205b94f2c6623a40d7f7dc71e2547954a0a63a80",
+      "imageName": "seek the wilds",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{G}",
+      "multiverseid": 456569,
+      "name": "Seek the Wilds",
+      "number": "49",
+      "originalText": "Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+      "originalType": "Sorcery",
+      "printings": [
+        "BFZ",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "text": "Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Jakub Kasper",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "It cares more about preserving the herd's territory than about preserving itself.",
+      "id": "ae2b00f8f0975136c1bf9d937878724c6c2c00cc",
+      "imageName": "thrashing brontodon",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{G}{G}",
+      "multiverseid": 456570,
+      "name": "Thrashing Brontodon",
+      "number": "50",
+      "originalText": "{1}, Sacrifice Thrashing Brontodon: Destroy target artifact or enchantment.",
+      "originalType": "Creature — Dinosaur",
+      "power": "3",
+      "printings": [
+        "RIX",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Dinosaur"
+      ],
+      "text": "{1}, Sacrifice Thrashing Brontodon: Destroy target artifact or enchantment.",
+      "toughness": "4",
+      "type": "Creature — Dinosaur",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Craig J Spearing",
+      "cmc": 2,
+      "flavor": "Loyal to a fault, it anticipates its master's every need.",
+      "id": "58666208ac7014ed33682423758b178e8b558ffa",
+      "imageName": "eager construct",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}",
+      "multiverseid": 456571,
+      "name": "Eager Construct",
+      "number": "51",
+      "originalText": "When Eager Construct enters the battlefield, each player may scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",
+      "originalType": "Artifact Creature — Construct",
+      "power": "2",
+      "printings": [
+        "KLD",
+        "BBD",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2016-09-20",
+          "text": "As Eager Construct's triggered ability resolves, first the player whose turn it is scrys 1, then each other player in turn order does the same. Each player will know the choices made by players who chose before them."
+        },
+        {
+          "date": "2018-06-08",
+          "text": "If multiple players are instructed to scry at once, such as while resolving Eager Construct's triggered ability, those players each look at the top card of their library at the same time, then they choose in turn order whether to put those cards on the top or bottom of their library."
+        }
+      ],
+      "subtypes": [
+        "Construct"
+      ],
+      "text": "When Eager Construct enters the battlefield, each player may scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",
+      "toughness": "2",
+      "type": "Artifact Creature — Construct",
+      "types": [
+        "Artifact",
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Izzy",
+      "cmc": 3,
+      "flavor": "\"It's the must-have gift for everyone on your list. Get one for yourself, too!\"\n—Chammi, curio vendor",
+      "id": "8c6af054e6e54f2d7a7954abdc389ba3cf2fae14",
+      "imageName": "filigree familiar",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}",
+      "multiverseid": 456572,
+      "name": "Filigree Familiar",
+      "number": "52",
+      "originalText": "When Filigree Familiar enters the battlefield, you gain 2 life.\nWhen Filigree Familiar dies, draw a card.",
+      "originalType": "Artifact Creature — Fox",
+      "power": "2",
+      "printings": [
+        "KLD",
+        "DDU",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Fox"
+      ],
+      "text": "When Filigree Familiar enters the battlefield, you gain 2 life.\nWhen Filigree Familiar dies, draw a card.",
+      "toughness": "2",
+      "type": "Artifact Creature — Fox",
+      "types": [
+        "Artifact",
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Grzegorz Rutkowski",
+      "cmc": 3,
+      "flavor": "It wails of buried riches and the souls lost seeking them.",
+      "id": "4c51c178c3cc62c339879bb9dba1213eb70050f4",
+      "imageName": "howling golem",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}",
+      "multiverseid": 456573,
+      "name": "Howling Golem",
+      "number": "53",
+      "originalText": "Whenever Howling Golem attacks or blocks, each player draws a card.",
+      "originalType": "Artifact Creature — Golem",
+      "power": "2",
+      "printings": [
+        "DOM",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2018-04-27",
+          "text": "After Howling Golem's triggered ability resolves, players can cast spells and activate abilities before blockers are declared if it's attacking, or before damage is dealt if it's blocking."
+        }
+      ],
+      "subtypes": [
+        "Golem"
+      ],
+      "text": "Whenever Howling Golem attacks or blocks, each player draws a card.",
+      "toughness": "3",
+      "type": "Artifact Creature — Golem",
+      "types": [
+        "Artifact",
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Ryan Yee",
+      "cmc": 3,
+      "flavor": "\"Though the afterlife, the city, and even the God-Pharaoh himself were one great deception, the ideals championed by the gods remain true.\"\n—Djeru, former Tah-crop initiate",
+      "id": "e5402adf189184b9837572c880d86aa31ede07c9",
+      "imageName": "manalith",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}",
+      "multiverseid": 456574,
+      "name": "Manalith",
+      "number": "54",
+      "originalText": "{T}: Add one mana of any color.",
+      "originalType": "Artifact",
+      "printings": [
+        "M12",
+        "HOU",
+        "M19",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "text": "{T}: Add one mana of any color.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ]
+    },
+    {
+      "artist": "Dan Scott",
+      "cmc": 3,
+      "flavor": "Each time it is sent to find a safe haven, it takes longer to return.",
+      "id": "5f820e741e3792d03c5dcd763a09c2ec2cea44ab",
+      "imageName": "pilgrim's eye",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}",
+      "multiverseid": 456575,
+      "name": "Pilgrim's Eye",
+      "number": "55",
+      "originalText": "Flying\nWhen Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.",
+      "originalType": "Artifact Creature — Thopter",
+      "power": "1",
+      "printings": [
+        "WWK",
+        "DDI",
+        "C13",
+        "C14",
+        "BFZ",
+        "EMA",
+        "CMA",
+        "CM2",
+        "C18",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Thopter"
+      ],
+      "text": "Flying\nWhen Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.",
+      "toughness": "1",
+      "type": "Artifact Creature — Thopter",
+      "types": [
+        "Artifact",
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Cliff Childs",
+      "cmc": 3,
+      "id": "094d3a9ccc366724504ec96febaa60c13ca242f4",
+      "imageName": "rhonas's monument",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}",
+      "multiverseid": 456576,
+      "name": "Rhonas's Monument",
+      "number": "56",
+      "originalText": "Green creature spells you cast cost {1} less to cast.\nWhenever you cast a creature spell, target creature you control gets +2/+2 and gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)",
+      "originalType": "Legendary Artifact",
+      "printings": [
+        "AKH",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2017-04-18",
+          "text": "The triggered ability of Rhonas's Monument can't target the creature spell that caused it to trigger."
+        },
+        {
+          "date": "2017-04-18",
+          "text": "Each Monument has one ability that reduces the cost of creature spells of a certain color, and a triggered ability that triggers whenever you cast any creature spell—not just a creature spell of that color."
+        },
+        {
+          "date": "2017-04-18",
+          "text": "A creature spell that's multiple colors is each of those colors. For example, Ahn-Crop Champion is a white creature and a green creature, so it can benefit from either Oketra's Monument or Rhonas's Monument—or both at once."
+        },
+        {
+          "date": "2017-04-18",
+          "text": "To determine the total cost of a creature spell, start with the mana cost or alternative cost you're paying, add any cost increases, then apply any cost reductions. The converted mana cost of the creature remains unchanged, no matter what the total cost to cast it was."
+        },
+        {
+          "date": "2017-04-18",
+          "text": "Each Monument's triggered ability triggers as the creature spell is cast and resolves before that creature spell resolves. The ability will resolve even if that creature spell is countered."
+        }
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Green creature spells you cast cost {1} less to cast.\nWhenever you cast a creature spell, target creature you control gets +2/+2 and gains trample until end of turn.",
+      "type": "Legendary Artifact",
+      "types": [
+        "Artifact"
+      ]
+    },
+    {
+      "artist": "John Avon",
+      "cmc": 4,
+      "flavor": "\"I did not think I would understand the cold filigree creatures of this world, but they too are governed by the laws of nature.\"\n—Nissa Revane",
+      "id": "0fa0ca22001f9993609c2a91587612e3583301c8",
+      "imageName": "snare thopter",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}",
+      "multiverseid": 456577,
+      "name": "Snare Thopter",
+      "number": "57",
+      "originalText": "Flying\nHaste (This creature can attack and {T} as soon as it comes under your control.)",
+      "originalType": "Artifact Creature — Thopter",
+      "power": "3",
+      "printings": [
+        "KLD",
+        "GNT"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Thopter"
+      ],
+      "text": "Flying, haste",
+      "toughness": "2",
+      "type": "Artifact Creature — Thopter",
+      "types": [
+        "Artifact",
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Victor Adame Minguez",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "flavor": "Most of the constructs the renegades used against the Consulate weren't originally intended for combat. But some didn't require much modification.",
+      "id": "a758419a6861c95df45bad3829c990127931d96d",
+      "imageName": "welder automaton",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}",
+      "multiverseid": 456578,
+      "name": "Welder Automaton",
+      "number": "58",
+      "originalText": "{3}{R}: Welder Automaton deals 1 damage to each opponent.",
+      "originalType": "Artifact Creature — Construct",
+      "power": "2",
+      "printings": [
+        "AER",
+        "GNT"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2017-02-09",
+          "text": "In a Two-Headed Giant game, Welder Automaton's ability causes 2 damage total to be dealt to the opposing team."
+        }
+      ],
+      "subtypes": [
+        "Construct"
+      ],
+      "text": "{3}{R}: Welder Automaton deals 1 damage to each opponent.",
+      "toughness": "1",
+      "type": "Artifact Creature — Construct",
+      "types": [
+        "Artifact",
+        "Creature"
+      ]
+    },
+    {
+      "artist": "John Avon",
+      "cmc": 0,
+      "colorIdentity": [
+        "W"
+      ],
+      "id": "e6e2ff8be7c24c40840785ad7713f0958e783835",
+      "imageName": "plains1",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456579,
+      "name": "Plains",
+      "number": "59",
+      "originalText": "W",
+      "originalType": "Basic Land — Plains",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_SELESN",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Plains"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Plains",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        456580
+      ],
+      "watermark": "White"
+    },
+    {
+      "artist": "Howard Lyon",
+      "cmc": 0,
+      "colorIdentity": [
+        "W"
+      ],
+      "id": "6f72ece0529f5b5cb827585ff1582aa7a5c84f17",
+      "imageName": "plains2",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456580,
+      "name": "Plains",
+      "number": "60",
+      "originalText": "W",
+      "originalType": "Basic Land — Plains",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_SELESN",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Plains"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Plains",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        456579
+      ],
+      "watermark": "White"
+    },
+    {
+      "artist": "Florian de Gesincourt",
+      "cmc": 0,
+      "colorIdentity": [
+        "U"
+      ],
+      "id": "e48773831b0e3fcc7395d1c2e3d812247543f319",
+      "imageName": "island1",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456581,
+      "name": "Island",
+      "number": "61",
+      "originalText": "U",
+      "originalType": "Basic Land — Island",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_IZZET",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Island"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Island",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        456582
+      ],
+      "watermark": "Blue"
+    },
+    {
+      "artist": "Mark Poole",
+      "cmc": 0,
+      "colorIdentity": [
+        "U"
+      ],
+      "id": "fe0032b5cf0aa4fb43d941b2232032d1c088a815",
+      "imageName": "island2",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456582,
+      "name": "Island",
+      "number": "62",
+      "originalText": "U",
+      "originalType": "Basic Land — Island",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_IZZET",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Island"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Island",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        456581
+      ],
+      "watermark": "Blue"
+    },
+    {
+      "artist": "Jonas De Ro",
+      "cmc": 0,
+      "colorIdentity": [
+        "B"
+      ],
+      "id": "6d022f48df2097946245f339d5b335f8353f0795",
+      "imageName": "swamp1",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456583,
+      "name": "Swamp",
+      "number": "63",
+      "originalText": "B",
+      "originalType": "Basic Land — Swamp",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM",
+        "BBD",
+        "CM2",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_GOLGAR",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Swamp"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Swamp",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        456584
+      ],
+      "watermark": "Black"
+    },
+    {
+      "artist": "Jung Park",
+      "cmc": 0,
+      "colorIdentity": [
+        "B"
+      ],
+      "id": "30c9998420efd2b604c63f142589f6339ef1f4ee",
+      "imageName": "swamp2",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456584,
+      "name": "Swamp",
+      "number": "64",
+      "originalText": "B",
+      "originalType": "Basic Land — Swamp",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM",
+        "BBD",
+        "CM2",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_GOLGAR",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Swamp"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Swamp",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        456583
+      ],
+      "watermark": "Black"
+    },
+    {
+      "artist": "Florian de Gesincourt",
+      "cmc": 0,
+      "colorIdentity": [
+        "R"
+      ],
+      "id": "8227e639707ccd2fb013b64d60bd4fbbe3dfd31f",
+      "imageName": "mountain1",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456585,
+      "name": "Mountain",
+      "number": "65",
+      "originalText": "R",
+      "originalType": "Basic Land — Mountain",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_IZZET",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Mountain"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Mountain",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        456586
+      ],
+      "watermark": "Red"
+    },
+    {
+      "artist": "Nils Hamm",
+      "cmc": 0,
+      "colorIdentity": [
+        "R"
+      ],
+      "id": "6c2f14e8194488cfd22d93418b4f12b3bdf5928b",
+      "imageName": "mountain2",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456586,
+      "name": "Mountain",
+      "number": "66",
+      "originalText": "R",
+      "originalType": "Basic Land — Mountain",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_IZZET",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Mountain"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Mountain",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        456585
+      ],
+      "watermark": "Red"
+    },
+    {
+      "artist": "Noah Bradley",
+      "cmc": 0,
+      "colorIdentity": [
+        "G"
+      ],
+      "id": "102a70f2b292a00355b0084fb7c4d0027e60bedc",
+      "imageName": "forest1",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456587,
+      "name": "Forest",
+      "number": "67",
+      "originalText": "G",
+      "originalType": "Basic Land — Forest",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_GOLGAR",
+        "GK1_SELESN",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Forest"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Forest",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        456588
+      ],
+      "watermark": "Green"
+    },
+    {
+      "artist": "Dimitar Marinski",
+      "cmc": 0,
+      "colorIdentity": [
+        "G"
+      ],
+      "id": "c8d81dfaab1ebe7c3525817d3dc8d62579191bd3",
+      "imageName": "forest2",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456588,
+      "name": "Forest",
+      "number": "68",
+      "originalText": "G",
+      "originalType": "Basic Land — Forest",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_GOLGAR",
+        "GK1_SELESN",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Forest"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Forest",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        456587
+      ],
+      "watermark": "Green"
+    }
+  ]
+}

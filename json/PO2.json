@@ -62,7 +62,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "148",
       "multiverseid": 6491,
       "name": "Volunteer Militia",
       "originalType": "Creature — Soldier",
@@ -109,7 +108,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "126",
       "multiverseid": 6492,
       "name": "Alaborn Zealot",
       "originalText": "If Alaborn Zealot blocks, destroy both Alaborn Zealot and the creature it blocks. (Destroy both creatures before you deal damage.)",
@@ -158,7 +156,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "124",
       "multiverseid": 6493,
       "name": "Alaborn Trooper",
       "originalType": "Creature — Soldier",
@@ -206,7 +203,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "145",
       "multiverseid": 6494,
       "name": "Town Sentry",
       "originalText": "If Town Sentry blocks, it gets +0/+2 until the end of the turn.",
@@ -255,7 +251,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "143",
       "multiverseid": 6495,
       "name": "Temple Acolyte",
       "originalText": "When Temple Acolyte comes into play from your hand, you gain 3 life.",
@@ -306,7 +301,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "146",
       "multiverseid": 6496,
       "name": "Trokin High Guard",
       "originalType": "Creature — Knight",
@@ -357,7 +351,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "150",
       "multiverseid": 6497,
       "name": "Wild Griffin",
       "originalText": "Flying",
@@ -423,7 +416,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "130",
       "multiverseid": 6498,
       "name": "Angelic Wall",
       "originalText": "Flying \nWalls can't attack.",
@@ -475,7 +467,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "123",
       "multiverseid": 6499,
       "name": "Alaborn Musketeer",
       "originalText": "Alaborn Musketeer can block creatures with flying.",
@@ -533,7 +524,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "129",
       "multiverseid": 6500,
       "name": "Angelic Blessing",
       "originalText": "Any one creature gets +3/+3 and gains flying until the end of the turn.",
@@ -582,7 +572,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "135",
       "multiverseid": 6501,
       "name": "Breath of Life",
       "originalText": "Take any one creature card from your graveyard and put that creature into play. Treat it as though you just played it from your hand.",
@@ -634,7 +623,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "138",
       "multiverseid": 6502,
       "name": "Path of Peace",
       "originalText": "Destroy any one creature. That creature's owner gains 4 life.",
@@ -699,7 +687,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "140",
       "multiverseid": 6503,
       "name": "Righteous Charge",
       "originalText": "All your creatures get +2/+2 until the end of the turn.",
@@ -751,7 +738,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "136",
       "multiverseid": 6504,
       "name": "Festival of Trokin",
       "originalText": "For each creature you have in play, you gain 2 life.",
@@ -801,7 +787,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "128",
       "multiverseid": 6505,
       "name": "Angel of Mercy",
       "originalText": "Flying\nWhen Angel of Mercy comes into play from your hand, you gain 3 life.",
@@ -857,7 +842,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "121",
       "multiverseid": 6506,
       "name": "Alaborn Cavalier",
       "originalText": "If Alaborn Cavalier attacks, you may choose to tap any one creature. (Tapped creatures can't block.)",
@@ -907,7 +891,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "144",
       "multiverseid": 6507,
       "name": "Temple Elder",
       "originalText": "On your turn, before you attack, you may tap Temple Elder to gain 1 life.",
@@ -962,7 +945,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "122",
       "multiverseid": 6508,
       "name": "Alaborn Grenadier",
       "originalText": "Attacking doesn't cause Alaborn Grenadier to tap.",
@@ -1010,7 +992,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "133",
       "multiverseid": 6509,
       "name": "Armored Griffin",
       "originalText": "Flying\nAttacking doesn't cause Armored Griffin to tap.",
@@ -1061,7 +1042,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "134",
       "multiverseid": 6510,
       "name": "Bargain",
       "originalText": "Your opponent draws a card.\nYou gain 7 life.",
@@ -1104,7 +1084,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "139",
       "multiverseid": 6511,
       "name": "Rally the Troops",
       "originalText": "Play Rally the Troops only after you're attacked, before you declare blockers.\nUntap all your creatures.",
@@ -1147,7 +1126,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "149",
       "multiverseid": 6512,
       "name": "Warrior's Stand",
       "originalText": "Play Warrior's Stand only after you're attacked, before you declare blockers.\nAll your creatures get +2/+2 until the end of the turn.",
@@ -1195,7 +1173,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "147",
       "multiverseid": 6513,
       "name": "Vengeance",
       "originalText": "Destroy any one tapped creature.",
@@ -1255,7 +1232,6 @@
         }
       ],
       "manaCost": "{5}{W}{W}",
-      "mciNumber": "131",
       "multiverseid": 6514,
       "name": "Archangel",
       "originalText": "Flying\nAttacking doesn't cause Archangel to tap.",
@@ -1308,7 +1284,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "127",
       "multiverseid": 6515,
       "name": "Angel of Fury",
       "originalText": "Flying\nIf Angel of Fury is put into your graveyard from play, you may choose to shuffle Angel of Fury into your library.",
@@ -1366,7 +1341,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "125",
       "multiverseid": 6516,
       "name": "Alaborn Veteran",
       "originalText": "On your turn, before you attack, you may tap Alaborn Veteran to give any one creature +2/+2 until the end of the turn.",
@@ -1421,7 +1395,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "142",
       "multiverseid": 6517,
       "name": "Steam Catapult",
       "originalText": "On your turn, before you attack, you may tap Steam Catapult to destroy any one tapped creature.",
@@ -1476,7 +1449,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "141",
       "multiverseid": 6518,
       "name": "Righteous Fury",
       "originalText": "Destroy all tapped creatures. For each creature destroyed this way, you gain 2 life. (This includes your creatures.)",
@@ -1520,7 +1492,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "137",
       "multiverseid": 6519,
       "name": "Just Fate",
       "originalText": "Play Just Fate only after you're attacked, before you declare blockers.\nDestroy any one attacking creature.",
@@ -1564,7 +1535,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "132",
       "multiverseid": 6520,
       "name": "Armageddon",
       "originalText": "Destroy all lands. (This includes your lands.)",
@@ -1626,7 +1596,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "52",
       "multiverseid": 6521,
       "name": "Talas Scout",
       "originalText": "Flying",
@@ -1675,7 +1644,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "49",
       "multiverseid": 6522,
       "name": "Talas Explorer",
       "originalText": "Flying\nWhen Talas Explorer comes into play from your hand, look at your opponent's hand.",
@@ -1724,7 +1692,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "44",
       "multiverseid": 6523,
       "name": "Screeching Drake",
       "originalText": "Flying\nWhen Screeching Drake comes into play from your hand, draw a card, then choose and discard a card from your hand.",
@@ -1773,7 +1740,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "48",
       "multiverseid": 6524,
       "name": "Talas Air Ship",
       "originalText": "Flying",
@@ -1822,7 +1788,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "50",
       "multiverseid": 6525,
       "name": "Talas Merchant",
       "originalType": "Creature — Merchant",
@@ -1869,7 +1834,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "47",
       "multiverseid": 6526,
       "name": "Steam Frigate",
       "originalText": "Steam Frigate can't attack unless the defending player has an island in play.",
@@ -1918,7 +1882,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "58",
       "multiverseid": 6527,
       "name": "Touch of Brilliance",
       "originalText": "Draw two cards.",
@@ -1963,7 +1926,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "35",
       "multiverseid": 6528,
       "name": "Déjà Vu",
       "originalText": "Return any one sorcery card from your graveyard to your hand.",
@@ -2010,7 +1972,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "46",
       "multiverseid": 6529,
       "name": "Sleight of Hand",
       "originalText": "Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.",
@@ -2063,7 +2024,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "60",
       "multiverseid": 6530,
       "name": "Wind Sail",
       "originalText": "Any one or two creatures gain flying until the end of the turn.",
@@ -2111,7 +2071,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "56",
       "multiverseid": 6531,
       "name": "Tidal Surge",
       "originalText": "Tap any one, two, or three creatures without flying. (Tapped creatures can't block.)",
@@ -2165,7 +2124,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "57",
       "multiverseid": 6532,
       "name": "Time Ebb",
       "originalText": "Return any one creature from play to the top of its owner's library.",
@@ -2214,7 +2172,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "40",
       "multiverseid": 6533,
       "name": "False Summoning",
       "originalText": "Play False Summoning only in response to another player playing a creature. That creature card has no effect, and that player puts it into his or her graveyard.",
@@ -2257,7 +2214,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "38",
       "multiverseid": 6534,
       "name": "Extinguish",
       "originalText": "Play Extinguish only in response to another player playing a sorcery. That sorcery has no effect, and that player puts it into his or her graveyard.",
@@ -2301,7 +2257,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "32",
       "multiverseid": 6535,
       "name": "Apprentice Sorcerer",
       "originalText": "On your turn, before you attack, you may tap Apprentice Sorcerer to have it deal 1 damage to any one creature or player.",
@@ -2368,7 +2323,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "31",
       "multiverseid": 6536,
       "name": "Air Elemental",
       "originalText": "Flying",
@@ -2398,7 +2352,9 @@
         "ME4",
         "DD3_JVC",
         "W17",
-        "XLN"
+        "XLN",
+        "M19",
+        "GNT"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -2439,7 +2395,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "33",
       "multiverseid": 6537,
       "name": "Armored Galleon",
       "originalText": "Armored Galleon can't attack unless the defending player has an island in play.",
@@ -2487,7 +2442,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "39",
       "multiverseid": 6538,
       "name": "Eye Spy",
       "originalText": "Look at the top card of any player's library. You may choose to put that card back on top of that library or into that player's graveyard.",
@@ -2530,7 +2484,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "45",
       "multiverseid": 6539,
       "name": "Sea Drake",
       "originalText": "Flying\nWhen Sea Drake comes into play from your hand, return any two of your lands from play to your hand.",
@@ -2589,7 +2542,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "59",
       "multiverseid": 6540,
       "name": "Undo",
       "originalText": "Return any two creatures from play to their owner's hand. (You can't play Undo unless you can choose two creatures to return.)",
@@ -2639,7 +2591,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "43",
       "multiverseid": 6541,
       "name": "Remove",
       "originalText": "Play Remove only after you're attacked, before you declare blockers.\nReturn any one attacking creature to its owner's hand.",
@@ -2681,7 +2632,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "41",
       "multiverseid": 6542,
       "name": "Mystic Denial",
       "originalText": "Play Mystic Denial only in response to another player playing a creature or a sorcery. That card has no effect, and that player puts it into his or her graveyard.",
@@ -2730,7 +2680,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "55",
       "multiverseid": 6543,
       "name": "Theft of Dreams",
       "originalText": "For each tapped creature your opponent has in play, you draw a card.",
@@ -2775,7 +2724,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "34",
       "multiverseid": 6544,
       "name": "Coastal Wizard",
       "originalText": "On your turn, before you attack, you may tap Coastal Wizard to return it and any one other creature to their owners' hands.",
@@ -2830,7 +2778,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "53",
       "multiverseid": 6545,
       "name": "Talas Warrior",
       "originalText": "Talas Warrior can't be blocked.",
@@ -2883,7 +2830,6 @@
         }
       ],
       "manaCost": "{6}{U}{U}",
-      "mciNumber": "36",
       "multiverseid": 6546,
       "name": "Denizen of the Deep",
       "originalText": "When Denizen of the Deep comes into play from your hand, return all your other creatures from play to your hand.",
@@ -2934,7 +2880,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "51",
       "multiverseid": 6547,
       "name": "Talas Researcher",
       "originalText": "On your turn, before you attack, you may tap Talas Researcher to draw a card.",
@@ -2991,7 +2936,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "54",
       "multiverseid": 6548,
       "name": "Temporal Manipulation",
       "originalText": "You take another turn after this one.",
@@ -3048,7 +2992,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "37",
       "multiverseid": 6549,
       "name": "Exhaustion",
       "originalText": "At the beginning of your opponent's next turn, he or she skips untapping creatures and lands.",
@@ -3106,7 +3049,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "42",
       "multiverseid": 6550,
       "name": "Piracy",
       "originalText": "This turn, you may tap your opponent's lands to help pay for your spells.",
@@ -3150,7 +3092,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "20",
       "multiverseid": 6551,
       "name": "Muck Rats",
       "originalType": "Creature — Rats",
@@ -3198,7 +3139,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "10",
       "multiverseid": 6552,
       "name": "Dakmor Scorpion",
       "originalType": "Creature — Scorpion",
@@ -3245,7 +3185,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "8",
       "multiverseid": 6553,
       "name": "Dakmor Bat",
       "originalText": "Flying",
@@ -3293,7 +3232,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "19",
       "multiverseid": 6554,
       "name": "Moaning Spirit",
       "originalText": "Flying",
@@ -3344,7 +3282,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "29",
       "multiverseid": 6555,
       "name": "Swarm of Rats",
       "originalText": "Swarm of Rats has power equal to the number of Rat cards you have in play. (This includes both tapped and untapped Rat cards.)",
@@ -3394,7 +3331,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "23",
       "multiverseid": 6556,
       "name": "Prowling Nightstalker",
       "originalText": "Prowling Nightstalker can't be blocked except by other black creatures.",
@@ -3443,7 +3379,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "17",
       "multiverseid": 6557,
       "name": "Lurking Nightstalker",
       "originalText": "If Lurking Nightstalker attacks, it gets +2/+0 until the end of the turn.",
@@ -3491,7 +3426,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "24",
       "multiverseid": 6558,
       "name": "Raiding Nightstalker",
       "originalText": "Swampwalk (If defending player has any swamps in play, Raiding Nightstalker can't be blocked.)",
@@ -3550,7 +3484,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "27",
       "multiverseid": 6559,
       "name": "Ravenous Rats",
       "originalText": "When Ravenous Rats comes into play from your hand, your opponent chooses and discards a card from his or her hand. (Ignore this effect if your opponent doesn't have any cards.)",
@@ -3617,7 +3550,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "26",
       "multiverseid": 6560,
       "name": "Raise Dead",
       "originalText": "Return any one creature from your graveyard to your hand.",
@@ -3692,7 +3624,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "7",
       "multiverseid": 6561,
       "name": "Cruel Edict",
       "originalText": "Your opponent chooses one of his or her creatures. Destroy that creature.",
@@ -3759,7 +3690,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "18",
       "multiverseid": 6562,
       "name": "Mind Rot",
       "originalText": "Your opponent chooses and discards two cards from his or her hand. (If your opponent has only one card, he or she discards it.)",
@@ -3783,7 +3713,8 @@
         "DTK",
         "ORI",
         "W16",
-        "KLD"
+        "KLD",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Target player discards two cards.",
@@ -3820,7 +3751,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "14",
       "multiverseid": 6563,
       "name": "Hand of Death",
       "originalText": "Destroy any one creature that isn't black.",
@@ -3866,7 +3796,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "5",
       "multiverseid": 6564,
       "name": "Chorus of Woe",
       "originalText": "All your creatures get +1/+0 until the end of the turn.",
@@ -3909,7 +3838,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "22",
       "multiverseid": 6565,
       "name": "Predatory Nightstalker",
       "originalText": "When Predatory Nightstalker comes into play from your hand, you may force your opponent to destroy any one of his or her creatures. (Your opponent chooses the creature.)",
@@ -3957,7 +3885,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "4",
       "multiverseid": 6566,
       "name": "Brutal Nightstalker",
       "originalText": "When Brutal Nightstalker comes into play from your hand, you may force your opponent to choose and discard a card from his or her hand.",
@@ -4004,7 +3931,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "1",
       "multiverseid": 6567,
       "name": "Abyssal Nightstalker",
       "originalText": "If Abyssal Nightstalker attacks and isn't blocked, your opponent chooses and discards a card from his or her hand. (Ignore this effect if your opponent doesn't have any cards.)",
@@ -4057,7 +3983,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "13",
       "multiverseid": 6568,
       "name": "Foul Spirit",
       "originalText": "Flying\nWhen Foul Spirit comes into play from your hand, destroy one of your lands.",
@@ -4106,7 +4031,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "12",
       "multiverseid": 6569,
       "name": "Dark Offering",
       "originalText": "Destroy any one creature that isn't black. You gain 3 life.",
@@ -4162,7 +4086,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "6",
       "multiverseid": 6570,
       "name": "Coercion",
       "originalText": "Look at your opponent's hand and choose a card. Your opponent discards that card.",
@@ -4215,7 +4138,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "9",
       "multiverseid": 6571,
       "name": "Dakmor Plague",
       "originalText": "Dakmor Plague deals 3 damage to each creature and player. (This includes your creatures and you.)",
@@ -4260,7 +4182,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "16",
       "multiverseid": 6572,
       "name": "Kiss of Death",
       "originalText": "Kiss of Death deals 4 damage to your opponent. You gain 4 life.",
@@ -4303,7 +4224,6 @@
         }
       ],
       "manaCost": "{X}{B}",
-      "mciNumber": "3",
       "multiverseid": 6573,
       "name": "Bloodcurdling Scream",
       "originalText": "Any one creature gets +X/+0 until the end of the turn.",
@@ -4353,7 +4273,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "15",
       "multiverseid": 6574,
       "name": "Hidden Horror",
       "originalText": "When Hidden Horror comes into play from your hand, choose and discard a creature card from your hand or destroy Hidden Horror.",
@@ -4418,7 +4337,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "30",
       "multiverseid": 6575,
       "name": "Vampiric Spirit",
       "originalText": "Flying\nWhen Vampiric Spirit comes into play from your hand, you lose 4 life. (The person who plays Vampiric Spirit loses the life.)",
@@ -4466,7 +4384,6 @@
         }
       ],
       "manaCost": "{5}{B}",
-      "mciNumber": "11",
       "multiverseid": 6576,
       "name": "Dakmor Sorceress",
       "originalText": "Dakmor Sorceress has power equal to the number of swamp cards you have in play. (This includes both tapped and untapped swamp cards.)",
@@ -4516,7 +4433,6 @@
         }
       ],
       "manaCost": "{4}{B}",
-      "mciNumber": "21",
       "multiverseid": 6577,
       "name": "Nightstalker Engine",
       "originalText": "Nightstalker Engine has power equal to the number of creature cards in your graveyard.",
@@ -4563,7 +4479,6 @@
         }
       ],
       "manaCost": "{5}{B}{B}",
-      "mciNumber": "28",
       "multiverseid": 6578,
       "name": "Return of the Nightstalkers",
       "originalText": "Return all the Nightstalker cards from your graveyard to play. Then destroy all your swamps. (Treat these Nightstalkers as though they just came into play from your hand.)",
@@ -4606,7 +4521,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "2",
       "multiverseid": 6579,
       "name": "Ancient Craving",
       "originalText": "Draw 3 cards. You lose 3 life.",
@@ -4653,7 +4567,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "25",
       "multiverseid": 6580,
       "name": "Rain of Daggers",
       "originalText": "Destroy all your opponent's creatures. For each creature destroyed this way, you lose 2 life.",
@@ -4705,7 +4618,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "114",
       "multiverseid": 6581,
       "name": "Raging Goblin",
       "originalText": "Raging Goblin is unaffected by summoning sickness.",
@@ -4772,7 +4684,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "102",
       "multiverseid": 6582,
       "name": "Goblin Piker",
       "originalType": "Creature — Goblin",
@@ -4833,7 +4744,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "103",
       "multiverseid": 6583,
       "name": "Goblin Raider",
       "originalText": "Goblin Raider can't block.",
@@ -4890,7 +4800,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "98",
       "multiverseid": 6584,
       "name": "Goblin Glider",
       "originalText": "Flying\nGoblin Glider can't block.",
@@ -4949,7 +4858,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "101",
       "multiverseid": 6585,
       "name": "Goblin Mountaineer",
       "originalText": "Mountainwalk (If defending player has any mountains in play, Goblin Mountaineer can't be blocked.)",
@@ -5001,7 +4909,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "111",
       "multiverseid": 6586,
       "name": "Ogre Berserker",
       "originalText": "Ogre Berserker is unaffected by summoning sickness.",
@@ -5050,7 +4957,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "95",
       "multiverseid": 6587,
       "name": "Goblin Cavaliers",
       "originalType": "Creature — Goblins",
@@ -5106,7 +5012,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "112",
       "multiverseid": 6588,
       "name": "Ogre Taskmaster",
       "originalText": "Ogre Taskmaster can't block.",
@@ -5166,7 +5071,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "116",
       "multiverseid": 6589,
       "name": "Spitting Earth",
       "originalText": "Spitting Earth deals to any one creature damage equal to the number of mountains you have in play. (This includes both tapped and untapped mountains.)",
@@ -5242,7 +5146,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "117",
       "multiverseid": 6590,
       "name": "Stone Rain",
       "originalText": "Destroy any one land.",
@@ -5315,7 +5218,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "107",
       "multiverseid": 6591,
       "name": "Lava Axe",
       "originalText": "Lava Axe deals 5 damage to your opponent.",
@@ -5336,7 +5238,8 @@
         "M11",
         "M12",
         "M14",
-        "M15"
+        "M15",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Lava Axe deals 5 damage to target player or planeswalker.",
@@ -5385,7 +5288,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "118",
       "multiverseid": 6592,
       "name": "Tremor",
       "originalText": "Tremor deals 1 damage to each creature without flying. (This includes your creatures without flying.)",
@@ -5438,7 +5340,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "119",
       "multiverseid": 6593,
       "name": "Volcanic Hammer",
       "originalText": "Volcanic Hammer deals 3 damage to any one creature or player.",
@@ -5490,7 +5391,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "105",
       "multiverseid": 6594,
       "name": "Goblin War Strike",
       "originalText": "Goblin War Strike deals to your opponent damage equal to the number of Goblin cards you have in play. (This includes both tapped and untapped Goblin cards.)",
@@ -5533,7 +5433,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "110",
       "multiverseid": 6595,
       "name": "Ogre Arsonist",
       "originalText": "When Ogre Arsonist comes into play from your hand, destroy any one land. (If you're the only one with lands, destroy one of them.)",
@@ -5585,7 +5484,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "100",
       "multiverseid": 6596,
       "name": "Goblin Matron",
       "originalText": "When Goblin Matron comes into play from your hand, search your library for a Goblin card and put that card into your hand. Shuffle your library afterwards.",
@@ -5649,7 +5547,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "113",
       "multiverseid": 6597,
       "name": "Ogre Warrior",
       "originalType": "Creature — Ogre",
@@ -5697,7 +5594,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "96",
       "multiverseid": 6598,
       "name": "Goblin Firestarter",
       "originalText": "On your turn, before you attack, you may destroy Goblin Firestarter to have it deal 1 damage to any one creature or player.",
@@ -5752,7 +5648,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "109",
       "multiverseid": 6599,
       "name": "Obsidian Giant",
       "originalType": "Creature — Giant",
@@ -5802,7 +5697,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "91",
       "multiverseid": 6600,
       "name": "Blaze",
       "originalText": "Blaze deals X damage to any one creature or player.",
@@ -5858,7 +5752,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "106",
       "multiverseid": 6601,
       "name": "Jagged Lightning",
       "originalText": "Choose any two creatures. Jagged Lightning deals 3 damage to each of them. (You can't play Jagged Lightning unless you can choose two creatures to damage.)",
@@ -5907,7 +5800,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "99",
       "multiverseid": 6602,
       "name": "Goblin Lore",
       "originalText": "Draw four cards and put them into your hand. Then discard three cards at random from your hand.",
@@ -5952,7 +5844,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "104",
       "multiverseid": 6603,
       "name": "Goblin War Cry",
       "originalText": "Your opponent chooses one of his or her creatures. Only that creature can block this turn.",
@@ -5995,7 +5886,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "97",
       "multiverseid": 6604,
       "name": "Goblin General",
       "originalText": "When Goblin General attacks, all your Goblins get +1/+1 until the end of the turn.",
@@ -6046,7 +5936,6 @@
         }
       ],
       "manaCost": "{6}{R}{R}",
-      "mciNumber": "92",
       "multiverseid": 6605,
       "name": "Brimstone Dragon",
       "originalText": "Flying\nBrimstone Dragon is unaffected by summoning sickness.",
@@ -6094,7 +5983,6 @@
         }
       ],
       "manaCost": "{5}{R}",
-      "mciNumber": "93",
       "multiverseid": 6606,
       "name": "Cunning Giant",
       "originalText": "If Cunning Giant attacks and isn't blocked, you may choose to have it deal its damage to any one of your opponent's creatures instead of to him or her.",
@@ -6149,7 +6037,6 @@
         }
       ],
       "manaCost": "{5}{R}{R}",
-      "mciNumber": "108",
       "multiverseid": 6607,
       "name": "Magma Giant",
       "originalText": "When Magma Giant comes into play from your hand, it deals 2 damage to each creature and player. (This includes you and your creatures, including Magma Giant.)",
@@ -6206,7 +6093,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "115",
       "multiverseid": 6608,
       "name": "Relentless Assault",
       "originalText": "Untap all your creatures that attacked this turn. You may declare an additional attack this turn.",
@@ -6280,7 +6166,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "94",
       "multiverseid": 6609,
       "name": "Earthquake",
       "originalText": "Earthquake deals X damage to each player and each creature without flying. (This includes you and your creatures without flying.)",
@@ -6352,7 +6237,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "120",
       "multiverseid": 6610,
       "name": "Wildfire",
       "originalText": "You destroy four of your lands and your opponent destroys four of his or her lands. Then Wildfire deals 4 damage to each creature. (This includes your creatures.)",
@@ -6399,7 +6283,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "72",
       "multiverseid": 6611,
       "name": "Lynx",
       "originalText": "Forestwalk (If defending player has any forests in play, Lynx can't be blocked.)",
@@ -6448,7 +6331,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "63",
       "multiverseid": 6613,
       "name": "Bear Cub",
       "originalType": "Creature — Bear",
@@ -6501,7 +6383,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "71",
       "multiverseid": 6614,
       "name": "Lone Wolf",
       "originalText": "If Lone Wolf attacks and is blocked, you may choose to have it deal its damage to the defending player instead of to the creatures blocking it.",
@@ -6568,7 +6449,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "79",
       "multiverseid": 6615,
       "name": "Norwood Riders",
       "originalText": "Norwood Riders can't be blocked by more than one creature.",
@@ -6616,7 +6496,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "67",
       "multiverseid": 6616,
       "name": "Golden Bear",
       "originalType": "Creature — Bear",
@@ -6662,7 +6541,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "81",
       "multiverseid": 6617,
       "name": "Plated Wurm",
       "originalType": "Creature — Wurm",
@@ -6708,7 +6586,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "76",
       "multiverseid": 6618,
       "name": "Norwood Archers",
       "originalText": "Norwood Archers can block creatures with flying.",
@@ -6762,7 +6639,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "88",
       "multiverseid": 6619,
       "name": "Tree Monkey",
       "originalText": "Tree Monkey can block creatures with flying.",
@@ -6811,7 +6687,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "80",
       "multiverseid": 6620,
       "name": "Norwood Warrior",
       "originalText": "If Norwood Warrior attacks and is blocked, it gets +1/+1 until the end of the turn.",
@@ -6864,7 +6739,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "73",
       "multiverseid": 6621,
       "name": "Monstrous Growth",
       "originalText": "Any one creature gets +4/+4 until the end of the turn.",
@@ -6912,7 +6786,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "85",
       "multiverseid": 6622,
       "name": "Salvage",
       "originalText": "Take any one card from your graveyard and put that card on the top of your library.",
@@ -6959,7 +6832,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "75",
       "multiverseid": 6623,
       "name": "Nature's Lore",
       "originalText": "Search your library for a forest card and put that forest into play. Shuffle your library afterwards.",
@@ -7028,7 +6900,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "74",
       "multiverseid": 6624,
       "name": "Natural Spring",
       "originalText": "You gain 8 life.",
@@ -7077,7 +6948,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "90",
       "multiverseid": 6625,
       "name": "Wild Ox",
       "originalText": "Swampwalk (If defending player has any swamps in play, Wild Ox can't be blocked.)",
@@ -7131,7 +7001,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "84",
       "multiverseid": 6626,
       "name": "River Bear",
       "originalText": "Islandwalk (If defending player has any islands in play, River Bear can't be blocked.)",
@@ -7180,7 +7049,6 @@
         }
       ],
       "manaCost": "{5}{G}",
-      "mciNumber": "62",
       "multiverseid": 6627,
       "name": "Barbtooth Wurm",
       "originalType": "Creature — Wurm",
@@ -7227,7 +7095,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "70",
       "multiverseid": 6628,
       "name": "Ironhoof Ox",
       "originalText": "Ironhoof Ox can't be blocked by more than one creature.",
@@ -7276,7 +7143,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "83",
       "multiverseid": 6629,
       "name": "Renewing Touch",
       "originalText": "Choose any number of creature cards in your graveyard and shuffle them into your library.",
@@ -7319,7 +7185,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "89",
       "multiverseid": 6630,
       "name": "Untamed Wilds",
       "originalText": "Search your library for a plains, island, swamp, mountain, or forest card and put that land into play. Shuffle your library afterwards.",
@@ -7380,7 +7245,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "66",
       "multiverseid": 6631,
       "name": "Deep Wood",
       "originalText": "Play Deep Wood only after you're attacked, before you declare blockers.\nThis turn, all damage dealt to you by attacking creatures is reduced to 0.",
@@ -7423,7 +7287,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "68",
       "multiverseid": 6632,
       "name": "Harmony of Nature",
       "originalText": "Tap any number of your creatures. You gain 4 life for each creature tapped this way. (Tapped creatures can't block.)",
@@ -7466,7 +7329,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "64",
       "multiverseid": 6633,
       "name": "Bee Sting",
       "originalText": "Bee Sting deals 2 damage to any one creature or player.",
@@ -7510,7 +7372,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "77",
       "multiverseid": 6634,
       "name": "Norwood Priestess",
       "originalText": "On your turn, before you attack, you may tap Norwood Priestess to put any green creature from your hand into play without paying for it.",
@@ -7566,7 +7427,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "87",
       "multiverseid": 6635,
       "name": "Sylvan Yeti",
       "originalText": "Sylvan Yeti has power equal to the number of cards you have in your hand.",
@@ -7619,7 +7479,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "78",
       "multiverseid": 6636,
       "name": "Norwood Ranger",
       "originalType": "Creature — Elf",
@@ -7668,7 +7527,6 @@
         }
       ],
       "manaCost": "{6}{G}{G}",
-      "mciNumber": "65",
       "multiverseid": 6637,
       "name": "Deathcoil Wurm",
       "originalText": "If Deathcoil Wurm attacks and is blocked, you may choose to have it deal its damage to the defending player instead of to the creatures blocking it.",
@@ -7731,7 +7589,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "82",
       "multiverseid": 6638,
       "name": "Razorclaw Bear",
       "originalText": "If Razorclaw Bear attacks and is blocked, it gets +2/+2 until the end of the turn.",
@@ -7779,7 +7636,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "61",
       "multiverseid": 6639,
       "name": "Alluring Scent",
       "originalText": "Choose any one creature. This turn, all creatures able to block it do so.",
@@ -7832,7 +7688,6 @@
         }
       ],
       "manaCost": "{X}{G}",
-      "mciNumber": "69",
       "multiverseid": 6640,
       "name": "Hurricane",
       "originalText": "Hurricane deals X damage to each player and each creature with flying. (This includes you and your creatures with flying.)",
@@ -8113,7 +7968,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8376,7 +8234,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8639,7 +8500,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8902,7 +8766,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9165,7 +9032,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9428,7 +9298,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9694,7 +9567,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9960,7 +9836,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -10226,7 +10105,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -10495,7 +10377,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -10764,7 +10649,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11033,7 +10921,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11299,7 +11190,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11565,7 +11459,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11831,7 +11728,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11881,7 +11781,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "86",
       "multiverseid": 8905,
       "name": "Sylvan Basilisk",
       "originalText": "If Sylvan Basilisk attacks and is blocked, destroy all creatures blocking it. (Destroy the creatures before they deal damage. The Basilisk doesn't damage your opponent.)",

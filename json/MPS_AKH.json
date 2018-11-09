@@ -44,7 +44,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "1",
       "multiverseid": 429860,
       "name": "Austere Command",
       "number": "1",
@@ -120,7 +119,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "2",
       "multiverseid": 429861,
       "name": "Aven Mindcensor",
       "number": "2",
@@ -189,7 +187,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "3",
       "multiverseid": 429862,
       "name": "Containment Priest",
       "number": "3",
@@ -257,7 +254,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "4",
       "multiverseid": 429863,
       "name": "Loyal Retainers",
       "number": "4",
@@ -327,7 +323,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "5",
       "multiverseid": 429864,
       "name": "Oketra the True",
       "number": "5",
@@ -397,7 +392,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "6",
       "multiverseid": 429865,
       "name": "Worship",
       "number": "6",
@@ -458,7 +452,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "7",
       "multiverseid": 429866,
       "name": "Wrath of God",
       "number": "7",
@@ -528,7 +521,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "8",
       "multiverseid": 429867,
       "name": "Consecrated Sphinx",
       "number": "8",
@@ -600,7 +592,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "9",
       "multiverseid": 429868,
       "name": "Counterbalance",
       "number": "9",
@@ -666,7 +657,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "10",
       "multiverseid": 429869,
       "name": "Counterspell",
       "number": "10",
@@ -745,7 +735,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}{U}",
-      "mciNumber": "11",
       "multiverseid": 429870,
       "name": "Cryptic Command",
       "number": "11",
@@ -807,7 +796,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "12",
       "multiverseid": 429871,
       "name": "Daze",
       "number": "12",
@@ -864,7 +852,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "13",
       "multiverseid": 429872,
       "name": "Divert",
       "number": "13",
@@ -912,7 +899,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "14",
       "multiverseid": 429873,
       "name": "Force of Will",
       "number": "14",
@@ -978,7 +964,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "15",
       "multiverseid": 429874,
       "name": "Kefnet the Mindful",
       "number": "15",
@@ -1048,7 +1033,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "16",
       "multiverseid": 429875,
       "name": "Pact of Negation",
       "number": "16",
@@ -1116,7 +1100,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "17",
       "multiverseid": 429876,
       "name": "Spell Pierce",
       "number": "17",
@@ -1166,7 +1149,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "18",
       "multiverseid": 429877,
       "name": "Stifle",
       "number": "18",
@@ -1230,7 +1212,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "19",
       "multiverseid": 429878,
       "name": "Attrition",
       "number": "19",
@@ -1287,7 +1268,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "20",
       "multiverseid": 429879,
       "name": "Bontu the Glorified",
       "number": "20",
@@ -1377,7 +1357,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "21",
       "multiverseid": 429880,
       "name": "Dark Ritual",
       "number": "21",
@@ -1453,7 +1432,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "22",
       "multiverseid": 429881,
       "name": "Diabolic Intent",
       "number": "22",
@@ -1516,7 +1494,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "23",
       "multiverseid": 429882,
       "name": "Entomb",
       "number": "23",
@@ -1563,7 +1540,6 @@
         }
       ],
       "manaCost": "{X}{B}",
-      "mciNumber": "24",
       "multiverseid": 429883,
       "name": "Mind Twist",
       "number": "24",
@@ -1618,7 +1594,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "25",
       "multiverseid": 429884,
       "name": "Aggravated Assault",
       "number": "25",
@@ -1673,7 +1648,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "26",
       "multiverseid": 429885,
       "name": "Chain Lightning",
       "number": "26",
@@ -1764,7 +1738,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "27",
       "multiverseid": 429886,
       "name": "Hazoret the Fervent",
       "number": "27",
@@ -1838,7 +1811,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "28",
       "multiverseid": 429887,
       "name": "Rhonas the Indomitable",
       "number": "28",
@@ -1910,7 +1882,6 @@
         }
       ],
       "manaCost": "{1}{B}{G}",
-      "mciNumber": "29",
       "multiverseid": 429888,
       "name": "Maelstrom Pulse",
       "number": "29",
@@ -1980,7 +1951,6 @@
         }
       ],
       "manaCost": "{1}{W}{B}",
-      "mciNumber": "30",
       "multiverseid": 429889,
       "name": "Vindicate",
       "number": "30",
@@ -2027,7 +1997,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "31",
       "multiverseid": 430666,
       "name": "Armageddon",
       "number": "31",
@@ -2093,7 +2062,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "32",
       "multiverseid": 430667,
       "name": "Capsize",
       "number": "32",
@@ -2143,7 +2111,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "33",
       "multiverseid": 430668,
       "name": "Forbid",
       "number": "33",
@@ -2193,7 +2160,6 @@
         }
       ],
       "manaCost": "{7}{U}{U}{U}",
-      "mciNumber": "34",
       "multiverseid": 430669,
       "name": "Omniscience",
       "number": "34",
@@ -2201,7 +2167,8 @@
       "originalType": "Enchantment",
       "printings": [
         "M13",
-        "MPS_AKH"
+        "MPS_AKH",
+        "M19"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2255,7 +2222,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "35",
       "multiverseid": 430670,
       "name": "Opposition",
       "number": "35",
@@ -2304,7 +2270,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "36",
       "multiverseid": 430671,
       "name": "Sunder",
       "number": "36",
@@ -2362,7 +2327,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "37",
       "multiverseid": 430672,
       "name": "Threads of Disloyalty",
       "number": "37",
@@ -2436,7 +2400,6 @@
         }
       ],
       "manaCost": "{6}{B}{B}",
-      "mciNumber": "38",
       "multiverseid": 430673,
       "name": "Avatar of Woe",
       "number": "38",
@@ -2505,7 +2468,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "39",
       "multiverseid": 430674,
       "name": "Damnation",
       "number": "39",
@@ -2563,7 +2525,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "40",
       "multiverseid": 430675,
       "name": "Desolation Angel",
       "number": "40",
@@ -2616,7 +2577,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "41",
       "multiverseid": 430676,
       "name": "Diabolic Edict",
       "number": "41",
@@ -2668,7 +2628,6 @@
         }
       ],
       "manaCost": "{B}{B}{B}",
-      "mciNumber": "42",
       "multiverseid": 430677,
       "name": "Doomsday",
       "number": "42",
@@ -2728,7 +2687,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "43",
       "multiverseid": 430678,
       "name": "No Mercy",
       "number": "43",
@@ -2786,7 +2744,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "44",
       "multiverseid": 430679,
       "name": "Slaughter Pact",
       "number": "44",
@@ -2849,7 +2806,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "45",
       "multiverseid": 430680,
       "name": "Thoughtseize",
       "number": "45",
@@ -2909,7 +2865,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "46",
       "multiverseid": 430681,
       "name": "Blood Moon",
       "number": "46",
@@ -2985,7 +2940,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "47",
       "multiverseid": 430682,
       "name": "Boil",
       "number": "47",
@@ -3036,7 +2990,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "48",
       "multiverseid": 430683,
       "name": "Shatterstorm",
       "number": "48",
@@ -3092,7 +3045,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "49",
       "multiverseid": 430684,
       "name": "Through the Breach",
       "number": "49",
@@ -3169,7 +3121,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "50",
       "multiverseid": 430685,
       "name": "Choke",
       "number": "50",
@@ -3228,7 +3179,6 @@
         }
       ],
       "manaCost": "{4}{U}{R}",
-      "mciNumber": "51",
       "multiverseid": 430686,
       "name": "The Locust God",
       "number": "51",
@@ -3304,7 +3254,6 @@
         }
       ],
       "manaCost": "{3}{B}{G}",
-      "mciNumber": "52",
       "multiverseid": 430687,
       "name": "Lord of Extinction",
       "number": "52",
@@ -3367,7 +3316,6 @@
         }
       ],
       "manaCost": "{3}{U}{B}",
-      "mciNumber": "53",
       "multiverseid": 430688,
       "name": "The Scarab God",
       "number": "53",
@@ -3467,7 +3415,6 @@
         }
       ],
       "manaCost": "{3}{B}{R}",
-      "mciNumber": "54",
       "multiverseid": 430689,
       "name": "The Scorpion God",
       "number": "54",

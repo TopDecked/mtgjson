@@ -36,7 +36,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "1",
       "multiverseid": 194966,
       "name": "Balance",
       "number": "1",
@@ -104,7 +103,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "2",
       "multiverseid": 194969,
       "name": "Berserk",
       "number": "2",
@@ -162,7 +160,6 @@
         }
       ],
       "manaCost": "{G}{G}",
-      "mciNumber": "3",
       "multiverseid": 194967,
       "name": "Channel",
       "number": "3",
@@ -229,7 +226,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "4",
       "multiverseid": 194971,
       "name": "Gifts Ungiven",
       "number": "4",
@@ -286,7 +282,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "5",
       "multiverseid": 194973,
       "name": "Goblin Lackey",
       "number": "5",
@@ -347,7 +342,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "6",
       "multiverseid": 194974,
       "name": "Kird Ape",
       "number": "6",
@@ -401,7 +395,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "7",
       "multiverseid": 194975,
       "name": "Lotus Petal",
       "number": "7",
@@ -452,7 +445,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "8",
       "multiverseid": 194976,
       "name": "Mystical Tutor",
       "number": "8",
@@ -508,7 +500,6 @@
         }
       ],
       "manaCost": "{B}{B}{B}",
-      "mciNumber": "9",
       "multiverseid": 194977,
       "name": "Necropotence",
       "number": "9",
@@ -574,7 +565,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "10",
       "multiverseid": 194972,
       "name": "Sensei's Divining Top",
       "number": "10",
@@ -630,7 +620,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "11",
       "multiverseid": 194970,
       "name": "Serendib Efreet",
       "number": "11",
@@ -686,7 +675,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "12",
       "multiverseid": 194978,
       "name": "Skullclamp",
       "number": "12",
@@ -734,7 +722,6 @@
           "legality": "Restricted"
         }
       ],
-      "mciNumber": "13",
       "multiverseid": 194968,
       "name": "Strip Mine",
       "number": "13",
@@ -788,7 +775,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "14",
       "multiverseid": 194980,
       "name": "Tinker",
       "number": "14",
@@ -841,7 +827,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "15",
       "multiverseid": 194979,
       "name": "Trinisphere",
       "number": "15",

@@ -99,7 +99,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "245",
       "multiverseid": 338442,
       "name": "Command Tower",
       "number": "2",
@@ -560,7 +559,6 @@
         }
       ],
       "manaCost": "{1}{R}{W}{B}",
-      "mciNumber": "180",
       "multiverseid": 338444,
       "name": "Kaalia of the Vast",
       "number": "9",

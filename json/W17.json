@@ -103,7 +103,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "1",
       "multiverseid": 429890,
       "name": "Divine Verdict",
       "number": "1",
@@ -235,7 +234,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "2",
       "multiverseid": 429891,
       "name": "Glory Seeker",
       "number": "2",
@@ -348,7 +346,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "3",
       "multiverseid": 429892,
       "name": "Serra Angel",
       "number": "3",
@@ -386,7 +383,8 @@
         "W17",
         "CMA",
         "IMA",
-        "DOM"
+        "DOM",
+        "GNT"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -491,7 +489,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "4",
       "multiverseid": 429893,
       "name": "Standing Troops",
       "number": "4",
@@ -607,7 +604,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "5",
       "multiverseid": 429894,
       "name": "Stormfront Pegasus",
       "number": "5",
@@ -722,7 +718,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}{W}",
-      "mciNumber": "6",
       "multiverseid": 429895,
       "name": "Victory's Herald",
       "number": "6",
@@ -847,7 +842,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "7",
       "multiverseid": 429896,
       "name": "Air Elemental",
       "number": "7",
@@ -878,7 +872,9 @@
         "ME4",
         "DD3_JVC",
         "W17",
-        "XLN"
+        "XLN",
+        "M19",
+        "GNT"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -983,7 +979,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "8",
       "multiverseid": 429897,
       "name": "Coral Merfolk",
       "number": "8",
@@ -1099,7 +1094,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "9",
       "multiverseid": 429898,
       "name": "Drag Under",
       "number": "9",
@@ -1218,7 +1212,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "10",
       "multiverseid": 429899,
       "name": "Inspiration",
       "number": "10",
@@ -1331,7 +1324,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "11",
       "multiverseid": 429900,
       "name": "Sleep Paralysis",
       "number": "11",
@@ -1443,7 +1435,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}{U}",
-      "mciNumber": "12",
       "multiverseid": 429901,
       "name": "Sphinx of Magosi",
       "number": "12",
@@ -1560,7 +1551,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "13",
       "multiverseid": 429902,
       "name": "Stealer of Secrets",
       "number": "13",
@@ -1673,7 +1663,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "14",
       "multiverseid": 429903,
       "name": "Tricks of the Trade",
       "number": "14",
@@ -1781,7 +1770,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "15",
       "multiverseid": 429904,
       "name": "Bloodhunter Bat",
       "number": "15",
@@ -1896,7 +1884,6 @@
         }
       ],
       "manaCost": "{5}{B}",
-      "mciNumber": "16",
       "multiverseid": 429905,
       "name": "Certain Death",
       "number": "16",
@@ -2011,7 +1998,6 @@
         }
       ],
       "manaCost": "{5}{B}",
-      "mciNumber": "17",
       "multiverseid": 429906,
       "name": "Nightmare",
       "number": "17",
@@ -2157,7 +2143,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "18",
       "multiverseid": 429907,
       "name": "Raise Dead",
       "number": "18",
@@ -2293,7 +2278,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "19",
       "multiverseid": 429908,
       "name": "Sengir Vampire",
       "number": "19",
@@ -2440,7 +2424,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "20",
       "multiverseid": 429909,
       "name": "Untamed Hunger",
       "number": "20",
@@ -2552,7 +2535,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "21",
       "multiverseid": 429910,
       "name": "Falkenrath Reaver",
       "number": "21",
@@ -2660,7 +2642,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "22",
       "multiverseid": 429911,
       "name": "Shivan Dragon",
       "number": "22",
@@ -2690,7 +2671,8 @@
         "M15",
         "ORI",
         "W16",
-        "W17"
+        "W17",
+        "M19"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -2795,7 +2777,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "23",
       "multiverseid": 429912,
       "name": "Thundering Giant",
       "number": "23",
@@ -2908,7 +2889,6 @@
         }
       ],
       "manaCost": "{5}{G}{G}",
-      "mciNumber": "24",
       "multiverseid": 429913,
       "name": "Garruk's Horde",
       "number": "24",
@@ -3046,7 +3026,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "25",
       "multiverseid": 429914,
       "name": "Oakenform",
       "number": "25",
@@ -3055,7 +3034,8 @@
       "printings": [
         "M10",
         "W16",
-        "W17"
+        "W17",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -3159,7 +3139,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "26",
       "multiverseid": 429915,
       "name": "Rabid Bite",
       "number": "26",
@@ -3167,7 +3146,8 @@
       "originalType": "Sorcery",
       "printings": [
         "SOI",
-        "W17"
+        "W17",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -3274,7 +3254,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "27",
       "multiverseid": 429916,
       "name": "Rootwalla",
       "number": "27",
@@ -3398,7 +3377,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "28",
       "multiverseid": 429917,
       "name": "Stalking Tiger",
       "number": "28",
@@ -3512,7 +3490,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "29",
       "multiverseid": 429918,
       "name": "Stampeding Rhino",
       "number": "29",
@@ -3627,7 +3604,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "30",
       "multiverseid": 429919,
       "name": "Wing Snare",
       "number": "30",

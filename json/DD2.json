@@ -55,7 +55,6 @@
       ],
       "loyalty": 3,
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "1",
       "multiverseid": 185816,
       "name": "Jace Beleren",
       "number": "1",
@@ -131,7 +130,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "2",
       "multiverseid": 189243,
       "name": "Martyr of Frost",
       "number": "2",
@@ -211,7 +209,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "3",
       "multiverseid": 189247,
       "name": "Fathom Seer",
       "number": "3",
@@ -275,7 +272,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "4",
       "multiverseid": 189250,
       "name": "Voidmage Apprentice",
       "number": "4",
@@ -347,7 +343,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "5",
       "multiverseid": 189251,
       "name": "Wall of Deceit",
       "number": "5",
@@ -416,7 +411,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "6",
       "multiverseid": 189252,
       "name": "Willbender",
       "number": "6",
@@ -508,7 +502,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "7",
       "multiverseid": 189224,
       "name": "Bottle Gnomes",
       "number": "7",
@@ -577,7 +570,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "8",
       "multiverseid": 189240,
       "name": "Man-o'-War",
       "number": "8",
@@ -652,7 +644,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "9",
       "multiverseid": 189253,
       "name": "Ophidian",
       "number": "9",
@@ -725,7 +716,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "10",
       "multiverseid": 189248,
       "name": "Fledgling Mawcor",
       "number": "10",
@@ -787,7 +777,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "11",
       "multiverseid": 189241,
       "name": "Waterspout Djinn",
       "number": "11",
@@ -858,7 +847,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "12",
       "multiverseid": 189217,
       "name": "Mulldrifter",
       "number": "12",
@@ -934,7 +922,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "13",
       "multiverseid": 189223,
       "name": "Air Elemental",
       "number": "13",
@@ -965,7 +952,9 @@
         "ME4",
         "DD3_JVC",
         "W17",
-        "XLN"
+        "XLN",
+        "M19",
+        "GNT"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -1020,7 +1009,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}{U}",
-      "mciNumber": "14",
       "multiverseid": 189213,
       "name": "Guile",
       "number": "14",
@@ -1121,7 +1109,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "15",
       "multiverseid": 189249,
       "name": "Riftwing Cloudskate",
       "number": "15",
@@ -1225,7 +1212,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "16",
       "multiverseid": 189233,
       "name": "Spire Golem",
       "number": "16",
@@ -1291,7 +1277,6 @@
         }
       ],
       "manaCost": "{5}{U}",
-      "mciNumber": "17",
       "multiverseid": 189211,
       "name": "Aethersnipe",
       "number": "17",
@@ -1366,7 +1351,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "18",
       "multiverseid": 189245,
       "name": "Brine Elemental",
       "number": "18",
@@ -1435,7 +1419,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "19",
       "multiverseid": 189254,
       "name": "Quicksilver Dragon",
       "number": "19",
@@ -1500,7 +1483,6 @@
         }
       ],
       "manaCost": "{6}{U}",
-      "mciNumber": "20",
       "multiverseid": 189246,
       "name": "Errant Ephemeron",
       "number": "20",
@@ -1608,7 +1590,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "21",
       "multiverseid": 189244,
       "name": "Ancestral Vision",
       "number": "21",
@@ -1714,7 +1695,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "22",
       "multiverseid": 189228,
       "name": "Mind Stone",
       "number": "22",
@@ -1776,7 +1756,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "23",
       "multiverseid": 189255,
       "name": "Daze",
       "number": "23",
@@ -1849,7 +1828,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "24",
       "multiverseid": 185820,
       "name": "Counterspell",
       "number": "24",
@@ -1932,7 +1910,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "25",
       "multiverseid": 189257,
       "name": "Repulse",
       "number": "25",
@@ -1991,7 +1968,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "26",
       "multiverseid": 185819,
       "name": "Fact or Fiction",
       "number": "26",
@@ -2065,7 +2041,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "27",
       "multiverseid": 189258,
       "name": "Gush",
       "number": "27",
@@ -2126,7 +2101,6 @@
         }
       ],
       "manaCost": "{X}{U}",
-      "mciNumber": "28",
       "multiverseid": 189237,
       "name": "Condescend",
       "number": "28",
@@ -2186,7 +2160,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "29",
       "multiverseid": 189256,
       "name": "Terrain Generator",
       "number": "29",
@@ -2481,7 +2454,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2768,7 +2744,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3055,7 +3034,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3342,7 +3324,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3405,7 +3390,6 @@
       ],
       "loyalty": 6,
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "34",
       "multiverseid": 185815,
       "name": "Chandra Nalaar",
       "number": "34",
@@ -3480,7 +3464,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "35",
       "multiverseid": 189212,
       "name": "Flamekin Brawler",
       "number": "35",
@@ -3543,7 +3526,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "36",
       "multiverseid": 189219,
       "name": "Fireslinger",
       "number": "36",
@@ -3611,7 +3593,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "37",
       "multiverseid": 189218,
       "name": "Soulbright Flamekin",
       "number": "37",
@@ -3694,7 +3675,6 @@
         }
       ],
       "manaCost": "{R}{R}",
-      "mciNumber": "38",
       "multiverseid": 189221,
       "name": "Pyre Charger",
       "number": "38",
@@ -3761,7 +3741,6 @@
         }
       ],
       "manaCost": "{R}{R}",
-      "mciNumber": "39",
       "multiverseid": 189222,
       "name": "Slith Firewalker",
       "number": "39",
@@ -3828,7 +3807,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "40",
       "multiverseid": 189226,
       "name": "Flamewave Invoker",
       "number": "40",
@@ -3898,7 +3876,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "41",
       "multiverseid": 189216,
       "name": "Inner-Flame Acolyte",
       "number": "41",
@@ -3967,7 +3944,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "42",
       "multiverseid": 189234,
       "name": "Flametongue Kavu",
       "number": "42",
@@ -4045,7 +4021,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "43",
       "multiverseid": 189227,
       "name": "Furnace Whelp",
       "number": "43",
@@ -4117,7 +4092,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "44",
       "multiverseid": 189230,
       "name": "Rakdos Pit Dragon",
       "number": "44",
@@ -4189,7 +4163,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "45",
       "multiverseid": 189215,
       "name": "Ingot Chewer",
       "number": "45",
@@ -4256,7 +4229,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "46",
       "multiverseid": 189232,
       "name": "Oxidda Golem",
       "number": "46",
@@ -4318,7 +4290,6 @@
         }
       ],
       "manaCost": "{5}{R}",
-      "mciNumber": "47",
       "multiverseid": 189235,
       "name": "Chartooth Cougar",
       "number": "47",
@@ -4407,7 +4378,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}{R}",
-      "mciNumber": "48",
       "multiverseid": 189214,
       "name": "Hostility",
       "number": "48",
@@ -4489,7 +4459,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "49",
       "multiverseid": 189236,
       "name": "Firebolt",
       "number": "49",
@@ -4557,7 +4526,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "50",
       "multiverseid": 185817,
       "name": "Seal of Fire",
       "number": "50",
@@ -4623,7 +4591,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "51",
       "multiverseid": 185818,
       "name": "Incinerate",
       "number": "51",
@@ -4703,7 +4670,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "52",
       "multiverseid": 189238,
       "name": "Magma Jet",
       "number": "52",
@@ -4786,7 +4752,6 @@
         }
       ],
       "manaCost": "{2/R}{2/R}{2/R}",
-      "mciNumber": "53",
       "multiverseid": 189220,
       "name": "Flame Javelin",
       "number": "53",
@@ -4866,7 +4831,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "54",
       "multiverseid": 189225,
       "name": "Cone of Flame",
       "number": "54",
@@ -4938,7 +4902,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "55",
       "multiverseid": 189239,
       "name": "Fireblast",
       "number": "55",
@@ -5002,7 +4965,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "56",
       "multiverseid": 189231,
       "name": "Fireball",
       "number": "56",
@@ -5103,7 +5065,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "57",
       "multiverseid": 189229,
       "name": "Demonfire",
       "number": "57",
@@ -5159,7 +5120,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "58",
       "multiverseid": 189242,
       "name": "Keldon Megaliths",
       "number": "58",
@@ -5456,7 +5416,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -5749,7 +5712,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -6042,7 +6008,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -6335,7 +6304,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

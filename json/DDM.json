@@ -54,7 +54,6 @@
       ],
       "loyalty": 4,
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "1",
       "multiverseid": 380190,
       "name": "Jace, Architect of Thought",
       "number": "1",
@@ -152,7 +151,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "2",
       "multiverseid": 380269,
       "name": "Chronomaton",
       "number": "2",
@@ -214,7 +212,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "3",
       "multiverseid": 380245,
       "name": "Jace's Phantasm",
       "number": "3",
@@ -290,7 +287,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "4",
       "multiverseid": 380219,
       "name": "Phantasmal Bear",
       "number": "4",
@@ -362,7 +358,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "5",
       "multiverseid": 380263,
       "name": "Aether Figment",
       "number": "5",
@@ -427,7 +422,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "6",
       "multiverseid": 380256,
       "name": "Crosstown Courier",
       "number": "6",
@@ -492,7 +486,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "7",
       "multiverseid": 380210,
       "name": "Dream Stalker",
       "number": "7",
@@ -557,7 +550,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "8",
       "multiverseid": 380275,
       "name": "Krovikan Mist",
       "number": "8",
@@ -621,7 +613,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "9",
       "multiverseid": 380233,
       "name": "Merfolk Wayfinder",
       "number": "9",
@@ -694,7 +685,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "10",
       "multiverseid": 380247,
       "name": "Sea Gate Oracle",
       "number": "10",
@@ -773,7 +763,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "11",
       "multiverseid": 380202,
       "name": "Stealer of Secrets",
       "number": "11",
@@ -837,7 +826,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "12",
       "multiverseid": 380241,
       "name": "Aether Adept",
       "number": "12",
@@ -906,7 +894,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "13",
       "multiverseid": 380252,
       "name": "Archaeomancer",
       "number": "13",
@@ -976,7 +963,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "14",
       "multiverseid": 380215,
       "name": "Phantasmal Dragon",
       "number": "14",
@@ -1042,7 +1028,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "15",
       "multiverseid": 380228,
       "name": "Body Double",
       "number": "15",
@@ -1122,7 +1107,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "16",
       "multiverseid": 380257,
       "name": "Leyline Phantom",
       "number": "16",
@@ -1186,7 +1170,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "17",
       "multiverseid": 380272,
       "name": "Aeon Chronicler",
       "number": "17",
@@ -1301,7 +1284,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "18",
       "multiverseid": 380197,
       "name": "Riftwing Cloudskate",
       "number": "18",
@@ -1406,7 +1388,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "19",
       "multiverseid": 380206,
       "name": "Jace's Mindseeker",
       "number": "19",
@@ -1497,7 +1478,6 @@
         }
       ],
       "manaCost": "{6}{U}",
-      "mciNumber": "20",
       "multiverseid": 380243,
       "name": "Errant Ephemeron",
       "number": "20",
@@ -1607,7 +1587,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "21",
       "multiverseid": 380203,
       "name": "Thought Scour",
       "number": "21",
@@ -1678,7 +1657,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "22",
       "multiverseid": 380253,
       "name": "Agoraphobia",
       "number": "22",
@@ -1755,7 +1733,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "23",
       "multiverseid": 380188,
       "name": "Into the Roil",
       "number": "23",
@@ -1819,7 +1796,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "24",
       "multiverseid": 380199,
       "name": "Memory Lapse",
       "number": "24",
@@ -1886,7 +1862,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "25",
       "multiverseid": 380270,
       "name": "Prohibit",
       "number": "25",
@@ -1946,7 +1921,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "26",
       "multiverseid": 380255,
       "name": "Remand",
       "number": "26",
@@ -2018,7 +1992,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "27",
       "multiverseid": 380259,
       "name": "Claustrophobia",
       "number": "27",
@@ -2031,7 +2004,8 @@
         "ORI",
         "DDT",
         "IMA",
-        "BBD"
+        "BBD",
+        "GNT"
       ],
       "rarity": "Common",
       "rulings": [
@@ -2100,7 +2074,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "28",
       "multiverseid": 380267,
       "name": "Griptide",
       "number": "28",
@@ -2161,7 +2134,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "29",
       "multiverseid": 380216,
       "name": "Ray of Command",
       "number": "29",
@@ -2232,7 +2204,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "30",
       "multiverseid": 380201,
       "name": "Control Magic",
       "number": "30",
@@ -2313,7 +2284,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "31",
       "multiverseid": 380266,
       "name": "Summoner's Bane",
       "number": "31",
@@ -2379,7 +2349,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "32",
       "multiverseid": 380211,
       "name": "Jace's Ingenuity",
       "number": "32",
@@ -2437,7 +2406,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}{U}",
-      "mciNumber": "33",
       "multiverseid": 380251,
       "name": "Future Sight",
       "number": "33",
@@ -2516,7 +2484,6 @@
         }
       ],
       "manaCost": "{5}{U}",
-      "mciNumber": "34",
       "multiverseid": 380258,
       "name": "Spelltwine",
       "number": "34",
@@ -2601,7 +2568,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "35",
       "multiverseid": 380232,
       "name": "Dread Statuary",
       "number": "35",
@@ -2667,7 +2633,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "36",
       "multiverseid": 380231,
       "name": "Halimar Depths",
       "number": "36",
@@ -2956,7 +2921,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3249,7 +3217,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3542,7 +3513,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3835,7 +3809,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4128,7 +4105,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4194,7 +4174,6 @@
       ],
       "loyalty": 5,
       "manaCost": "{3}{B}{G}",
-      "mciNumber": "42",
       "multiverseid": 380214,
       "name": "Vraska the Unseen",
       "number": "42",
@@ -4270,7 +4249,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "43",
       "multiverseid": 380250,
       "name": "Pulse Tracker",
       "number": "43",
@@ -4335,7 +4313,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "44",
       "multiverseid": 380212,
       "name": "Shadow Alley Denizen",
       "number": "44",
@@ -4411,7 +4388,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "45",
       "multiverseid": 380195,
       "name": "Tavern Swindler",
       "number": "45",
@@ -4485,7 +4461,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "46",
       "multiverseid": 380207,
       "name": "Wight of Precinct Six",
       "number": "46",
@@ -4562,7 +4537,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "47",
       "multiverseid": 380262,
       "name": "Death-Hood Cobra",
       "number": "47",
@@ -4628,7 +4602,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "48",
       "multiverseid": 380268,
       "name": "Gatecreeper Vine",
       "number": "48",
@@ -4697,7 +4670,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "49",
       "multiverseid": 380260,
       "name": "River Boa",
       "number": "49",
@@ -4767,7 +4739,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "50",
       "multiverseid": 380244,
       "name": "Vinelasher Kudzu",
       "number": "50",
@@ -4834,7 +4805,6 @@
         }
       ],
       "manaCost": "{B}{G}",
-      "mciNumber": "51",
       "multiverseid": 380242,
       "name": "Putrid Leech",
       "number": "51",
@@ -4901,7 +4871,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "52",
       "multiverseid": 380189,
       "name": "Sadistic Augermage",
       "number": "52",
@@ -4967,7 +4936,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "53",
       "multiverseid": 380226,
       "name": "Slate Street Ruffian",
       "number": "53",
@@ -5032,7 +5000,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "54",
       "multiverseid": 380248,
       "name": "Oran-Rief Recluse",
       "number": "54",
@@ -5097,7 +5064,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "55",
       "multiverseid": 380196,
       "name": "Spawnwrithe",
       "number": "55",
@@ -5182,7 +5148,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "56",
       "multiverseid": 380230,
       "name": "Stonefare Crocodile",
       "number": "56",
@@ -5253,7 +5218,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "57",
       "multiverseid": 380265,
       "name": "Ohran Viper",
       "number": "57",
@@ -5322,7 +5286,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "58",
       "multiverseid": 380254,
       "name": "Corpse Traders",
       "number": "58",
@@ -5398,7 +5361,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "59",
       "multiverseid": 380200,
       "name": "Festerhide Boar",
       "number": "59",
@@ -5463,7 +5425,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "60",
       "multiverseid": 380249,
       "name": "Mold Shambler",
       "number": "60",
@@ -5530,7 +5491,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "61",
       "multiverseid": 380193,
       "name": "Highway Robber",
       "number": "61",
@@ -5598,7 +5558,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "62",
       "multiverseid": 380273,
       "name": "Nekrataal",
       "number": "62",
@@ -5677,7 +5636,6 @@
         }
       ],
       "manaCost": "{2}{B}{G}",
-      "mciNumber": "63",
       "multiverseid": 380224,
       "name": "Reaper of the Wilds",
       "number": "63",
@@ -5764,7 +5722,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "64",
       "multiverseid": 380236,
       "name": "Acidic Slime",
       "number": "64",
@@ -5839,7 +5796,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}{G}",
-      "mciNumber": "65",
       "multiverseid": 380205,
       "name": "Drooling Groodion",
       "number": "65",
@@ -5905,7 +5861,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "66",
       "multiverseid": 380221,
       "name": "Tragic Slip",
       "number": "66",
@@ -5963,7 +5918,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "67",
       "multiverseid": 380225,
       "name": "Hypnotic Cloud",
       "number": "67",
@@ -6023,7 +5977,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "68",
       "multiverseid": 380191,
       "name": "Night's Whisper",
       "number": "68",
@@ -6083,7 +6036,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "69",
       "multiverseid": 380238,
       "name": "Marsh Casualties",
       "number": "69",
@@ -6146,7 +6098,6 @@
         }
       ],
       "manaCost": "{B}{G}",
-      "mciNumber": "70",
       "multiverseid": 380235,
       "name": "Treasured Find",
       "number": "70",
@@ -6206,7 +6157,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "71",
       "multiverseid": 380218,
       "name": "Last Kiss",
       "number": "71",
@@ -6275,7 +6225,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "72",
       "multiverseid": 380204,
       "name": "Stab Wound",
       "number": "72",
@@ -6339,7 +6288,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "73",
       "multiverseid": 380227,
       "name": "Underworld Connections",
       "number": "73",
@@ -6402,7 +6350,6 @@
         }
       ],
       "manaCost": "{1}{B}{G}",
-      "mciNumber": "74",
       "multiverseid": 380246,
       "name": "Consume Strength",
       "number": "74",
@@ -6462,7 +6409,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "75",
       "multiverseid": 380274,
       "name": "Grisly Spectacle",
       "number": "75",
@@ -6531,7 +6477,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "76",
       "multiverseid": 380220,
       "name": "Golgari Guildgate",
       "number": "76",
@@ -6602,7 +6547,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "77",
       "multiverseid": 380234,
       "name": "Rogue's Passage",
       "number": "77",
@@ -6664,7 +6608,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "78",
       "multiverseid": 380213,
       "name": "Tainted Wood",
       "number": "78",
@@ -6958,7 +6901,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7254,7 +7200,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7550,7 +7499,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7846,7 +7798,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8142,7 +8097,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8438,7 +8396,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8734,7 +8695,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9030,7 +8994,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9326,7 +9293,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9622,7 +9592,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

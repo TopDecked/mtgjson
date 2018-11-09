@@ -53,7 +53,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "1",
       "multiverseid": 10487,
       "name": "Alert Shu Infantry",
       "number": "1",
@@ -102,7 +101,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "2",
       "multiverseid": 10553,
       "name": "Eightfold Maze",
       "number": "2",
@@ -157,7 +155,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "3",
       "multiverseid": 10504,
       "name": "Empty City Ruse",
       "number": "3",
@@ -201,7 +198,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "4",
       "multiverseid": 10509,
       "name": "False Defeat",
       "number": "4",
@@ -246,7 +242,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "5",
       "multiverseid": 10486,
       "name": "Flanking Troops",
       "number": "5",
@@ -295,7 +290,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "6",
       "multiverseid": 10494,
       "name": "Guan Yu, Sainted Warrior",
       "number": "6",
@@ -364,7 +358,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "7",
       "multiverseid": 10597,
       "name": "Guan Yu's 1,000-Li March",
       "number": "7",
@@ -409,7 +402,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "8",
       "multiverseid": 10714,
       "name": "Huang Zhong, Shu General",
       "number": "8",
@@ -462,7 +454,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "9",
       "multiverseid": 10490,
       "name": "Kongming, \"Sleeping Dragon\"",
       "number": "9",
@@ -518,7 +509,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "10",
       "multiverseid": 10495,
       "name": "Kongming's Contraptions",
       "number": "10",
@@ -568,7 +558,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "11",
       "multiverseid": 10499,
       "name": "Liu Bei, Lord of Shu",
       "number": "11",
@@ -627,7 +616,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "12",
       "multiverseid": 10491,
       "name": "Loyal Retainers",
       "number": "12",
@@ -686,7 +674,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "13",
       "multiverseid": 10579,
       "name": "Misfortune's Gain",
       "number": "13",
@@ -741,7 +728,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "14",
       "multiverseid": 10713,
       "name": "Pang Tong, \"Young Phoenix\"",
       "number": "14",
@@ -804,7 +790,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "15",
       "multiverseid": 10531,
       "name": "Peach Garden Oath",
       "number": "15",
@@ -849,7 +834,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "16",
       "multiverseid": 10589,
       "name": "Rally the Troops",
       "number": "16",
@@ -894,7 +878,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "17",
       "multiverseid": 10500,
       "name": "Ravages of War",
       "number": "17",
@@ -940,7 +923,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "18",
       "multiverseid": 10496,
       "name": "Riding Red Hare",
       "number": "18",
@@ -984,7 +966,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "19",
       "multiverseid": 10635,
       "name": "Shu Cavalry",
       "number": "19",
@@ -1041,7 +1022,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "20",
       "multiverseid": 10624,
       "name": "Shu Defender",
       "number": "20",
@@ -1091,7 +1071,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "21",
       "multiverseid": 10497,
       "name": "Shu Elite Companions",
       "number": "21",
@@ -1148,7 +1127,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "22",
       "multiverseid": 10627,
       "name": "Shu Elite Infantry",
       "number": "22",
@@ -1196,7 +1174,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "23",
       "multiverseid": 10618,
       "name": "Shu Farmer",
       "number": "23",
@@ -1251,7 +1228,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "24",
       "multiverseid": 10489,
       "name": "Shu Foot Soldiers",
       "number": "24",
@@ -1298,7 +1274,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "25",
       "multiverseid": 10502,
       "name": "Shu General",
       "number": "25",
@@ -1355,7 +1330,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "26",
       "multiverseid": 10617,
       "name": "Shu Grain Caravan",
       "number": "26",
@@ -1405,7 +1379,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "27",
       "multiverseid": 10488,
       "name": "Shu Soldier-Farmers",
       "number": "27",
@@ -1460,7 +1433,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "28",
       "multiverseid": 10631,
       "name": "Vengeance",
       "number": "28",
@@ -1510,7 +1482,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "29",
       "multiverseid": 10596,
       "name": "Virtuous Charge",
       "number": "29",
@@ -1554,7 +1525,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "30",
       "multiverseid": 10483,
       "name": "Volunteer Militia",
       "number": "30",
@@ -1602,7 +1572,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "31",
       "multiverseid": 10633,
       "name": "Warrior's Stand",
       "number": "31",
@@ -1647,7 +1616,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "32",
       "multiverseid": 10604,
       "name": "Zhang Fei, Fierce Warrior",
       "number": "32",
@@ -1708,7 +1676,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "33",
       "multiverseid": 10686,
       "name": "Zhao Zilong, Tiger General",
       "number": "33",
@@ -1771,7 +1738,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "34",
       "multiverseid": 10580,
       "name": "Balance of Power",
       "number": "34",
@@ -1823,7 +1789,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "35",
       "multiverseid": 10620,
       "name": "Borrowing 100,000 Arrows",
       "number": "35",
@@ -1871,7 +1836,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "36",
       "multiverseid": 10623,
       "name": "Brilliant Plan",
       "number": "36",
@@ -1917,7 +1881,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "37",
       "multiverseid": 10621,
       "name": "Broken Dam",
       "number": "37",
@@ -1961,7 +1924,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "38",
       "multiverseid": 10619,
       "name": "Capture of Jingzhou",
       "number": "38",
@@ -2005,7 +1967,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "39",
       "multiverseid": 10593,
       "name": "Champion's Victory",
       "number": "39",
@@ -2049,7 +2010,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "40",
       "multiverseid": 10601,
       "name": "Council of Advisors",
       "number": "40",
@@ -2099,7 +2059,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "41",
       "multiverseid": 10628,
       "name": "Counterintelligence",
       "number": "41",
@@ -2151,7 +2110,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "42",
       "multiverseid": 10527,
       "name": "Exhaustion",
       "number": "42",
@@ -2209,7 +2167,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "43",
       "multiverseid": 10528,
       "name": "Extinguish",
       "number": "43",
@@ -2255,7 +2212,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "44",
       "multiverseid": 10622,
       "name": "Forced Retreat",
       "number": "44",
@@ -2300,7 +2256,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "45",
       "multiverseid": 10721,
       "name": "Lady Sun",
       "number": "45",
@@ -2359,7 +2314,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "46",
       "multiverseid": 10710,
       "name": "Lu Meng, Wu General",
       "number": "46",
@@ -2419,7 +2373,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "47",
       "multiverseid": 10614,
       "name": "Lu Su, Wu Advisor",
       "number": "47",
@@ -2477,7 +2430,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "48",
       "multiverseid": 10616,
       "name": "Lu Xun, Scholar General",
       "number": "48",
@@ -2542,7 +2494,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "49",
       "multiverseid": 10565,
       "name": "Mystic Denial",
       "number": "49",
@@ -2587,7 +2538,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "50",
       "multiverseid": 10530,
       "name": "Preemptive Strike",
       "number": "50",
@@ -2631,7 +2581,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "51",
       "multiverseid": 10501,
       "name": "Red Cliffs Armada",
       "number": "51",
@@ -2682,7 +2631,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "52",
       "multiverseid": 10524,
       "name": "Sage's Knowledge",
       "number": "52",
@@ -2738,7 +2686,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "53",
       "multiverseid": 10602,
       "name": "Strategic Planning",
       "number": "53",
@@ -2791,7 +2738,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "54",
       "multiverseid": 10613,
       "name": "Straw Soldiers",
       "number": "54",
@@ -2838,7 +2784,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "55",
       "multiverseid": 10709,
       "name": "Sun Ce, Young Conquerer",
       "number": "55",
@@ -2898,7 +2843,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "56",
       "multiverseid": 10513,
       "name": "Sun Quan, Lord of Wu",
       "number": "56",
@@ -2963,7 +2907,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "57",
       "multiverseid": 10485,
       "name": "Wu Admiral",
       "number": "57",
@@ -3013,7 +2956,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "58",
       "multiverseid": 10611,
       "name": "Wu Elite Cavalry",
       "number": "58",
@@ -3070,7 +3012,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "59",
       "multiverseid": 10600,
       "name": "Wu Infantry",
       "number": "59",
@@ -3118,7 +3059,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "60",
       "multiverseid": 10615,
       "name": "Wu Light Cavalry",
       "number": "60",
@@ -3173,7 +3113,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "61",
       "multiverseid": 10498,
       "name": "Wu Longbowman",
       "number": "61",
@@ -3230,7 +3169,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "62",
       "multiverseid": 10612,
       "name": "Wu Scout",
       "number": "62",
@@ -3286,7 +3224,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "63",
       "multiverseid": 10529,
       "name": "Wu Spy",
       "number": "63",
@@ -3337,7 +3274,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "64",
       "multiverseid": 10605,
       "name": "Wu Warship",
       "number": "64",
@@ -3388,7 +3324,6 @@
         }
       ],
       "manaCost": "{5}{U}{U}",
-      "mciNumber": "65",
       "multiverseid": 10525,
       "name": "Zhou Yu, Chief Commander",
       "number": "65",
@@ -3441,7 +3376,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "66",
       "multiverseid": 10711,
       "name": "Zhuge Jin, Wu Strategist",
       "number": "66",
@@ -3504,7 +3438,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "67",
       "multiverseid": 10493,
       "name": "Ambition's Cost",
       "number": "67",
@@ -3552,7 +3485,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "68",
       "multiverseid": 10548,
       "name": "Cao Cao, Lord of Wei",
       "number": "68",
@@ -3612,7 +3544,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "69",
       "multiverseid": 10712,
       "name": "Cao Ren, Wei Commander",
       "number": "69",
@@ -3684,7 +3615,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "70",
       "multiverseid": 10514,
       "name": "Coercion",
       "number": "70",
@@ -3737,7 +3667,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "71",
       "multiverseid": 10595,
       "name": "Corrupt Court Official",
       "number": "71",
@@ -3786,7 +3715,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "72",
       "multiverseid": 10533,
       "name": "Cunning Advisor",
       "number": "72",
@@ -3842,7 +3770,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "73",
       "multiverseid": 10560,
       "name": "Deception",
       "number": "73",
@@ -3886,7 +3813,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "74",
       "multiverseid": 10512,
       "name": "Desperate Charge",
       "number": "74",
@@ -3937,7 +3863,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "75",
       "multiverseid": 10518,
       "name": "Famine",
       "number": "75",
@@ -3984,7 +3909,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "76",
       "multiverseid": 10546,
       "name": "Ghostly Visit",
       "number": "76",
@@ -4029,7 +3953,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "77",
       "multiverseid": 10515,
       "name": "Imperial Edict",
       "number": "77",
@@ -4073,7 +3996,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "78",
       "multiverseid": 10728,
       "name": "Imperial Seal",
       "number": "78",
@@ -4118,7 +4040,6 @@
         }
       ],
       "manaCost": "{6}{B}{B}",
-      "mciNumber": "79",
       "multiverseid": 10521,
       "name": "Overwhelming Forces",
       "number": "79",
@@ -4164,7 +4085,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "80",
       "multiverseid": 10587,
       "name": "Poison Arrow",
       "number": "80",
@@ -4208,7 +4128,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "81",
       "multiverseid": 10588,
       "name": "Return to Battle",
       "number": "81",
@@ -4252,7 +4171,6 @@
         }
       ],
       "manaCost": "{5}{B}",
-      "mciNumber": "82",
       "multiverseid": 10630,
       "name": "Sima Yi, Wei Field Marshal",
       "number": "82",
@@ -4305,7 +4223,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "83",
       "multiverseid": 10554,
       "name": "Stolen Grain",
       "number": "83",
@@ -4355,7 +4272,6 @@
         }
       ],
       "manaCost": "{4}{B}",
-      "mciNumber": "84",
       "multiverseid": 10508,
       "name": "Stone Catapult",
       "number": "84",
@@ -4411,7 +4327,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "85",
       "multiverseid": 10557,
       "name": "Wei Ambush Force",
       "number": "85",
@@ -4460,7 +4375,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "86",
       "multiverseid": 10583,
       "name": "Wei Assassins",
       "number": "86",
@@ -4511,7 +4425,6 @@
         }
       ],
       "manaCost": "{4}{B}",
-      "mciNumber": "87",
       "multiverseid": 10511,
       "name": "Wei Elite Companions",
       "number": "87",
@@ -4568,7 +4481,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "88",
       "multiverseid": 10519,
       "name": "Wei Infantry",
       "number": "88",
@@ -4616,7 +4528,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "89",
       "multiverseid": 10484,
       "name": "Wei Night Raiders",
       "number": "89",
@@ -4677,7 +4588,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "90",
       "multiverseid": 10517,
       "name": "Wei Scout",
       "number": "90",
@@ -4734,7 +4644,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "91",
       "multiverseid": 10561,
       "name": "Wei Strike Force",
       "number": "91",
@@ -4790,7 +4699,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "92",
       "multiverseid": 10590,
       "name": "Xiahou Dun, the One-Eyed",
       "number": "92",
@@ -4859,7 +4767,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "93",
       "multiverseid": 13831,
       "name": "Xun Yu, Wei Advisor",
       "number": "93",
@@ -4918,7 +4825,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "94",
       "multiverseid": 10584,
       "name": "Young Wei Recruits",
       "number": "94",
@@ -4968,7 +4874,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "95",
       "multiverseid": 10520,
       "name": "Zhang He, Wei General",
       "number": "95",
@@ -5026,7 +4931,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "96",
       "multiverseid": 10727,
       "name": "Zhang Liao, Hero of Hefei",
       "number": "96",
@@ -5079,7 +4983,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "97",
       "multiverseid": 10586,
       "name": "Zodiac Pig",
       "number": "97",
@@ -5128,7 +5031,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "98",
       "multiverseid": 10564,
       "name": "Zodiac Rat",
       "number": "98",
@@ -5177,7 +5079,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "99",
       "multiverseid": 10608,
       "name": "Zodiac Snake",
       "number": "99",
@@ -5226,7 +5127,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "100",
       "multiverseid": 10574,
       "name": "Barbarian General",
       "number": "100",
@@ -5283,7 +5183,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "101",
       "multiverseid": 10578,
       "name": "Barbarian Horde",
       "number": "101",
@@ -5336,7 +5235,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "102",
       "multiverseid": 10507,
       "name": "Blaze",
       "number": "102",
@@ -5390,7 +5288,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "103",
       "multiverseid": 10555,
       "name": "Burning Fields",
       "number": "103",
@@ -5433,7 +5330,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "104",
       "multiverseid": 10637,
       "name": "Burning of Xinye",
       "number": "104",
@@ -5502,7 +5398,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "105",
       "multiverseid": 10538,
       "name": "Control of the Court",
       "number": "105",
@@ -5545,7 +5440,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "106",
       "multiverseid": 10734,
       "name": "Corrupt Eunuchs",
       "number": "106",
@@ -5602,7 +5496,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "107",
       "multiverseid": 10626,
       "name": "Desert Sandstorm",
       "number": "107",
@@ -5645,7 +5538,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "108",
       "multiverseid": 10544,
       "name": "Diaochan, Artful Beauty",
       "number": "108",
@@ -5704,7 +5596,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "109",
       "multiverseid": 10730,
       "name": "Dong Zhou, the Tyrant",
       "number": "109",
@@ -5758,7 +5649,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "110",
       "multiverseid": 10543,
       "name": "Eunuchs' Intrigues",
       "number": "110",
@@ -5802,7 +5692,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "111",
       "multiverseid": 10632,
       "name": "Fire Ambush",
       "number": "111",
@@ -5846,7 +5735,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "112",
       "multiverseid": 10535,
       "name": "Fire Bowman",
       "number": "112",
@@ -5902,7 +5790,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "113",
       "multiverseid": 10539,
       "name": "Imperial Recruiter",
       "number": "113",
@@ -5965,7 +5852,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "114",
       "multiverseid": 10541,
       "name": "Independent Troops",
       "number": "114",
@@ -6013,7 +5899,6 @@
         }
       ],
       "manaCost": "{5}{R}",
-      "mciNumber": "115",
       "multiverseid": 10536,
       "name": "Lu Bu, Master-at-Arms",
       "number": "115",
@@ -6074,7 +5959,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "116",
       "multiverseid": 10729,
       "name": "Ma Chao, Western Warrior",
       "number": "116",
@@ -6134,7 +6018,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "117",
       "multiverseid": 10585,
       "name": "Mountain Bandit",
       "number": "117",
@@ -6185,7 +6068,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "118",
       "multiverseid": 13805,
       "name": "Ravaging Horde",
       "number": "118",
@@ -6243,7 +6125,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "119",
       "multiverseid": 10592,
       "name": "Relentless Assault",
       "number": "119",
@@ -6315,7 +6196,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "120",
       "multiverseid": 10576,
       "name": "Renegade Troops",
       "number": "120",
@@ -6364,7 +6244,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "121",
       "multiverseid": 10603,
       "name": "Rockslide Ambush",
       "number": "121",
@@ -6408,7 +6287,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "122",
       "multiverseid": 10526,
       "name": "Rolling Earthquake",
       "number": "122",
@@ -6478,7 +6356,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "123",
       "multiverseid": 10606,
       "name": "Stone Rain",
       "number": "123",
@@ -6544,7 +6421,6 @@
         }
       ],
       "manaCost": "{R}{R}",
-      "mciNumber": "124",
       "multiverseid": 10552,
       "name": "Warrior's Oath",
       "number": "124",
@@ -6587,7 +6463,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "125",
       "multiverseid": 10537,
       "name": "Yellow Scarves Cavalry",
       "number": "125",
@@ -6643,7 +6518,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "126",
       "multiverseid": 10577,
       "name": "Yellow Scarves General",
       "number": "126",
@@ -6699,7 +6573,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "127",
       "multiverseid": 10542,
       "name": "Yellow Scarves Troops",
       "number": "127",
@@ -6748,7 +6621,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "128",
       "multiverseid": 10516,
       "name": "Yuan Shao, the Indecisive",
       "number": "128",
@@ -6806,7 +6678,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "129",
       "multiverseid": 10559,
       "name": "Yuan Shao's Infantry",
       "number": "129",
@@ -6856,7 +6727,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "130",
       "multiverseid": 10534,
       "name": "Zodiac Dog",
       "number": "130",
@@ -6905,7 +6775,6 @@
         }
       ],
       "manaCost": "{7}{R}{R}",
-      "mciNumber": "131",
       "multiverseid": 10510,
       "name": "Zodiac Dragon",
       "number": "131",
@@ -6965,7 +6834,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "132",
       "multiverseid": 10540,
       "name": "Zodiac Goat",
       "number": "132",
@@ -7013,7 +6881,6 @@
         }
       ],
       "manaCost": "{X}{G}{G}",
-      "mciNumber": "133",
       "multiverseid": 10549,
       "name": "Borrowing the East Wind",
       "number": "133",
@@ -7057,7 +6924,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "134",
       "multiverseid": 10599,
       "name": "False Mourning",
       "number": "134",
@@ -7101,7 +6967,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "135",
       "multiverseid": 10505,
       "name": "Forest Bear",
       "number": "135",
@@ -7147,7 +7012,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "136",
       "multiverseid": 10523,
       "name": "Heavy Fog",
       "number": "136",
@@ -7205,7 +7069,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "137",
       "multiverseid": 10570,
       "name": "Hua Tuo, Honored Physician",
       "number": "137",
@@ -7264,7 +7127,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "138",
       "multiverseid": 10572,
       "name": "Hunting Cheetah",
       "number": "138",
@@ -7324,7 +7186,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "139",
       "multiverseid": 10609,
       "name": "Lady Zhurong, Warrior Queen",
       "number": "139",
@@ -7391,7 +7252,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "140",
       "multiverseid": 10556,
       "name": "Lone Wolf",
       "number": "140",
@@ -7458,7 +7318,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "141",
       "multiverseid": 10547,
       "name": "Marshaling the Troops",
       "number": "141",
@@ -7502,7 +7361,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "142",
       "multiverseid": 10732,
       "name": "Meng Huo, Barbarian King",
       "number": "142",
@@ -7557,7 +7415,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "143",
       "multiverseid": 10503,
       "name": "Meng Huo's Horde",
       "number": "143",
@@ -7606,7 +7463,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "144",
       "multiverseid": 10731,
       "name": "Riding the Dilu Horse",
       "number": "144",
@@ -7657,7 +7513,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "145",
       "multiverseid": 10591,
       "name": "Slashing Tiger",
       "number": "145",
@@ -7713,7 +7568,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "146",
       "multiverseid": 10545,
       "name": "Southern Elephant",
       "number": "146",
@@ -7761,7 +7615,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "147",
       "multiverseid": 10629,
       "name": "Spoils of Victory",
       "number": "147",
@@ -7817,7 +7670,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "148",
       "multiverseid": 10566,
       "name": "Spring of Eternal Peace",
       "number": "148",
@@ -7873,7 +7725,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "149",
       "multiverseid": 10550,
       "name": "Stalking Tiger",
       "number": "149",
@@ -7927,7 +7778,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "150",
       "multiverseid": 10569,
       "name": "Taoist Hermit",
       "number": "150",
@@ -7977,7 +7827,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "151",
       "multiverseid": 10733,
       "name": "Taoist Mystic",
       "number": "151",
@@ -8027,7 +7876,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "152",
       "multiverseid": 10492,
       "name": "Taunting Challenge",
       "number": "152",
@@ -8071,7 +7919,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "153",
       "multiverseid": 10567,
       "name": "Three Visits",
       "number": "153",
@@ -8126,7 +7973,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "154",
       "multiverseid": 10573,
       "name": "Trained Cheetah",
       "number": "154",
@@ -8175,7 +8021,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "155",
       "multiverseid": 10571,
       "name": "Trained Jackal",
       "number": "155",
@@ -8222,7 +8067,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "156",
       "multiverseid": 10625,
       "name": "Trip Wire",
       "number": "156",
@@ -8267,7 +8111,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "157",
       "multiverseid": 10562,
       "name": "Wielding the Green Dragon",
       "number": "157",
@@ -8310,7 +8153,6 @@
         }
       ],
       "manaCost": "{6}{G}{G}",
-      "mciNumber": "158",
       "multiverseid": 10522,
       "name": "Wolf Pack",
       "number": "158",
@@ -8374,7 +8216,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "159",
       "multiverseid": 10598,
       "name": "Zodiac Horse",
       "number": "159",
@@ -8427,7 +8268,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "160",
       "multiverseid": 10558,
       "name": "Zodiac Monkey",
       "number": "160",
@@ -8477,7 +8317,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "161",
       "multiverseid": 10636,
       "name": "Zodiac Ox",
       "number": "161",
@@ -8526,7 +8365,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "162",
       "multiverseid": 10582,
       "name": "Zodiac Rabbit",
       "number": "162",
@@ -8575,7 +8413,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "163",
       "multiverseid": 10506,
       "name": "Zodiac Rooster",
       "number": "163",
@@ -8624,7 +8461,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "164",
       "multiverseid": 10594,
       "name": "Zodiac Tiger",
       "number": "164",
@@ -8672,7 +8508,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "165",
       "multiverseid": 10610,
       "name": "Zuo Ci, the Mocking Sage",
       "number": "165",
@@ -8942,7 +8777,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9206,7 +9044,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9470,7 +9311,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9734,7 +9578,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -9998,7 +9845,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -10262,7 +10112,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -10529,7 +10382,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -10796,7 +10652,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11063,7 +10922,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11333,7 +11195,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11603,7 +11468,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11873,7 +11741,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -12140,7 +12011,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -12407,7 +12281,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -12674,7 +12551,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

@@ -210,8 +210,8 @@ var ripSet = function(setName, cb) {
             this();
         },
         function compareToMagicCardsInfo() {
-            if (!this.data.set.magicCardsInfoCode) {
-                winston.warn("SKIPPING comparing to MagicCards.info (no MCI code)...");
+            if (true) {
+                winston.warn("SKIPPING comparing to MagicCards.info (no MCI anymore)...");
                 this();
             }
             else {
@@ -758,7 +758,7 @@ var addPrintingsToCard = function (nonGathererSets, card, cb) {
             delete card.printings;
 
             nonGathererSets.forEach(function (nonGathererSet) {
-                if (nonGathererSet.cards.map(function (extraSetCard) { return extraSetCard.name; }).includes(card.name))
+                if (nonGathererSet.cards && nonGathererSet.cards.map(function (extraSetCard) { return extraSetCard.name; }).includes(card.name))
                     printings.push(nonGathererSet.code);
             });
 

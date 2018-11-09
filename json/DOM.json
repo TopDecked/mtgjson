@@ -582,7 +582,8 @@
       "originalType": "Creature — Human Knight",
       "power": "3",
       "printings": [
-        "DOM"
+        "DOM",
+        "GNT"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -860,7 +861,8 @@
       "originalText": "Create two 2/2 white Knight creature tokens with vigilance.",
       "originalType": "Sorcery",
       "printings": [
-        "DOM"
+        "DOM",
+        "GNT"
       ],
       "rarity": "Common",
       "text": "Create two 2/2 white Knight creature tokens with vigilance.",
@@ -2215,7 +2217,8 @@
       "originalText": "Destroy target artifact or enchantment. You gain 4 life.",
       "originalType": "Instant",
       "printings": [
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -2722,7 +2725,8 @@
       "originalType": "Creature — Unicorn",
       "power": "2",
       "printings": [
-        "DOM"
+        "DOM",
+        "GNT"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -2921,7 +2925,8 @@
       "originalType": "Creature — Pegasus",
       "power": "1",
       "printings": [
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -3351,7 +3356,8 @@
         "W17",
         "CMA",
         "IMA",
-        "DOM"
+        "DOM",
+        "GNT"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -4630,7 +4636,8 @@
       "originalText": "Target creature gets -4/-0 until end of turn.\nDraw a card.",
       "originalType": "Instant",
       "printings": [
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -5348,7 +5355,8 @@
         "BNG",
         "M15",
         "CN2",
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Draw two cards.",
@@ -7447,7 +7455,8 @@
       "originalType": "Creature — Human Wizard",
       "power": "2",
       "printings": [
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -7899,7 +7908,8 @@
       "originalType": "Legendary Creature — Djinn",
       "power": "5",
       "printings": [
-        "DOM"
+        "DOM",
+        "GNT"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -11012,7 +11022,8 @@
       "originalType": "Creature — Fungus",
       "power": "2",
       "printings": [
-        "DOM"
+        "DOM",
+        "GNT"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12290,7 +12301,8 @@
         "S99",
         "7ED",
         "M13",
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -14132,7 +14144,8 @@
       "originalText": "Radiating Lightning deals 3 damage to target player and 1 damage to each creature that player controls.",
       "originalType": "Instant",
       "printings": [
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -14611,7 +14624,8 @@
         "M10",
         "DD3_EVG",
         "EMA",
-        "DOM"
+        "DOM",
+        "GNT"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -17149,7 +17163,9 @@
         "DD3_EVG",
         "EMA",
         "CMA",
-        "DOM"
+        "DOM",
+        "M19",
+        "GNT"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -22361,7 +22377,8 @@
       "originalType": "Artifact Creature — Golem",
       "power": "2",
       "printings": [
-        "DOM"
+        "DOM",
+        "GNT"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -25699,7 +25716,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26091,7 +26111,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26483,7 +26506,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26875,7 +26901,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27267,7 +27296,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27659,7 +27691,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28051,7 +28086,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28443,7 +28481,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28838,7 +28879,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29233,7 +29277,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29628,7 +29675,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30023,7 +30073,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30421,7 +30474,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30819,7 +30875,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31217,7 +31276,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31615,7 +31677,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32010,7 +32075,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32405,7 +32473,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32800,7 +32871,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33195,7 +33269,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33693,7 +33770,8 @@
       "printings": [
         "OGW",
         "AKH",
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Meandering River enters the battlefield tapped.\n{T}: Add {W} or {U}.",
@@ -34177,7 +34255,8 @@
       "printings": [
         "OGW",
         "AKH",
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Timber Gorge enters the battlefield tapped.\n{T}: Add {R} or {G}.",

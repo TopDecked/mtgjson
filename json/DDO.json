@@ -54,7 +54,6 @@
       ],
       "loyalty": 4,
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "1",
       "multiverseid": 394361,
       "name": "Elspeth, Sun's Champion",
       "number": "1",
@@ -116,7 +115,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "2",
       "multiverseid": 394353,
       "name": "Banisher Priest",
       "number": "2",
@@ -204,7 +202,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "3",
       "multiverseid": 394354,
       "name": "Captain of the Watch",
       "number": "3",
@@ -273,7 +270,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "4",
       "multiverseid": 394355,
       "name": "Celestial Flare",
       "number": "4",
@@ -348,7 +344,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "5",
       "multiverseid": 394357,
       "name": "Court Street Denizen",
       "number": "5",
@@ -414,7 +409,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "6",
       "multiverseid": 394358,
       "name": "Dauntless Onslaught",
       "number": "6",
@@ -470,7 +464,6 @@
         }
       ],
       "manaCost": "{X}{X}{2}{W}{W}",
-      "mciNumber": "7",
       "multiverseid": 394359,
       "name": "Decree of Justice",
       "number": "7",
@@ -552,7 +545,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "8",
       "multiverseid": 394360,
       "name": "Dictate of Heliod",
       "number": "8",
@@ -608,7 +600,6 @@
         }
       ],
       "manaCost": "{5}{W}",
-      "mciNumber": "9",
       "multiverseid": 394368,
       "name": "Gempalm Avenger",
       "number": "9",
@@ -684,7 +675,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "10",
       "multiverseid": 394370,
       "name": "Gustcloak Harrier",
       "number": "10",
@@ -747,7 +737,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "11",
       "multiverseid": 394371,
       "name": "Gustcloak Savior",
       "number": "11",
@@ -809,7 +798,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "12",
       "multiverseid": 394372,
       "name": "Gustcloak Sentinel",
       "number": "12",
@@ -872,7 +860,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "13",
       "multiverseid": 394373,
       "name": "Gustcloak Skirmisher",
       "number": "13",
@@ -937,7 +924,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "14",
       "multiverseid": 394374,
       "name": "Icatian Javelineers",
       "number": "14",
@@ -1007,7 +993,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "15",
       "multiverseid": 394379,
       "name": "Kinsbaile Skirmisher",
       "number": "15",
@@ -1074,7 +1059,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "16",
       "multiverseid": 394382,
       "name": "Kor Skyfisher",
       "number": "16",
@@ -1153,7 +1137,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "17",
       "multiverseid": 394385,
       "name": "Loxodon Partisan",
       "number": "17",
@@ -1227,7 +1210,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "18",
       "multiverseid": 394387,
       "name": "Mighty Leap",
       "number": "18",
@@ -1242,7 +1224,8 @@
         "MM2",
         "ORI",
         "OGW",
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -1300,7 +1283,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "19",
       "multiverseid": 394388,
       "name": "Mortal's Ardor",
       "number": "19",
@@ -1356,7 +1338,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "20",
       "multiverseid": 394389,
       "name": "Mother of Runes",
       "number": "20",
@@ -1421,7 +1402,6 @@
         }
       ],
       "manaCost": "{5}{W}",
-      "mciNumber": "21",
       "multiverseid": 394393,
       "name": "Noble Templar",
       "number": "21",
@@ -1491,7 +1471,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "22",
       "multiverseid": 394401,
       "name": "Precinct Captain",
       "number": "22",
@@ -1558,7 +1537,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "23",
       "multiverseid": 394402,
       "name": "Raise the Alarm",
       "number": "23",
@@ -1624,7 +1602,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "24",
       "multiverseid": 394408,
       "name": "Soul Parry",
       "number": "24",
@@ -1694,7 +1671,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "25",
       "multiverseid": 394409,
       "name": "Standing Troops",
       "number": "25",
@@ -1765,7 +1741,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "26",
       "multiverseid": 394410,
       "name": "Sunlance",
       "number": "26",
@@ -1829,7 +1804,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "27",
       "multiverseid": 394415,
       "name": "Veteran Armorsmith",
       "number": "27",
@@ -1891,7 +1865,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "28",
       "multiverseid": 394416,
       "name": "Veteran Swordsmith",
       "number": "28",
@@ -1948,7 +1921,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "29",
       "multiverseid": 394405,
       "name": "Secluded Steppe",
       "number": "29",
@@ -2248,7 +2220,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2535,7 +2510,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2822,7 +2800,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3109,7 +3090,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3174,7 +3158,6 @@
       ],
       "loyalty": 2,
       "manaCost": "{2}{G}{U}",
-      "mciNumber": "34",
       "multiverseid": 394380,
       "name": "Kiora, the Crashing Wave",
       "number": "34",
@@ -3258,7 +3241,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "35",
       "multiverseid": 394351,
       "name": "Accumulated Knowledge",
       "number": "35",
@@ -3326,7 +3308,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "36",
       "multiverseid": 394352,
       "name": "Aetherize",
       "number": "36",
@@ -3394,7 +3375,6 @@
         }
       ],
       "manaCost": "{7}{U}{U}",
-      "mciNumber": "37",
       "multiverseid": 394375,
       "name": "Inkwell Leviathan",
       "number": "37",
@@ -3458,7 +3438,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "38",
       "multiverseid": 394386,
       "name": "Man-o'-War",
       "number": "38",
@@ -3538,7 +3517,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "39",
       "multiverseid": 394394,
       "name": "Omenspeaker",
       "number": "39",
@@ -3549,7 +3527,8 @@
         "THS",
         "DDO",
         "CN2",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -3628,7 +3607,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "40",
       "multiverseid": 394395,
       "name": "Peel from Reality",
       "number": "40",
@@ -3689,7 +3667,6 @@
         }
       ],
       "manaCost": "{5}{U}{U}",
-      "mciNumber": "41",
       "multiverseid": 394403,
       "name": "Scourge of Fleets",
       "number": "41",
@@ -3760,7 +3737,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "42",
       "multiverseid": 394404,
       "name": "Sealock Monster",
       "number": "42",
@@ -3843,7 +3819,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "43",
       "multiverseid": 394411,
       "name": "Surrakar Banisher",
       "number": "43",
@@ -3908,7 +3883,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "44",
       "multiverseid": 394417,
       "name": "Whelming Wave",
       "number": "44",
@@ -3968,7 +3942,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "45",
       "multiverseid": 394363,
       "name": "Explore",
       "number": "45",
@@ -4048,7 +4021,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "46",
       "multiverseid": 394364,
       "name": "Explosive Vegetation",
       "number": "46",
@@ -4112,7 +4084,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "47",
       "multiverseid": 394369,
       "name": "Grazing Gladehart",
       "number": "47",
@@ -4190,7 +4161,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "48",
       "multiverseid": 394390,
       "name": "Nessian Asp",
       "number": "48",
@@ -4270,7 +4240,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "49",
       "multiverseid": 394391,
       "name": "Netcaster Spider",
       "number": "49",
@@ -4337,7 +4306,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "50",
       "multiverseid": 394413,
       "name": "Time to Feed",
       "number": "50",
@@ -4413,7 +4381,6 @@
         }
       ],
       "manaCost": "{G}{U}",
-      "mciNumber": "51",
       "multiverseid": 394356,
       "name": "Coiling Oracle",
       "number": "51",
@@ -4487,7 +4454,6 @@
         }
       ],
       "manaCost": "{G}{U}",
-      "mciNumber": "52",
       "multiverseid": 394381,
       "name": "Kiora's Follower",
       "number": "52",
@@ -4555,7 +4521,6 @@
         }
       ],
       "manaCost": "{1}{G}{U}",
-      "mciNumber": "53",
       "multiverseid": 394384,
       "name": "Lorescale Coatl",
       "number": "53",
@@ -4635,7 +4600,6 @@
         }
       ],
       "manaCost": "{X}{G}{U}",
-      "mciNumber": "54",
       "multiverseid": 394392,
       "name": "Nimbus Swimmer",
       "number": "54",
@@ -4702,7 +4666,6 @@
         }
       ],
       "manaCost": "{G}{G}{U}{U}",
-      "mciNumber": "55",
       "multiverseid": 394400,
       "name": "Plasm Capture",
       "number": "55",
@@ -4774,7 +4737,6 @@
         }
       ],
       "manaCost": "{5}{G}{U}",
-      "mciNumber": "56",
       "multiverseid": 394406,
       "name": "Simic Sky Swallower",
       "number": "56",
@@ -4844,7 +4806,6 @@
         }
       ],
       "manaCost": "{3}{G}{U}",
-      "mciNumber": "57",
       "multiverseid": 394414,
       "name": "Urban Evolution",
       "number": "57",
@@ -4936,7 +4897,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "58",
       "multiverseid": 394362,
       "name": "Evolving Wilds",
       "number": "58",
@@ -5009,7 +4969,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "59",
       "multiverseid": 394412,
       "name": "Temple of the False God",
       "number": "59",
@@ -5295,7 +5254,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -5576,7 +5538,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -5857,7 +5822,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -6141,7 +6109,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -6425,7 +6396,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -6709,7 +6683,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

@@ -322,7 +322,8 @@
         "MRD",
         "HOP",
         "C14",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -1505,7 +1506,8 @@
       "printings": [
         "LRW",
         "C15",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -1843,11 +1845,11 @@
       "rulings": [
         {
           "date": "2016-06-08",
-          "text": "Faith's Fetters doesn't stop static abilities, triggered abilities, or mana abilities from working. A mana ability is an ability that produces mana, not an ability that costs mana."
+          "text": "Activated abilities contain a colon. They're generally written \"[Cost]: [Effect].\" Some keywords are activated abilities and will have colons in their reminder text."
         },
         {
           "date": "2016-06-08",
-          "text": "Activated abilities contain a colon. They're generally written \"[Cost]: [Effect].\" Some keywords are activated abilities and will have colons in their reminder text."
+          "text": "Faith's Fetters doesn't stop static abilities, triggered abilities, or mana abilities from working. A mana ability is an ability that produces mana, not an ability that costs mana."
         }
       ],
       "subtypes": [
@@ -2472,10 +2474,6 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Brawl",
-          "legality": "Legal"
-        },
-        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -2608,6 +2606,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -2634,13 +2636,18 @@
         "pFNM",
         "KTK",
         "C16",
-        "CM2"
+        "CM2",
+        "GRN"
       ],
       "rarity": "Common",
       "rulings": [
         {
           "date": "2014-09-20",
           "text": "A face-down spell has converted mana cost 0 and can't be targeted by Disdainful Stroke."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If a spell has {X} in its mana cost, include the value chosen for that X when determining the converted mana cost of that spell."
         }
       ],
       "text": "Counter target spell with converted mana cost 4 or greater.",
@@ -3024,9 +3031,28 @@
         "DD3_JVC",
         "MM2",
         "C15",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2018-07-13",
+          "text": "Evoke is an alternative cost to cast the spell with evoke. It can't be combined with other alternative costs, such as casting a spell \"without paying its mana cost.\""
+        },
+        {
+          "date": "2018-07-13",
+          "text": "To determine the total cost of a spell, start with the mana cost or alternative cost (such as an evoke cost) you're paying, add any cost increases, then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "If a creature with evoke enters the battlefield without being cast, you won't have to sacrifice it."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "The ability that causes you to sacrifice an evoked creature is a triggered ability. Players may respond to this triggered ability while the creature is still on the battlefield."
+        }
+      ],
       "subtypes": [
         "Elemental"
       ],
@@ -3187,10 +3213,6 @@
       ],
       "rarity": "Uncommon",
       "rulings": [
-        {
-          "date": "2011-09-22",
-          "text": "If a commander is countered this way, it will be put on the bottom of its owner's library."
-        },
         {
           "date": "2011-09-22",
           "text": "If the spell is an illegal target when Spell Crumple tries to resolve, it won't resolve and none of its effects will happen. Spell Crumple will be put into its owner's graveyard."
@@ -3461,7 +3483,8 @@
       "printings": [
         "CMD",
         "E02",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -4051,7 +4074,8 @@
         "DD3_GVL",
         "ORI",
         "CN2",
-        "CM2"
+        "CM2",
+        "GNT"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -4201,7 +4225,8 @@
         "TPR",
         "EMA",
         "AKH",
-        "CM2"
+        "CM2",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -4262,7 +4287,8 @@
         "pMGD",
         "ORI",
         "C16",
-        "CM2"
+        "CM2",
+        "GNT"
       ],
       "rarity": "Rare",
       "text": "All creatures get -4/-4 until end of turn.",
@@ -4652,6 +4678,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -4685,25 +4715,22 @@
         "C15",
         "EMN",
         "CMA",
-        "CM2"
+        "CM2",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2009-10-01",
+          "date": "2018-07-13",
           "text": "Rise from the Grave doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype."
         },
         {
-          "date": "2009-10-01",
-          "text": "If the targeted creature is normally colorless, it will simply become black. It won't be both black and colorless."
+          "date": "2018-07-13",
+          "text": "If the creature is normally colorless, it will simply become black. It can't be both black and colorless."
         },
         {
-          "date": "2009-10-01",
-          "text": "A later effect that changes the affected creature's colors will overwrite that part of Rise from the Grave effect; the creature will be just the new color. The same is true about an effect that changes the affected creature's types or subtypes."
-        },
-        {
-          "date": "2009-10-01",
-          "text": "A \"creature card\" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards."
+          "date": "2018-07-13",
+          "text": "A later effect that changes the affected creature's colors will overwrite that part of Rise from the Grave's effect; the creature will be only the new color. The same is true about an effect that changes the affected creature's types or subtypes."
         }
       ],
       "text": "Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.",
@@ -4968,7 +4995,8 @@
       "printings": [
         "JUD",
         "CMD",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -5337,7 +5365,8 @@
         "ISD",
         "C14",
         "C16",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -5568,7 +5597,8 @@
         "C14",
         "C16",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -7025,7 +7055,8 @@
         "M13",
         "C14",
         "C15",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -8268,7 +8299,8 @@
         "DDM",
         "C15",
         "CMA",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -8448,7 +8480,8 @@
         "E01",
         "C17",
         "A25",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
       "rulings": [
@@ -9227,7 +9260,8 @@
       "printings": [
         "CMD",
         "E02",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -9277,14 +9311,15 @@
         "DDE",
         "CMD",
         "VMA",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
       "subtypes": [
         "Human",
         "Druid"
       ],
-      "text": "When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.\n{2}, Sacrifice Yavimaya Elder: Draw a card.",
+      "text": "When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library.\n{2}, Sacrifice Yavimaya Elder: Draw a card.",
       "toughness": "1",
       "type": "Creature — Human Druid",
       "types": [
@@ -10176,7 +10211,8 @@
         "CMA",
         "C17",
         "E02",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -10239,7 +10275,9 @@
         "C16",
         "MM3",
         "CMA",
-        "CM2"
+        "CM2",
+        "C18",
+        "GK1_GOLGAR"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -10498,7 +10536,8 @@
       "printings": [
         "RAV",
         "CMD",
-        "CM2"
+        "CM2",
+        "GK1_DIMIR"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -11012,7 +11051,8 @@
         "MM3",
         "CMA",
         "C17",
-        "CM2"
+        "CM2",
+        "GK1_BOROS"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {R}{W}.",
@@ -11340,7 +11380,8 @@
         "C16",
         "CMA",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
       "rulings": [
@@ -11514,7 +11555,9 @@
         "ARC",
         "CMD",
         "MM3",
-        "CM2"
+        "CM2",
+        "C18",
+        "GK1_DIMIR"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {U}{B}.",
@@ -11561,7 +11604,8 @@
         "C14",
         "C15",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}{C}{C}.\n{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.",
@@ -11884,7 +11928,8 @@
         "C16",
         "MM3",
         "CMA",
-        "CM2"
+        "CM2",
+        "GK1_GOLGAR"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {B}{G}.",
@@ -11939,7 +11984,8 @@
         "C16",
         "MM3",
         "CMA",
-        "CM2"
+        "CM2",
+        "GK1_GOLGAR"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {B}{G}.",
@@ -12344,7 +12390,8 @@
         "DDP",
         "C15",
         "IMA",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice Mind Stone: Draw a card.",
@@ -12441,7 +12488,8 @@
         "C14",
         "C16",
         "DDU",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -12455,7 +12503,7 @@
         },
         {
           "date": "2011-01-01",
-          "text": "As the last ability resolves, you can tap untapped Myr you control even if Myr Battlesphere is no longer on the battlefield by then. If that has happened, Myr Battlesphere won't be able to get the +X/+0 bonus, but it will still deal X damage to the defending player."
+          "text": "As the last ability resolves, you can tap untapped Myr you control even if Myr Battlesphere is no longer on the battlefield by then. If that has happened, Myr Battlesphere won't be able to get the +X/+0 bonus, but it will still deal X damage to the appropriate player or planeswalker."
         }
       ],
       "subtypes": [
@@ -12658,7 +12706,8 @@
         "MM3",
         "CMA",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {W}{B}.",
@@ -12863,7 +12912,9 @@
         "BFZ",
         "EMA",
         "CMA",
-        "CM2"
+        "CM2",
+        "C18",
+        "GNT"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -13075,7 +13126,8 @@
         "DDP",
         "C15",
         "CMA",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -13254,7 +13306,8 @@
         "C16",
         "CMA",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}{C}.",
@@ -13507,7 +13560,8 @@
         "SOM",
         "C14",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -13599,7 +13653,8 @@
         "CMA",
         "C17",
         "A25",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -13778,7 +13833,8 @@
       "printings": [
         "C14",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}.\n{7}, {T}, Sacrifice Unstable Obelisk: Destroy target permanent.",
@@ -13918,7 +13974,8 @@
         "C15",
         "EMA",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "text": "Worn Powerstone enters the battlefield tapped.\n{T}: Add {C}{C}.",
@@ -14124,7 +14181,8 @@
         "C16",
         "MM3",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "text": "Arcane Sanctum enters the battlefield tapped.\n{T}: Add {W}, {U}, or {B}.",
@@ -14212,7 +14270,8 @@
         "C16",
         "CMA",
         "IMA",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -14267,7 +14326,8 @@
         "DD3_DVD",
         "C15",
         "CMA",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
       "rulings": [
@@ -14369,7 +14429,8 @@
         "CMA",
         "C17",
         "IMA",
-        "CM2"
+        "CM2",
+        "GK1_BOROS"
       ],
       "rarity": "Common",
       "rulings": [
@@ -14396,6 +14457,10 @@
       "imageName": "boros guildgate",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
         {
           "format": "Commander",
           "legality": "Legal"
@@ -14426,7 +14491,8 @@
         "C15",
         "MM3",
         "C17",
-        "CM2"
+        "CM2",
+        "GRN"
       ],
       "rarity": "Common",
       "rulings": [
@@ -14482,7 +14548,8 @@
         "M12",
         "C14",
         "C16",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice Buried Ruin: Return target artifact card from your graveyard to your hand.",
@@ -14526,7 +14593,8 @@
         "C16",
         "CMA",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
       "rulings": [
@@ -14587,7 +14655,8 @@
         "MM2",
         "C16",
         "DDU",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -14687,7 +14756,9 @@
         "PCA",
         "C17",
         "IMA",
-        "CM2"
+        "CM2",
+        "C18",
+        "GK1_DIMIR"
       ],
       "rarity": "Common",
       "rulings": [
@@ -14909,7 +14980,8 @@
         "C17",
         "IMA",
         "RIX",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
@@ -15065,7 +15137,8 @@
         "C15",
         "CMA",
         "DDT",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15183,7 +15256,9 @@
         "C16",
         "CMA",
         "IMA",
-        "CM2"
+        "CM2",
+        "C18",
+        "GK1_GOLGAR"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -15236,7 +15311,8 @@
         "HOP",
         "C14",
         "DDU",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
       "text": "{T}: Add {R}.",
@@ -15286,7 +15362,8 @@
         "C13",
         "PCA",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "text": "Jwar Isle Refuge enters the battlefield tapped.\nWhen Jwar Isle Refuge enters the battlefield, you gain 1 life.\n{T}: Add {U} or {B}.",
@@ -15331,7 +15408,8 @@
         "VMA",
         "C14",
         "DDT",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15565,6 +15643,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -15593,7 +15675,8 @@
         "C14",
         "C15",
         "C16",
-        "CM2"
+        "CM2",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -15615,6 +15698,10 @@
       "imageName": "rupture spire",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
         {
           "format": "Commander",
           "legality": "Legal"
@@ -15647,7 +15734,8 @@
         "C16",
         "PCA",
         "CMA",
-        "CM2"
+        "CM2",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Rupture Spire enters the battlefield tapped.\nWhen Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.\n{T}: Add one mana of any color.",
@@ -15747,7 +15835,8 @@
         "MM3",
         "CMA",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "text": "Seaside Citadel enters the battlefield tapped.\n{T}: Add {G}, {W}, or {U}.",
@@ -15797,7 +15886,8 @@
         "C15",
         "CMA",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15852,7 +15942,8 @@
         "C15",
         "C16",
         "IMA",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
       "rulings": [
@@ -16055,7 +16146,8 @@
         "C16",
         "CMA",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}{C}. Activate this ability only if you control five or more lands.",
@@ -16103,7 +16195,8 @@
         "C16",
         "CMA",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}{C}. Activate this ability only if you control five or more lands.",
@@ -16166,10 +16259,11 @@
         "PCA",
         "CMA",
         "C17",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
-      "text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
+      "text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
       "type": "Land",
       "types": [
         "Land"
@@ -16216,7 +16310,8 @@
         "CMA",
         "C17",
         "DDU",
-        "CM2"
+        "CM2",
+        "C18"
       ],
       "rarity": "Common",
       "rulings": [
@@ -16573,7 +16668,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_SELESN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -16743,7 +16844,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_SELESN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -16913,7 +17020,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_SELESN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17083,7 +17196,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_SELESN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17253,7 +17372,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_SELESN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17423,7 +17548,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_SELESN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17593,7 +17724,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_SELESN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17763,7 +17900,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_IZZET",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17933,7 +18076,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_IZZET",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -18103,7 +18252,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_IZZET",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -18273,7 +18428,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_IZZET",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -18443,7 +18604,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_IZZET",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -18613,7 +18780,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_IZZET",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -18783,7 +18956,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_IZZET",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -18955,7 +19134,13 @@
         "RIX",
         "DOM",
         "BBD",
-        "CM2"
+        "CM2",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_GOLGAR",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19127,7 +19312,13 @@
         "RIX",
         "DOM",
         "BBD",
-        "CM2"
+        "CM2",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_GOLGAR",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19299,7 +19490,13 @@
         "RIX",
         "DOM",
         "BBD",
-        "CM2"
+        "CM2",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_GOLGAR",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19471,7 +19668,13 @@
         "RIX",
         "DOM",
         "BBD",
-        "CM2"
+        "CM2",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_GOLGAR",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19643,7 +19846,13 @@
         "RIX",
         "DOM",
         "BBD",
-        "CM2"
+        "CM2",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_GOLGAR",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19815,7 +20024,13 @@
         "RIX",
         "DOM",
         "BBD",
-        "CM2"
+        "CM2",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_GOLGAR",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19987,7 +20202,13 @@
         "RIX",
         "DOM",
         "BBD",
-        "CM2"
+        "CM2",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_GOLGAR",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20163,7 +20384,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_IZZET",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20338,7 +20565,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_IZZET",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20513,7 +20746,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_IZZET",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20688,7 +20927,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_IZZET",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20863,7 +21108,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_IZZET",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -21038,7 +21289,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_IZZET",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -21210,7 +21467,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_GOLGAR",
+        "GK1_SELESN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -21383,7 +21646,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_GOLGAR",
+        "GK1_SELESN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -21556,7 +21825,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_GOLGAR",
+        "GK1_SELESN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -21729,7 +22004,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_GOLGAR",
+        "GK1_SELESN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -21902,7 +22183,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_GOLGAR",
+        "GK1_SELESN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -22075,7 +22362,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_GOLGAR",
+        "GK1_SELESN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -22248,7 +22541,13 @@
         "DOM",
         "BBD",
         "CM2",
-        "GS1"
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_GOLGAR",
+        "GK1_SELESN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

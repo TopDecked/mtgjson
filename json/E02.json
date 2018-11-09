@@ -42,7 +42,6 @@
         }
       ],
       "manaCost": "{5}{W}",
-      "mciNumber": "1",
       "multiverseid": 439343,
       "name": "Beacon of Immortality",
       "number": "1",
@@ -109,7 +108,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "2",
       "multiverseid": 439344,
       "name": "Day of Judgment",
       "number": "2",
@@ -165,7 +163,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "3",
       "multiverseid": 439345,
       "name": "Path to Exile",
       "number": "3",
@@ -228,7 +225,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "4",
       "multiverseid": 439346,
       "name": "Shielded by Faith",
       "number": "4",
@@ -284,7 +280,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "5",
       "multiverseid": 439347,
       "name": "Veteran's Reflexes",
       "number": "5",
@@ -329,7 +324,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "6",
       "multiverseid": 439348,
       "name": "Vow of Duty",
       "number": "6",
@@ -380,7 +374,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "7",
       "multiverseid": 439349,
       "name": "Aether Gale",
       "number": "7",
@@ -435,7 +428,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}{U}",
-      "mciNumber": "8",
       "multiverseid": 439350,
       "name": "Blatant Thievery",
       "number": "8",
@@ -499,7 +491,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "9",
       "multiverseid": 439351,
       "name": "Concentrate",
       "number": "9",
@@ -553,7 +544,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "10",
       "multiverseid": 439352,
       "name": "Merfolk Sovereign",
       "number": "10",
@@ -619,7 +609,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "11",
       "multiverseid": 439353,
       "name": "Threads of Disloyalty",
       "number": "11",
@@ -690,7 +679,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "12",
       "multiverseid": 439354,
       "name": "Time Warp",
       "number": "12",
@@ -761,7 +749,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "13",
       "multiverseid": 439355,
       "name": "Unsummon",
       "number": "13",
@@ -826,7 +813,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "14",
       "multiverseid": 439356,
       "name": "Vow of Flight",
       "number": "14",
@@ -882,7 +868,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "15",
       "multiverseid": 439357,
       "name": "Bloodbond Vampire",
       "number": "15",
@@ -952,7 +937,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "16",
       "multiverseid": 439358,
       "name": "Child of Night",
       "number": "16",
@@ -968,7 +952,9 @@
         "M15",
         "CN2",
         "IMA",
-        "E02"
+        "E02",
+        "M19",
+        "GRN"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -1017,7 +1003,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "17",
       "multiverseid": 439359,
       "name": "Coat with Venom",
       "number": "17",
@@ -1066,7 +1051,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "18",
       "multiverseid": 439360,
       "name": "Doom Blade",
       "number": "18",
@@ -1123,7 +1107,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "19",
       "multiverseid": 439361,
       "name": "Innocent Blood",
       "number": "19",
@@ -1185,7 +1168,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}{B}",
-      "mciNumber": "20",
       "multiverseid": 439362,
       "name": "Necropolis Regent",
       "number": "20",
@@ -1248,7 +1230,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "21",
       "multiverseid": 439363,
       "name": "Urge to Feed",
       "number": "21",
@@ -1316,7 +1297,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "22",
       "multiverseid": 439364,
       "name": "Vampire Interloper",
       "number": "22",
@@ -1374,7 +1354,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "23",
       "multiverseid": 439365,
       "name": "Vampire Nighthawk",
       "number": "23",
@@ -1442,7 +1421,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "24",
       "multiverseid": 439366,
       "name": "Vampire Noble",
       "number": "24",
@@ -1493,7 +1471,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "25",
       "multiverseid": 439367,
       "name": "Aggravated Assault",
       "number": "25",
@@ -1556,7 +1533,6 @@
         }
       ],
       "manaCost": "{5}{R}{R}",
-      "mciNumber": "26",
       "multiverseid": 439368,
       "name": "Disaster Radius",
       "number": "26",
@@ -1603,7 +1579,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "27",
       "multiverseid": 439369,
       "name": "Mass Mutiny",
       "number": "27",
@@ -1676,7 +1651,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "28",
       "multiverseid": 439370,
       "name": "Rush of Adrenaline",
       "number": "28",
@@ -1729,7 +1703,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "29",
       "multiverseid": 439371,
       "name": "Shared Animosity",
       "number": "29",
@@ -1784,7 +1757,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "30",
       "multiverseid": 439372,
       "name": "Vow of Lightning",
       "number": "30",
@@ -1841,7 +1813,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "31",
       "multiverseid": 439373,
       "name": "Borderland Ranger",
       "number": "31",
@@ -1904,7 +1875,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "32",
       "multiverseid": 439374,
       "name": "Giant Growth",
       "number": "32",
@@ -1992,7 +1962,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "33",
       "multiverseid": 439375,
       "name": "Hunter's Prowess",
       "number": "33",
@@ -2059,7 +2028,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "34",
       "multiverseid": 439376,
       "name": "Prey Upon",
       "number": "34",
@@ -2072,7 +2040,8 @@
         "EMN",
         "CN2",
         "AER",
-        "E02"
+        "E02",
+        "GRN"
       ],
       "rarity": "Common",
       "rulings": [
@@ -2122,7 +2091,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "35",
       "multiverseid": 439377,
       "name": "Rancor",
       "number": "35",
@@ -2193,7 +2161,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}",
-      "mciNumber": "36",
       "multiverseid": 439378,
       "name": "Soul of the Harvest",
       "number": "36",
@@ -2252,7 +2219,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "37",
       "multiverseid": 439379,
       "name": "Vow of Wildness",
       "number": "37",
@@ -2306,7 +2272,6 @@
         }
       ],
       "manaCost": "{2}{G}{U}",
-      "mciNumber": "38",
       "multiverseid": 439380,
       "name": "Jungle Barrier",
       "number": "38",
@@ -2368,7 +2333,6 @@
         }
       ],
       "manaCost": "{R}{W}",
-      "mciNumber": "39",
       "multiverseid": 439381,
       "name": "Lightning Helix",
       "number": "39",
@@ -2435,7 +2399,6 @@
         }
       ],
       "manaCost": "{1}{W}{B}",
-      "mciNumber": "40",
       "multiverseid": 439382,
       "name": "Mortify",
       "number": "40",
@@ -2503,7 +2466,6 @@
         }
       ],
       "manaCost": "{W}{B}",
-      "mciNumber": "41",
       "multiverseid": 439383,
       "name": "Zealous Persecution",
       "number": "41",
@@ -2548,7 +2510,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "42",
       "multiverseid": 439384,
       "name": "Adaptive Automaton",
       "number": "42",
@@ -2615,7 +2576,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "43",
       "multiverseid": 439385,
       "name": "Prismatic Lens",
       "number": "43",
@@ -2663,7 +2623,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "44",
       "multiverseid": 439386,
       "name": "Quicksilver Amulet",
       "number": "44",
@@ -2729,7 +2688,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "45",
       "multiverseid": 439387,
       "name": "Crumbling Necropolis",
       "number": "45",
@@ -2786,7 +2744,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "46",
       "multiverseid": 439388,
       "name": "Jungle Shrine",
       "number": "46",
@@ -2836,7 +2793,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "47",
       "multiverseid": 439389,
       "name": "Tainted Field",
       "number": "47",

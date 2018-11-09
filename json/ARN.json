@@ -46,7 +46,6 @@
         }
       ],
       "manaCost": "{10}",
-      "mciNumber": "70",
       "multiverseid": 900,
       "name": "Aladdin's Lamp",
       "originalText": "{X}: Instead of drawing a card from the top of your library, draw X cards but choose only one to put in your hand. You must shuffle the leftover cards and put them at the bottom of your library.",
@@ -95,7 +94,6 @@
         }
       ],
       "manaCost": "{8}",
-      "mciNumber": "71",
       "multiverseid": 901,
       "name": "Aladdin's Ring",
       "originalText": "{8}: Do 4 damage to any target.",
@@ -138,7 +136,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "72",
       "multiverseid": 902,
       "name": "Bottle of Suleiman",
       "originalText": "{1}: Flip a coin, with opponent calling heads or tails while coin is in the air. If the flip ends up in opponent's favor, Bottle of Suleiman does 5 damage to you. Otherwise, a 5/5 flying Djinn immediately comes into play on your side. Use a counter to represent Djinn. Djinn is treated exactly like a normal artifact creature except that if it leaves play it is removed from the game entirely. No matter how the flip turns out, Bottle of Suleiman is discarded after use.",
@@ -185,7 +182,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "73",
       "multiverseid": 903,
       "name": "Brass Man",
       "originalText": "Brass Man does not untap as normal; you must pay {1} during your untap phase to untap it.",
@@ -236,7 +232,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "74",
       "multiverseid": 904,
       "name": "City in a Bottle",
       "originalText": "All cards from Arabian Nights must be discarded from play, except for City in a Bottle. While City in a Bottle is in play, no further cards from Arabian Nights can be played.",
@@ -289,7 +284,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "75",
       "multiverseid": 905,
       "name": "Dancing Scimitar",
       "originalText": "Flying",
@@ -336,7 +330,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "76",
       "multiverseid": 906,
       "name": "Ebony Horse",
       "originalText": "{2}: Remove one of your attacking creatures from combat. Treat this as if the creature never attacked, except that defenders assigned to block it cannot choose to block another creature.",
@@ -379,7 +372,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "77",
       "multiverseid": 907,
       "name": "Flying Carpet",
       "originalText": "{2}: Gives one creature flying ability until end of turn. If that creature is destroyed before end of turn, so is Flying Carpet.",
@@ -422,7 +414,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "78",
       "multiverseid": 908,
       "name": "Jandor's Ring",
       "originalText": "{2}: Discard a card you just drew from your library, and draw another card to replace it.",
@@ -470,7 +461,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "79",
       "multiverseid": 909,
       "name": "Jandor's Saddlebags",
       "originalText": "{3}: Untap a creature.",
@@ -510,7 +500,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "80",
       "multiverseid": 910,
       "name": "Jeweled Bird",
       "originalText": "Draw a card, and exchange Jeweled Bird for your contribution to the ante. Your former contribution goes to your graveyard. Remove this card from your deck before playing if you are not playing for ante.",
@@ -553,7 +542,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "81",
       "multiverseid": 911,
       "name": "Pyramids",
       "originalText": "{2}: Prevents a land from being destroyed, or removes an enchantment from any land.",
@@ -590,7 +578,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "82",
       "multiverseid": 912,
       "name": "Ring of Ma'rûf",
       "originalText": "{5}: Instead of drawing a card from the top of your library, select one of your cards from outside the game. This card can be any card you have that you're not using in your deck or that for some reason has left the game. Ring of Ma'rûf is removed from the game entirely after use.",
@@ -634,7 +621,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "83",
       "multiverseid": 913,
       "name": "Sandals of Abdallah",
       "originalText": "{2}: Gives one creature islandwalk ability until end of turn. If that creature is destroyed before end of turn, so are Sandals.",
@@ -677,7 +663,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "1",
       "multiverseid": 914,
       "name": "Cuombajj Witches",
       "originalText": "Tap to do 1 damage to any target; opponent may also do 1 damage to any target. You choose your target before opponent does, but damage is inflicted simultaneously.",
@@ -746,7 +731,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "2",
       "multiverseid": 915,
       "name": "El-Hajjâj",
       "originalText": "You gain 1 life for every point of damage El-Hajjâj inflicts.",
@@ -918,7 +902,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "5",
       "multiverseid": 918,
       "name": "Guardian Beast",
       "originalText": "As long as Guardian Beast is untapped, your non-creature artifacts cannot be further enchanted, destroyed, or taken under someone else's control. If something occurs that would destroy the Guardian Beast and artifacts simultaneously, the Guardian Beast is destroyed but your artifacts are not. If an artifact is enchanted or stolen while Guardian Beast is tapped, it remains so when Guardian Beast becomes untapped.",
@@ -1087,7 +1070,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "8",
       "multiverseid": 921,
       "name": "Junún Efreet",
       "originalText": "Flying\nYou must pay {B}{B} during your upkeep or Junún Efreet is destroyed and may not regenerate.",
@@ -1137,7 +1119,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "9",
       "multiverseid": 922,
       "name": "Juzám Djinn",
       "originalText": "Juzám Djinn does 1 damage to you during your upkeep.",
@@ -1186,7 +1167,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "10",
       "multiverseid": 923,
       "name": "Khabál Ghoul",
       "originalText": "At the end of each turn, put a +1/+1 counter on Khabál Ghoul for each other creature that died during the turn and was not regenerated.",
@@ -1359,7 +1339,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "13",
       "multiverseid": 926,
       "name": "Sorceress Queen",
       "originalText": "Tap to make another creature 0/2 until end of turn. Treat this exactly as if the numbers in the lower right of the target card were 0/2. All special characteristics and enchantments on the creature are unaffected.",
@@ -1520,7 +1499,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "16",
       "multiverseid": 929,
       "name": "Dandân",
       "originalText": "Dandân cannot attack unless opponent has islands in play. Dandân is destroyed immediately if at any time you have no islands in play.",
@@ -1687,7 +1665,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "19",
       "multiverseid": 932,
       "name": "Flying Men",
       "originalText": "Flying",
@@ -1841,7 +1818,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}{U}",
-      "mciNumber": "22",
       "multiverseid": 935,
       "name": "Island Fish Jasconius",
       "originalText": "You must pay {U}{U}{U} during your untap phase to untap Island Fish. Island Fish cannot attack unless opponent has islands in play. Island Fish is destroyed immediately if at any time you have no islands in play.",
@@ -1896,7 +1872,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "23",
       "multiverseid": 936,
       "name": "Merchant Ship",
       "originalText": "If Merchant Ship attacks and is not blocked, you gain 2 life. Merchant Ship cannot attack unless opponent has islands in play. Merchant Ship is destroyed immediately if at any time you have no islands in play.",
@@ -1950,7 +1925,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "24",
       "multiverseid": 937,
       "name": "Old Man of the Sea",
       "originalText": "Tap to gain control of a creature with power no greater than Old Man's power. If Old Man becomes untapped, you lose control of this creature; you may choose not to untap Old Man as normal. You also lose control of the creature if Old Man dies or if the creature's power becomes greater than Old Man's.",
@@ -2017,7 +1991,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "25",
       "multiverseid": 938,
       "name": "Serendib Djinn",
       "originalText": "Flying\nDuring your upkeep, you must choose one of your own lands and destroy it. If you destroy an island in this manner, Serendib Djinn does 3 damage to you. Serendib Djinn is destroyed immediately if at any time you have no land in play.",
@@ -2072,7 +2045,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "26",
       "multiverseid": 939,
       "name": "Serendib Efreet",
       "originalText": "Flying\nSerendib Efreet does 1 damage to you during your upkeep.",
@@ -2132,7 +2104,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "27",
       "multiverseid": 940,
       "name": "Sindbad",
       "originalText": "Tap to draw a card from your library, but discard that card if it is not a land.",
@@ -2199,7 +2170,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "28",
       "multiverseid": 941,
       "name": "Unstable Mutation",
       "originalText": "Target creature gains +3/+3. Each round, put a -1/-1 counter on the creature during its controller's upkeep. These counters remain even if this enchantment is removed before the creature dies.",
@@ -2254,7 +2224,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "29",
       "multiverseid": 942,
       "name": "Cyclone",
       "originalText": "Put one chip on Cyclone each round during your upkeep, then pay {G} for each chip or discard Cyclone. If not discarded, Cyclone immediately does 1 damage per chip to each player and each creature in play.",
@@ -2302,7 +2271,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}",
-      "mciNumber": "30",
       "multiverseid": 943,
       "name": "Desert Twister",
       "originalText": "Destroy any card in play.",
@@ -2353,7 +2321,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "31",
       "multiverseid": 944,
       "name": "Drop of Honey",
       "originalText": "During your upkeep, the creature in play with the lowest power is destroyed and cannot be regenerated. If there is a tie you choose which to destroy. Drop of Honey must be discarded if there are no creatures in play.",
@@ -2415,7 +2382,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "32",
       "multiverseid": 945,
       "name": "Erhnam Djinn",
       "originalText": "During your upkeep, you must choose one of opponent's non-wall creatures in play. Until your next upkeep, that creature gains the forestwalk ability. If opponent has no creatures, ignore this effect.",
@@ -2481,7 +2447,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "33",
       "multiverseid": 946,
       "name": "Ghazbán Ogre",
       "originalText": "During its current controller's upkeep, the player with the highest life total takes control of Ghazbán Ogre.",
@@ -2531,7 +2496,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "34",
       "multiverseid": 947,
       "name": "Ifh-Bíff Efreet",
       "originalText": "Flying\nWhile Ifh-Bíff Efreet is in play, any player can pay {G} to have Ifh-Bíff Efreet do 1 damage to each player and each flying creature in play. This ability does not tap the Ifh-Bíff Efreet, and can be used as soon as it is successfully summoned.",
@@ -2580,7 +2544,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "35",
       "multiverseid": 948,
       "name": "Metamorphosis",
       "originalText": "Sacrifice a creature of yours in play for an amount of mana equal to its casting cost plus 1. This mana can be of any one color, and can only be used to summon creatures.",
@@ -2778,7 +2741,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "38",
       "multiverseid": 951,
       "name": "Sandstorm",
       "originalText": "All attacking creatures suffer 1 damage.",
@@ -2824,7 +2786,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "39",
       "multiverseid": 952,
       "name": "Singing Tree",
       "originalText": "Tap to reduce an attacking creature's power to 0.",
@@ -2989,7 +2950,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "42",
       "multiverseid": 955,
       "name": "Aladdin",
       "originalText": "{1}{R}{R}: and tap to take control of an artifact from opponent. Artifact is returned when Aladdin is removed from play or when game ends.",
@@ -3050,7 +3010,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "43",
       "multiverseid": 956,
       "name": "Ali Baba",
       "originalText": "{R}: Tap a wall.",
@@ -3109,7 +3068,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "44",
       "multiverseid": 957,
       "name": "Ali from Cairo",
       "originalText": "While Ali is in play, damage that would reduce you to less than 1 life lowers you to 1 life. All further damage is prevented.",
@@ -3280,7 +3238,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "47",
       "multiverseid": 960,
       "name": "Desert Nomads",
       "originalText": "Desertwalk\nDesert Nomads are immune to damage done by Deserts.",
@@ -3328,7 +3285,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "48",
       "multiverseid": 961,
       "name": "Hurr Jackal",
       "originalText": "Tap to prevent a target creature from regenerating for the remainder of the turn.",
@@ -3380,7 +3336,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "49",
       "multiverseid": 962,
       "name": "Kird Ape",
       "originalText": "Kird Ape gains +1/+2 if you have any forests in play.",
@@ -3434,7 +3389,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "50",
       "multiverseid": 963,
       "name": "Magnetic Mountain",
       "originalText": "Blue creatures do not untap as normal. During their untap phases, players must spend {4} for each blue creature they wish to untap. This cost must be paid in addition to any other untap cost a given blue creature may already require.",
@@ -3478,7 +3432,6 @@
         }
       ],
       "manaCost": "{R}{R}{R}",
-      "mciNumber": "51",
       "multiverseid": 964,
       "name": "Mijae Djinn",
       "originalText": "If you choose to attack with Mijae Djinn, flip a coin immediately after attack is announced; opponent calls heads or tails while coin is in the air. If the flip ends up in opponent's favor, Mijae Djinn is tapped but does not attack.",
@@ -3689,7 +3642,6 @@
         }
       ],
       "manaCost": "{R}{R}{R}",
-      "mciNumber": "54",
       "multiverseid": 967,
       "name": "Ydwen Efreet",
       "originalText": "If you choose to block with Ydwen Efreet, flip a coin immediately after defense is announced; opponent calls heads or tails while coin is in the air. If the flip ends up in opponent's favor, Ydwen Efreet cannot block this turn.",
@@ -3743,7 +3695,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "55",
       "multiverseid": 968,
       "name": "Abu Ja'far",
       "originalText": "If Abu dies without regenerating while participating in an attack or defense,all creatures Abu is blocking or being blocked by are also killed and may not regenerate.",
@@ -3882,7 +3833,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "58",
       "multiverseid": 971,
       "name": "Camel",
       "originalText": "Bands\nAll creatures attacking in a band with Camel are immune to damage done by Deserts.",
@@ -3951,7 +3901,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "59",
       "multiverseid": 972,
       "name": "Eye for an Eye",
       "originalText": "Can be cast only when a creature or spell does damage to you. Eye for an Eye does an equal amount of damage to the controller of that creature or spell. If some spell or effect reduces the amount of damage you receive, it does not reduce the damage dealt by Eye for an Eye.",
@@ -4007,7 +3956,6 @@
         }
       ],
       "manaCost": "{W}{W}{W}",
-      "mciNumber": "60",
       "multiverseid": 973,
       "name": "Jihad",
       "originalText": "Choose a color. As long as opponent has cards of this color in play, all white creatures gain +2/+1. Jihad must be discarded immediately if at any time opponent has no cards of this color in play.",
@@ -4057,7 +4005,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "61",
       "multiverseid": 974,
       "name": "King Suleiman",
       "originalText": "Tap to destroy an Efreet or Djinn.",
@@ -4318,7 +4265,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "66",
       "multiverseid": 979,
       "name": "Repentant Blacksmith",
       "originalText": "Protection from red",
@@ -4367,7 +4313,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "67",
       "multiverseid": 980,
       "name": "Shahrazad",
       "originalText": "Players must leave game in progress as it is and use the cards left in their libraries as decks with which to play a subgame of Magic. When subgame is over, players shuffle these cards, return them to libraries, and resume game in progress, with any loser of subgame halving his or her remaining life points, rounding down. Effects that prevent damage may not be used to counter this loss of life. The subgame has no ante; using less than forty cards may be necessary.",
@@ -4674,7 +4619,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "91",
       "multiverseid": 983,
       "name": "Mountain",
       "originalText": "Tap to add {R} to your mana pool.",
@@ -4790,7 +4734,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4825,7 +4772,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "84",
       "multiverseid": 984,
       "name": "Bazaar of Baghdad",
       "originalText": "Tap to take two cards from your library, after which you must immediately discard three from your hand to your graveyard. If you don't have three or more cards in your hand, discard your whole hand. No spells may be cast between drawing and discarding cards.",
@@ -4873,7 +4819,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "85",
       "multiverseid": 985,
       "name": "City of Brass",
       "originalText": "Tap to add 1 mana of any color to your mana pool. You suffer 1 damage whenever City of Brass becomes tapped.",
@@ -4939,7 +4884,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "86",
       "multiverseid": 986,
       "name": "Desert",
       "originalText": "Tap to add 1 colorless mana to your mana pool or do 1 damage to an attacking creature after it deals its damage.",
@@ -4990,7 +4934,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "87",
       "multiverseid": 987,
       "name": "Diamond Valley",
       "originalText": "Tap to sacrifice one of your creatures in exchange for a number of life points equal to its toughness. Note that this ability may be used after blocking has been declared.",
@@ -5027,7 +4970,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "88",
       "multiverseid": 988,
       "name": "Elephant Graveyard",
       "originalText": "Tap to add 1 colorless mana to your mana pool or regenerate an Elephant or Mammoth.",
@@ -5065,7 +5007,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "89",
       "multiverseid": 989,
       "name": "Island of Wak-Wak",
       "originalText": "Tap to reduce target flying creature's power to 0.",
@@ -5116,7 +5057,6 @@
           "legality": "Restricted"
         }
       ],
-      "mciNumber": "90",
       "multiverseid": 990,
       "name": "Library of Alexandria",
       "originalText": "Tap to add 1 colorless mana to your mana pool or draw a card from your library; you may use the card-drawing ability only if you have exactly seven cards in your hand.",
@@ -5160,7 +5100,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "92",
       "multiverseid": 991,
       "name": "Oasis",
       "originalText": "Tap to prevent 1 damage to any creature.",

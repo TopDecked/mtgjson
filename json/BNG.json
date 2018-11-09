@@ -129,7 +129,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "1",
       "multiverseid": 378373,
       "name": "Acolyte's Reward",
       "number": "1",
@@ -292,7 +291,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "2",
       "multiverseid": 378374,
       "name": "Akroan Phalanx",
       "number": "2",
@@ -402,7 +400,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "3",
       "multiverseid": 378375,
       "name": "Akroan Skyguard",
       "number": "3",
@@ -526,7 +523,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "4",
       "multiverseid": 378376,
       "name": "Archetype of Courage",
       "number": "4",
@@ -654,7 +650,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "5",
       "multiverseid": 378377,
       "name": "Brimaz, King of Oreskos",
       "number": "5",
@@ -781,7 +776,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "6",
       "multiverseid": 378378,
       "name": "Dawn to Dusk",
       "number": "6",
@@ -895,7 +889,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "7",
       "multiverseid": 378379,
       "name": "Eidolon of Countless Battles",
       "number": "7",
@@ -1043,7 +1036,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "8",
       "multiverseid": 378380,
       "name": "Elite Skirmisher",
       "number": "8",
@@ -1167,7 +1159,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "9",
       "multiverseid": 378381,
       "name": "Ephara's Radiance",
       "number": "9",
@@ -1274,7 +1265,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "10",
       "multiverseid": 378382,
       "name": "Excoriate",
       "number": "10",
@@ -1378,7 +1368,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}{W}",
-      "mciNumber": "11",
       "multiverseid": 378383,
       "name": "Fated Retribution",
       "number": "11",
@@ -1499,7 +1488,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "12",
       "multiverseid": 378384,
       "name": "Ghostblade Eidolon",
       "number": "12",
@@ -1640,7 +1628,6 @@
         }
       ],
       "manaCost": "{X}{W}",
-      "mciNumber": "13",
       "multiverseid": 378385,
       "name": "Glimpse the Sun God",
       "number": "13",
@@ -1766,7 +1753,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "14",
       "multiverseid": 378386,
       "name": "God-Favored General",
       "number": "14",
@@ -1894,7 +1880,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "15",
       "multiverseid": 378387,
       "name": "Great Hart",
       "number": "15",
@@ -2001,7 +1986,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "16",
       "multiverseid": 378388,
       "name": "Griffin Dreamfinder",
       "number": "16",
@@ -2110,7 +2094,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "17",
       "multiverseid": 378389,
       "name": "Hero of Iroas",
       "number": "17",
@@ -2238,7 +2221,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "18",
       "multiverseid": 378390,
       "name": "Hold at Bay",
       "number": "18",
@@ -2342,7 +2324,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "19",
       "multiverseid": 378391,
       "name": "Loyal Pegasus",
       "number": "19",
@@ -2470,7 +2451,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "20",
       "multiverseid": 378392,
       "name": "Mortal's Ardor",
       "number": "20",
@@ -2575,7 +2555,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "21",
       "multiverseid": 378393,
       "name": "Nyxborn Shieldmate",
       "number": "21",
@@ -2716,7 +2695,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "22",
       "multiverseid": 378394,
       "name": "Oreskos Sun Guide",
       "number": "22",
@@ -2843,7 +2821,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "23",
       "multiverseid": 378395,
       "name": "Ornitharch",
       "number": "23",
@@ -2978,7 +2955,6 @@
         }
       ],
       "manaCost": "{5}{W}",
-      "mciNumber": "24",
       "multiverseid": 378396,
       "name": "Plea for Guidance",
       "number": "24",
@@ -3086,7 +3062,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "25",
       "multiverseid": 378397,
       "name": "Revoke Existence",
       "number": "25",
@@ -3192,7 +3167,6 @@
         }
       ],
       "manaCost": "{5}{W}{W}",
-      "mciNumber": "26",
       "multiverseid": 378398,
       "name": "Silent Sentinel",
       "number": "26",
@@ -3313,7 +3287,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "27",
       "multiverseid": 378399,
       "name": "Spirit of the Labyrinth",
       "number": "27",
@@ -3441,7 +3414,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "28",
       "multiverseid": 378400,
       "name": "Sunbond",
       "number": "28",
@@ -3558,7 +3530,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "29",
       "multiverseid": 378401,
       "name": "Vanguard of Brimaz",
       "number": "29",
@@ -3682,7 +3653,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "30",
       "multiverseid": 378402,
       "name": "Aerie Worshippers",
       "number": "30",
@@ -3809,7 +3779,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "31",
       "multiverseid": 378403,
       "name": "Arbiter of the Ideal",
       "number": "31",
@@ -3949,7 +3918,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "32",
       "multiverseid": 378404,
       "name": "Archetype of Imagination",
       "number": "32",
@@ -4077,7 +4045,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "33",
       "multiverseid": 378405,
       "name": "Chorus of the Tides",
       "number": "33",
@@ -4216,7 +4183,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "34",
       "multiverseid": 378406,
       "name": "Crypsis",
       "number": "34",
@@ -4330,7 +4296,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "35",
       "multiverseid": 378407,
       "name": "Deepwater Hypnotist",
       "number": "35",
@@ -4466,7 +4431,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "36",
       "multiverseid": 378408,
       "name": "Divination",
       "number": "36",
@@ -4481,7 +4445,8 @@
         "BNG",
         "M15",
         "CN2",
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Draw two cards.",
@@ -4581,7 +4546,6 @@
         }
       ],
       "manaCost": "{5}{U}",
-      "mciNumber": "37",
       "multiverseid": 378409,
       "name": "Eternity Snare",
       "number": "37",
@@ -4689,7 +4653,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "38",
       "multiverseid": 378410,
       "name": "Evanescent Intellect",
       "number": "38",
@@ -4795,7 +4758,6 @@
         }
       ],
       "manaCost": "{U}{U}{U}",
-      "mciNumber": "39",
       "multiverseid": 378411,
       "name": "Fated Infatuation",
       "number": "39",
@@ -4936,7 +4898,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "40",
       "multiverseid": 378412,
       "name": "Flitterstep Eidolon",
       "number": "40",
@@ -5076,7 +5037,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "41",
       "multiverseid": 378413,
       "name": "Floodtide Serpent",
       "number": "41",
@@ -5191,7 +5151,6 @@
         }
       ],
       "manaCost": "{5}{U}{U}",
-      "mciNumber": "42",
       "multiverseid": 378414,
       "name": "Kraken of the Straits",
       "number": "42",
@@ -5305,7 +5264,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "43",
       "multiverseid": 378415,
       "name": "Meletis Astronomer",
       "number": "43",
@@ -5428,7 +5386,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "44",
       "multiverseid": 378416,
       "name": "Mindreaver",
       "number": "44",
@@ -5560,7 +5517,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "45",
       "multiverseid": 378417,
       "name": "Nullify",
       "number": "45",
@@ -5664,7 +5620,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "46",
       "multiverseid": 378418,
       "name": "Nyxborn Triton",
       "number": "46",
@@ -5803,7 +5758,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "47",
       "multiverseid": 378419,
       "name": "Oracle's Insight",
       "number": "47",
@@ -5928,7 +5882,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "48",
       "multiverseid": 378420,
       "name": "Perplexing Chimera",
       "number": "48",
@@ -6076,7 +6029,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "49",
       "multiverseid": 378421,
       "name": "Retraction Helix",
       "number": "49",
@@ -6180,7 +6132,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "50",
       "multiverseid": 378422,
       "name": "Siren of the Fanged Coast",
       "number": "50",
@@ -6315,7 +6266,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "51",
       "multiverseid": 378423,
       "name": "Sphinx's Disciple",
       "number": "51",
@@ -6442,7 +6392,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "52",
       "multiverseid": 378424,
       "name": "Stratus Walk",
       "number": "52",
@@ -6550,7 +6499,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "53",
       "multiverseid": 378425,
       "name": "Sudden Storm",
       "number": "53",
@@ -6688,7 +6636,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "54",
       "multiverseid": 378426,
       "name": "Thassa's Rebuff",
       "number": "54",
@@ -6791,7 +6738,6 @@
         }
       ],
       "manaCost": "{5}{U}{U}",
-      "mciNumber": "55",
       "multiverseid": 378427,
       "name": "Tromokratis",
       "number": "55",
@@ -6914,7 +6860,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "56",
       "multiverseid": 378428,
       "name": "Vortex Elemental",
       "number": "56",
@@ -7037,7 +6982,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "57",
       "multiverseid": 378429,
       "name": "Whelming Wave",
       "number": "57",
@@ -7142,7 +7086,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "58",
       "multiverseid": 378430,
       "name": "Archetype of Finality",
       "number": "58",
@@ -7270,7 +7213,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "59",
       "multiverseid": 378431,
       "name": "Ashiok's Adept",
       "number": "59",
@@ -7394,7 +7336,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "60",
       "multiverseid": 378432,
       "name": "Asphyxiate",
       "number": "60",
@@ -7498,7 +7439,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "61",
       "multiverseid": 378433,
       "name": "Bile Blight",
       "number": "61",
@@ -7617,7 +7557,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "62",
       "multiverseid": 378434,
       "name": "Black Oak of Odunos",
       "number": "62",
@@ -7732,7 +7671,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "63",
       "multiverseid": 378435,
       "name": "Champion of Stray Souls",
       "number": "63",
@@ -7854,7 +7792,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "64",
       "multiverseid": 378436,
       "name": "Claim of Erebos",
       "number": "64",
@@ -7961,7 +7898,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "65",
       "multiverseid": 378437,
       "name": "Drown in Sorrow",
       "number": "65",
@@ -8087,7 +8023,6 @@
         }
       ],
       "manaCost": "{5}{B}{B}",
-      "mciNumber": "66",
       "multiverseid": 378438,
       "name": "Eater of Hope",
       "number": "66",
@@ -8199,7 +8134,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "67",
       "multiverseid": 378439,
       "name": "Eye Gouge",
       "number": "67",
@@ -8309,7 +8243,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "68",
       "multiverseid": 378440,
       "name": "Fate Unraveler",
       "number": "68",
@@ -8419,7 +8352,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}{B}",
-      "mciNumber": "69",
       "multiverseid": 378441,
       "name": "Fated Return",
       "number": "69",
@@ -8549,7 +8481,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "70",
       "multiverseid": 378442,
       "name": "Felhide Brawler",
       "number": "70",
@@ -8664,7 +8595,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "71",
       "multiverseid": 378443,
       "name": "Forlorn Pseudamma",
       "number": "71",
@@ -8791,7 +8721,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "72",
       "multiverseid": 378444,
       "name": "Forsaken Drifters",
       "number": "72",
@@ -8900,7 +8829,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "73",
       "multiverseid": 378445,
       "name": "Gild",
       "number": "73",
@@ -9014,7 +8942,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "74",
       "multiverseid": 378446,
       "name": "Grisly Transformation",
       "number": "74",
@@ -9120,7 +9047,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "75",
       "multiverseid": 378447,
       "name": "Herald of Torment",
       "number": "75",
@@ -9264,7 +9190,6 @@
         }
       ],
       "manaCost": "{6}{B}",
-      "mciNumber": "76",
       "multiverseid": 378448,
       "name": "Marshmist Titan",
       "number": "76",
@@ -9399,7 +9324,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "77",
       "multiverseid": 378449,
       "name": "Necrobite",
       "number": "77",
@@ -9505,7 +9429,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "78",
       "multiverseid": 378450,
       "name": "Nyxborn Eidolon",
       "number": "78",
@@ -9645,7 +9568,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "79",
       "multiverseid": 378451,
       "name": "Odunos River Trawler",
       "number": "79",
@@ -9754,7 +9676,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "80",
       "multiverseid": 378452,
       "name": "Pain Seer",
       "number": "80",
@@ -9890,7 +9811,6 @@
         }
       ],
       "manaCost": "{4}{B}",
-      "mciNumber": "81",
       "multiverseid": 378453,
       "name": "Sanguimancy",
       "number": "81",
@@ -10012,7 +9932,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "82",
       "multiverseid": 378454,
       "name": "Servant of Tymaret",
       "number": "82",
@@ -10142,7 +10061,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "83",
       "multiverseid": 378455,
       "name": "Shrike Harpy",
       "number": "83",
@@ -10280,7 +10198,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "84",
       "multiverseid": 378456,
       "name": "Spiteful Returned",
       "number": "84",
@@ -10419,7 +10336,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "85",
       "multiverseid": 378457,
       "name": "Warchanter of Mogis",
       "number": "85",
@@ -10547,7 +10463,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "86",
       "multiverseid": 378458,
       "name": "Weight of the Underworld",
       "number": "86",
@@ -10655,7 +10570,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "87",
       "multiverseid": 378459,
       "name": "Akroan Conscriptor",
       "number": "87",
@@ -10791,7 +10705,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "88",
       "multiverseid": 378460,
       "name": "Archetype of Aggression",
       "number": "88",
@@ -10920,7 +10833,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "89",
       "multiverseid": 378461,
       "name": "Bolt of Keranos",
       "number": "89",
@@ -11042,7 +10954,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "90",
       "multiverseid": 378462,
       "name": "Cyclops of One-Eyed Pass",
       "number": "90",
@@ -11149,7 +11060,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "91",
       "multiverseid": 378463,
       "name": "Epiphany Storm",
       "number": "91",
@@ -11255,7 +11165,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "92",
       "multiverseid": 378464,
       "name": "Everflame Eidolon",
       "number": "92",
@@ -11399,7 +11308,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "93",
       "multiverseid": 378465,
       "name": "Fall of the Hammer",
       "number": "93",
@@ -11513,7 +11421,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}{R}",
-      "mciNumber": "94",
       "multiverseid": 378466,
       "name": "Fated Conflagration",
       "number": "94",
@@ -11636,7 +11543,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "95",
       "multiverseid": 378467,
       "name": "Fearsome Temper",
       "number": "95",
@@ -11752,7 +11658,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "96",
       "multiverseid": 378468,
       "name": "Felhide Spiritbinder",
       "number": "96",
@@ -11903,7 +11808,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "97",
       "multiverseid": 378469,
       "name": "Flame-Wreathed Phoenix",
       "number": "97",
@@ -12038,7 +11942,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "98",
       "multiverseid": 378470,
       "name": "Forgestoker Dragon",
       "number": "98",
@@ -12158,7 +12061,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "99",
       "multiverseid": 378471,
       "name": "Impetuous Sunchaser",
       "number": "99",
@@ -12278,7 +12180,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "100",
       "multiverseid": 378472,
       "name": "Kragma Butcher",
       "number": "100",
@@ -12406,7 +12307,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "101",
       "multiverseid": 378473,
       "name": "Lightning Volley",
       "number": "101",
@@ -12509,7 +12409,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "102",
       "multiverseid": 378474,
       "name": "Nyxborn Rollicker",
       "number": "102",
@@ -12648,7 +12547,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "103",
       "multiverseid": 378475,
       "name": "Oracle of Bones",
       "number": "103",
@@ -12799,7 +12697,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "104",
       "multiverseid": 378476,
       "name": "Pharagax Giant",
       "number": "104",
@@ -12934,7 +12831,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "105",
       "multiverseid": 378477,
       "name": "Pinnacle of Rage",
       "number": "105",
@@ -13044,7 +12940,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "106",
       "multiverseid": 378478,
       "name": "Reckless Reveler",
       "number": "106",
@@ -13154,7 +13049,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "107",
       "multiverseid": 378479,
       "name": "Rise to the Challenge",
       "number": "107",
@@ -13258,7 +13152,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "108",
       "multiverseid": 378480,
       "name": "Satyr Firedancer",
       "number": "108",
@@ -13367,7 +13260,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "109",
       "multiverseid": 378481,
       "name": "Satyr Nyx-Smith",
       "number": "109",
@@ -13495,7 +13387,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "110",
       "multiverseid": 378482,
       "name": "Scouring Sands",
       "number": "110",
@@ -13617,7 +13508,6 @@
         }
       ],
       "manaCost": "{R}{R}",
-      "mciNumber": "111",
       "multiverseid": 378483,
       "name": "Searing Blood",
       "number": "111",
@@ -13728,7 +13618,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "112",
       "multiverseid": 378484,
       "name": "Stormcaller of Keranos",
       "number": "112",
@@ -13855,7 +13744,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "113",
       "multiverseid": 378485,
       "name": "Thunder Brute",
       "number": "113",
@@ -13989,7 +13877,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "114",
       "multiverseid": 378486,
       "name": "Thunderous Might",
       "number": "114",
@@ -14113,7 +14000,6 @@
         }
       ],
       "manaCost": "{5}{R}",
-      "mciNumber": "115",
       "multiverseid": 378487,
       "name": "Whims of the Fates",
       "number": "115",
@@ -14232,7 +14118,6 @@
         }
       ],
       "manaCost": "{6}{G}{G}",
-      "mciNumber": "116",
       "multiverseid": 378488,
       "name": "Archetype of Endurance",
       "number": "116",
@@ -14360,7 +14245,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "117",
       "multiverseid": 378489,
       "name": "Aspect of Hydra",
       "number": "117",
@@ -14486,7 +14370,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "118",
       "multiverseid": 378490,
       "name": "Charging Badger",
       "number": "118",
@@ -14594,7 +14477,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "119",
       "multiverseid": 378491,
       "name": "Courser of Kruphix",
       "number": "119",
@@ -14724,7 +14606,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "120",
       "multiverseid": 378492,
       "name": "Culling Mark",
       "number": "120",
@@ -14837,7 +14718,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}{G}",
-      "mciNumber": "121",
       "multiverseid": 378493,
       "name": "Fated Intervention",
       "number": "121",
@@ -14961,7 +14841,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "122",
       "multiverseid": 378494,
       "name": "Graverobber Spider",
       "number": "122",
@@ -15076,7 +14955,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "123",
       "multiverseid": 378495,
       "name": "Hero of Leina Tower",
       "number": "123",
@@ -15204,7 +15082,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "124",
       "multiverseid": 378496,
       "name": "Hunter's Prowess",
       "number": "124",
@@ -15311,7 +15188,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "125",
       "multiverseid": 378497,
       "name": "Karametra's Favor",
       "number": "125",
@@ -15419,7 +15295,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "126",
       "multiverseid": 378498,
       "name": "Mischief and Mayhem",
       "number": "126",
@@ -15523,7 +15398,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "127",
       "multiverseid": 378499,
       "name": "Mortal's Resolve",
       "number": "127",
@@ -15626,7 +15500,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "128",
       "multiverseid": 378500,
       "name": "Nessian Demolok",
       "number": "128",
@@ -15760,7 +15633,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}",
-      "mciNumber": "129",
       "multiverseid": 378501,
       "name": "Nessian Wilds Ravager",
       "number": "129",
@@ -15895,7 +15767,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "130",
       "multiverseid": 378502,
       "name": "Noble Quarry",
       "number": "130",
@@ -16035,7 +15906,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "131",
       "multiverseid": 378503,
       "name": "Nyxborn Wolf",
       "number": "131",
@@ -16174,7 +16044,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "132",
       "multiverseid": 378504,
       "name": "Peregrination",
       "number": "132",
@@ -16300,7 +16169,6 @@
         }
       ],
       "manaCost": "{5}{G}",
-      "mciNumber": "133",
       "multiverseid": 378505,
       "name": "Pheres-Band Raiders",
       "number": "133",
@@ -16428,7 +16296,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "134",
       "multiverseid": 378506,
       "name": "Pheres-Band Tromper",
       "number": "134",
@@ -16555,7 +16422,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "135",
       "multiverseid": 378507,
       "name": "Raised by Wolves",
       "number": "135",
@@ -16662,7 +16528,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "136",
       "multiverseid": 378508,
       "name": "Satyr Wayfinder",
       "number": "136",
@@ -16774,7 +16639,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "137",
       "multiverseid": 378509,
       "name": "Scourge of Skola Vale",
       "number": "137",
@@ -16889,7 +16753,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "138",
       "multiverseid": 378510,
       "name": "Setessan Oathsworn",
       "number": "138",
@@ -17013,7 +16876,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "139",
       "multiverseid": 378511,
       "name": "Setessan Starbreaker",
       "number": "139",
@@ -17122,7 +16984,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "140",
       "multiverseid": 378512,
       "name": "Skyreaping",
       "number": "140",
@@ -17244,7 +17105,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "141",
       "multiverseid": 378513,
       "name": "Snake of the Golden Grove",
       "number": "141",
@@ -17379,7 +17239,6 @@
         }
       ],
       "manaCost": "{G}{G}",
-      "mciNumber": "142",
       "multiverseid": 378514,
       "name": "Swordwise Centaur",
       "number": "142",
@@ -17487,7 +17346,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "143",
       "multiverseid": 378515,
       "name": "Unravel the Aether",
       "number": "143",
@@ -17608,7 +17466,6 @@
         }
       ],
       "manaCost": "{W}{U}{B}{R}{G}",
-      "mciNumber": "144",
       "multiverseid": 378516,
       "name": "Chromanticore",
       "number": "144",
@@ -17749,7 +17606,6 @@
         }
       ],
       "manaCost": "{2}{W}{U}",
-      "mciNumber": "145",
       "multiverseid": 378517,
       "name": "Ephara, God of the Polis",
       "number": "145",
@@ -17917,7 +17773,6 @@
         }
       ],
       "manaCost": "{1}{W}{U}",
-      "mciNumber": "146",
       "multiverseid": 378518,
       "name": "Ephara's Enlightenment",
       "number": "146",
@@ -18035,7 +17890,6 @@
         }
       ],
       "manaCost": "{1}{R}{G}",
-      "mciNumber": "147",
       "multiverseid": 378519,
       "name": "Fanatic of Xenagos",
       "number": "147",
@@ -18173,7 +18027,6 @@
         }
       ],
       "manaCost": "{3}{G}{W}",
-      "mciNumber": "148",
       "multiverseid": 378520,
       "name": "Karametra, God of Harvests",
       "number": "148",
@@ -18338,7 +18191,6 @@
       ],
       "loyalty": 2,
       "manaCost": "{2}{G}{U}",
-      "mciNumber": "149",
       "multiverseid": 378521,
       "name": "Kiora, the Crashing Wave",
       "number": "149",
@@ -18473,7 +18325,6 @@
         }
       ],
       "manaCost": "{G}{U}",
-      "mciNumber": "150",
       "multiverseid": 378522,
       "name": "Kiora's Follower",
       "number": "150",
@@ -18585,7 +18436,6 @@
         }
       ],
       "manaCost": "{2}{B}{R}",
-      "mciNumber": "151",
       "multiverseid": 378523,
       "name": "Mogis, God of Slaughter",
       "number": "151",
@@ -18745,7 +18595,6 @@
         }
       ],
       "manaCost": "{3}{U}{B}",
-      "mciNumber": "152",
       "multiverseid": 378524,
       "name": "Phenax, God of Deception",
       "number": "152",
@@ -18913,7 +18762,6 @@
         }
       ],
       "manaCost": "{1}{B}{R}",
-      "mciNumber": "153",
       "multiverseid": 378525,
       "name": "Ragemonger",
       "number": "153",
@@ -19039,7 +18887,6 @@
         }
       ],
       "manaCost": "{1}{G}{W}",
-      "mciNumber": "154",
       "multiverseid": 378526,
       "name": "Reap What Is Sown",
       "number": "154",
@@ -19150,7 +18997,6 @@
         }
       ],
       "manaCost": "{1}{U}{B}",
-      "mciNumber": "155",
       "multiverseid": 378527,
       "name": "Siren of the Silent Song",
       "number": "155",
@@ -19279,7 +19125,6 @@
         }
       ],
       "manaCost": "{3}{R}{G}",
-      "mciNumber": "156",
       "multiverseid": 378528,
       "name": "Xenagos, God of Revels",
       "number": "156",
@@ -19431,7 +19276,6 @@
         }
       ],
       "manaCost": "{X}{X}{X}",
-      "mciNumber": "157",
       "multiverseid": 378529,
       "name": "Astral Cornucopia",
       "number": "157",
@@ -19540,7 +19384,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "158",
       "multiverseid": 378530,
       "name": "Gorgon's Head",
       "number": "158",
@@ -19640,7 +19483,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "159",
       "multiverseid": 378531,
       "name": "Heroes' Podium",
       "number": "159",
@@ -19751,7 +19593,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "160",
       "multiverseid": 378532,
       "name": "Pillar of War",
       "number": "160",
@@ -19861,7 +19702,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "161",
       "multiverseid": 378533,
       "name": "Siren Song Lyre",
       "number": "161",
@@ -19966,7 +19806,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "162",
       "multiverseid": 378534,
       "name": "Springleaf Drum",
       "number": "162",
@@ -20073,7 +19912,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "163",
       "multiverseid": 378535,
       "name": "Temple of Enlightenment",
       "number": "163",
@@ -20191,7 +20029,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "164",
       "multiverseid": 378536,
       "name": "Temple of Malice",
       "number": "164",
@@ -20309,7 +20146,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "165",
       "multiverseid": 378537,
       "name": "Temple of Plenty",
       "number": "165",

@@ -59,7 +59,6 @@
         }
       ],
       "manaCost": "{8}",
-      "mciNumber": "346",
       "multiverseid": 3758,
       "name": "Aladdin's Ring",
       "originalText": "{8}, {T}: Aladdin's Ring deals 4 damage to target creature or player.",
@@ -103,7 +102,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "347",
       "multiverseid": 3759,
       "name": "Amulet of Kroog",
       "originalText": "{2}, {T}: Prevent 1 damage to any creature or player.",
@@ -143,7 +141,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "348",
       "multiverseid": 3760,
       "name": "Ankh of Mishra",
       "originalText": "Whenever a land comes into play, Ankh of Mishra deals 2 damage to that land's controller.",
@@ -200,7 +197,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "349",
       "multiverseid": 3761,
       "name": "Ashnod's Altar",
       "originalText": "Sacrifice a creature: Add two colorless mana to your mana pool. Play this ability as a mana source.",
@@ -242,7 +238,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "350",
       "multiverseid": 3762,
       "name": "Ashnod's Transmogrant",
       "originalText": "{T}, Sacrifice Ashnod's Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact creature permanently.",
@@ -291,7 +286,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "351",
       "multiverseid": 3763,
       "name": "Barbed Sextant",
       "originalText": "{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color to your mana pool. Play this ability as a mana source. Draw a card at the beginning of the next turn.",
@@ -332,7 +326,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "352",
       "multiverseid": 3764,
       "name": "Barl's Cage",
       "originalText": "{3}: Target creature does not untap during its controller's next untap phase.",
@@ -390,7 +383,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "353",
       "multiverseid": 3765,
       "name": "Battering Ram",
       "originalText": "Banding when attacking\nIf Battering Ram is blocked by any Wall, destroy that Wall at end of combat.",
@@ -454,7 +446,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "354",
       "multiverseid": 3766,
       "name": "Bottle of Suleiman",
       "originalText": "{1}, Sacrifice Bottle of Suleiman: Flip a coin; target opponent calls heads or tails while coin is in the air. If the flip ends up in opponent's favor, Bottle of Suleiman deals 5 damage to you. Otherwise, put a Djinn token into play. Treat this token as a 5/5 artifact creature with flying.",
@@ -502,7 +493,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "355",
       "multiverseid": 3767,
       "name": "Clay Statue",
       "originalText": "{2}: Regenerate",
@@ -547,7 +537,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "356",
       "multiverseid": 3768,
       "name": "Clockwork Beast",
       "originalText": "When Clockwork Beast comes into play, put seven +1/+0 counters on it. At the end of any combat in which Clockwork Beast attacked or blocked, remove one of these counters.\n{X}, {T}: Put X +1/+0 counters on Clockwork Beast. You may have no more than seven of of these counters on Clockwork Beast. Use this ability only during your upkeep.",
@@ -622,7 +611,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "357",
       "multiverseid": 3769,
       "name": "Clockwork Steed",
       "originalText": "Clockwork Steed cannot be blocked by artifact creatures.\nWhen Clockwork Steed comes into play, put four +1/+0 counters on it. At the end of any combat in which Clockwork Steed attacked or blocked, remove one of these counters.\n{X}, {T}: Put X +1/+0 counters on Clockwork Steed. You may have no more than four of these counters on Clockwork Steed. Use this ability only during your upkeep.",
@@ -689,7 +677,6 @@
         }
       ],
       "manaCost": "{9}",
-      "mciNumber": "358",
       "multiverseid": 3770,
       "name": "Colossus of Sardia",
       "originalText": "Trample\nColossus of Sardia does not untap during your untap phase.\n{9}: Untap Colossus of Sardia. Use this ability only during your upkeep.",
@@ -741,7 +728,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "359",
       "multiverseid": 3771,
       "name": "Coral Helm",
       "originalText": "{3}, Discard a card at random: Target creature gets +2/+2 until end of turn.",
@@ -784,7 +770,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "360",
       "multiverseid": 3772,
       "name": "Crown of the Ages",
       "originalText": "{4}, {T}: Move target enchantment from one creature to another. The enchantment's new target must be legal.",
@@ -831,7 +816,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "361",
       "multiverseid": 3773,
       "name": "Crystal Rod",
       "originalText": "{1}: Gain 1 life. Use this ability only when a blue spell is successfully cast and only once for each such spell.",
@@ -882,7 +866,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "362",
       "multiverseid": 3774,
       "name": "Dancing Scimitar",
       "originalText": "Flying",
@@ -930,7 +913,6 @@
         }
       ],
       "manaCost": "{7}",
-      "mciNumber": "363",
       "multiverseid": 3775,
       "name": "Diabolic Machine",
       "originalText": "{3}: Regenerate",
@@ -979,7 +961,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "364",
       "multiverseid": 3776,
       "name": "Dingus Egg",
       "originalText": "Whenever a land is put into any graveyard from play, Dingus Egg deals 2 damage to that land's controller.",
@@ -1029,7 +1010,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "365",
       "multiverseid": 3777,
       "name": "Disrupting Scepter",
       "originalText": "{3}, {T}: Target player chooses and discards a card. Use this ability only during your turn.",
@@ -1083,7 +1063,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "366",
       "multiverseid": 3778,
       "name": "Dragon Engine",
       "originalText": "{2}: +1/+0 until end of turn",
@@ -1135,7 +1114,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "367",
       "multiverseid": 3779,
       "name": "Elkin Bottle",
       "originalText": "{3}, {T}: Set the top card of your library aside face up. You may play that card as though it were in your hand. At the beginning of your next turn, bury the card if you have not played it.",
@@ -1209,7 +1187,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "368",
       "multiverseid": 3780,
       "name": "Feldon's Cane",
       "originalText": "{T}, Remove Feldon's Cane from the game: Shuffle your graveyard into your library.",
@@ -1253,7 +1230,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "369",
       "multiverseid": 3781,
       "name": "Fellwar Stone",
       "originalText": "{T}: Add to your mana pool one mana of any type that any opponent's lands can produce. Play this ability as a mana source.",
@@ -1328,7 +1304,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "370",
       "multiverseid": 3782,
       "name": "Feroz's Ban",
       "originalText": "Summon spells cost an additional {2} to play.",
@@ -1376,7 +1351,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "371",
       "multiverseid": 3783,
       "name": "Flying Carpet",
       "originalText": "{2}, {T}: Target creature gains flying until end of turn. If that creature is put into any graveyard this turn, bury Flying Carpet.",
@@ -1424,7 +1398,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "372",
       "multiverseid": 3784,
       "name": "Fountain of Youth",
       "originalText": "{2}, {T}: Gain 1 life.",
@@ -1464,7 +1437,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "373",
       "multiverseid": 3785,
       "name": "Gauntlets of Chaos",
       "originalText": "{5}, Sacrifice Gauntlets of Chaos: Exchange control of target artifact, creature, or land you control for control of target permanent of the same type that an opponent controls. Bury all enchantments played on those permanents.",
@@ -1513,7 +1485,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "374",
       "multiverseid": 3786,
       "name": "Glasses of Urza",
       "originalText": "{T}: Look at target player's hand.",
@@ -1561,7 +1532,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "375",
       "multiverseid": 3787,
       "name": "Grapeshot Catapult",
       "originalText": "{T}: Grapeshot Catapult deals 1 damage to target creature with flying.",
@@ -1608,7 +1578,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "376",
       "multiverseid": 3788,
       "name": "Helm of Chatzuk",
       "originalText": "{1}, {T}: Target creature gains banding until end of turn.",
@@ -1673,7 +1642,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "377",
       "multiverseid": 3789,
       "name": "Howling Mine",
       "originalText": "During each player's draw phase, that player draws an additional card.",
@@ -1746,7 +1714,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "378",
       "multiverseid": 3790,
       "name": "Infinite Hourglass",
       "originalText": "During your upkeep, put a time counter on Infinite Hourglass.\nAll creatures get +X/+0, where X is equal to the number of time counters on Infinite Hourglass.\nAny player may pay {3} during any upkeep to remove a time counter from Infinite Hourglass.",
@@ -1787,7 +1754,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "379",
       "multiverseid": 3791,
       "name": "Iron Star",
       "originalText": "{1}: Gain 1 life. Use this ability only when a red spell is successfully cast and only once for each such spell.",
@@ -1837,7 +1803,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "380",
       "multiverseid": 3792,
       "name": "Ivory Cup",
       "originalText": "{1}: Gain 1 life. Use this ability only when a white spell is successfully cast and only once for each such spell.",
@@ -1883,7 +1848,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "381",
       "multiverseid": 3793,
       "name": "Jade Monolith",
       "originalText": "{1}: Redirect all damage from any creature to yourself.",
@@ -1929,7 +1893,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "382",
       "multiverseid": 3794,
       "name": "Jalum Tome",
       "originalText": "{2}, {T}: Draw a card, then choose and discard a card.",
@@ -1972,7 +1935,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "383",
       "multiverseid": 3795,
       "name": "Jandor's Saddlebags",
       "originalText": "{3}, {T}: Untap target creature.",
@@ -2016,7 +1978,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "384",
       "multiverseid": 3796,
       "name": "Jayemdae Tome",
       "originalText": "{4}, {T}: Draw a card.",
@@ -2076,7 +2037,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "385",
       "multiverseid": 3797,
       "name": "Jester's Cap",
       "originalText": "{2}, {T}, Sacrifice Jester's Cap: Look through target player's library and remove any three of those cards from the game. Shuffle that library afterwards.",
@@ -2122,7 +2082,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "386",
       "multiverseid": 3798,
       "name": "Joven's Tools",
       "originalText": "{4}, {T}: Target creature cannot be blocked this turn except by Walls.",
@@ -2159,7 +2118,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "387",
       "multiverseid": 3799,
       "name": "Library of Leng",
       "originalText": "Skip your discard phase.\nWhenever a spell or effect forces you to discard a card, you may instead discard that card to the top of your library.",
@@ -2241,7 +2199,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "388",
       "multiverseid": 3800,
       "name": "Mana Vault",
       "originalText": "Mana Vault does not untap during your untap phase.\nAt the end of your upkeep, if Mana Vault is tapped, it deals 1 damage to you.\n{4}: Untap Mana Vault at end of upkeep. Use this ability only during your upkeep.\n{T}: Add three colorless mana to your mana pool. Play this ability as a mana source.",
@@ -2288,7 +2245,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "389",
       "multiverseid": 3801,
       "name": "Meekstone",
       "originalText": "Creatures with power 3 or greater do not untap during their controllers' untap phases.",
@@ -2339,7 +2295,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "390",
       "multiverseid": 3802,
       "name": "Millstone",
       "originalText": "{2}, {T}: Put the top two cards of target player's library into his or her graveyard.",
@@ -2354,7 +2309,8 @@
         "8ED",
         "9ED",
         "10E",
-        "M14"
+        "M14",
+        "M19"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -2398,7 +2354,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "391",
       "multiverseid": 3803,
       "name": "Nevinyrral's Disk",
       "originalText": "Nevinyrral's Disk comes into play tapped.\n{1}, {T}: Destroy all artifacts, creatures, and enchantments.",
@@ -2457,7 +2412,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "392",
       "multiverseid": 3804,
       "name": "Obelisk of Undoing",
       "originalText": "{6}, {T}: Return target permanent you control and own to your hand.",
@@ -2513,7 +2467,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "393",
       "multiverseid": 3805,
       "name": "Ornithopter",
       "originalText": "Flying",
@@ -2572,7 +2525,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "394",
       "multiverseid": 3806,
       "name": "Pentagram of the Ages",
       "originalText": "{4}, {T}: Prevent all damage to you from one source. Treat further damage from that source normally.",
@@ -2615,7 +2567,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "395",
       "multiverseid": 3807,
       "name": "Primal Clay",
       "originalText": "When you play Primal Clay, choose one—Primal Clay is a 2/2 artifact creature with flying; or Primal Clay is a 3/3 artifact creature; or Primal Clay is a 1/6 artifact creature that counts as a Wall.",
@@ -2682,7 +2633,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "396",
       "multiverseid": 3808,
       "name": "Rod of Ruin",
       "originalText": "{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.",
@@ -2735,7 +2685,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "397",
       "multiverseid": 3809,
       "name": "Serpent Generator",
       "originalText": "{4}, {T}: Put a Poison Snake token into play. Treat this token as a 1/1 artifact creature. If any Poison Snake damages any player, he or she gets a poison counter. If any player has ten or more poison counters, he or she loses the game.",
@@ -2774,7 +2723,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "398",
       "multiverseid": 3810,
       "name": "Shapeshifter",
       "originalText": "Shapeshifter has total power and toughness of 7, divided any way you choose, though neither can be more than 7.\nWhen you play Shapeshifter, choose its power and toughness.\nDuring your upkeep, choose Shapeshifter's power and toughness.",
@@ -2834,7 +2782,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "399",
       "multiverseid": 3811,
       "name": "Skull Catapult",
       "originalText": "{1}, {T}, Sacrifice a creature: Skull Catapult deals 2 damage to target creature or player.",
@@ -2874,7 +2821,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "400",
       "multiverseid": 3812,
       "name": "Soul Net",
       "originalText": "{1}: Gain 1 life. Use this ability only when a creature is put into any graveyard from play and only once for each such creature.",
@@ -2927,7 +2873,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "401",
       "multiverseid": 3813,
       "name": "Tawnos's Weaponry",
       "originalText": "You may choose not to untap Tawnos's Weaponry during your untap phase.\n{2}, {T}: Target creature gets +1/+1 as long as Tawnos's Weaponry remains tapped.",
@@ -2971,7 +2916,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "402",
       "multiverseid": 3814,
       "name": "The Hive",
       "originalText": "{5}, {T}: Put a Wasp token into play. Treat this token as a 1/1 artifact creature with flying.",
@@ -3020,7 +2964,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "403",
       "multiverseid": 3815,
       "name": "Throne of Bone",
       "originalText": "{1}: Gain 1 life. Use this ability only when a black spell is successfully cast and only once for each such spell.",
@@ -3070,7 +3013,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "404",
       "multiverseid": 3816,
       "name": "Time Bomb",
       "originalText": "During your upkeep, put a time counter on Time Bomb.\n{1}, {T}, Sacrifice Time Bomb: Time Bomb deals to each creature and player an amount of damage equal to the number of time counters on Time Bomb.",
@@ -3109,7 +3051,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "405",
       "multiverseid": 3817,
       "name": "Urza's Avenger",
       "originalText": "{0}: -1/-1 and your choice of banding, flying, first strike, or trample until end of turn",
@@ -3163,7 +3104,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "406",
       "multiverseid": 3818,
       "name": "Urza's Bauble",
       "originalText": "{T}, Sacrifice Urza's Bauble: Choose a card at random from target player's hand and look at that card. Draw a card at the beginning of the next turn.",
@@ -3206,7 +3146,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "407",
       "multiverseid": 3819,
       "name": "Wall of Spears",
       "originalText": "First strike\nWall of Spears counts as a Wall.",
@@ -3254,7 +3193,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "408",
       "multiverseid": 3820,
       "name": "Winter Orb",
       "originalText": "Players cannot untap more than one land during their untap phases.",
@@ -3313,7 +3251,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "409",
       "multiverseid": 3821,
       "name": "Wooden Sphere",
       "originalText": "{1}: Gain 1 life. Use this ability only when a green spell is successfully cast and only once for each such spell.",
@@ -3374,7 +3311,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "1",
       "multiverseid": 3822,
       "name": "Abyssal Specter",
       "originalText": "Flying\nIf Abyssal Specter damages any player, he or she chooses and discards a card.",
@@ -3431,7 +3367,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "2",
       "multiverseid": 3823,
       "name": "Animate Dead",
       "originalText": "When you play Animate Dead, choose target creature card in any graveyard. When Animate Dead comes into play, put that creature into play and Animate Dead becomes a creature enchantment that targets the creature. Enchanted creature gets -1/-0. If Animate Dead leaves play, bury the creature.",
@@ -3510,7 +3445,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "3",
       "multiverseid": 3824,
       "name": "Ashes to Ashes",
       "originalText": "Remove two target nonartifact creatures from the game. Ashes to Ashes deals 5 damage to you.",
@@ -3573,7 +3507,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "4",
       "multiverseid": 3825,
       "name": "Bad Moon",
       "originalText": "All black creatures get +1/+1.",
@@ -3631,7 +3564,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "5",
       "multiverseid": 3826,
       "name": "Black Knight",
       "originalText": "First strike, protection from white",
@@ -3692,7 +3624,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "6",
       "multiverseid": 3827,
       "name": "Blight",
       "originalText": "If enchanted land becomes tapped, destroy it at end of turn.",
@@ -3746,7 +3677,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "7",
       "multiverseid": 3828,
       "name": "Bog Imp",
       "originalText": "Flying",
@@ -3805,7 +3735,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "8",
       "multiverseid": 3829,
       "name": "Bog Rats",
       "originalText": "Bog Rats cannot be blocked by Walls.",
@@ -3860,7 +3789,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "9",
       "multiverseid": 3830,
       "name": "Bog Wraith",
       "originalText": "Swampwalk (If defending player controls any swamps, this creature is unblockable.)",
@@ -3925,7 +3853,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "10",
       "multiverseid": 3831,
       "name": "Breeding Pit",
       "originalText": "During your upkeep, pay {B}{B} or bury Breeding Pit.\nAt the end of your turn, put a Thrull token into play. Treat this token as a 0/1 black creature.",
@@ -3977,7 +3904,6 @@
         }
       ],
       "manaCost": "{4}{B}",
-      "mciNumber": "11",
       "multiverseid": 3832,
       "name": "Broken Visage",
       "originalText": "Bury target nonartifact attacking creature and put a Shadow token into play. Treat this token as a black creature with the same power and toughness as that attacking creature. At end of turn, bury the token.",
@@ -4032,7 +3958,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "12",
       "multiverseid": 3833,
       "name": "Carrion Ants",
       "originalText": "{1}: +1/+1 until end of turn",
@@ -4086,7 +4011,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "13",
       "multiverseid": 3834,
       "name": "Cloak of Confusion",
       "originalText": "{0}: Defending player discards a card at random. Enchanted creature deals no combat damage this turn. Use this ability only if enchanted creature is attacking and unblocked and only once each turn.",
@@ -4139,7 +4063,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "14",
       "multiverseid": 3835,
       "name": "Cursed Land",
       "originalText": "During the upkeep of enchanted land's controller, Cursed Land deals 1 damage to him or her.",
@@ -4213,7 +4136,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "15",
       "multiverseid": 3836,
       "name": "Dark Ritual",
       "originalText": "Add {B}{B}{B} to your mana pool.",
@@ -4285,7 +4207,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "16",
       "multiverseid": 3837,
       "name": "Deathgrip",
       "originalText": "{B}{B}: Counter target green spell. Play this ability as an interrupt.",
@@ -4336,7 +4257,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "17",
       "multiverseid": 3838,
       "name": "Derelor",
       "originalText": "Your black spells cost an additional {B} to play.",
@@ -4390,7 +4310,6 @@
         }
       ],
       "manaCost": "{X}{1}{B}",
-      "mciNumber": "18",
       "multiverseid": 3839,
       "name": "Drain Life",
       "originalText": "{X}: Drain Life deals X damage to target creature or player. Spend only black mana in this way. Gain 1 life for each 1 damage dealt, but not more than the toughness of the creature or the life total of the player Drain Life damages.",
@@ -4457,7 +4376,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "19",
       "multiverseid": 3840,
       "name": "Drudge Skeletons",
       "originalText": "{B}: Regenerate",
@@ -4521,7 +4439,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "20",
       "multiverseid": 3841,
       "name": "Erg Raiders",
       "originalText": "At the end of your turn, Erg Raiders deals 2 damage to you if it did not attack this turn. Ignore this effect if Erg Raiders has summoning sickness.",
@@ -4589,7 +4506,6 @@
         }
       ],
       "manaCost": "{4}{B}",
-      "mciNumber": "21",
       "multiverseid": 3842,
       "name": "Evil Eye of Orms-by-Gore",
       "originalText": "Evil Eye of Orms-by-Gore cannot be blocked except by Walls.\nExcept for Evil Eyes, creatures you control cannot attack.",
@@ -4647,7 +4563,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "22",
       "multiverseid": 3843,
       "name": "Evil Presence",
       "originalText": "Enchanted land is a swamp.",
@@ -4712,7 +4627,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "23",
       "multiverseid": 3844,
       "name": "Fallen Angel",
       "originalText": "Flying\nSacrifice a creature: +2/+1 until end of turn",
@@ -4784,7 +4698,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "24",
       "multiverseid": 3845,
       "name": "Fear",
       "originalText": "Enchanted creature cannot be blocked except by artifact creatures and black creatures.",
@@ -4843,7 +4756,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "25",
       "multiverseid": 3846,
       "name": "Frozen Shade",
       "originalText": "{B}: +1/+1 until end of turn",
@@ -4898,7 +4810,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "26",
       "multiverseid": 3847,
       "name": "Funeral March",
       "originalText": "If enchanted creature leaves play, its controller sacrifices a creature.",
@@ -4945,7 +4856,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "27",
       "multiverseid": 3848,
       "name": "Gloom",
       "originalText": "White spells cost an additional {3} to play. Activated abilities of white enchantments cost an additional {3} to play.",
@@ -5014,7 +4924,6 @@
         }
       ],
       "manaCost": "{4}{B}",
-      "mciNumber": "28",
       "multiverseid": 3849,
       "name": "Greater Werewolf",
       "originalText": "At end of combat, put a -0/-2 counter on each creature blocking or blocked by Greater Werewolf.",
@@ -5066,7 +4975,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "29",
       "multiverseid": 3850,
       "name": "Hecatomb",
       "originalText": "When Hecatomb comes into play, sacrifice four creatures or bury Hecatomb.\nTap a swamp you control: Hecatomb deals 1 damage to target creature or player.",
@@ -5129,7 +5037,6 @@
         }
       ],
       "manaCost": "{X}{B}",
-      "mciNumber": "30",
       "multiverseid": 3851,
       "name": "Howl from Beyond",
       "originalText": "Target creature gets +X/+0 until end of turn.",
@@ -5183,7 +5090,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "31",
       "multiverseid": 3852,
       "name": "Initiates of the Ebon Hand",
       "originalText": "{1}: Add {B} to your mana pool. If {4} or more is spent in this way during one turn, bury Initiates of the Ebon Hand at end of turn. Play this ability as a mana source.",
@@ -5242,7 +5148,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "32",
       "multiverseid": 3853,
       "name": "Kjeldoran Dead",
       "originalText": "When Kjeldoran Dead comes into play, sacrifice a creature.\n{B}: Regenerate",
@@ -5308,7 +5213,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "33",
       "multiverseid": 3854,
       "name": "Knight of Stromgald",
       "originalText": "Protection from white\n{B}: First strike until end of turn\n{B}{B}: +1/+0 until end of turn",
@@ -5364,7 +5268,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "34",
       "multiverseid": 3855,
       "name": "Krovikan Fetish",
       "originalText": "Draw a card at the beginning of the turn after Krovikan Fetish comes into play.\nEnchanted creature gets +1/+1.",
@@ -5426,7 +5329,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "35",
       "multiverseid": 3856,
       "name": "Leshrac's Rite",
       "originalText": "Enchanted creature gains swampwalk. (If defending player controls any swamps, this creature is unblockable.)",
@@ -5478,7 +5380,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}{B}",
-      "mciNumber": "36",
       "multiverseid": 3857,
       "name": "Lord of the Pit",
       "originalText": "Flying, trample\nDuring your upkeep, sacrifice a creature other than Lord of the Pit. If you cannot, Lord of the Pit deals 7 damage to you.",
@@ -5551,7 +5452,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "37",
       "multiverseid": 3858,
       "name": "Lost Soul",
       "originalText": "Swampwalk (If defending player controls any swamps, this creature is unblockable.)",
@@ -5609,7 +5509,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "38",
       "multiverseid": 3859,
       "name": "Mind Ravel",
       "originalText": "Target player chooses and discards a card.\nDraw a card at the beginning of the next turn.",
@@ -5663,7 +5562,6 @@
         }
       ],
       "manaCost": "{X}{3}{B}",
-      "mciNumber": "39",
       "multiverseid": 3860,
       "name": "Mind Warp",
       "originalText": "Look at target player's hand. He or she discards X cards of your choice.",
@@ -5714,7 +5612,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "40",
       "multiverseid": 3861,
       "name": "Mindstab Thrull",
       "originalText": "Sacrifice Mindstab Thrull: Defending player chooses and discards three cards. Use this ability only if Mindstab Thrull is attacking and unblocked.",
@@ -5777,7 +5674,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "41",
       "multiverseid": 3862,
       "name": "Mole Worms",
       "originalText": "You may choose not to untap Mole Worms during your untap phase.\n{T}: Tap target land. As long as Mole Worms remains tapped, that land does not untap during its controller's untap phase.",
@@ -5826,7 +5722,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "42",
       "multiverseid": 3863,
       "name": "Murk Dwellers",
       "originalText": "If Murk Dwellers attacks and is not blocked, it gets +2/+0 until end of turn.",
@@ -5884,7 +5779,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "43",
       "multiverseid": 3864,
       "name": "Necrite",
       "originalText": "Sacrifice Necrite: Bury target creature defending player controls. Use this ability only if Necrite is attacking and unblocked.",
@@ -5943,7 +5837,6 @@
         }
       ],
       "manaCost": "{B}{B}{B}",
-      "mciNumber": "44",
       "multiverseid": 3865,
       "name": "Necropotence",
       "originalText": "Skip your draw phase.\nWhenever you discard a card, remove that card from the game.\nPay 1 life: Set aside the top card of your library. Put that card into your hand at the beginning of your discard phase.",
@@ -6006,7 +5899,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "45",
       "multiverseid": 3866,
       "name": "Nether Shadow",
       "originalText": "Nether Shadow is unaffected by summoning sickness.\nAt the end of your upkeep, if Nether Shadow is in your graveyard with at least three creature cards above it, you may put Nether Shadow into play.",
@@ -6100,7 +5992,6 @@
         }
       ],
       "manaCost": "{5}{B}",
-      "mciNumber": "46",
       "multiverseid": 3867,
       "name": "Nightmare",
       "originalText": "Flying\nNightmare has power and toughness each equal to the number of swamps you control.",
@@ -6184,7 +6075,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "47",
       "multiverseid": 3868,
       "name": "Paralyze",
       "originalText": "When Paralyze comes into play, tap enchanted creature.\nEnchanted creature does not untap during its controller's untap phase. That player may pay an additional {4} during his or her upkeep to untap it.",
@@ -6264,7 +6154,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "48",
       "multiverseid": 3869,
       "name": "Pestilence",
       "originalText": "At the end of any turn, if there are no creatures in play, bury Pestilence.\n{B}: Pestilence deals 1 damage to each creature and player.",
@@ -6331,7 +6220,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "49",
       "multiverseid": 3870,
       "name": "Pit Scorpion",
       "originalText": "If Pit Scorpion damages any player, he or she gets a poison counter. If any player has ten or more poison counters, he or she loses the game.",
@@ -6381,7 +6269,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "50",
       "multiverseid": 3871,
       "name": "Plague Rats",
       "originalText": "Plague Rats has power and toughness each equal to the number of Plague Rats in play.",
@@ -6439,7 +6326,6 @@
         }
       ],
       "manaCost": "{B}{B}{B}",
-      "mciNumber": "51",
       "multiverseid": 3872,
       "name": "Pox",
       "originalText": "Each player loses 1/3 of his or her life; then chooses and discards 1/3 of his or her hand; then sacrifices 1/3 of the creatures he or she controls; and then sacrifices 1/3 of the lands he or she controls. Round each loss up.",
@@ -6498,7 +6384,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "52",
       "multiverseid": 3873,
       "name": "Rag Man",
       "originalText": "{B}{B}{B}, {T}: Look at target opponent's hand. That player discards a creature card at random. Use this ability only during your turn.",
@@ -6558,7 +6443,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "53",
       "multiverseid": 3874,
       "name": "Raise Dead",
       "originalText": "Return target creature card in your graveyard to your hand.",
@@ -6633,7 +6517,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "54",
       "multiverseid": 3875,
       "name": "Scathe Zombies",
       "originalType": "Summon — Zombies",
@@ -6702,7 +6585,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "55",
       "multiverseid": 3876,
       "name": "Sengir Autocrat",
       "originalText": "When Sengir Autocrat comes into play, put three Serf tokens into play. Treat these tokens as 0/1 black creatures.\nIf Sengir Autocrat leaves play, bury all Serf tokens.",
@@ -6764,7 +6646,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "56",
       "multiverseid": 3877,
       "name": "Sorceress Queen",
       "originalText": "{T}: Target creature other than Sorceress Queen is 0/2 until end of turn.",
@@ -6822,7 +6703,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "57",
       "multiverseid": 3878,
       "name": "Stromgald Cabal",
       "originalText": "{T}, Pay 1 life: Counter target white spell. Play this ability as an interrupt.",
@@ -6881,7 +6761,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "58",
       "multiverseid": 3879,
       "name": "Terror",
       "originalText": "Bury target nonartifact, nonblack creature.",
@@ -6944,7 +6823,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "59",
       "multiverseid": 3880,
       "name": "The Wretched",
       "originalText": "At end of combat, gain control of all creatures blocking The Wretched as long as you control The Wretched.",
@@ -7025,7 +6903,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "60",
       "multiverseid": 3881,
       "name": "Thrull Retainer",
       "originalText": "Enchanted creature gets +1/+1.\nSacrifice Thrull Retainer: Regenerate enchanted creature.",
@@ -7087,7 +6964,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "61",
       "multiverseid": 3882,
       "name": "Torture",
       "originalText": "{1}{B}: Put a -1/-1 counter on enchanted creature.",
@@ -7145,7 +7021,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "62",
       "multiverseid": 3883,
       "name": "Touch of Death",
       "originalText": "Touch of Death deals 1 damage to target player and you gain 1 life.\nDraw a card at the beginning of the next turn.",
@@ -7192,7 +7067,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "63",
       "multiverseid": 3884,
       "name": "Unholy Strength",
       "originalText": "Enchanted creature gets +2/+1.",
@@ -7259,7 +7133,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "64",
       "multiverseid": 3885,
       "name": "Vampire Bats",
       "originalText": "Flying\n{B}: +1/+0 until end of turn. You cannot spend more than {B}{B} in this way each turn.",
@@ -7318,7 +7191,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "65",
       "multiverseid": 3886,
       "name": "Wall of Bone",
       "originalText": "{B}: Regenerate",
@@ -7379,7 +7251,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "66",
       "multiverseid": 3887,
       "name": "Warp Artifact",
       "originalText": "During the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to him or her.",
@@ -7438,7 +7309,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "67",
       "multiverseid": 3888,
       "name": "Weakness",
       "originalText": "Enchanted creature gets -2/-1.",
@@ -7495,7 +7365,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "68",
       "multiverseid": 3889,
       "name": "Xenic Poltergeist",
       "originalText": "{T}: Until your next upkeep, target noncreature artifact is an artifact creature with power and toughness each equal to its total casting cost. (That artifact retains all of its original abilities.)",
@@ -7556,7 +7425,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "69",
       "multiverseid": 3890,
       "name": "Zombie Master",
       "originalText": "All Zombies gain \"{B} Regenerate\" and swampwalk. (If defending player controls any swamps, these creatures are unblockable.)",
@@ -7613,7 +7481,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "70",
       "multiverseid": 3891,
       "name": "Aether Storm",
       "originalText": "Summon spells cannot be played.\nAny player may pay 4 life to bury Æther Storm.",
@@ -7680,7 +7547,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "71",
       "multiverseid": 3892,
       "name": "Air Elemental",
       "originalText": "Flying",
@@ -7710,7 +7576,9 @@
         "ME4",
         "DD3_JVC",
         "W17",
-        "XLN"
+        "XLN",
+        "M19",
+        "GNT"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -7750,7 +7618,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "72",
       "multiverseid": 3893,
       "name": "Anti-Magic Aura",
       "originalText": "Enchanted creature cannot be the target of enchantments, instants, or sorceries. This effect does not bury Anti-Magic Aura. (Other enchantments on that creature are buried because their target is now illegal.)",
@@ -7801,7 +7668,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "73",
       "multiverseid": 3894,
       "name": "Azure Drake",
       "originalText": "Flying",
@@ -7858,7 +7724,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "74",
       "multiverseid": 3895,
       "name": "Binding Grasp",
       "originalText": "During your upkeep, pay {1}{U} or bury Binding Grasp.\nGain control of enchanted creature. That creature gets +0/+1.",
@@ -7915,7 +7780,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "75",
       "multiverseid": 3896,
       "name": "Boomerang",
       "originalText": "Return target permanent to owner's hand.",
@@ -7977,7 +7841,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "76",
       "multiverseid": 3897,
       "name": "Brainstorm",
       "originalText": "Draw three cards. Then, put any two cards from your hand on top of your library in any order.",
@@ -8050,7 +7913,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "77",
       "multiverseid": 3898,
       "name": "Counterspell",
       "originalText": "Counter target spell.",
@@ -8120,7 +7982,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "78",
       "multiverseid": 3899,
       "name": "Dance of Many",
       "originalText": "During your upkeep, pay {U}{U} or bury Dance of Many.\nWhen you play Dance of Many, choose target summon card. When Dance of Many comes into play, put a token creature into play and treat it as an exact copy of that summon card. If either Dance of Many or the token creature leaves play, bury the other.",
@@ -8200,7 +8061,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "79",
       "multiverseid": 3900,
       "name": "Dandân",
       "originalText": "Islandhome (If defending player controls no islands, this creature cannot attack. If you control no islands, bury this creature.)",
@@ -8251,7 +8111,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "80",
       "multiverseid": 3901,
       "name": "Dark Maze",
       "originalText": "{0}: Dark Maze can attack this turn as though it were not a Wall. At end of turn, remove Dark Maze from the game.",
@@ -8308,7 +8167,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "81",
       "multiverseid": 3902,
       "name": "Deflection",
       "originalText": "Target spell with a single target now targets a new legal target of your choice.",
@@ -8396,7 +8254,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "82",
       "multiverseid": 3903,
       "name": "Drain Power",
       "originalText": "Target player draws all mana from all lands he or she controls. Put all mana from that player's mana pool into yours.",
@@ -8469,7 +8326,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "83",
       "multiverseid": 3904,
       "name": "Energy Flux",
       "originalText": "All artifacts gain \"During your upkeep, pay {2} or bury this artifact.\"",
@@ -8523,7 +8379,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "84",
       "multiverseid": 3905,
       "name": "Enervate",
       "originalText": "Tap target artifact, creature, or land. Draw a card at the beginning of the next turn.",
@@ -8567,7 +8422,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "85",
       "multiverseid": 3906,
       "name": "Feedback",
       "originalText": "During the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to him or her.",
@@ -8625,7 +8479,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "86",
       "multiverseid": 3907,
       "name": "Flight",
       "originalText": "Enchanted creature gains flying.",
@@ -8684,7 +8537,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "87",
       "multiverseid": 3908,
       "name": "Flood",
       "originalText": "{U}{U}: Tap target creature without flying.",
@@ -8730,7 +8582,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "88",
       "multiverseid": 3909,
       "name": "Force Spike",
       "originalText": "Counter target spell unless its caster pays an additional {1}.",
@@ -8783,7 +8634,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "89",
       "multiverseid": 3910,
       "name": "Forget",
       "originalText": "Target player chooses and discards two cards, then draws as many cards as he or she discarded in this way.",
@@ -8832,7 +8682,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "90",
       "multiverseid": 3911,
       "name": "Gaseous Form",
       "originalText": "Enchanted creature neither deals nor receives combat damage.",
@@ -8895,7 +8744,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "91",
       "multiverseid": 3912,
       "name": "Glacial Wall",
       "originalType": "Summon — Wall",
@@ -8945,7 +8793,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "92",
       "multiverseid": 3913,
       "name": "Homarid Warrior",
       "originalText": "{U}: Homarid Warrior cannot be the target of spells or effects until end of turn and does not untap during your next untap phase. Tap Homarid Warrior.",
@@ -9009,7 +8856,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "93",
       "multiverseid": 3914,
       "name": "Hurkyl's Recall",
       "originalText": "Return to target player's hand all artifacts in play he or she owns.",
@@ -9071,7 +8917,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "94",
       "multiverseid": 3915,
       "name": "Hydroblast",
       "originalText": "Counter target spell if it is red, or destroy target permanent if it is red. (If this spell targets a permanent, play it as an instant.)",
@@ -9126,7 +8971,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "95",
       "multiverseid": 3916,
       "name": "Juxtapose",
       "originalText": "Exchange with target player control of the creature with the highest total casting cost that you each control. If two or more creatures are tied for highest total casting cost creature a player controls, he or she chooses between them. Exchange control of artifacts in the same way.",
@@ -9190,7 +9034,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "96",
       "multiverseid": 3917,
       "name": "Krovikan Sorcerer",
       "originalText": "{T}, Choose and discard a nonblack card: Draw a card.\n{T}, Choose and discard a black card: Draw two cards, then choose and discard one of them.",
@@ -9242,7 +9085,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "97",
       "multiverseid": 3918,
       "name": "Labyrinth Minotaur",
       "originalText": "If Labyrinth Minotaur blocks any creature, that creature does not untap during its controller's next untap phase.",
@@ -9309,7 +9151,6 @@
         }
       ],
       "manaCost": "{5}{U}{U}{U}{U}",
-      "mciNumber": "98",
       "multiverseid": 3919,
       "name": "Leviathan",
       "originalText": "Trample\nLeviathan comes into play tapped and does not untap during your untap phase.\nLeviathan cannot attack this turn unless you sacrifice two islands.\nSacrifice two islands: Untap Leviathan. Use this ability only during your upkeep.",
@@ -9367,7 +9208,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "99",
       "multiverseid": 3920,
       "name": "Lifetap",
       "originalText": "Whenever any forest target opponent controls becomes tapped, gain 1 life.",
@@ -9435,7 +9275,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "100",
       "multiverseid": 3921,
       "name": "Lord of Atlantis",
       "originalText": "All Merfolk get +1/+1 and gain islandwalk. (If defending player controls any islands, these creatures are unblockable.)",
@@ -9493,7 +9332,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "101",
       "multiverseid": 3922,
       "name": "Magical Hack",
       "originalText": "Change the text of target permanent or spell by replacing all instances of one basic land type with another. (For example, you may change \"swampwalk\" to \"plainswalk.\" If this spell targets a permanent, play it as an instant.)",
@@ -9584,7 +9422,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "102",
       "multiverseid": 3923,
       "name": "Magus of the Unseen",
       "originalText": "{1}{U}, {T}: Untap target artifact an opponent controls and gain control of it until end of turn. That artifact is unaffected by summoning sickness this turn. Tap the artifact if you lose control of it at end of this turn.",
@@ -9657,7 +9494,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "103",
       "multiverseid": 3924,
       "name": "Memory Lapse",
       "originalText": "Counter target spell. Put that spell on top of owner's library.",
@@ -9717,7 +9553,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "104",
       "multiverseid": 3925,
       "name": "Merfolk of the Pearl Trident",
       "originalType": "Summon — Merfolk",
@@ -9777,7 +9612,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "105",
       "multiverseid": 3926,
       "name": "Mind Bomb",
       "originalText": "Mind Bomb deals 3 damage to each player. Each player may choose and discard up to three cards to prevent that amount of damage to him or her from Mind Bomb.",
@@ -9822,7 +9656,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "106",
       "multiverseid": 3927,
       "name": "Phantasmal Forces",
       "originalText": "Flying\nDuring your upkeep, pay {U} or bury Phantasmal Forces.",
@@ -9881,7 +9714,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "107",
       "multiverseid": 3928,
       "name": "Phantasmal Terrain",
       "originalText": "Enchanted land is a basic land type of your choice.",
@@ -9943,7 +9775,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "108",
       "multiverseid": 3929,
       "name": "Phantom Monster",
       "originalText": "Flying",
@@ -10009,7 +9840,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "109",
       "multiverseid": 3930,
       "name": "Pirate Ship",
       "originalText": "Islandhome (If defending player controls no islands, this creature cannot attack. If you control no islands, bury this creature.)\n{T}: Pirate Ship deals 1 damage to target creature or player.",
@@ -10069,7 +9899,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "110",
       "multiverseid": 3931,
       "name": "Portent",
       "originalText": "Look at the top three cards of target player's library. Shuffle that library or put those three cards back on top of it in any order. Draw a card at the beginning of the next turn.",
@@ -10136,7 +9965,6 @@
         }
       ],
       "manaCost": "{X}{U}",
-      "mciNumber": "111",
       "multiverseid": 3932,
       "name": "Power Sink",
       "originalText": "Counter target spell unless that spell's caster pays an additional {X}. That player draws and pays all mana from lands and mana pool until {X} is paid; he or she may also draw and pay mana from other sources if desired.",
@@ -10217,7 +10045,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "112",
       "multiverseid": 3933,
       "name": "Prodigal Sorcerer",
       "originalText": "{T}: Prodigal Sorcerer deals 1 damage to target creature or player.",
@@ -10280,7 +10107,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "113",
       "multiverseid": 3934,
       "name": "Psychic Venom",
       "originalText": "Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land's controller.",
@@ -10348,7 +10174,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "114",
       "multiverseid": 3935,
       "name": "Ray of Command",
       "originalText": "Untap target creature an opponent controls and gain control of it until end of turn. That creature is unaffected by summoning sickness this turn. Tap the creature if you lose control of it at end of this turn.",
@@ -10410,7 +10235,6 @@
         }
       ],
       "manaCost": "{X}{X}{U}",
-      "mciNumber": "115",
       "multiverseid": 3936,
       "name": "Recall",
       "originalText": "Choose and discard X cards: Return X target cards in your graveyard to your hand. Remove Recall from the game.",
@@ -10467,7 +10291,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "116",
       "multiverseid": 3937,
       "name": "Reef Pirates",
       "originalText": "If Reef Pirates damages any opponent, put the top card of that player's library into his or her graveyard.",
@@ -10521,7 +10344,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "117",
       "multiverseid": 3938,
       "name": "Remove Soul",
       "originalText": "Counter target summon spell.",
@@ -10580,7 +10402,6 @@
         }
       ],
       "manaCost": "{5}{U}",
-      "mciNumber": "118",
       "multiverseid": 3939,
       "name": "Sea Serpent",
       "originalText": "Islandhome (If defending player controls no islands, this creature cannot attack. If you control no islands, bury this creature.)",
@@ -10640,7 +10461,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "119",
       "multiverseid": 3940,
       "name": "Sea Spirit",
       "originalText": "{U}: +1/+0 until end of turn",
@@ -10691,7 +10511,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "120",
       "multiverseid": 3941,
       "name": "Sea Sprite",
       "originalText": "Flying, protection from red",
@@ -10740,7 +10559,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "121",
       "multiverseid": 3942,
       "name": "Seasinger",
       "originalText": "If you control no islands, bury Seasinger.\nYou may choose not to untap Seasinger during your untap phase.\n{T}: Gain control of target creature whose controller controls any islands as long as you control Seasinger and Seasinger remains tapped.",
@@ -10804,7 +10622,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "122",
       "multiverseid": 3943,
       "name": "Segovian Leviathan",
       "originalText": "Islandwalk (If defending player controls any islands, this creature is unblockable.)",
@@ -10859,7 +10676,6 @@
         }
       ],
       "manaCost": "{5}{U}",
-      "mciNumber": "123",
       "multiverseid": 3944,
       "name": "Sibilant Spirit",
       "originalText": "Flying\nIf Sibilant Spirit attacks, defending player may draw a card.",
@@ -10919,7 +10735,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "124",
       "multiverseid": 3945,
       "name": "Sleight of Mind",
       "originalText": "Change the text of target permanent or spell by replacing all instances of one color word with another. (For example, you may change \"nongreen creature\" to \"nonred creature.\" If this spell targets a permanent, play it as an instant.)",
@@ -11016,7 +10831,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "125",
       "multiverseid": 3946,
       "name": "Soul Barrier",
       "originalText": "Whenever target opponent successfully casts a summon spell, Soul Barrier deals 2 damage to him or her. That player may pay {2} to prevent this damage.",
@@ -11073,7 +10887,6 @@
         }
       ],
       "manaCost": "{X}{U}",
-      "mciNumber": "126",
       "multiverseid": 3947,
       "name": "Spell Blast",
       "originalText": "Counter target spell with total casting cost equal to X.",
@@ -11136,7 +10949,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "127",
       "multiverseid": 3948,
       "name": "Stasis",
       "originalText": "Each player skips his or her untap phase.\nDuring your upkeep, pay {U} or bury Stasis.",
@@ -11200,7 +11012,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "128",
       "multiverseid": 3949,
       "name": "Steal Artifact",
       "originalText": "Gain control of enchanted artifact.",
@@ -11260,7 +11071,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "129",
       "multiverseid": 3950,
       "name": "Time Elemental",
       "originalText": "If Time Elemental attacks or blocks, it deals 5 damage to you and is buried at end of combat.\n{2}{U}{U}, {T}: Return target permanent with no enchantments on it to owner's hand.",
@@ -11328,7 +11138,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "130",
       "multiverseid": 3951,
       "name": "Twiddle",
       "originalText": "Tap or untap target artifact, creature, or land.",
@@ -11398,7 +11207,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "131",
       "multiverseid": 3952,
       "name": "Unstable Mutation",
       "originalText": "Enchanted creature gets +3/+3.\nDuring its controller's upkeep, put a -1/-1 counter on enchanted creature.",
@@ -11469,7 +11277,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "132",
       "multiverseid": 3953,
       "name": "Unsummon",
       "originalText": "Return target creature to owner's hand.",
@@ -11537,7 +11344,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "133",
       "multiverseid": 3954,
       "name": "Updraft",
       "originalText": "Target creature gains flying until end of turn.\nDraw a card at the beginning of the next turn.",
@@ -11581,7 +11387,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "134",
       "multiverseid": 3955,
       "name": "Vodalian Soldiers",
       "originalType": "Summon — Merfolk",
@@ -11634,7 +11439,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "135",
       "multiverseid": 3956,
       "name": "Wall of Air",
       "originalText": "Flying",
@@ -11697,7 +11501,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "136",
       "multiverseid": 3957,
       "name": "Wind Spirit",
       "originalText": "Flying\nWind Spirit cannot be blocked by only one creature.",
@@ -11749,7 +11552,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "137",
       "multiverseid": 3958,
       "name": "Zephyr Falcon",
       "originalText": "Flying\nAttacking does not cause Zephyr Falcon to tap.",
@@ -11808,7 +11610,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "138",
       "multiverseid": 3959,
       "name": "Zur's Weirding",
       "originalText": "Players play with their hands face up.\nWhenever any player draws a card, any other player may pay 2 life to force the drawing player to discard that card.",
@@ -11873,7 +11674,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "139",
       "multiverseid": 3960,
       "name": "An-Havva Constable",
       "originalText": "An-Havva Constable has toughness equal to 1 plus the number of green creatures in play.",
@@ -11921,7 +11721,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "140",
       "multiverseid": 3961,
       "name": "Aspect of Wolf",
       "originalText": "Enchanted creature gets +*/+*, where * is equal to half the number of forests you control, rounded down for power and up for toughness.",
@@ -11984,7 +11783,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "141",
       "multiverseid": 3962,
       "name": "Aurochs",
       "originalText": "Trample\nIf Aurochs attacks, it gets +1/+0 until end of turn for each other Aurochs that attacks.",
@@ -12052,7 +11850,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "142",
       "multiverseid": 3963,
       "name": "Birds of Paradise",
       "originalText": "Flying\n{T}: Add one mana of any color to your mana pool. Play this ability as a mana source.",
@@ -12117,7 +11914,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "143",
       "multiverseid": 3964,
       "name": "Carapace",
       "originalText": "Enchanted creature gets +0/+2.\nSacrifice Carapace: Regenerate enchanted creature.",
@@ -12171,7 +11967,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "144",
       "multiverseid": 3965,
       "name": "Cat Warriors",
       "originalText": "Forestwalk (If defending player controls any forests, this creature is unblockable.)",
@@ -12227,7 +12022,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "145",
       "multiverseid": 3966,
       "name": "Chub Toad",
       "originalText": "If Chub Toad blocks or is blocked, it gets +2/+2 until end of turn.",
@@ -12284,7 +12078,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "146",
       "multiverseid": 3967,
       "name": "Cockatrice",
       "originalText": "Flying\nIf Cockatrice blocks or is blocked by any non-Wall creature, destroy that creature at end of combat.",
@@ -12354,7 +12147,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}{G}{G}",
-      "mciNumber": "147",
       "multiverseid": 3968,
       "name": "Craw Giant",
       "originalText": "Trample; rampage 2 (For each creature assigned to block it beyond the first, this creature gets +2/+2 until end of turn.)",
@@ -12409,7 +12201,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}",
-      "mciNumber": "148",
       "multiverseid": 3969,
       "name": "Craw Wurm",
       "originalType": "Summon — Wurm",
@@ -12466,7 +12257,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "149",
       "multiverseid": 3970,
       "name": "Crumble",
       "originalText": "Bury target artifact. That artifact's controller gains an amount of life equal to its total casting cost.",
@@ -12522,7 +12312,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}",
-      "mciNumber": "150",
       "multiverseid": 3971,
       "name": "Desert Twister",
       "originalText": "Destroy target permanent.",
@@ -12574,7 +12363,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "151",
       "multiverseid": 3972,
       "name": "Durkwood Boars",
       "originalType": "Summon — Boars",
@@ -12630,7 +12418,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "152",
       "multiverseid": 3973,
       "name": "Elder Druid",
       "originalText": "{3}{G}, {T}: Tap or untap target artifact, creature, or land.",
@@ -12697,7 +12484,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "153",
       "multiverseid": 3974,
       "name": "Elven Riders",
       "originalText": "Elven Riders cannot be blocked except by Walls or creatures with flying.",
@@ -12759,7 +12545,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "154",
       "multiverseid": 3975,
       "name": "Elvish Archers",
       "originalText": "First strike",
@@ -12826,7 +12611,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "155",
       "multiverseid": 3976,
       "name": "Fog",
       "originalText": "Creatures deal no combat damage this turn.",
@@ -12892,7 +12676,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}{G}{G}",
-      "mciNumber": "156",
       "multiverseid": 3977,
       "name": "Force of Nature",
       "originalText": "Trample\nDuring your upkeep, pay {G}{G}{G}{G} or Force of Nature deals 8 damage to you.",
@@ -12955,7 +12738,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "157",
       "multiverseid": 3978,
       "name": "Foxfire",
       "originalText": "Untap target attacking creature. That creature neither deals nor receives combat damage this turn.\nDraw a card at the beginning of the next turn.",
@@ -13003,7 +12785,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "158",
       "multiverseid": 3979,
       "name": "Fungusaur",
       "originalText": "At the end of any turn in which Fungusaur was damaged, put a +1/+1 counter on it.",
@@ -13074,7 +12855,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "159",
       "multiverseid": 3980,
       "name": "Fyndhorn Elder",
       "originalText": "{T}: Add {G}{G} to your mana pool. Play this ability as a mana source.",
@@ -13127,7 +12907,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "160",
       "multiverseid": 3981,
       "name": "Ghazbán Ogre",
       "originalText": "During your upkeep, if a player has more life than any other, he or she gains control of Ghazbán Ogre.",
@@ -13189,7 +12968,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "161",
       "multiverseid": 3982,
       "name": "Giant Growth",
       "originalText": "Target creature gets +3/+3 until end of turn.",
@@ -13280,7 +13058,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "162",
       "multiverseid": 3983,
       "name": "Giant Spider",
       "originalText": "Giant Spider can block creatures with flying.",
@@ -13307,7 +13084,8 @@
         "M11",
         "M12",
         "M14",
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -13358,7 +13136,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "163",
       "multiverseid": 3984,
       "name": "Grizzly Bears",
       "originalType": "Summon — Bears",
@@ -13420,7 +13197,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "164",
       "multiverseid": 3985,
       "name": "Hungry Mist",
       "originalText": "During your upkeep, pay {G}{G} or bury Hungry Mist.",
@@ -13478,7 +13254,6 @@
         }
       ],
       "manaCost": "{X}{G}",
-      "mciNumber": "165",
       "multiverseid": 3986,
       "name": "Hurricane",
       "originalText": "Hurricane deals X damage to each creature with flying and each player.",
@@ -13542,7 +13317,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "166",
       "multiverseid": 3987,
       "name": "Instill Energy",
       "originalText": "Enchanted creature is unaffected by summoning sickness.\n{0}: Untap enchanted creature. Use this ability only during your turn and only once each turn.",
@@ -13610,7 +13384,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "167",
       "multiverseid": 3988,
       "name": "Ironroot Treefolk",
       "originalType": "Summon — Treefolk",
@@ -13667,7 +13440,6 @@
         }
       ],
       "manaCost": "{5}{G}",
-      "mciNumber": "168",
       "multiverseid": 3989,
       "name": "Johtull Wurm",
       "originalText": "For each creature assigned to block it beyond the first, Johtull Wurm gets -2/-1 until end of turn.",
@@ -13717,7 +13489,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "169",
       "multiverseid": 3990,
       "name": "Killer Bees",
       "originalText": "Flying\n{G}: +1/+1 until end of turn",
@@ -13772,7 +13543,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "170",
       "multiverseid": 3991,
       "name": "Ley Druid",
       "originalText": "{T}: Untap target land.",
@@ -13843,7 +13613,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "171",
       "multiverseid": 3992,
       "name": "Lhurgoyf",
       "originalText": "Lhurgoyf has power equal to the number of creature cards in all graveyards and toughness equal to 1 plus the number of creature cards in all graveyards.",
@@ -13896,7 +13665,6 @@
         }
       ],
       "manaCost": "{G}{G}",
-      "mciNumber": "172",
       "multiverseid": 3993,
       "name": "Lifeforce",
       "originalText": "{G}{G}: Counter target black spell. Play this ability as an interrupt.",
@@ -13946,7 +13714,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "173",
       "multiverseid": 3994,
       "name": "Living Artifact",
       "originalText": "For each 1 damage dealt to you, put a vitality counter on Living Artifact.\nRemove a vitality counter from Living Artifact: Gain 1 life. Use this ability only during your upkeep and only once each turn.",
@@ -14008,7 +13775,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "174",
       "multiverseid": 3995,
       "name": "Living Lands",
       "originalText": "All forests are 1/1 creatures. (These creatures still count as lands.)",
@@ -14074,7 +13840,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "175",
       "multiverseid": 3996,
       "name": "Llanowar Elves",
       "originalText": "{T}: Add {G} to your mana pool. Play this ability as a mana source.",
@@ -14107,7 +13872,9 @@
         "DD3_EVG",
         "EMA",
         "CMA",
-        "DOM"
+        "DOM",
+        "M19",
+        "GNT"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -14165,7 +13932,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "176",
       "multiverseid": 3997,
       "name": "Lure",
       "originalText": "All creatures able to block enchanted creature do so.",
@@ -14237,7 +14003,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "177",
       "multiverseid": 3998,
       "name": "Marsh Viper",
       "originalText": "If Marsh Viper damages any player, he or she gets two poison counters. If any player has ten or more poison counters, he or she loses the game.",
@@ -14291,7 +14056,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "178",
       "multiverseid": 3999,
       "name": "Nature's Lore",
       "originalText": "Search your library for a forest card and put that card into play. Shuffle your library afterwards.",
@@ -14352,7 +14116,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "179",
       "multiverseid": 4000,
       "name": "Pradesh Gypsies",
       "originalText": "{1}{G}, {T}: Target creature gets -2/-0 until end of turn.",
@@ -14404,7 +14167,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "180",
       "multiverseid": 4001,
       "name": "Primal Order",
       "originalText": "During each player's upkeep, Primal Order deals to that player an amount of damage equal to the number of nonbasic lands he or she controls.",
@@ -14448,7 +14210,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "181",
       "multiverseid": 4002,
       "name": "Rabid Wombat",
       "originalText": "Attacking does not cause Rabid Wombat to tap.\nRabid Wombat gets +2/+2 for each creature enchantment on it.",
@@ -14505,7 +14266,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "182",
       "multiverseid": 4003,
       "name": "Radjan Spirit",
       "originalText": "{T}: Target creature loses flying until end of turn.",
@@ -14574,7 +14334,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "183",
       "multiverseid": 4004,
       "name": "Regeneration",
       "originalText": "{G}: Regenerate enchanted creature.",
@@ -14642,7 +14401,6 @@
         }
       ],
       "manaCost": "{7}{G}",
-      "mciNumber": "184",
       "multiverseid": 4005,
       "name": "Scaled Wurm",
       "originalType": "Summon — Wurm",
@@ -14694,7 +14452,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "185",
       "multiverseid": 4006,
       "name": "Scavenger Folk",
       "originalText": "{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.",
@@ -14747,7 +14504,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "186",
       "multiverseid": 4007,
       "name": "Scryb Sprites",
       "originalText": "Flying",
@@ -14807,7 +14563,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "187",
       "multiverseid": 4008,
       "name": "Shanodin Dryads",
       "originalText": "Forestwalk (If defending player controls any forests, this creature is unblockable.)",
@@ -14865,7 +14620,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "188",
       "multiverseid": 4009,
       "name": "Shrink",
       "originalText": "Target creature gets -5/-0 until end of turn.",
@@ -14914,7 +14668,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "189",
       "multiverseid": 4010,
       "name": "Stampede",
       "originalText": "All attacking creatures get +1/+0 and gain trample until end of turn.",
@@ -14962,7 +14715,6 @@
         }
       ],
       "manaCost": "{X}{G}",
-      "mciNumber": "190",
       "multiverseid": 4011,
       "name": "Stream of Life",
       "originalText": "Target player gains X life.",
@@ -15015,7 +14767,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "191",
       "multiverseid": 4012,
       "name": "Sylvan Library",
       "originalText": "{0}: Draw two cards, then choose any two cards in your hand drawn this turn. For each of those cards, pay 4 life or put that card back on top of your library. Use this ability only during your draw phase and only once each turn.",
@@ -15098,7 +14849,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "192",
       "multiverseid": 4013,
       "name": "Tarpan",
       "originalText": "If Tarpan is put into any graveyard from play, gain 1 life.",
@@ -15147,7 +14897,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "193",
       "multiverseid": 4014,
       "name": "Thicket Basilisk",
       "originalText": "If Thicket Basilisk blocks or is blocked by any non-Wall creature, destroy that creature at end of combat.",
@@ -15213,7 +14962,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "194",
       "multiverseid": 4015,
       "name": "Titania's Song",
       "originalText": "Each noncreature artifact loses its abilities and is an artifact creature with power and toughness each equal to its total casting cost. If Titania's Song leaves play, this effect continues until end of turn.",
@@ -15277,7 +15025,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "195",
       "multiverseid": 4016,
       "name": "Tranquility",
       "originalText": "Destroy all enchantments.",
@@ -15333,7 +15080,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "196",
       "multiverseid": 4017,
       "name": "Tsunami",
       "originalText": "Destroy all islands.",
@@ -15383,7 +15129,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "197",
       "multiverseid": 4018,
       "name": "Untamed Wilds",
       "originalText": "Search your library for a basic land card and put that card into play. Shuffle your library afterwards.",
@@ -15445,7 +15190,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "198",
       "multiverseid": 4019,
       "name": "Venom",
       "originalText": "If enchanted creature blocks or is blocked by any non-Wall creature, destroy that creature at end of combat.",
@@ -15503,7 +15247,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "199",
       "multiverseid": 4020,
       "name": "Verduran Enchantress",
       "originalText": "{0}: Draw a card. Use this ability only when you successfully cast an enchantment spell and only once for each such spell.",
@@ -15563,7 +15306,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "200",
       "multiverseid": 4021,
       "name": "Wall of Brambles",
       "originalText": "{G}: Regenerate",
@@ -15619,7 +15361,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "201",
       "multiverseid": 4022,
       "name": "Wanderlust",
       "originalText": "During the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to him or her.",
@@ -15673,7 +15414,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "202",
       "multiverseid": 4023,
       "name": "War Mammoth",
       "originalText": "Trample",
@@ -15738,7 +15478,6 @@
         }
       ],
       "manaCost": "{G}{G}",
-      "mciNumber": "203",
       "multiverseid": 4024,
       "name": "Whirling Dervish",
       "originalText": "Protection from black\nIf Whirling Dervish damages any opponent, put a +1/+1 counter on it at end of turn.",
@@ -15802,7 +15541,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "204",
       "multiverseid": 4025,
       "name": "Wild Growth",
       "originalText": "Whenever enchanted land is tapped for mana, it produces an additional {G}.",
@@ -15865,7 +15603,6 @@
         }
       ],
       "manaCost": "{X}{G}",
-      "mciNumber": "205",
       "multiverseid": 4026,
       "name": "Winter Blast",
       "originalText": "Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.",
@@ -15923,7 +15660,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "206",
       "multiverseid": 4027,
       "name": "Wolverine Pack",
       "originalText": "Rampage 2 (For each creature assigned to block it beyond the first, this creature gets +2/+2 until end of turn.)",
@@ -15972,7 +15708,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "207",
       "multiverseid": 4028,
       "name": "Wyluli Wolf",
       "originalText": "{T}: Target creature gets +1/+1 until end of turn.",
@@ -16023,7 +15758,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "208",
       "multiverseid": 4029,
       "name": "Ambush Party",
       "originalText": "First strike\nAmbush Party is unaffected by summoning sickness.",
@@ -16082,7 +15816,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "209",
       "multiverseid": 4030,
       "name": "Atog",
       "originalText": "Sacrifice an artifact: +2/+2 until end of turn",
@@ -16137,7 +15870,6 @@
         }
       ],
       "manaCost": "{R}{R}{R}",
-      "mciNumber": "210",
       "multiverseid": 4031,
       "name": "Ball Lightning",
       "originalText": "Trample\nBall Lightning is unaffected by summoning sickness.\nAt the end of any turn, bury Ball Lightning.",
@@ -16199,7 +15931,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "211",
       "multiverseid": 4032,
       "name": "Bird Maiden",
       "originalText": "Flying",
@@ -16250,7 +15981,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "212",
       "multiverseid": 4033,
       "name": "Blood Lust",
       "originalText": "Target creature gets +4/-4 until end of turn. If this reduces that creature's toughness to less than 1, the creature's toughness is 1.",
@@ -16302,7 +16032,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "213",
       "multiverseid": 4034,
       "name": "Brassclaw Orcs",
       "originalText": "Brassclaw Orcs cannot be assigned to block any creature with power 2 or greater.",
@@ -16352,7 +16081,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "214",
       "multiverseid": 4035,
       "name": "Brothers of Fire",
       "originalText": "{1}{R}{R}: Brothers of Fire deals 1 damage to target creature or player and 1 damage to you.",
@@ -16403,7 +16131,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "215",
       "multiverseid": 4036,
       "name": "Cave People",
       "originalText": "If Cave People attacks, it gets +1/-2 until end of turn.\n{1}{R}{R}, {T}: Target creature gains mountainwalk until end of turn. (If defending player controls any mountains, that creature is unblockable.)",
@@ -16457,7 +16184,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "216",
       "multiverseid": 4037,
       "name": "Conquer",
       "originalText": "Gain control of enchanted land.",
@@ -16506,7 +16232,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "217",
       "multiverseid": 4038,
       "name": "Crimson Manticore",
       "originalText": "Flying\n{R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature.",
@@ -16564,7 +16289,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "218",
       "multiverseid": 4039,
       "name": "Detonate",
       "originalText": "Bury target artifact with total casting cost equal to X. Detonate deals X damage to that artifact's controller.",
@@ -16626,7 +16350,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "219",
       "multiverseid": 4040,
       "name": "Disintegrate",
       "originalText": "Disintegrate deals X damage to target creature or player. That creature cannot regenerate this turn. If the creature is dealt lethal damage this turn, remove it from the game.",
@@ -16689,7 +16412,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "220",
       "multiverseid": 4041,
       "name": "Dwarven Catapult",
       "originalText": "Dwarven Catapult deals X damage divided evenly, rounded down, among all creatures target opponent controls.",
@@ -16748,7 +16470,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "221",
       "multiverseid": 4042,
       "name": "Dwarven Soldier",
       "originalText": "If Dwarven Soldier blocks or is blocked by any Orcs, it gets +0/+2 until end of turn.",
@@ -16798,7 +16519,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "222",
       "multiverseid": 4043,
       "name": "Dwarven Warriors",
       "originalText": "{T}: Target creature with power 2 or less is unblockable this turn.",
@@ -16867,7 +16587,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "223",
       "multiverseid": 4044,
       "name": "Earthquake",
       "originalText": "Earthquake deals X damage to each creature without flying and each player.",
@@ -16936,7 +16655,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "224",
       "multiverseid": 4045,
       "name": "Errantry",
       "originalText": "Enchanted creature gets +3/+0 and cannot attack during any turn in which any other creatures attack.",
@@ -16994,7 +16712,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "225",
       "multiverseid": 4046,
       "name": "Eternal Warrior",
       "originalText": "Attacking does not cause enchanted creature to tap.",
@@ -17042,7 +16759,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "226",
       "multiverseid": 4047,
       "name": "Fire Drake",
       "originalText": "Flying\n{R}: +1/+0 until end of turn. You cannot spend more than {R} in this way each turn.",
@@ -17100,7 +16816,6 @@
         }
       ],
       "manaCost": "{X}{R}",
-      "mciNumber": "227",
       "multiverseid": 4048,
       "name": "Fireball",
       "originalText": "Pay {1} for each target beyond the first: Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.",
@@ -17194,7 +16909,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "228",
       "multiverseid": 4049,
       "name": "Firebreathing",
       "originalText": "{R}: Enchanted creature gets +1/+0 until end of turn.",
@@ -17267,7 +16981,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "229",
       "multiverseid": 4050,
       "name": "Flame Spirit",
       "originalText": "{R}: +1/+0 until end of turn",
@@ -17328,7 +17041,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "230",
       "multiverseid": 4051,
       "name": "Flare",
       "originalText": "Flare deals 1 damage to target creature or player.\nDraw a card at the beginning of the next turn.",
@@ -17376,7 +17088,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "231",
       "multiverseid": 4052,
       "name": "Flashfires",
       "originalText": "Destroy all plains.",
@@ -17433,7 +17144,6 @@
         }
       ],
       "manaCost": "{R}{R}{R}",
-      "mciNumber": "232",
       "multiverseid": 4053,
       "name": "Game of Chaos",
       "originalText": "Flip a coin; target opponent calls heads or tails while coin is in the air. The loser of the flip loses 1 life. The winner of the flip gains 1 life and may choose to repeat the process. Double the stakes each time.",
@@ -17487,7 +17197,6 @@
         }
       ],
       "manaCost": "{R}{R}",
-      "mciNumber": "233",
       "multiverseid": 4054,
       "name": "Giant Strength",
       "originalText": "Enchanted creature gets +2/+2.",
@@ -17538,7 +17247,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "234",
       "multiverseid": 4055,
       "name": "Goblin Digging Team",
       "originalText": "{T}, Sacrifice Goblin Digging Team: Destroy target Wall.",
@@ -17591,7 +17299,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "235",
       "multiverseid": 4056,
       "name": "Goblin Hero",
       "originalType": "Summon — Goblin",
@@ -17646,7 +17353,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "236",
       "multiverseid": 4057,
       "name": "Goblin King",
       "originalText": "All Goblins get +1/+1 and gain mountainwalk. (If defending player controls any mountains, these creatures are unblockable.)",
@@ -17713,7 +17419,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "237",
       "multiverseid": 4058,
       "name": "Goblin War Drums",
       "originalText": "Each creature you control cannot be blocked by only one creature.",
@@ -17769,7 +17474,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "238",
       "multiverseid": 4059,
       "name": "Goblin Warrens",
       "originalText": "{2}{R}, Sacrifice two Goblins: Put three Goblin tokens into play. Treat these tokens as 1/1 red creatures.",
@@ -17826,7 +17530,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "239",
       "multiverseid": 4060,
       "name": "Hill Giant",
       "originalType": "Summon — Giant",
@@ -17887,7 +17590,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "240",
       "multiverseid": 4061,
       "name": "Hurloon Minotaur",
       "originalType": "Summon — Minotaur",
@@ -17945,7 +17647,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "241",
       "multiverseid": 4062,
       "name": "Imposing Visage",
       "originalText": "Enchanted creature cannot be blocked by only one creature.",
@@ -18004,7 +17705,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "242",
       "multiverseid": 4063,
       "name": "Incinerate",
       "originalText": "Incinerate deals 3 damage to target creature or player. Creatures damaged by Incinerate cannot regenerate this turn.",
@@ -18069,7 +17769,6 @@
         }
       ],
       "manaCost": "{5}{R}{R}",
-      "mciNumber": "243",
       "multiverseid": 4064,
       "name": "Inferno",
       "originalText": "Inferno deals 6 damage to each creature and player.",
@@ -18116,7 +17815,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "244",
       "multiverseid": 4065,
       "name": "Ironclaw Curse",
       "originalText": "Enchanted creature gets -0/-1 and cannot be assigned to block any creature with power greater than or equal to enchanted creature's toughness.",
@@ -18163,7 +17861,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "245",
       "multiverseid": 4066,
       "name": "Ironclaw Orcs",
       "originalText": "Ironclaw Orcs cannot be assigned to block any creature with power 2 or greater.",
@@ -18224,7 +17921,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "246",
       "multiverseid": 4067,
       "name": "Jokulhaups",
       "originalText": "Bury all artifacts, creatures, and lands.",
@@ -18271,7 +17967,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "247",
       "multiverseid": 4068,
       "name": "Keldon Warlord",
       "originalText": "Keldon Warlord has power and toughness each equal to the number of non-Wall creatures you control.",
@@ -18337,7 +18032,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "248",
       "multiverseid": 4069,
       "name": "Mana Clash",
       "originalText": "You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads at the same time.",
@@ -18398,7 +18092,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "249",
       "multiverseid": 4070,
       "name": "Mana Flare",
       "originalText": "Whenever any player taps a land for mana, it produces one additional mana of the same type.",
@@ -18486,7 +18179,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "250",
       "multiverseid": 4071,
       "name": "Manabarbs",
       "originalText": "Whenever any player taps a land for mana, Manabarbs deals 1 damage to him or her.",
@@ -18562,7 +18254,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "251",
       "multiverseid": 4072,
       "name": "Mons's Goblin Raiders",
       "originalType": "Summon — Goblins",
@@ -18623,7 +18314,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "252",
       "multiverseid": 4073,
       "name": "Mountain Goat",
       "originalText": "Mountainwalk (If defending player controls any mountains, this creature is unblockable.)",
@@ -18678,7 +18368,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "253",
       "multiverseid": 4074,
       "name": "Orcish Artillery",
       "originalText": "{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.",
@@ -18747,7 +18436,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "254",
       "multiverseid": 4075,
       "name": "Orcish Captain",
       "originalText": "{1}: Flip a coin; target opponent calls heads or tails while coin is in the air. If the flip ends up in your favor, target Orc gets +2/+0 until end of turn. Otherwise, that Orc gets -0/-2 until end of turn.",
@@ -18807,7 +18495,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "255",
       "multiverseid": 4076,
       "name": "Orcish Conscripts",
       "originalText": "Orcish Conscripts cannot attack this turn unless at least two other creatures are attacking.\nOrcish Conscripts cannot be assigned to block this turn unless at least two other creatures are blocking.",
@@ -18861,7 +18548,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "256",
       "multiverseid": 4077,
       "name": "Orcish Farmer",
       "originalText": "{T}: Target land is a swamp until its controller's next untap phase.",
@@ -18916,7 +18602,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "257",
       "multiverseid": 4078,
       "name": "Orcish Oriflamme",
       "originalText": "Attacking creatures you control get +1/+0.",
@@ -18975,7 +18660,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "258",
       "multiverseid": 4079,
       "name": "Orcish Squatters",
       "originalText": "{0}: Gain control of target land defending player controls as long as you control Orcish Squatters. Orcish Squatters deals no combat damage this turn. Use this ability only if Orcish Squatters is attacking and unblocked and only once each turn.",
@@ -19047,7 +18731,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "259",
       "multiverseid": 4080,
       "name": "Orgg",
       "originalText": "Trample\nOrgg cannot attack if defending player controls an untapped creature with power 3 or greater.\nOrgg cannot be assigned to block any creature with power 3 or greater.",
@@ -19106,7 +18789,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "260",
       "multiverseid": 4081,
       "name": "Panic",
       "originalText": "Play only during combat before blockers are declared.\nTarget creature cannot be assigned to block this turn.\nDraw a card at the beginning of the next turn.",
@@ -19156,7 +18838,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "261",
       "multiverseid": 4082,
       "name": "Primordial Ooze",
       "originalText": "Primordial Ooze attacks each turn if able.\nDuring your upkeep, put a +1/+1 counter on Primordial Ooze. Then pay {X}, where X is equal to the number of these counters on Primordial Ooze, or tap Primordial Ooze and it deals X damage to you.",
@@ -19216,7 +18897,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "262",
       "multiverseid": 4083,
       "name": "Pyroblast",
       "originalText": "Counter target spell if it is blue, or destroy target permanent if it is blue. (If this spell targets a permanent, play it as an instant.)",
@@ -19280,7 +18960,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "263",
       "multiverseid": 4084,
       "name": "Pyrotechnics",
       "originalText": "Pyrotechnics deals 4 damage divided any way you choose among any number of target creatures and/or players.",
@@ -19355,7 +19034,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "264",
       "multiverseid": 4085,
       "name": "Sabretooth Tiger",
       "originalText": "First strike",
@@ -19438,7 +19116,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "265",
       "multiverseid": 4086,
       "name": "Shatter",
       "originalText": "Destroy target artifact.",
@@ -19511,7 +19188,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "266",
       "multiverseid": 4087,
       "name": "Shatterstorm",
       "originalText": "Bury all artifacts.",
@@ -19567,7 +19243,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "267",
       "multiverseid": 4088,
       "name": "Shivan Dragon",
       "originalText": "Flying\n{R}: +1/+0 until end of turn",
@@ -19596,7 +19271,8 @@
         "M15",
         "ORI",
         "W16",
-        "W17"
+        "W17",
+        "M19"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -19636,7 +19312,6 @@
         }
       ],
       "manaCost": "{R}{R}",
-      "mciNumber": "268",
       "multiverseid": 4089,
       "name": "Smoke",
       "originalText": "Players cannot untap more than one creature during their untap phases.",
@@ -19696,7 +19371,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "269",
       "multiverseid": 4090,
       "name": "Stone Giant",
       "originalText": "{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. At end of turn, destroy that creature.",
@@ -19795,7 +19469,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "270",
       "multiverseid": 4091,
       "name": "Stone Rain",
       "originalText": "Destroy target land.",
@@ -19864,7 +19537,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "271",
       "multiverseid": 4092,
       "name": "Stone Spirit",
       "originalText": "Stone Spirit cannot be blocked by creatures with flying.",
@@ -19921,7 +19593,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "272",
       "multiverseid": 4093,
       "name": "The Brute",
       "originalText": "Enchanted creature gets +1/+0.\n{R}{R}{R}: Regenerate enchanted creature.",
@@ -19973,7 +19644,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "273",
       "multiverseid": 4094,
       "name": "Wall of Fire",
       "originalText": "{R}: +1/+0 until end of turn",
@@ -20038,7 +19708,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "274",
       "multiverseid": 4095,
       "name": "Wall of Stone",
       "originalType": "Summon — Wall",
@@ -20093,7 +19762,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "275",
       "multiverseid": 4096,
       "name": "Winds of Change",
       "originalText": "Each player shuffles his or her hand into his or her library, then draws a new hand of as many cards as he or she had before.",
@@ -20154,7 +19822,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "276",
       "multiverseid": 4097,
       "name": "Word of Blasting",
       "originalText": "Bury target Wall. Word of Blasting deals to that Wall's controller an amount of damage equal to the Wall's total casting cost.",
@@ -20199,7 +19866,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}{W}",
-      "mciNumber": "277",
       "multiverseid": 4098,
       "name": "Abbey Gargoyles",
       "originalText": "Flying, protection from red",
@@ -20248,7 +19914,6 @@
         }
       ],
       "manaCost": "{6}{W}{W}",
-      "mciNumber": "278",
       "multiverseid": 4099,
       "name": "Akron Legionnaire",
       "originalText": "Except for Legionnaires and artifact creatures, creatures you control cannot attack.",
@@ -20306,7 +19971,6 @@
         }
       ],
       "manaCost": "{X}{W}{W}",
-      "mciNumber": "279",
       "multiverseid": 4100,
       "name": "Alabaster Potion",
       "originalText": "Target player gains X life, or prevent X damage to any creature or player.",
@@ -20353,7 +20017,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "280",
       "multiverseid": 4101,
       "name": "Angry Mob",
       "originalText": "Trample\nDuring your turn, Angry Mob has power and toughness each equal to 2 plus the number of swamps all opponents control. During other turns, Angry Mob has power and toughness each equal to 2.",
@@ -20404,7 +20067,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "281",
       "multiverseid": 4102,
       "name": "Animate Wall",
       "originalText": "Play only on a Wall.\nEnchanted creature can attack as though it were not a Wall.",
@@ -20470,7 +20132,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "282",
       "multiverseid": 4103,
       "name": "Arenson's Aura",
       "originalText": "{W}, Sacrifice an enchantment: Destroy target enchantment.\n{3}{U}{U}: Counter target enchantment spell. Play this ability as an interrupt.",
@@ -20513,7 +20174,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "283",
       "multiverseid": 4104,
       "name": "Armageddon",
       "originalText": "Destroy all lands.",
@@ -20579,7 +20239,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "284",
       "multiverseid": 4105,
       "name": "Armor of Faith",
       "originalText": "Enchanted creature gets +1/+1.\n{W}: Enchanted creature gets +0/+1 until end of turn.",
@@ -20627,7 +20286,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "285",
       "multiverseid": 4106,
       "name": "Aysen Bureaucrats",
       "originalText": "{T}: Tap target creature with power 2 or less.",
@@ -20684,7 +20342,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "286",
       "multiverseid": 4107,
       "name": "Benalish Hero",
       "originalText": "Banding",
@@ -20763,7 +20420,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "287",
       "multiverseid": 4108,
       "name": "Blessed Wine",
       "originalText": "Gain 1 life.\nDraw a card at the beginning of the next turn.",
@@ -20815,7 +20471,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "288",
       "multiverseid": 4109,
       "name": "Blinking Spirit",
       "originalText": "{0}: Return Blinking Spirit to owner's hand.",
@@ -20866,7 +20521,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "289",
       "multiverseid": 4110,
       "name": "Brainwash",
       "originalText": "Enchanted creature cannot attack this turn unless its controller pays an additional {3}.",
@@ -20931,7 +20585,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "290",
       "multiverseid": 4111,
       "name": "Caribou Range",
       "originalText": "Play only on a land you control.\n{W}{W}, Tap enchanted land: Put a Caribou token into play. Treat this token as a 0/1 white creature.\nSacrifice a Caribou token: Gain 1 life.",
@@ -20985,7 +20638,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "291",
       "multiverseid": 4112,
       "name": "Castle",
       "originalText": "Each untapped creature you control gets +0/+2 unless it is attacking.",
@@ -21044,7 +20696,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "292",
       "multiverseid": 4113,
       "name": "Circle of Protection: Artifacts",
       "originalText": "{2}: Prevent all damage to you from an artifact source. Treat further damage from that source normally.",
@@ -21101,7 +20752,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "293",
       "multiverseid": 4114,
       "name": "Circle of Protection: Black",
       "originalText": "{1}: Prevent all damage to you from a black source. Treat further damage from that source normally.",
@@ -21179,7 +20829,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "294",
       "multiverseid": 4115,
       "name": "Circle of Protection: Blue",
       "originalText": "{1}: Prevent all damage to you from a blue source. Treat further damage from that source normally.",
@@ -21255,7 +20904,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "295",
       "multiverseid": 4116,
       "name": "Circle of Protection: Green",
       "originalText": "{1}: Prevent all damage to you from a green source. Treat further damage from that source normally.",
@@ -21331,7 +20979,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "296",
       "multiverseid": 4117,
       "name": "Circle of Protection: Red",
       "originalText": "{1}: Prevent all damage to you from a red source. Treat further damage from that source normally.",
@@ -21411,7 +21058,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "297",
       "multiverseid": 4118,
       "name": "Circle of Protection: White",
       "originalText": "{1}: Prevent all damage to you from a white source. Treat further damage from that source normally.",
@@ -21475,7 +21121,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "298",
       "multiverseid": 4119,
       "name": "Crusade",
       "originalText": "All white creatures get +1/+1.",
@@ -21529,7 +21174,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "299",
       "multiverseid": 4120,
       "name": "D'Avenant Archer",
       "originalText": "{T}: D'Avenant Archer deals 1 damage to target attacking or blocking creature.",
@@ -21583,7 +21227,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "300",
       "multiverseid": 4121,
       "name": "Death Speakers",
       "originalText": "Protection from black",
@@ -21637,7 +21280,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "301",
       "multiverseid": 4122,
       "name": "Death Ward",
       "originalText": "Regenerate target creature.",
@@ -21716,7 +21358,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "302",
       "multiverseid": 4123,
       "name": "Disenchant",
       "originalText": "Destroy target artifact or enchantment.",
@@ -21805,7 +21446,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "303",
       "multiverseid": 4124,
       "name": "Divine Offering",
       "originalText": "Destroy target artifact. Gain an amount of life equal to that artifact's total casting cost.",
@@ -21863,7 +21503,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "304",
       "multiverseid": 4125,
       "name": "Divine Transformation",
       "originalText": "Enchanted creature gets +3/+3.",
@@ -21913,7 +21552,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "305",
       "multiverseid": 4126,
       "name": "Dust to Dust",
       "originalText": "Remove two target artifacts from the game.",
@@ -21964,7 +21602,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "306",
       "multiverseid": 4127,
       "name": "Eye for an Eye",
       "originalText": "Play only when a creature, spell, or effect assigns damage to you. Eye for an Eye deals an equal amount of damage to that source's controller.",
@@ -22020,7 +21657,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "307",
       "multiverseid": 4128,
       "name": "Greater Realm of Preservation",
       "originalText": "{1}{W}: Prevent all damage to you from a black or red source. Treat further damage from that source normally.",
@@ -22069,7 +21705,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "308",
       "multiverseid": 4129,
       "name": "Heal",
       "originalText": "Prevent 1 damage to any creature or player.\nDraw a card at the beginning of the next turn.",
@@ -22131,7 +21766,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "309",
       "multiverseid": 4130,
       "name": "Healing Salve",
       "originalText": "Target player gains 3 life, or prevent up to 3 damage to any creature or player.",
@@ -22196,7 +21830,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "310",
       "multiverseid": 4131,
       "name": "Hipparion",
       "originalText": "Hipparion cannot be assigned to block any creature with power 3 or greater unless you pay an additional {1}.",
@@ -22248,7 +21881,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "311",
       "multiverseid": 4132,
       "name": "Holy Strength",
       "originalText": "Enchanted creature gets +1/+2.",
@@ -22307,7 +21939,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "312",
       "multiverseid": 4133,
       "name": "Icatian Phalanx",
       "originalText": "Banding",
@@ -22376,7 +22007,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "313",
       "multiverseid": 4134,
       "name": "Icatian Scout",
       "originalText": "{1}, {T}: Target creature gains first strike until end of turn.",
@@ -22428,7 +22058,6 @@
         }
       ],
       "manaCost": "{5}{W}",
-      "mciNumber": "314",
       "multiverseid": 4135,
       "name": "Icatian Town",
       "originalText": "Put four Citizen tokens into play. Treat these tokens as 1/1 white creatures.",
@@ -22473,7 +22102,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "315",
       "multiverseid": 4136,
       "name": "Island Sanctuary",
       "originalText": "Skip drawing a card: Until the beginning of your next turn, only creatures with flying or islandwalk can attack you. Use this ability only during your draw phase and only once each turn.",
@@ -22538,7 +22166,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "316",
       "multiverseid": 4137,
       "name": "Ivory Guardians",
       "originalText": "Protection from red\nAs long as any opponent controls any red cards in play, all Guardians get +1/+1.",
@@ -22607,7 +22234,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "317",
       "multiverseid": 4138,
       "name": "Justice",
       "originalText": "During your upkeep, pay {W}{W} or bury Justice.\nWhenever any red creature or spell assigns damage, Justice deals an equal amount of damage to that creature's or spell's controller.",
@@ -22664,7 +22290,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "318",
       "multiverseid": 4139,
       "name": "Karma",
       "originalText": "During each player's upkeep, Karma deals to that player an amount of damage equal to the number of swamps he or she controls.",
@@ -22721,7 +22346,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "319",
       "multiverseid": 4140,
       "name": "Kismet",
       "originalText": "Artifacts, creatures, and lands target player controls come into play tapped.",
@@ -22790,7 +22414,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "320",
       "multiverseid": 4141,
       "name": "Kjeldoran Royal Guard",
       "originalText": "{T}: Redirect from you to Kjeldoran Royal Guard all combat damage dealt by unblocked creatures this turn.",
@@ -22853,7 +22476,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "321",
       "multiverseid": 4142,
       "name": "Kjeldoran Skycaptain",
       "originalText": "Banding, flying, first strike",
@@ -22922,7 +22544,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "322",
       "multiverseid": 4143,
       "name": "Mesa Falcon",
       "originalText": "Flying\n{1}{W}: +0/+1 until end of turn",
@@ -22972,7 +22593,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "323",
       "multiverseid": 4144,
       "name": "Mesa Pegasus",
       "originalText": "Banding, flying",
@@ -23052,7 +22672,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "324",
       "multiverseid": 4145,
       "name": "Order of the Sacred Torch",
       "originalText": "{T}, Pay 1 life: Counter target black spell. Play this ability as an interrupt.",
@@ -23108,7 +22727,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "325",
       "multiverseid": 4146,
       "name": "Order of the White Shield",
       "originalText": "Protection from black\n{W}: First strike until end of turn\n{W}{W}: +1/+0 until end of turn",
@@ -23160,7 +22778,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "326",
       "multiverseid": 4147,
       "name": "Pearled Unicorn",
       "originalType": "Summon — Unicorn",
@@ -23214,7 +22831,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}{W}",
-      "mciNumber": "327",
       "multiverseid": 4148,
       "name": "Personal Incarnation",
       "originalText": "Personal Incarnation's owner may redirect any amount of damage from it to himself or herself.\nIf Personal Incarnation is put into any graveyard from play, its owner loses half his or her life, rounded up.",
@@ -23285,7 +22901,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "328",
       "multiverseid": 4149,
       "name": "Pikemen",
       "originalText": "Banding, first strike",
@@ -23357,7 +22972,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "329",
       "multiverseid": 4150,
       "name": "Prismatic Ward",
       "originalText": "When you play Prismatic Ward, choose a color.\nAll damage dealt to enchanted creature by sources of the chosen color is reduced to 0.",
@@ -23404,7 +23018,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "330",
       "multiverseid": 4151,
       "name": "Repentant Blacksmith",
       "originalText": "Protection from red",
@@ -23457,7 +23070,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "331",
       "multiverseid": 4152,
       "name": "Reverse Damage",
       "originalText": "All damage dealt to you so far this turn from one source is retroactively added to your life total instead of subtracted. Treat further damage from that source normally.",
@@ -23521,7 +23133,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "332",
       "multiverseid": 4153,
       "name": "Righteousness",
       "originalText": "Target blocking creature gets +7/+7 until end of turn.",
@@ -23585,7 +23196,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "333",
       "multiverseid": 4154,
       "name": "Sacred Boon",
       "originalText": "Prevent up to 3 damage to target creature. At end of turn, put a +0/+1 counter on that creature for each 1 damage prevented in this way.",
@@ -23634,7 +23244,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "334",
       "multiverseid": 4155,
       "name": "Samite Healer",
       "originalText": "{T}: Prevent 1 damage to any creature or player.",
@@ -23700,7 +23309,6 @@
         }
       ],
       "manaCost": "{6}{W}",
-      "mciNumber": "335",
       "multiverseid": 4156,
       "name": "Seraph",
       "originalText": "Flying\nWhenever any creature Seraph damaged this turn is put into any graveyard, put that creature into play under your control at end of turn. Bury the creature if you lose control of Seraph.",
@@ -23771,7 +23379,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "336",
       "multiverseid": 4157,
       "name": "Serra Bestiary",
       "originalText": "During your upkeep, pay {W}{W} or bury Serra Bestiary.\nEnchanted creature cannot attack, block, or play any ability that includes {T} in its activation cost.",
@@ -23829,7 +23436,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "337",
       "multiverseid": 4158,
       "name": "Serra Paladin",
       "originalText": "{T}: Prevent 1 damage to any creature or player.\n{1}{W}{W}, {T}: Attacking this turn does not cause target creature to tap.",
@@ -23883,7 +23489,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "338",
       "multiverseid": 4159,
       "name": "Shield Bearer",
       "originalText": "Banding",
@@ -23952,7 +23557,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "339",
       "multiverseid": 4160,
       "name": "Shield Wall",
       "originalText": "All creatures you control get +0/+2 until end of turn.",
@@ -24002,7 +23606,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "340",
       "multiverseid": 4161,
       "name": "Spirit Link",
       "originalText": "For each 1 damage enchanted creature deals, gain 1 life.",
@@ -24065,7 +23668,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "341",
       "multiverseid": 4162,
       "name": "Truce",
       "originalText": "Each player may draw up to two cards. For each card less than two any player draws, that player gains 2 life.",
@@ -24113,7 +23715,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "342",
       "multiverseid": 4163,
       "name": "Tundra Wolves",
       "originalText": "First strike",
@@ -24170,7 +23771,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "343",
       "multiverseid": 4164,
       "name": "Wall of Swords",
       "originalText": "Flying",
@@ -24239,7 +23839,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "344",
       "multiverseid": 4165,
       "name": "White Knight",
       "originalText": "First strike, protection from black",
@@ -24305,7 +23904,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "345",
       "multiverseid": 4166,
       "name": "Wrath of God",
       "originalText": "Bury all creatures.",
@@ -24586,7 +24184,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -24852,7 +24453,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25118,7 +24722,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25384,7 +24991,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25650,7 +25260,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25916,7 +25529,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26182,7 +25798,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26448,7 +26067,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26499,7 +26121,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "410",
       "multiverseid": 4175,
       "name": "Adarkar Wastes",
       "originalText": "{T}: Add one colorless mana to your mana pool.\n{T}: Add {W} or {U} to your mana pool. Adarkar Wastes deals 1 damage to you.",
@@ -26542,7 +26163,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "411",
       "multiverseid": 4176,
       "name": "Bottomless Vault",
       "originalText": "Bottomless Vault comes into play tapped.\nYou may choose not to untap Bottomless Vault during your untap phase and put a storage counter on it instead.\n{T}, Remove X storage counters from Bottomless Vault: Add an amount of {B} equal to X to your mana pool.",
@@ -26612,7 +26232,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "412",
       "multiverseid": 4177,
       "name": "Brushland",
       "originalText": "{T}: Add one colorless mana to your mana pool.\n{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.",
@@ -26657,7 +26276,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "413",
       "multiverseid": 4178,
       "name": "City of Brass",
       "originalText": "Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color to your mana pool.",
@@ -26718,7 +26336,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "414",
       "multiverseid": 4179,
       "name": "Dwarven Hold",
       "originalText": "Dwarven Hold comes into play tapped.\nYou may choose not to untap Dwarven Hold during your untap phase and put a storage counter on it instead.\n{T}, Remove X storage counters from Dwarven Hold: Add an amount of {R} equal to X to your mana pool.",
@@ -26779,7 +26396,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "415",
       "multiverseid": 4180,
       "name": "Dwarven Ruins",
       "originalText": "Dwarven Ruins comes into play tapped.\n{T}: Add {R} to your mana pool.\n{T}, Sacrifice Dwarven Ruins: Add {R}{R} to your mana pool.",
@@ -26821,7 +26437,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "416",
       "multiverseid": 4181,
       "name": "Ebon Stronghold",
       "originalText": "Ebon Stronghold comes into play tapped.\n{T}: Add {B} to your mana pool.\n{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.",
@@ -26864,7 +26479,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "421",
       "multiverseid": 4182,
       "name": "Havenwood Battleground",
       "originalText": "Havenwood Battleground comes into play tapped.\n{T}: Add {G} to your mana pool.\n{T}, Sacrifice Havenwood Battleground: Add {G}{G} to your mana pool.",
@@ -26908,7 +26522,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "422",
       "multiverseid": 4183,
       "name": "Hollow Trees",
       "originalText": "Hollow Trees comes into play tapped.\nYou may choose not to untap Hollow Trees during your untap phase and put a storage counter on it instead.\n{T}, Remove X storage counters from Hollow Trees: Add an amount of {G} equal to X to your mana pool.",
@@ -26969,7 +26582,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "423",
       "multiverseid": 4184,
       "name": "Icatian Store",
       "originalText": "Icatian Store comes into play tapped.\nYou may choose not to untap Icatian Store during your untap phase and put a storage counter on it instead.\n{T}, Remove X storage counters from Icatian Store: Add an amount of {W} equal to X to your mana pool.",
@@ -27031,7 +26643,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "424",
       "multiverseid": 4185,
       "name": "Ice Floe",
       "originalText": "You may choose not to untap Ice Floe during your untap phase.\n{T}: Tap target creature without flying that is attacking you. As long as Ice Floe remains tapped, that creature does not untap during its controller's untap phase.",
@@ -27106,7 +26717,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "429",
       "multiverseid": 4186,
       "name": "Karplusan Forest",
       "originalText": "{T}: Add one colorless mana to your mana pool.\n{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.",
@@ -27151,7 +26761,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "438",
       "multiverseid": 4187,
       "name": "Ruins of Trokair",
       "originalText": "Ruins of Trokair comes into play tapped.\n{T}: Add {W} to your mana pool.\n{T}, Sacrifice Ruins of Trokair: Add {W}{W} to your mana pool.",
@@ -27192,7 +26801,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "439",
       "multiverseid": 4188,
       "name": "Sand Silos",
       "originalText": "Sand Silos comes into play tapped.\nYou may choose not to untap Sand Silos during your untap phase and put a storage counter on it instead.\n{T}, Remove X storage counters from Sand Silos: Add an amount of {U} equal to X to your mana pool.",
@@ -27262,7 +26870,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "440",
       "multiverseid": 4189,
       "name": "Sulfurous Springs",
       "originalText": "{T}: Add one colorless mana to your mana pool.\n{T}: Add {B} or {R} to your mana pool. Sulfurous Springs deals 1 damage to you.",
@@ -27306,7 +26913,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "441",
       "multiverseid": 4190,
       "name": "Svyelunite Temple",
       "originalText": "Svyelunite Temple comes into play tapped.\n{T}: Add {U} to your mana pool.\n{T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.",
@@ -27357,7 +26963,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "446",
       "multiverseid": 4191,
       "name": "Underground River",
       "originalText": "{T}: Add one colorless mana to your mana pool.\n{T}: Add {U} or {B} to your mana pool. Underground River deals 1 damage to you.",
@@ -27404,7 +27009,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "447",
       "multiverseid": 4192,
       "name": "Urza's Mine",
       "originalText": "{T}: Add one colorless mana to your mana pool. If you control Urza's Mine, Urza's Power Plant, and Urza's Tower, add two colorless mana to your mana pool instead of one.",
@@ -27459,7 +27063,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "448",
       "multiverseid": 4193,
       "name": "Urza's Power Plant",
       "originalText": "{T}: Add one colorless mana to your mana pool. If you control Urza's Mine, Urza's Power Plant, and Urza's Tower, add two colorless mana to your mana pool instead of one.",
@@ -27514,7 +27117,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "449",
       "multiverseid": 4194,
       "name": "Urza's Tower",
       "originalText": "{T}: Add one colorless mana to your mana pool. If you control Urza's Mine, Urza's Power Plant, and Urza's Tower, add three colorless mana to your mana pool instead of one.",
@@ -27788,7 +27390,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28057,7 +27662,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28326,7 +27934,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28595,7 +28206,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28858,7 +28472,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29121,7 +28738,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29384,7 +29004,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29647,7 +29270,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29910,7 +29536,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30173,7 +29802,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30436,7 +30068,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30699,7 +30334,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

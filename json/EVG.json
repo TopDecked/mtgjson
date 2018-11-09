@@ -39,7 +39,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "1",
       "multiverseid": 157950,
       "name": "Ambush Commander",
       "number": "1",
@@ -103,7 +102,6 @@
         }
       ],
       "manaCost": "{5}{G}{G}",
-      "mciNumber": "2",
       "multiverseid": 158100,
       "name": "Allosaurus Rider",
       "number": "2",
@@ -182,7 +180,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "3",
       "multiverseid": 158120,
       "name": "Elvish Eulogist",
       "number": "3",
@@ -248,7 +245,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "4",
       "multiverseid": 158121,
       "name": "Elvish Harbinger",
       "number": "4",
@@ -312,7 +308,6 @@
         }
       ],
       "manaCost": "{G}{G}",
-      "mciNumber": "5",
       "multiverseid": 158136,
       "name": "Elvish Warrior",
       "number": "5",
@@ -368,7 +363,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "6",
       "multiverseid": 158117,
       "name": "Gempalm Strider",
       "number": "6",
@@ -441,7 +435,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "7",
       "multiverseid": 158113,
       "name": "Heedless One",
       "number": "7",
@@ -501,7 +494,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "8",
       "multiverseid": 158123,
       "name": "Imperious Perfect",
       "number": "8",
@@ -566,7 +558,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "9",
       "multiverseid": 158112,
       "name": "Llanowar Elves",
       "number": "9",
@@ -600,7 +591,9 @@
         "DD3_EVG",
         "EMA",
         "CMA",
-        "DOM"
+        "DOM",
+        "M19",
+        "GNT"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -650,7 +643,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "10",
       "multiverseid": 158125,
       "name": "Lys Alana Huntmaster",
       "number": "10",
@@ -716,7 +708,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "11",
       "multiverseid": 159324,
       "name": "Stonewood Invoker",
       "number": "11",
@@ -775,7 +766,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "12",
       "multiverseid": 159035,
       "name": "Sylvan Messenger",
       "number": "12",
@@ -831,7 +821,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "13",
       "multiverseid": 158118,
       "name": "Timberwatch Elf",
       "number": "13",
@@ -895,7 +884,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "14",
       "multiverseid": 159029,
       "name": "Voice of the Woods",
       "number": "14",
@@ -960,7 +948,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "15",
       "multiverseid": 158109,
       "name": "Wellwisher",
       "number": "15",
@@ -1017,7 +1004,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "16",
       "multiverseid": 158110,
       "name": "Wirewood Herald",
       "number": "16",
@@ -1072,7 +1058,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "17",
       "multiverseid": 159322,
       "name": "Wirewood Symbiote",
       "number": "17",
@@ -1132,7 +1117,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "18",
       "multiverseid": 159038,
       "name": "Wood Elves",
       "number": "18",
@@ -1207,7 +1191,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "19",
       "multiverseid": 158129,
       "name": "Wren's Run Vanquisher",
       "number": "19",
@@ -1268,7 +1251,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "20",
       "multiverseid": 159030,
       "name": "Elvish Promenade",
       "number": "20",
@@ -1330,7 +1312,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "21",
       "multiverseid": 159037,
       "name": "Giant Growth",
       "number": "21",
@@ -1418,7 +1399,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "22",
       "multiverseid": 159033,
       "name": "Harmonize",
       "number": "22",
@@ -1488,7 +1468,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "23",
       "multiverseid": 159036,
       "name": "Wildsize",
       "number": "23",
@@ -1537,7 +1516,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "24",
       "multiverseid": 159032,
       "name": "Moonglove Extract",
       "number": "24",
@@ -1587,7 +1565,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "25",
       "multiverseid": 159501,
       "name": "Slate of Ancestry",
       "number": "25",
@@ -1633,7 +1610,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "26",
       "multiverseid": 158111,
       "name": "Wirewood Lodge",
       "number": "26",
@@ -1678,7 +1654,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "27",
       "multiverseid": 159325,
       "name": "Tranquil Thicket",
       "number": "27",
@@ -1958,7 +1933,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2225,7 +2203,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2492,7 +2473,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2759,7 +2743,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2818,7 +2805,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "32",
       "multiverseid": 157926,
       "name": "Siege-Gang Commander",
       "number": "32",
@@ -2832,7 +2818,8 @@
         "M10",
         "DD3_EVG",
         "EMA",
-        "DOM"
+        "DOM",
+        "GNT"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -2887,7 +2874,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "33",
       "multiverseid": 159328,
       "name": "Akki Coalflinger",
       "number": "33",
@@ -2943,7 +2929,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}{R}",
-      "mciNumber": "34",
       "multiverseid": 157928,
       "name": "Clickslither",
       "number": "34",
@@ -3003,7 +2988,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "35",
       "multiverseid": 157932,
       "name": "Emberwilde Augur",
       "number": "35",
@@ -3063,7 +3047,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "36",
       "multiverseid": 159053,
       "name": "Flamewave Invoker",
       "number": "36",
@@ -3122,7 +3105,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "37",
       "multiverseid": 157929,
       "name": "Gempalm Incinerator",
       "number": "37",
@@ -3204,7 +3186,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "38",
       "multiverseid": 157922,
       "name": "Goblin Cohort",
       "number": "38",
@@ -3260,7 +3241,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "39",
       "multiverseid": 157933,
       "name": "Goblin Matron",
       "number": "39",
@@ -3328,7 +3308,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "40",
       "multiverseid": 157937,
       "name": "Goblin Ringleader",
       "number": "40",
@@ -3386,7 +3365,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "41",
       "multiverseid": 159049,
       "name": "Goblin Sledder",
       "number": "41",
@@ -3445,7 +3423,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "42",
       "multiverseid": 157934,
       "name": "Goblin Warchief",
       "number": "42",
@@ -3515,7 +3492,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "43",
       "multiverseid": 157923,
       "name": "Ib Halfheart, Goblin Tactician",
       "number": "43",
@@ -3584,7 +3560,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "44",
       "multiverseid": 157925,
       "name": "Mogg Fanatic",
       "number": "44",
@@ -3655,7 +3630,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "45",
       "multiverseid": 157924,
       "name": "Mogg War Marshal",
       "number": "45",
@@ -3717,7 +3691,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "46",
       "multiverseid": 157919,
       "name": "Mudbutton Torchrunner",
       "number": "46",
@@ -3781,7 +3754,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "47",
       "multiverseid": 159326,
       "name": "Raging Goblin",
       "number": "47",
@@ -3849,7 +3821,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "48",
       "multiverseid": 159050,
       "name": "Reckless One",
       "number": "48",
@@ -3905,7 +3876,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "49",
       "multiverseid": 157931,
       "name": "Skirk Drill Sergeant",
       "number": "49",
@@ -3961,7 +3931,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "50",
       "multiverseid": 157936,
       "name": "Skirk Fire Marshal",
       "number": "50",
@@ -4030,7 +3999,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "51",
       "multiverseid": 159051,
       "name": "Skirk Prospector",
       "number": "51",
@@ -4092,7 +4060,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "52",
       "multiverseid": 159055,
       "name": "Skirk Shaman",
       "number": "52",
@@ -4158,7 +4125,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "53",
       "multiverseid": 157920,
       "name": "Tar Pitcher",
       "number": "53",
@@ -4219,7 +4185,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "54",
       "multiverseid": 157915,
       "name": "Boggart Shenanigans",
       "number": "54",
@@ -4277,7 +4242,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "55",
       "multiverseid": 159054,
       "name": "Spitting Earth",
       "number": "55",
@@ -4338,7 +4302,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "56",
       "multiverseid": 157921,
       "name": "Tarfire",
       "number": "56",
@@ -4388,7 +4351,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "57",
       "multiverseid": 159327,
       "name": "Forgotten Cave",
       "number": "57",
@@ -4447,7 +4409,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "58",
       "multiverseid": 157935,
       "name": "Goblin Burrows",
       "number": "58",
@@ -4715,7 +4676,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4985,7 +4949,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -5255,7 +5222,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -5525,7 +5495,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

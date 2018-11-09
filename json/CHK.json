@@ -107,7 +107,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "1",
       "multiverseid": 50451,
       "name": "Blessed Breath",
       "number": "1",
@@ -216,7 +215,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "2a",
       "multiverseid": 78600,
       "name": "Bushi Tenderfoot",
       "names": [
@@ -314,7 +312,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "2b",
       "multiverseid": 78600,
       "name": "Kenzo the Hardhearted",
       "names": [
@@ -416,7 +413,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "3",
       "multiverseid": 50233,
       "name": "Cage of Hands",
       "number": "3",
@@ -511,7 +507,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "4",
       "multiverseid": 77140,
       "name": "Call to Glory",
       "number": "4",
@@ -599,7 +594,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "5",
       "multiverseid": 80292,
       "name": "Candles' Glow",
       "number": "5",
@@ -709,7 +703,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "6",
       "multiverseid": 80500,
       "name": "Cleanfall",
       "number": "6",
@@ -801,7 +794,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "7",
       "multiverseid": 50440,
       "name": "Devoted Retainer",
       "number": "7",
@@ -896,7 +888,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "8",
       "multiverseid": 50296,
       "name": "Eight-and-a-Half-Tails",
       "number": "8",
@@ -1001,7 +992,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "9",
       "multiverseid": 80526,
       "name": "Ethereal Haze",
       "number": "9",
@@ -1093,7 +1083,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "10",
       "multiverseid": 75328,
       "name": "Ghostly Prison",
       "number": "10",
@@ -1197,7 +1186,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "11",
       "multiverseid": 50343,
       "name": "Harsh Deceiver",
       "number": "11",
@@ -1290,7 +1278,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "12",
       "multiverseid": 79222,
       "name": "Hikari, Twilight Guardian",
       "number": "12",
@@ -1398,7 +1385,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "13",
       "multiverseid": 79144,
       "name": "Hold the Line",
       "number": "13",
@@ -1488,7 +1474,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "14",
       "multiverseid": 79159,
       "name": "Honden of Cleansing Fire",
       "number": "14",
@@ -1584,7 +1569,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "15",
       "multiverseid": 79226,
       "name": "Horizon Seed",
       "number": "15",
@@ -1677,7 +1661,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "16",
       "multiverseid": 79145,
       "name": "Hundred-Talon Kami",
       "number": "16",
@@ -1771,7 +1754,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "17",
       "multiverseid": 50499,
       "name": "Indomitable Will",
       "number": "17",
@@ -1863,7 +1845,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "18",
       "multiverseid": 76636,
       "name": "Innocence Kami",
       "number": "18",
@@ -1957,7 +1938,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "19",
       "multiverseid": 79217,
       "name": "Isamaru, Hound of Konda",
       "number": "19",
@@ -2052,7 +2032,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "20",
       "multiverseid": 79105,
       "name": "Kabuto Moth",
       "number": "20",
@@ -2146,7 +2125,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "21",
       "multiverseid": 50349,
       "name": "Kami of Ancient Law",
       "number": "21",
@@ -2241,7 +2219,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "22",
       "multiverseid": 79236,
       "name": "Kami of Old Stone",
       "number": "22",
@@ -2334,7 +2311,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "23",
       "multiverseid": 77136,
       "name": "Kami of the Painted Road",
       "number": "23",
@@ -2427,7 +2403,6 @@
         }
       ],
       "manaCost": "{5}{W}",
-      "mciNumber": "24",
       "multiverseid": 50367,
       "name": "Kami of the Palace Fields",
       "number": "24",
@@ -2521,7 +2496,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "25",
       "multiverseid": 50441,
       "name": "Kitsune Blademaster",
       "number": "25",
@@ -2616,7 +2590,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "26",
       "multiverseid": 76652,
       "name": "Kitsune Diviner",
       "number": "26",
@@ -2710,7 +2683,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "27",
       "multiverseid": 50437,
       "name": "Kitsune Healer",
       "number": "27",
@@ -2804,7 +2776,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "28a",
       "multiverseid": 78695,
       "name": "Kitsune Mystic",
       "names": [
@@ -2902,7 +2873,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "28b",
       "multiverseid": 78695,
       "name": "Autumn-Tail, Kitsune Sage",
       "names": [
@@ -3004,7 +2974,6 @@
         }
       ],
       "manaCost": "{1}{W}{W}",
-      "mciNumber": "29",
       "multiverseid": 50412,
       "name": "Kitsune Riftwalker",
       "number": "29",
@@ -3098,7 +3067,6 @@
         }
       ],
       "manaCost": "{5}{W}{W}",
-      "mciNumber": "30",
       "multiverseid": 78594,
       "name": "Konda, Lord of Eiganjo",
       "number": "30",
@@ -3195,7 +3163,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "31",
       "multiverseid": 79201,
       "name": "Konda's Hatamoto",
       "number": "31",
@@ -3290,7 +3257,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "32",
       "multiverseid": 75319,
       "name": "Lantern Kami",
       "number": "32",
@@ -3384,7 +3350,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "33",
       "multiverseid": 79215,
       "name": "Masako the Humorless",
       "number": "33",
@@ -3488,7 +3453,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "34",
       "multiverseid": 50385,
       "name": "Mothrider Samurai",
       "number": "34",
@@ -3582,7 +3546,6 @@
         }
       ],
       "manaCost": "{5}{W}{W}{W}",
-      "mciNumber": "35",
       "multiverseid": 78681,
       "name": "Myojin of Cleansing Fire",
       "number": "35",
@@ -3684,7 +3647,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "36",
       "multiverseid": 79136,
       "name": "Nagao, Bound by Honor",
       "number": "36",
@@ -3782,7 +3744,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "37",
       "multiverseid": 50256,
       "name": "Otherworldly Journey",
       "number": "37",
@@ -3891,7 +3852,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "38",
       "multiverseid": 79256,
       "name": "Pious Kitsune",
       "number": "38",
@@ -3986,7 +3946,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "39",
       "multiverseid": 50313,
       "name": "Quiet Purity",
       "number": "39",
@@ -4078,7 +4037,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "40",
       "multiverseid": 50405,
       "name": "Reciprocate",
       "number": "40",
@@ -4169,7 +4127,6 @@
         }
       ],
       "manaCost": "{6}{W}{W}",
-      "mciNumber": "41",
       "multiverseid": 79125,
       "name": "Reverse the Sands",
       "number": "41",
@@ -4269,7 +4226,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "42",
       "multiverseid": 50408,
       "name": "Samurai Enforcers",
       "number": "42",
@@ -4363,7 +4319,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "43",
       "multiverseid": 75381,
       "name": "Samurai of the Pale Curtain",
       "number": "43",
@@ -4457,7 +4412,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "44",
       "multiverseid": 78683,
       "name": "Sensei Golden-Tail",
       "number": "44",
@@ -4565,7 +4519,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "45",
       "multiverseid": 80510,
       "name": "Silent-Chant Zubera",
       "number": "45",
@@ -4659,7 +4612,6 @@
         }
       ],
       "manaCost": "{5}{W}",
-      "mciNumber": "46",
       "multiverseid": 75302,
       "name": "Takeno, Samurai General",
       "number": "46",
@@ -4757,7 +4709,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "47",
       "multiverseid": 80285,
       "name": "Terashi's Cry",
       "number": "47",
@@ -4849,7 +4800,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "48",
       "multiverseid": 79199,
       "name": "Vassal's Duty",
       "number": "48",
@@ -4938,7 +4888,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "49",
       "multiverseid": 50414,
       "name": "Vigilance",
       "number": "49",
@@ -5029,7 +4978,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "50",
       "multiverseid": 78590,
       "name": "Yosei, the Morning Star",
       "number": "50",
@@ -5151,7 +5099,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "51",
       "multiverseid": 75353,
       "name": "Aura of Dominion",
       "number": "51",
@@ -5243,7 +5190,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}{U}",
-      "mciNumber": "52",
       "multiverseid": 78697,
       "name": "Azami, Lady of Scrolls",
       "number": "52",
@@ -5343,7 +5289,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "53",
       "multiverseid": 78190,
       "name": "Callous Deceiver",
       "number": "53",
@@ -5436,7 +5381,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "54",
       "multiverseid": 80255,
       "name": "Consuming Vortex",
       "number": "54",
@@ -5546,7 +5490,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "55",
       "multiverseid": 50219,
       "name": "Counsel of the Soratami",
       "number": "55",
@@ -5637,7 +5580,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "56",
       "multiverseid": 79229,
       "name": "Cut the Tethers",
       "number": "56",
@@ -5725,7 +5667,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "57",
       "multiverseid": 80284,
       "name": "Dampen Thought",
       "number": "57",
@@ -5836,7 +5777,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "58",
       "multiverseid": 80243,
       "name": "Eerie Procession",
       "number": "58",
@@ -5928,7 +5868,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "59",
       "multiverseid": 79155,
       "name": "Eye of Nowhere",
       "number": "59",
@@ -6020,7 +5959,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "60",
       "multiverseid": 50272,
       "name": "Field of Reality",
       "number": "60",
@@ -6112,7 +6050,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "61",
       "multiverseid": 80507,
       "name": "Floating-Dream Zubera",
       "number": "61",
@@ -6206,7 +6143,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "62",
       "multiverseid": 79090,
       "name": "Gifts Ungiven",
       "number": "62",
@@ -6304,7 +6240,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "63",
       "multiverseid": 79230,
       "name": "Graceful Adept",
       "number": "63",
@@ -6405,7 +6340,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "64",
       "multiverseid": 79194,
       "name": "Guardian of Solitude",
       "number": "64",
@@ -6499,7 +6433,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "65",
       "multiverseid": 50426,
       "name": "Hinder",
       "number": "65",
@@ -6589,7 +6522,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "66",
       "multiverseid": 50474,
       "name": "Hisoka, Minamo Sensei",
       "number": "66",
@@ -6687,7 +6619,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "67",
       "multiverseid": 50439,
       "name": "Hisoka's Defiance",
       "number": "67",
@@ -6775,7 +6706,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "68",
       "multiverseid": 79149,
       "name": "Hisoka's Guard",
       "number": "68",
@@ -6870,7 +6800,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "69",
       "multiverseid": 79176,
       "name": "Honden of Seeing Winds",
       "number": "69",
@@ -6965,7 +6894,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "70a",
       "multiverseid": 78686,
       "name": "Jushi Apprentice",
       "names": [
@@ -7063,7 +6991,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "70b",
       "multiverseid": 78686,
       "name": "Tomoya the Revealer",
       "names": [
@@ -7165,7 +7092,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "71",
       "multiverseid": 50228,
       "name": "Kami of Twisted Reflection",
       "number": "71",
@@ -7258,7 +7184,6 @@
         }
       ],
       "manaCost": "{5}{U}",
-      "mciNumber": "72",
       "multiverseid": 75286,
       "name": "Keiga, the Tide Star",
       "number": "72",
@@ -7363,7 +7288,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "73",
       "multiverseid": 50320,
       "name": "Lifted by Clouds",
       "number": "73",
@@ -7473,7 +7397,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "74",
       "multiverseid": 75268,
       "name": "Meloku the Clouded Mirror",
       "number": "74",
@@ -7571,7 +7494,6 @@
         }
       ],
       "manaCost": "{7}{U}{U}{U}",
-      "mciNumber": "75",
       "multiverseid": 78608,
       "name": "Myojin of Seeing Winds",
       "number": "75",
@@ -7673,7 +7595,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "76",
       "multiverseid": 79188,
       "name": "Mystic Restraints",
       "number": "76",
@@ -7765,7 +7686,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "77",
       "multiverseid": 80291,
       "name": "Part the Veil",
       "number": "77",
@@ -7856,7 +7776,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "78",
       "multiverseid": 78690,
       "name": "Peer Through Depths",
       "number": "78",
@@ -7955,7 +7874,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "79",
       "multiverseid": 50254,
       "name": "Petals of Insight",
       "number": "79",
@@ -8053,7 +7971,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "80",
       "multiverseid": 80242,
       "name": "Psychic Puppetry",
       "number": "80",
@@ -8163,7 +8080,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "81",
       "multiverseid": 79247,
       "name": "Reach Through Mists",
       "number": "81",
@@ -8256,7 +8172,6 @@
         }
       ],
       "manaCost": "{5}{U}",
-      "mciNumber": "82",
       "multiverseid": 79863,
       "name": "Reweave",
       "number": "82",
@@ -8378,7 +8293,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "83",
       "multiverseid": 78586,
       "name": "River Kaijin",
       "number": "83",
@@ -8469,7 +8383,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "84",
       "multiverseid": 50459,
       "name": "Sift Through Sands",
       "number": "84",
@@ -8562,7 +8475,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "85",
       "multiverseid": 50442,
       "name": "Sire of the Storm",
       "number": "85",
@@ -8656,7 +8568,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "86",
       "multiverseid": 50301,
       "name": "Soratami Cloudskater",
       "number": "86",
@@ -8750,7 +8661,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "87",
       "multiverseid": 80414,
       "name": "Soratami Mirror-Guard",
       "number": "87",
@@ -8845,7 +8755,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "88",
       "multiverseid": 80410,
       "name": "Soratami Mirror-Mage",
       "number": "88",
@@ -8939,7 +8848,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "89",
       "multiverseid": 80413,
       "name": "Soratami Rainshaper",
       "number": "89",
@@ -9034,7 +8942,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "90",
       "multiverseid": 80417,
       "name": "Soratami Savant",
       "number": "90",
@@ -9129,7 +9036,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "91",
       "multiverseid": 80415,
       "name": "Soratami Seer",
       "number": "91",
@@ -9224,7 +9130,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "92",
       "multiverseid": 80290,
       "name": "Squelch",
       "number": "92",
@@ -9322,7 +9227,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "93a",
       "multiverseid": 78691,
       "name": "Student of Elements",
       "names": [
@@ -9420,7 +9324,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "93b",
       "multiverseid": 78691,
       "name": "Tobita, Master of Winds",
       "names": [
@@ -9521,7 +9424,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "94",
       "multiverseid": 80276,
       "name": "Swirl the Mists",
       "number": "94",
@@ -9620,7 +9522,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "95",
       "multiverseid": 75285,
       "name": "Teller of Tales",
       "number": "95",
@@ -9720,7 +9621,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "96",
       "multiverseid": 50433,
       "name": "Thoughtbind",
       "number": "96",
@@ -9808,7 +9708,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "97",
       "multiverseid": 78184,
       "name": "Time Stop",
       "number": "97",
@@ -9916,7 +9815,6 @@
         }
       ],
       "manaCost": "{6}{U}{U}{U}",
-      "mciNumber": "98",
       "multiverseid": 78693,
       "name": "The Unspeakable",
       "number": "98",
@@ -10013,7 +9911,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "99",
       "multiverseid": 78855,
       "name": "Uyo, Silent Prophet",
       "number": "99",
@@ -10118,7 +10015,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "100",
       "multiverseid": 50345,
       "name": "Wandering Ones",
       "number": "100",
@@ -10210,7 +10106,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "101",
       "multiverseid": 80509,
       "name": "Ashen-Skin Zubera",
       "number": "101",
@@ -10309,7 +10204,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "102",
       "multiverseid": 50291,
       "name": "Befoul",
       "number": "102",
@@ -10405,7 +10299,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "103",
       "multiverseid": 79166,
       "name": "Blood Speaker",
       "number": "103",
@@ -10505,7 +10398,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "104",
       "multiverseid": 79113,
       "name": "Bloodthirsty Ogre",
       "number": "104",
@@ -10600,7 +10492,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "105",
       "multiverseid": 80281,
       "name": "Cranial Extraction",
       "number": "105",
@@ -10691,7 +10582,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "106",
       "multiverseid": 75258,
       "name": "Cruel Deceiver",
       "number": "106",
@@ -10785,7 +10675,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "107",
       "multiverseid": 75262,
       "name": "Cursed Ronin",
       "number": "107",
@@ -10880,7 +10769,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "108",
       "multiverseid": 79094,
       "name": "Dance of Shadows",
       "number": "108",
@@ -10972,7 +10860,6 @@
         }
       ],
       "manaCost": "{5}{B}",
-      "mciNumber": "109",
       "multiverseid": 80522,
       "name": "Deathcurse Ogre",
       "number": "109",
@@ -11066,7 +10953,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "110",
       "multiverseid": 79151,
       "name": "Devouring Greed",
       "number": "110",
@@ -11159,7 +11045,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "111",
       "multiverseid": 79129,
       "name": "Distress",
       "number": "111",
@@ -11255,7 +11140,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "112",
       "multiverseid": 78966,
       "name": "Gibbering Kami",
       "number": "112",
@@ -11349,7 +11233,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "113",
       "multiverseid": 79088,
       "name": "Gutwrencher Oni",
       "number": "113",
@@ -11443,7 +11326,6 @@
         }
       ],
       "manaCost": "{4}{B}",
-      "mciNumber": "114",
       "multiverseid": 78602,
       "name": "He Who Hungers",
       "number": "114",
@@ -11545,7 +11427,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "115",
       "multiverseid": 79204,
       "name": "Hideous Laughter",
       "number": "115",
@@ -11655,7 +11536,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "116",
       "multiverseid": 79098,
       "name": "Honden of Night's Reach",
       "number": "116",
@@ -11751,7 +11631,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "117",
       "multiverseid": 78854,
       "name": "Horobi, Death's Wail",
       "number": "117",
@@ -11848,7 +11727,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "118",
       "multiverseid": 80278,
       "name": "Iname, Death Aspect",
       "number": "118",
@@ -11944,7 +11822,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "119",
       "multiverseid": 77921,
       "name": "Kami of Lunacy",
       "number": "119",
@@ -12038,7 +11915,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "120",
       "multiverseid": 50311,
       "name": "Kami of the Waning Moon",
       "number": "120",
@@ -12132,7 +12008,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "121",
       "multiverseid": 78962,
       "name": "Kiku, Night's Flower",
       "number": "121",
@@ -12229,7 +12104,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "122",
       "multiverseid": 50445,
       "name": "Kokusho, the Evening Star",
       "number": "122",
@@ -12329,7 +12203,6 @@
         }
       ],
       "manaCost": "{6}{B}{B}{B}",
-      "mciNumber": "123",
       "multiverseid": 82423,
       "name": "Kuro, Pitlord",
       "number": "123",
@@ -12429,7 +12302,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "124",
       "multiverseid": 50253,
       "name": "Marrow-Gnawer",
       "number": "124",
@@ -12533,7 +12405,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "125",
       "multiverseid": 50449,
       "name": "Midnight Covenant",
       "number": "125",
@@ -12624,7 +12495,6 @@
         }
       ],
       "manaCost": "{5}{B}{B}{B}",
-      "mciNumber": "126",
       "multiverseid": 79112,
       "name": "Myojin of Night's Reach",
       "number": "126",
@@ -12727,7 +12597,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "127",
       "multiverseid": 79857,
       "name": "Nezumi Bone-Reader",
       "number": "127",
@@ -12828,7 +12697,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "128",
       "multiverseid": 80521,
       "name": "Nezumi Cutthroat",
       "number": "128",
@@ -12923,7 +12791,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "129a",
       "multiverseid": 78678,
       "name": "Nezumi Graverobber",
       "names": [
@@ -13022,7 +12889,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "129b",
       "multiverseid": 78678,
       "name": "Nighteyes the Desecrator",
       "names": [
@@ -13125,7 +12991,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "130",
       "multiverseid": 50512,
       "name": "Nezumi Ronin",
       "number": "130",
@@ -13219,7 +13084,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "131a",
       "multiverseid": 78679,
       "name": "Nezumi Shortfang",
       "names": [
@@ -13317,7 +13181,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "131b",
       "multiverseid": 78679,
       "name": "Stabwhisker the Odious",
       "names": [
@@ -13418,7 +13281,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "132",
       "multiverseid": 75334,
       "name": "Night Dealings",
       "number": "132",
@@ -13507,7 +13369,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "133",
       "multiverseid": 78991,
       "name": "Night of Souls' Betrayal",
       "number": "133",
@@ -13606,7 +13467,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "134",
       "multiverseid": 50431,
       "name": "Numai Outcast",
       "number": "134",
@@ -13700,7 +13560,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "135",
       "multiverseid": 50394,
       "name": "Oni Possession",
       "number": "135",
@@ -13794,7 +13653,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "136",
       "multiverseid": 79119,
       "name": "Painwracker Oni",
       "number": "136",
@@ -13889,7 +13747,6 @@
         }
       ],
       "manaCost": "{5}{B}",
-      "mciNumber": "137",
       "multiverseid": 78972,
       "name": "Pull Under",
       "number": "137",
@@ -13981,7 +13838,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "138",
       "multiverseid": 79237,
       "name": "Rag Dealer",
       "number": "138",
@@ -14075,7 +13931,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "139",
       "multiverseid": 79158,
       "name": "Ragged Veins",
       "number": "139",
@@ -14167,7 +14022,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "140",
       "multiverseid": 75259,
       "name": "Rend Flesh",
       "number": "140",
@@ -14259,7 +14113,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "141",
       "multiverseid": 50293,
       "name": "Rend Spirit",
       "number": "141",
@@ -14347,7 +14200,6 @@
         }
       ],
       "manaCost": "{4}{B}",
-      "mciNumber": "142",
       "multiverseid": 77922,
       "name": "Scuttling Death",
       "number": "142",
@@ -14442,7 +14294,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "143",
       "multiverseid": 78965,
       "name": "Seizan, Perverter of Truth",
       "number": "143",
@@ -14539,7 +14390,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "144",
       "multiverseid": 50288,
       "name": "Soulless Revival",
       "number": "144",
@@ -14648,7 +14498,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "145",
       "multiverseid": 79168,
       "name": "Struggle for Sanity",
       "number": "145",
@@ -14737,7 +14586,6 @@
         }
       ],
       "manaCost": "{X}{B}{B}",
-      "mciNumber": "146",
       "multiverseid": 79089,
       "name": "Swallowing Plague",
       "number": "146",
@@ -14828,7 +14676,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "147",
       "multiverseid": 77920,
       "name": "Thief of Hope",
       "number": "147",
@@ -14923,7 +14770,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "148",
       "multiverseid": 80520,
       "name": "Villainous Ogre",
       "number": "148",
@@ -15018,7 +14864,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "149",
       "multiverseid": 78963,
       "name": "Waking Nightmare",
       "number": "149",
@@ -15111,7 +14956,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "150",
       "multiverseid": 50432,
       "name": "Wicked Akuba",
       "number": "150",
@@ -15205,7 +15049,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "151",
       "multiverseid": 75277,
       "name": "Akki Avalanchers",
       "number": "151",
@@ -15306,7 +15149,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "152",
       "multiverseid": 50338,
       "name": "Akki Coalflinger",
       "number": "152",
@@ -15402,7 +15244,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "153a",
       "multiverseid": 78694,
       "name": "Akki Lavarunner",
       "names": [
@@ -15500,7 +15341,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "153b",
       "multiverseid": 78694,
       "name": "Tok-Tok, Volcano Born",
       "names": [
@@ -15602,7 +15442,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "154",
       "multiverseid": 77919,
       "name": "Akki Rockspeaker",
       "number": "154",
@@ -15703,7 +15542,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "155",
       "multiverseid": 75399,
       "name": "Akki Underminer",
       "number": "155",
@@ -15799,7 +15637,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "156",
       "multiverseid": 50383,
       "name": "Battle-Mad Ronin",
       "number": "156",
@@ -15894,7 +15731,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "157",
       "multiverseid": 79248,
       "name": "Ben-Ben, Akki Hermit",
       "number": "157",
@@ -15992,7 +15828,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "158",
       "multiverseid": 77925,
       "name": "Blind with Anger",
       "number": "158",
@@ -16084,7 +15919,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "159",
       "multiverseid": 50509,
       "name": "Blood Rites",
       "number": "159",
@@ -16469,7 +16303,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "161",
       "multiverseid": 76638,
       "name": "Brutal Deceiver",
       "number": "161",
@@ -16563,7 +16396,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "162",
       "multiverseid": 50514,
       "name": "Crushing Pain",
       "number": "162",
@@ -16654,7 +16486,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "163",
       "multiverseid": 80275,
       "name": "Desperate Ritual",
       "number": "163",
@@ -16769,7 +16600,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "164",
       "multiverseid": 75401,
       "name": "Devouring Rage",
       "number": "164",
@@ -16861,7 +16691,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "165",
       "multiverseid": 79214,
       "name": "Earthshaker",
       "number": "165",
@@ -16955,7 +16784,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "166",
       "multiverseid": 80508,
       "name": "Ember-Fist Zubera",
       "number": "166",
@@ -17049,7 +16877,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "167",
       "multiverseid": 50285,
       "name": "Frostwielder",
       "number": "167",
@@ -17149,7 +16976,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "168",
       "multiverseid": 80245,
       "name": "Glacial Ray",
       "number": "168",
@@ -17260,7 +17086,6 @@
         }
       ],
       "manaCost": "{5}{R}",
-      "mciNumber": "169",
       "multiverseid": 78192,
       "name": "Godo, Bandit Warlord",
       "number": "169",
@@ -17365,7 +17190,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "170",
       "multiverseid": 75357,
       "name": "Hanabi Blast",
       "number": "170",
@@ -17460,7 +17284,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "171",
       "multiverseid": 77139,
       "name": "Hearth Kami",
       "number": "171",
@@ -17554,7 +17377,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "172",
       "multiverseid": 79110,
       "name": "Honden of Infinite Rage",
       "number": "172",
@@ -17649,7 +17471,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "173a",
       "multiverseid": 78688,
       "name": "Initiate of Blood",
       "names": [
@@ -17747,7 +17568,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "173b",
       "multiverseid": 78688,
       "name": "Goka the Unjust",
       "names": [
@@ -17849,7 +17669,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "174",
       "multiverseid": 79195,
       "name": "Kami of Fire's Roar",
       "number": "174",
@@ -17942,7 +17761,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}{R}",
-      "mciNumber": "175",
       "multiverseid": 50321,
       "name": "Kiki-Jiki, Mirror Breaker",
       "number": "175",
@@ -18065,7 +17883,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "176",
       "multiverseid": 78964,
       "name": "Kumano, Master Yamabushi",
       "number": "176",
@@ -18173,7 +17990,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "177",
       "multiverseid": 75267,
       "name": "Kumano's Pupils",
       "number": "177",
@@ -18278,7 +18094,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "178",
       "multiverseid": 79084,
       "name": "Lava Spike",
       "number": "178",
@@ -18371,7 +18186,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "179",
       "multiverseid": 79133,
       "name": "Mana Seism",
       "number": "179",
@@ -18459,7 +18273,6 @@
         }
       ],
       "manaCost": "{5}{R}",
-      "mciNumber": "180",
       "multiverseid": 75248,
       "name": "Mindblaze",
       "number": "180",
@@ -18547,7 +18360,6 @@
         }
       ],
       "manaCost": "{7}{R}{R}{R}",
-      "mciNumber": "181",
       "multiverseid": 78986,
       "name": "Myojin of Infinite Rage",
       "number": "181",
@@ -18650,7 +18462,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "182",
       "multiverseid": 78984,
       "name": "Ore Gorger",
       "number": "182",
@@ -18744,7 +18555,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "183",
       "multiverseid": 50266,
       "name": "Pain Kami",
       "number": "183",
@@ -18838,7 +18648,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "184",
       "multiverseid": 50262,
       "name": "Ronin Houndmaster",
       "number": "184",
@@ -18932,7 +18741,6 @@
         }
       ],
       "manaCost": "{5}{R}",
-      "mciNumber": "185",
       "multiverseid": 79242,
       "name": "Ryusei, the Falling Star",
       "number": "185",
@@ -19035,7 +18843,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "186",
       "multiverseid": 50318,
       "name": "Shimatsu the Bloodcloaked",
       "number": "186",
@@ -19139,7 +18946,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "187",
       "multiverseid": 80523,
       "name": "Sideswipe",
       "number": "187",
@@ -19228,7 +19034,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "188",
       "multiverseid": 79140,
       "name": "Sokenzan Bruiser",
       "number": "188",
@@ -19323,7 +19128,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "189",
       "multiverseid": 79253,
       "name": "Soul of Magma",
       "number": "189",
@@ -19416,7 +19220,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}{R}",
-      "mciNumber": "190",
       "multiverseid": 80246,
       "name": "Soulblast",
       "number": "190",
@@ -19522,7 +19325,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "191",
       "multiverseid": 79223,
       "name": "Stone Rain",
       "number": "191",
@@ -19632,7 +19434,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "192",
       "multiverseid": 82000,
       "name": "Strange Inversion",
       "number": "192",
@@ -19749,7 +19550,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "193",
       "multiverseid": 80250,
       "name": "Through the Breach",
       "number": "193",
@@ -19863,7 +19663,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "194",
       "multiverseid": 78606,
       "name": "Tide of War",
       "number": "194",
@@ -19966,7 +19765,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "195",
       "multiverseid": 50315,
       "name": "Uncontrollable Anger",
       "number": "195",
@@ -20060,7 +19858,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "196",
       "multiverseid": 50379,
       "name": "Unearthly Blizzard",
       "number": "196",
@@ -20152,7 +19949,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "197",
       "multiverseid": 77926,
       "name": "Unnatural Speed",
       "number": "197",
@@ -20243,7 +20039,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "198",
       "multiverseid": 50292,
       "name": "Yamabushi's Flame",
       "number": "198",
@@ -20331,7 +20126,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "199",
       "multiverseid": 50346,
       "name": "Yamabushi's Storm",
       "number": "199",
@@ -20420,7 +20214,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "200",
       "multiverseid": 80274,
       "name": "Zo-Zu the Punisher",
       "number": "200",
@@ -20519,7 +20312,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "201",
       "multiverseid": 80283,
       "name": "Azusa, Lost but Seeking",
       "number": "201",
@@ -20623,7 +20415,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "202a",
       "multiverseid": 78687,
       "name": "Budoka Gardener",
       "names": [
@@ -20731,7 +20522,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "202b",
       "multiverseid": 78687,
       "name": "Dokai, Weaver of Life",
       "names": [
@@ -20832,7 +20622,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "203",
       "multiverseid": 50305,
       "name": "Burr Grafter",
       "number": "203",
@@ -20925,7 +20714,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "204",
       "multiverseid": 76639,
       "name": "Commune with Nature",
       "number": "204",
@@ -21022,7 +20810,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "205",
       "multiverseid": 80524,
       "name": "Dosan the Falling Leaf",
       "number": "205",
@@ -21126,7 +20913,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "206",
       "multiverseid": 80511,
       "name": "Dripping-Tongue Zubera",
       "number": "206",
@@ -21221,7 +21007,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "207",
       "multiverseid": 75402,
       "name": "Feast of Worms",
       "number": "207",
@@ -21312,7 +21097,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "208",
       "multiverseid": 50236,
       "name": "Feral Deceiver",
       "number": "208",
@@ -21406,7 +21190,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "209",
       "multiverseid": 79244,
       "name": "Gale Force",
       "number": "209",
@@ -21495,7 +21278,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "210",
       "multiverseid": 75241,
       "name": "Glimpse of Nature",
       "number": "210",
@@ -21584,7 +21366,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "211",
       "multiverseid": 77138,
       "name": "Hana Kami",
       "number": "211",
@@ -21679,7 +21460,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "212",
       "multiverseid": 50461,
       "name": "Heartbeat of Spring",
       "number": "212",
@@ -21768,7 +21548,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "213",
       "multiverseid": 79180,
       "name": "Honden of Life's Web",
       "number": "213",
@@ -21864,7 +21643,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "214",
       "multiverseid": 78684,
       "name": "Humble Budoka",
       "number": "214",
@@ -21959,7 +21737,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}",
-      "mciNumber": "215",
       "multiverseid": 80282,
       "name": "Iname, Life Aspect",
       "number": "215",
@@ -22074,7 +21851,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "216",
       "multiverseid": 78981,
       "name": "Joyous Respite",
       "number": "216",
@@ -22165,7 +21941,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}{G}",
-      "mciNumber": "217",
       "multiverseid": 50247,
       "name": "Jugan, the Rising Star",
       "number": "217",
@@ -22275,7 +22050,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "218",
       "multiverseid": 80525,
       "name": "Jukai Messenger",
       "number": "218",
@@ -22370,7 +22144,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "219",
       "multiverseid": 79198,
       "name": "Kami of the Hunt",
       "number": "219",
@@ -22463,7 +22236,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "220",
       "multiverseid": 76634,
       "name": "Kashi-Tribe Reaver",
       "number": "220",
@@ -22558,7 +22330,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "221",
       "multiverseid": 50342,
       "name": "Kashi-Tribe Warriors",
       "number": "221",
@@ -22653,7 +22424,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}{G}",
-      "mciNumber": "222",
       "multiverseid": 50488,
       "name": "Kodama of the North Tree",
       "number": "222",
@@ -22750,7 +22520,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "223",
       "multiverseid": 80288,
       "name": "Kodama of the South Tree",
       "number": "223",
@@ -22846,7 +22615,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "224",
       "multiverseid": 81702,
       "name": "Kodama's Might",
       "number": "224",
@@ -22956,7 +22724,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "225",
       "multiverseid": 50299,
       "name": "Kodama's Reach",
       "number": "225",
@@ -23067,7 +22834,6 @@
         }
       ],
       "manaCost": "{1}{G}{G}",
-      "mciNumber": "226",
       "multiverseid": 79152,
       "name": "Lure",
       "number": "226",
@@ -23184,7 +22950,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "227",
       "multiverseid": 75247,
       "name": "Matsu-Tribe Decoy",
       "number": "227",
@@ -23279,7 +23044,6 @@
         }
       ],
       "manaCost": "{5}{G}",
-      "mciNumber": "228",
       "multiverseid": 76641,
       "name": "Moss Kami",
       "number": "228",
@@ -23372,7 +23136,6 @@
         }
       ],
       "manaCost": "{6}{G}{G}{G}",
-      "mciNumber": "229",
       "multiverseid": 78976,
       "name": "Myojin of Life's Web",
       "number": "229",
@@ -23475,7 +23238,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "230",
       "multiverseid": 80527,
       "name": "Nature's Will",
       "number": "230",
@@ -23569,7 +23331,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}",
-      "mciNumber": "231",
       "multiverseid": 50261,
       "name": "Orbweaver Kumo",
       "number": "231",
@@ -23663,7 +23424,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "232",
       "multiverseid": 50487,
       "name": "Order of the Sacred Bell",
       "number": "232",
@@ -23756,7 +23516,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "233a",
       "multiverseid": 78975,
       "name": "Orochi Eggwatcher",
       "names": [
@@ -23854,7 +23613,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "233b",
       "multiverseid": 78975,
       "name": "Shidako, Broodmistress",
       "names": [
@@ -23956,7 +23714,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "234",
       "multiverseid": 50319,
       "name": "Orochi Leafcaller",
       "number": "234",
@@ -24051,7 +23808,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "235",
       "multiverseid": 50308,
       "name": "Orochi Ranger",
       "number": "235",
@@ -24146,7 +23902,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "236",
       "multiverseid": 75403,
       "name": "Orochi Sustainer",
       "number": "236",
@@ -24240,7 +23995,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "237",
       "multiverseid": 75367,
       "name": "Rootrunner",
       "number": "237",
@@ -24334,7 +24088,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "238",
       "multiverseid": 80254,
       "name": "Sachi, Daughter of Seshiro",
       "number": "238",
@@ -24432,7 +24185,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "239",
       "multiverseid": 50510,
       "name": "Sakura-Tribe Elder",
       "number": "239",
@@ -24535,7 +24287,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "240",
       "multiverseid": 75404,
       "name": "Serpent Skin",
       "number": "240",
@@ -24627,7 +24378,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}",
-      "mciNumber": "241",
       "multiverseid": 80256,
       "name": "Seshiro the Anointed",
       "number": "241",
@@ -24724,7 +24474,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "242",
       "multiverseid": 78853,
       "name": "Shisato, Whispering Hunter",
       "number": "242",
@@ -24822,7 +24571,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "243",
       "multiverseid": 79177,
       "name": "Soilshaper",
       "number": "243",
@@ -24921,7 +24669,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "244",
       "multiverseid": 78989,
       "name": "Sosuke, Son of Seshiro",
       "number": "244",
@@ -25019,7 +24766,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "245",
       "multiverseid": 75366,
       "name": "Strength of Cedars",
       "number": "245",
@@ -25110,7 +24856,6 @@
         }
       ],
       "manaCost": "{6}{G}{G}",
-      "mciNumber": "246",
       "multiverseid": 50438,
       "name": "Thousand-legged Kami",
       "number": "246",
@@ -25204,7 +24949,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "247",
       "multiverseid": 78987,
       "name": "Time of Need",
       "number": "247",
@@ -25292,7 +25036,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "248",
       "multiverseid": 78979,
       "name": "Venerable Kumo",
       "number": "248",
@@ -25385,7 +25128,6 @@
         }
       ],
       "manaCost": "{6}{G}",
-      "mciNumber": "249",
       "multiverseid": 82001,
       "name": "Vine Kami",
       "number": "249",
@@ -25478,7 +25220,6 @@
         }
       ],
       "manaCost": "{G}{G}",
-      "mciNumber": "250",
       "multiverseid": 50268,
       "name": "Wear Away",
       "number": "250",
@@ -25581,7 +25322,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "251",
       "multiverseid": 79862,
       "name": "General's Kabuto",
       "number": "251",
@@ -25667,7 +25407,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "252",
       "multiverseid": 79219,
       "name": "Hair-Strung Koto",
       "number": "252",
@@ -25749,7 +25488,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "253",
       "multiverseid": 50469,
       "name": "Hankyu",
       "number": "253",
@@ -25835,7 +25573,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "254",
       "multiverseid": 77143,
       "name": "Honor-Worn Shaku",
       "number": "254",
@@ -25918,7 +25655,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "255",
       "multiverseid": 50300,
       "name": "Imi Statue",
       "number": "255",
@@ -26001,7 +25737,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "256",
       "multiverseid": 80531,
       "name": "Jade Idol",
       "number": "256",
@@ -26090,7 +25825,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "257",
       "multiverseid": 79233,
       "name": "Journeyer's Kite",
       "number": "257",
@@ -26173,7 +25907,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "258",
       "multiverseid": 80280,
       "name": "Junkyo Bell",
       "number": "258",
@@ -26255,7 +25988,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "259",
       "multiverseid": 76637,
       "name": "Konda's Banner",
       "number": "259",
@@ -26357,7 +26089,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "260",
       "multiverseid": 75269,
       "name": "Kusari-Gama",
       "number": "260",
@@ -26443,7 +26174,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "261",
       "multiverseid": 80532,
       "name": "Long-Forgotten Gohei",
       "number": "261",
@@ -26532,7 +26262,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "262",
       "multiverseid": 73907,
       "name": "Moonring Mirror",
       "number": "262",
@@ -26625,7 +26354,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "263",
       "multiverseid": 50413,
       "name": "Nine-Ringed Bo",
       "number": "263",
@@ -26714,7 +26442,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "264",
       "multiverseid": 75265,
       "name": "No-Dachi",
       "number": "264",
@@ -26799,7 +26526,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "265",
       "multiverseid": 50484,
       "name": "Oathkeeper, Takeno's Daisho",
       "number": "265",
@@ -26893,7 +26619,6 @@
         }
       ],
       "manaCost": "{X}{X}",
-      "mciNumber": "266",
       "multiverseid": 80241,
       "name": "Orochi Hatchery",
       "number": "266",
@@ -26977,7 +26702,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "267",
       "multiverseid": 80273,
       "name": "Reito Lantern",
       "number": "267",
@@ -27060,7 +26784,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "268",
       "multiverseid": 50400,
       "name": "Sensei's Divining Top",
       "number": "268",
@@ -27154,7 +26877,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "269",
       "multiverseid": 75278,
       "name": "Shell of the Last Kappa",
       "number": "269",
@@ -27249,7 +26971,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "270",
       "multiverseid": 75291,
       "name": "Tatsumasa, the Dragon's Fang",
       "number": "270",
@@ -27337,7 +27058,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "271",
       "multiverseid": 79231,
       "name": "Tenza, Godo's Maul",
       "number": "271",
@@ -27425,7 +27145,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "272",
       "multiverseid": 75254,
       "name": "Uba Mask",
       "number": "272",
@@ -27516,7 +27235,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "273",
       "multiverseid": 75305,
       "name": "Boseiju, Who Shelters All",
       "number": "273",
@@ -27615,7 +27333,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "274",
       "multiverseid": 79115,
       "name": "Cloudcrest Lake",
       "number": "274",
@@ -27700,7 +27417,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "275",
       "multiverseid": 79205,
       "name": "Eiganjo Castle",
       "number": "275",
@@ -27784,7 +27500,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "276",
       "multiverseid": 79252,
       "name": "Forbidden Orchard",
       "number": "276",
@@ -27868,7 +27583,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "277",
       "multiverseid": 77924,
       "name": "Hall of the Bandit Lord",
       "number": "277",
@@ -27966,7 +27680,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "278",
       "multiverseid": 79080,
       "name": "Lantern-Lit Graveyard",
       "number": "278",
@@ -28051,7 +27764,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "279",
       "multiverseid": 79179,
       "name": "Minamo, School at Water's Edge",
       "number": "279",
@@ -28139,7 +27851,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "280",
       "multiverseid": 80251,
       "name": "Okina, Temple to the Grandfathers",
       "number": "280",
@@ -28227,7 +27938,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "281",
       "multiverseid": 79132,
       "name": "Pinecrest Ridge",
       "number": "281",
@@ -28312,7 +28022,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "282",
       "multiverseid": 79121,
       "name": "Shinka, the Bloodsoaked Keep",
       "number": "282",
@@ -28400,7 +28109,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "283",
       "multiverseid": 79186,
       "name": "Shizo, Death's Storehouse",
       "number": "283",
@@ -28488,7 +28196,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "284",
       "multiverseid": 79196,
       "name": "Tranquil Garden",
       "number": "284",
@@ -28570,7 +28277,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "285",
       "multiverseid": 79218,
       "name": "Untaidake, the Cloud Keeper",
       "number": "285",
@@ -28658,7 +28364,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "286",
       "multiverseid": 79191,
       "name": "Waterveil Cavern",
       "number": "286",
@@ -29046,7 +28751,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29438,7 +29146,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29830,7 +29541,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30222,7 +29936,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30614,7 +30331,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31006,7 +30726,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31398,7 +31121,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31790,7 +31516,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32185,7 +31914,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32580,7 +32312,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32975,7 +32710,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33370,7 +33108,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33768,7 +33509,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34166,7 +33910,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34564,7 +34311,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34962,7 +34712,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35357,7 +35110,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35752,7 +35508,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36147,7 +35906,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36542,7 +36304,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

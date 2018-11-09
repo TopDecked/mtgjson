@@ -43,7 +43,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "2",
       "multiverseid": 25447,
       "name": "Breath of Life",
       "originalText": "Return target creature card from your graveyard to play.",
@@ -175,7 +174,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "19",
       "multiverseid": 25449,
       "name": "Wild Griffin",
       "originalText": "Flying",
@@ -229,7 +227,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "7",
       "multiverseid": 25450,
       "name": "Knight Errant",
       "originalType": "Creature — Knight",
@@ -495,7 +492,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -757,7 +757,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -1019,7 +1022,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -1281,7 +1287,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -1331,7 +1340,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "4",
       "multiverseid": 25455,
       "name": "Eager Cadet",
       "originalType": "Creature — Soldier",
@@ -1390,7 +1398,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "1",
       "multiverseid": 25456,
       "name": "Angelic Blessing",
       "originalText": "Target creature gets +3/+3 and gains flying until end of turn.",
@@ -1444,7 +1451,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "5",
       "multiverseid": 25457,
       "name": "Giant Octopus",
       "originalType": "Creature — Octopus",
@@ -1559,7 +1565,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "14",
       "multiverseid": 25459,
       "name": "Royal Falcon",
       "originalText": "Flying",
@@ -1612,7 +1617,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "15",
       "multiverseid": 25460,
       "name": "Sea Eagle",
       "originalText": "Flying",
@@ -1670,7 +1674,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "16",
       "multiverseid": 25462,
       "name": "Time Ebb",
       "originalText": "Put target creature on top of its owner's library.",
@@ -1724,7 +1727,6 @@
         }
       ],
       "manaCost": "{6}{U}",
-      "mciNumber": "18",
       "multiverseid": 25463,
       "name": "Vizzerdrix",
       "originalType": "Creature — Beast",
@@ -1779,7 +1781,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "10",
       "multiverseid": 25475,
       "name": "Monstrous Growth",
       "originalText": "Target creature gets +4/+4 until end of turn.",
@@ -1827,7 +1828,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "12",
       "multiverseid": 25476,
       "name": "Ogre Warrior",
       "originalType": "Creature — Ogre",
@@ -2159,7 +2159,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2424,7 +2427,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2692,7 +2698,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2960,7 +2969,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3225,7 +3237,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3490,7 +3505,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3536,7 +3554,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "20",
       "multiverseid": 25484,
       "name": "Willow Elf",
       "originalType": "Creature — Elf",
@@ -3583,7 +3600,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "11",
       "multiverseid": 25485,
       "name": "Moon Sprite",
       "originalText": "Flying",
@@ -3755,7 +3771,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "8",
       "multiverseid": 25488,
       "name": "Lava Axe",
       "originalText": "Lava Axe deals 5 damage to target opponent.",
@@ -3776,7 +3791,8 @@
         "M11",
         "M12",
         "M14",
-        "M15"
+        "M15",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Lava Axe deals 5 damage to target player or planeswalker.",
@@ -3813,7 +3829,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "6",
       "multiverseid": 25490,
       "name": "Hand of Death",
       "originalText": "Destroy target nonblack creature.",
@@ -3859,7 +3874,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "9",
       "multiverseid": 25491,
       "name": "Mons's Goblin Raiders",
       "originalType": "Creature — Goblin",
@@ -3978,7 +3992,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "3",
       "multiverseid": 25493,
       "name": "Durkwood Boars",
       "originalType": "Creature — Boar",
@@ -4030,7 +4043,6 @@
         }
       ],
       "manaCost": "{6}{R}",
-      "mciNumber": "17",
       "multiverseid": 25494,
       "name": "Trained Orgg",
       "originalType": "Creature — Beast",
@@ -4481,7 +4493,8 @@
         "M14",
         "DDN",
         "AER",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Shock deals 2 damage to any target.",
@@ -4936,7 +4949,9 @@
         "DD3_EVG",
         "EMA",
         "CMA",
-        "DOM"
+        "DOM",
+        "M19",
+        "GNT"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -5308,7 +5323,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}",
-      "mciNumber": "13",
       "name": "Rhox",
       "originalText": "You may have Rhox deal combat damage to defending player as though it weren't blocked.\n{2}{G}: Regenerate Rhox.",
       "originalType": "Creature — Beast",

@@ -1,0 +1,2544 @@
+{
+  "name": "Guild Kit: Dimir",
+  "code": "GK1_DIMIR",
+  "releaseDate": "2018-11-02",
+  "border": "black",
+  "type": "box",
+  "cards": [
+    {
+      "artist": "Igor Kieryluk",
+      "cmc": 4,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Etrata die Attentäterin",
+          "multiverseid": 455929
+        },
+        {
+          "language": "Spanish",
+          "name": "Etrata, la Silenciadora",
+          "multiverseid": 455954
+        },
+        {
+          "language": "French",
+          "name": "Etrata, la silencieuse",
+          "multiverseid": 455979
+        },
+        {
+          "language": "Italian",
+          "name": "Etrata, la Silenziatrice",
+          "multiverseid": 456004
+        },
+        {
+          "language": "Japanese",
+          "name": "静める者、エトラータ",
+          "multiverseid": 456029
+        }
+      ],
+      "id": "c7b36223346a0a0e15613020e2d010913bb464e2",
+      "imageName": "etrata, the silencer",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{U}{B}",
+      "multiverseid": 455904,
+      "name": "Etrata, the Silencer",
+      "number": "1",
+      "originalText": "Etrata, the Silencer can't be blocked.\nWhenever Etrata deals combat damage to a player, exile target creature that player controls and put a hit counter on that card. That player loses the game if they own three or more exiled cards with hit counters on them. Etrata's owner shuffles Etrata into their library.",
+      "originalType": "Legendary Creature — Vampire Assassin",
+      "power": "3",
+      "printings": [
+        "GRN",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "If the player controls no creatures, Etrata's ability doesn't resolve. Etrata remains on the battlefield and its owner doesn't shuffle their library. The same is true if the target creature is an illegal target when Etrata's ability tries to resolve."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If Etrata leaves the battlefield while its triggered ability is on the stack, it remains in its new zone and Etrata's owner shuffles their library."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If Etrata's ability exiles a token creature, it won't count to determine whether three cards are exiled with hit counters."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Etrata's owner shuffles it into their library as the triggered ability resolves, regardless of how many cards are in exile or whether the player loses the game."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "In a Commander game, if Etrata is your commander, you may put it into the command zone as its ability resolves. You'll still shuffle your library."
+        }
+      ],
+      "subtypes": [
+        "Vampire",
+        "Assassin"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Etrata, the Silencer can't be blocked.\nWhenever Etrata deals combat damage to a player, exile target creature that player controls and put a hit counter on that card. That player loses the game if they own three or more exiled cards with hit counters on them. Etrata's owner shuffles Etrata into their library.",
+      "toughness": "5",
+      "type": "Legendary Creature — Vampire Assassin",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Clint Cearley",
+      "cmc": 6,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Gestohlene Identität",
+          "multiverseid": 455930
+        },
+        {
+          "language": "Spanish",
+          "name": "Identidad usurpada",
+          "multiverseid": 455955
+        },
+        {
+          "language": "French",
+          "name": "Vol d'identité",
+          "multiverseid": 455980
+        },
+        {
+          "language": "Italian",
+          "name": "Identità Rubata",
+          "multiverseid": 456005
+        },
+        {
+          "language": "Japanese",
+          "name": "身分詐称",
+          "multiverseid": 456030
+        }
+      ],
+      "id": "133134ef7e71bc31410dd29cca4bec24df7b860f",
+      "imageName": "stolen identity",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{U}{U}",
+      "multiverseid": 455905,
+      "name": "Stolen Identity",
+      "number": "2",
+      "originalText": "Create a token that's a copy of target artifact or creature.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",
+      "originalType": "Sorcery",
+      "printings": [
+        "GTC",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "If the token you create is a copy of a creature, you can exile Stolen Identity encoded on that token."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "The token copies exactly what was printed on the original artifact or creature and nothing else (unless that permanent is copying something else or is a token; see below). It doesn't copy whether it is tapped or untapped, whether it has any counters on it or Auras and Equipment attached to it, or any non-copy effects that have changed its power, toughness, types, color, or so on."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "If the copied permanent has {X} in its mana cost, X is considered to be zero."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "If the copied permanent is copying something else (for example, if the copied creature is a Clone), then the token enters the battlefield as whatever that creature copied."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "If the copied permanent is a token, the token that's created copies the original characteristics of that token as stated by the effect that put the token onto the battlefield."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "Any enters-the-battlefield abilities of the copied permanent will trigger when the token enters the battlefield. Any \"as [this permanent] enters the battlefield\" or \"[this permanent] enters the battlefield with\" abilities of the chosen permanent will also work."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The spell with cipher is encoded on the creature as part of that spell's resolution, just after the spell's other effects. That card goes directly from the stack to exile. It never goes to the graveyard."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "You choose the creature as the spell resolves. The cipher ability doesn't target that creature, although the spell with cipher may target that creature (or a different creature) because of its other abilities."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If the spell with cipher doesn't resolve, none of its effects will happen, including cipher. The card will go to its owner's graveyard and won't be encoded on a creature."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If the creature leaves the battlefield, the exiled card will no longer be encoded on any creature. It will stay exiled."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you want to encode the card with cipher onto a noncreature permanent such as a Keyrune that can turn into a creature, that permanent has to be a creature before the spell with cipher starts resolving. You can choose only a creature to encode the card onto."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The copy of the card with cipher is created in and cast from exile."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "You cast the copy of the card with cipher during the resolution of the triggered ability. Ignore timing restrictions based on the card's type."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you choose not to cast the copy, or you can't cast it (perhaps because there are no legal targets available), the copy will cease to exist the next time state-based actions are performed. You won't get a chance to cast the copy at a later time."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The exiled card with cipher grants a triggered ability to the creature it's encoded on. If that creature loses that ability and subsequently deals combat damage to a player, the triggered ability won't trigger. However, the exiled card will continue to be encoded on that creature."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If another player gains control of the creature, that player will control the triggered ability. That player will create a copy of the encoded card and may cast it."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a creature with an encoded card deals combat damage to more than one player simultaneously (perhaps because some of the combat damage was redirected), the triggered ability will trigger once for each player it deals combat damage to. Each ability will create a copy of the exiled card and allow you to cast it."
+        }
+      ],
+      "text": "Create a token that's a copy of target artifact or creature.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Clint Cearley",
+      "cmc": 1,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"Patience, mage. Killing you now would be too easy.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Unterbinden",
+          "multiverseid": 455931
+        },
+        {
+          "language": "Spanish",
+          "name": "Sincopar",
+          "multiverseid": 455956
+        },
+        {
+          "language": "French",
+          "name": "Syncope",
+          "multiverseid": 455981
+        },
+        {
+          "language": "Italian",
+          "name": "Sincopare",
+          "multiverseid": 456006
+        },
+        {
+          "language": "Japanese",
+          "name": "中略",
+          "multiverseid": 456031
+        }
+      ],
+      "id": "bc14f63bb7522e78270a2dfd425e3cd36d2c8b1a",
+      "imageName": "syncopate",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{X}{U}",
+      "multiverseid": 455906,
+      "name": "Syncopate",
+      "number": "3",
+      "originalText": "Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+      "originalType": "Instant",
+      "printings": [
+        "ODY",
+        "RTR",
+        "DOM",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Uncommon",
+      "text": "Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Scott M. Fischer",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "Mastery is achieved when \"telling time\" becomes \"telling time what to do.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Ausgenutzte Zeit",
+          "multiverseid": 455932
+        },
+        {
+          "language": "Spanish",
+          "name": "Contar el tiempo",
+          "multiverseid": 455957
+        },
+        {
+          "language": "French",
+          "name": "Heure révélatrice",
+          "multiverseid": 455982
+        },
+        {
+          "language": "Italian",
+          "name": "Predire il Tempo",
+          "multiverseid": 456007
+        },
+        {
+          "language": "Japanese",
+          "name": "時間の把握",
+          "multiverseid": 456032
+        }
+      ],
+      "id": "bb8b0cc92d84d2457ab3d9d32ab0d15acab266f0",
+      "imageName": "telling time",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{U}",
+      "multiverseid": 455907,
+      "name": "Telling Time",
+      "number": "4",
+      "originalText": "Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.",
+      "originalType": "Instant",
+      "printings": [
+        "RAV",
+        "10E",
+        "MM2",
+        "C18",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "If there are fewer than three cards in your library, follow the instructions in the order given for any cards that are there."
+        }
+      ],
+      "text": "Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Thomas M. Baxa",
+      "cmc": 2,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"Allow me a moment to catch your breath.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Letzter Schnaufer",
+          "multiverseid": 455933
+        },
+        {
+          "language": "Spanish",
+          "name": "Último suspiro",
+          "multiverseid": 455958
+        },
+        {
+          "language": "French",
+          "name": "Expiration",
+          "multiverseid": 455983
+        },
+        {
+          "language": "Italian",
+          "name": "Ultimo Sospiro",
+          "multiverseid": 456008
+        },
+        {
+          "language": "Japanese",
+          "name": "最後の喘ぎ",
+          "multiverseid": 456033
+        }
+      ],
+      "id": "754c9dfac3e065a4e0ea812a2d2ad997de9929a7",
+      "imageName": "last gasp",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{B}",
+      "multiverseid": 455908,
+      "name": "Last Gasp",
+      "number": "5",
+      "originalText": "Target creature gets -3/-3 until end of turn.",
+      "originalType": "Instant",
+      "printings": [
+        "RAV",
+        "BBD",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets -3/-3 until end of turn.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Christopher Rush",
+      "cmc": 6,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Phalanx aus der Unterwelt",
+          "multiverseid": 455934
+        },
+        {
+          "language": "Spanish",
+          "name": "Falange del submundo",
+          "multiverseid": 455959
+        },
+        {
+          "language": "French",
+          "name": "Phalange née des enfers",
+          "multiverseid": 455984
+        },
+        {
+          "language": "Italian",
+          "name": "Falange degli Inferi",
+          "multiverseid": 456009
+        },
+        {
+          "language": "Japanese",
+          "name": "冥界生まれの密集軍",
+          "multiverseid": 456034
+        }
+      ],
+      "id": "0837378dd72c96a6f625527c66e1ec074e9590c1",
+      "imageName": "netherborn phalanx",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{5}{B}",
+      "multiverseid": 455909,
+      "name": "Netherborn Phalanx",
+      "number": "6",
+      "originalText": "When Netherborn Phalanx enters the battlefield, each opponent loses 1 life for each creature they control.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",
+      "originalType": "Creature — Horror",
+      "power": "2",
+      "printings": [
+        "RAV",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Horror"
+      ],
+      "text": "When Netherborn Phalanx enters the battlefield, each opponent loses 1 life for each creature they control.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",
+      "toughness": "4",
+      "type": "Creature — Horror",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Ron Spears",
+      "cmc": 5,
+      "colorIdentity": [
+        "B",
+        "U"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"My favorite meal is angel's flesh, slain in agony and iced with black vinegar.\"\n—Aszala of House Dimir",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Bänder der Nacht",
+          "multiverseid": 455935
+        },
+        {
+          "language": "Spanish",
+          "name": "Jirones de la noche",
+          "multiverseid": 455960
+        },
+        {
+          "language": "French",
+          "name": "Rubans de nuit",
+          "multiverseid": 455985
+        },
+        {
+          "language": "Italian",
+          "name": "Brandelli della Notte",
+          "multiverseid": 456010
+        },
+        {
+          "language": "Japanese",
+          "name": "夜の飾り紐",
+          "multiverseid": 456035
+        }
+      ],
+      "id": "d7fb4153cb3d2862cbb6abe5c5776e5c1954b558",
+      "imageName": "ribbons of night",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{B}",
+      "multiverseid": 455910,
+      "name": "Ribbons of Night",
+      "number": "7",
+      "originalText": "Ribbons of Night deals 4 damage to target creature and you gain 4 life. If {U} was spent to cast Ribbons of Night, draw a card.",
+      "originalType": "Sorcery",
+      "printings": [
+        "RAV",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Uncommon",
+      "text": "Ribbons of Night deals 4 damage to target creature and you gain 4 life. If {U} was spent to cast Ribbons of Night, draw a card.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Adam Paquette",
+      "cmc": 4,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Ruf der Nachtschwinge",
+          "multiverseid": 455936
+        },
+        {
+          "language": "Spanish",
+          "name": "Llamada del ala nocturna",
+          "multiverseid": 455961
+        },
+        {
+          "language": "French",
+          "name": "Appel de l'ailenuit",
+          "multiverseid": 455986
+        },
+        {
+          "language": "Italian",
+          "name": "Richiamo dell'Ala Notturna",
+          "multiverseid": 456011
+        },
+        {
+          "language": "Japanese",
+          "name": "夜翼の呼び声",
+          "multiverseid": 456036
+        }
+      ],
+      "id": "52eeadb47785c3d42e785817c19ecd909f20cb95",
+      "imageName": "call of the nightwing",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{U}{B}",
+      "multiverseid": 455911,
+      "name": "Call of the Nightwing",
+      "number": "8",
+      "originalText": "Create a 1/1 blue and black Horror creature token with flying.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",
+      "originalType": "Sorcery",
+      "printings": [
+        "GTC",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "You can exile Call of the Nightwing encoded on the Horror creature token it just created."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The spell with cipher is encoded on the creature as part of that spell's resolution, just after the spell's other effects. That card goes directly from the stack to exile. It never goes to the graveyard."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "You choose the creature as the spell resolves. The cipher ability doesn't target that creature, although the spell with cipher may target that creature (or a different creature) because of its other abilities."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If the spell with cipher doesn't resolve, none of its effects will happen, including cipher. The card will go to its owner's graveyard and won't be encoded on a creature."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If the creature leaves the battlefield, the exiled card will no longer be encoded on any creature. It will stay exiled."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you want to encode the card with cipher onto a noncreature permanent such as a Keyrune that can turn into a creature, that permanent has to be a creature before the spell with cipher starts resolving. You can choose only a creature to encode the card onto."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The copy of the card with cipher is created in and cast from exile."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "You cast the copy of the card with cipher during the resolution of the triggered ability. Ignore timing restrictions based on the card's type."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you choose not to cast the copy, or you can't cast it (perhaps because there are no legal targets available), the copy will cease to exist the next time state-based actions are performed. You won't get a chance to cast the copy at a later time."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The exiled card with cipher grants a triggered ability to the creature it's encoded on. If that creature loses that ability and subsequently deals combat damage to a player, the triggered ability won't trigger. However, the exiled card will continue to be encoded on that creature."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If another player gains control of the creature, that player will control the triggered ability. That player will create a copy of the encoded card and may cast it."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a creature with an encoded card deals combat damage to more than one player simultaneously (perhaps because some of the combat damage was redirected), the triggered ability will trigger once for each player it deals combat damage to. Each ability will create a copy of the exiled card and allow you to cast it."
+        }
+      ],
+      "text": "Create a 1/1 blue and black Horror creature token with flying.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Cyril Van Der Haegen",
+      "cmc": 4,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Circu, Dimir-Lobotomist",
+          "multiverseid": 455937
+        },
+        {
+          "language": "Spanish",
+          "name": "Circu, lobotomista dimir",
+          "multiverseid": 455962
+        },
+        {
+          "language": "French",
+          "name": "Circu, lobotomiste dimir",
+          "multiverseid": 455987
+        },
+        {
+          "language": "Italian",
+          "name": "Circu, Lobotomista Dimir",
+          "multiverseid": 456012
+        },
+        {
+          "language": "Japanese",
+          "name": "ディミーアの脳外科医、シアクー",
+          "multiverseid": 456037
+        }
+      ],
+      "id": "fcba2ec2c9e646d3c4b21af28cbedae6b0e19a65",
+      "imageName": "circu, dimir lobotomist",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{U}{B}",
+      "multiverseid": 455912,
+      "name": "Circu, Dimir Lobotomist",
+      "number": "9",
+      "originalText": "Whenever you cast a blue spell, exile the top card of target player's library.\nWhenever you cast a black spell, exile the top card of target player's library.\nYour opponents can't cast spells with the same name as a card exiled with Circu, Dimir Lobotomist.",
+      "originalType": "Legendary Creature — Human Wizard",
+      "power": "2",
+      "printings": [
+        "RAV",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "If you cast a blue and black spell, both of Circu's triggered abilities trigger. You can target two different players or target the same player twice."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "Circu's last ability applies to all of its controller's opponents, not just the owner of the exiled card."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "Circu's last ability doesn't prevent copies of the exiled cards from being cast because copies aren't cards."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "If a split card is exiled this way, opponents can't cast either half of the split card."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Whenever you cast a blue spell, exile the top card of target player's library.\nWhenever you cast a black spell, exile the top card of target player's library.\nYour opponents can't cast spells with the same name as a card exiled with Circu, Dimir Lobotomist.",
+      "toughness": "3",
+      "type": "Legendary Creature — Human Wizard",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Karl Kopinski",
+      "cmc": 5,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Verzehrende Scheußlichkeit",
+          "multiverseid": 455938
+        },
+        {
+          "language": "Spanish",
+          "name": "Aberración consumidora",
+          "multiverseid": 455963
+        },
+        {
+          "language": "French",
+          "name": "Aberration dévorante",
+          "multiverseid": 455988
+        },
+        {
+          "language": "Italian",
+          "name": "Aberrazione Distruttiva",
+          "multiverseid": 456013
+        },
+        {
+          "language": "Japanese",
+          "name": "破壊的な逸脱者",
+          "multiverseid": 456038
+        }
+      ],
+      "id": "81695bb959b9cd3e11ef6f55823cdb48a6b1ca30",
+      "imageName": "consuming aberration",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{U}{B}",
+      "multiverseid": 455913,
+      "name": "Consuming Aberration",
+      "number": "10",
+      "originalText": "Consuming Aberration's power and toughness are each equal to the number of cards in your opponents' graveyards.\nWhenever you cast a spell, each opponent reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.",
+      "originalType": "Creature — Horror",
+      "power": "*",
+      "printings": [
+        "pPRE",
+        "GTC",
+        "C16",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "If any opponent has no land cards in their library, all the cards from that library will be revealed and put into their graveyard."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "The cards will be put into graveyards before the spell you cast to cause the ability to trigger resolves. However, none of those cards will be in a graveyard as you cast that spell, so they can't be chosen as a target of that spell."
+        }
+      ],
+      "subtypes": [
+        "Horror"
+      ],
+      "text": "Consuming Aberration's power and toughness are each equal to the number of cards in your opponents' graveyards.\nWhenever you cast a spell, each opponent reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.",
+      "toughness": "*",
+      "type": "Creature — Horror",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Zoltan Boros",
+      "cmc": 2,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "flavor": "\"Dangerous to recognize. Deadly not to.\"\n—Lazav",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Dimir-Amulett",
+          "multiverseid": 455939
+        },
+        {
+          "language": "Spanish",
+          "name": "Amuleto dimir",
+          "multiverseid": 455964
+        },
+        {
+          "language": "French",
+          "name": "Charme de Dimir",
+          "multiverseid": 455989
+        },
+        {
+          "language": "Italian",
+          "name": "Talismano Dimir",
+          "multiverseid": 456014
+        },
+        {
+          "language": "Japanese",
+          "name": "ディミーアの魔除け",
+          "multiverseid": 456039
+        }
+      ],
+      "id": "ca00ac26fb2e0d4ab7d0234a265504ca3416ca4c",
+      "imageName": "dimir charm",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{U}{B}",
+      "multiverseid": 455914,
+      "name": "Dimir Charm",
+      "number": "11",
+      "originalText": "Choose one —\n• Counter target sorcery spell.\n• Destroy target creature with power 2 or less.\n• Look at the top three cards of target player's library. Put one back and the rest into that player's graveyard.",
+      "originalType": "Instant",
+      "printings": [
+        "pFNM",
+        "GTC",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Uncommon",
+      "text": "Choose one —\n• Counter target sorcery spell.\n• Destroy target creature with power 2 or less.\n• Look at the top three cards of target player's library. Put one back and the rest into that player's graveyard.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Jim Murray",
+      "cmc": 3,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "flavor": "\"Fear not. Your life will not go unlived.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Dimir-Doppelgänger",
+          "multiverseid": 455940
+        },
+        {
+          "language": "Spanish",
+          "name": "Duplicante dimir",
+          "multiverseid": 455965
+        },
+        {
+          "language": "French",
+          "name": "Doppelganger dimir",
+          "multiverseid": 455990
+        },
+        {
+          "language": "Italian",
+          "name": "Mutaforma Dimir",
+          "multiverseid": 456015
+        },
+        {
+          "language": "Japanese",
+          "name": "ディミーアのドッペルゲンガー",
+          "multiverseid": 456040
+        }
+      ],
+      "id": "0916f643008493c80d10c183d0e060e9ef9b851c",
+      "imageName": "dimir doppelganger",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{U}{B}",
+      "multiverseid": 455915,
+      "name": "Dimir Doppelganger",
+      "number": "12",
+      "originalText": "{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card, except it has this ability.",
+      "originalType": "Creature — Shapeshifter",
+      "power": "0",
+      "printings": [
+        "RAV",
+        "CNS",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "This creature becomes an exact copy of a copied card, except that it also has Dimir Doppelganger's activated ability. If it becomes a copy of a different creature card, the new copy will overwrite the old copy."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "A permanent's ability that refers to cards the creature exiled (such as Sisters of Stone Death's third ability) only affects cards exiled by other abilities intrinsic to that permanent (such as Sisters of Stone Death's second ability). Suppose that (a) Dimir Doppelganger copies Arc-Slogger, (b) its \"deal 2 damage\" ability is activated, and then (c) it copies Sisters of Stone Death. Creatures exiled by Arc-Slogger's ability can't be returned with Sisters of Stone Death's ability."
+        }
+      ],
+      "subtypes": [
+        "Shapeshifter"
+      ],
+      "text": "{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card, except it has this ability.",
+      "toughness": "2",
+      "type": "Creature — Shapeshifter",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Adam Rex",
+      "cmc": 2,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Dimir-Gildenmagier",
+          "multiverseid": 455941
+        },
+        {
+          "language": "Spanish",
+          "name": "Mago del Gremio Dimir",
+          "multiverseid": 455966
+        },
+        {
+          "language": "French",
+          "name": "Ghildmage de Dimir",
+          "multiverseid": 455991
+        },
+        {
+          "language": "Italian",
+          "name": "Mago della Gilda Dimir",
+          "multiverseid": 456016
+        },
+        {
+          "language": "Japanese",
+          "name": "ディミーアのギルド魔道士",
+          "multiverseid": 456041
+        }
+      ],
+      "id": "bd94ce2635e148daed772081179228706088ed3f",
+      "imageName": "dimir guildmage",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{U/B}{U/B}",
+      "multiverseid": 455916,
+      "name": "Dimir Guildmage",
+      "number": "13",
+      "originalText": "{3}{U}: Target player draws a card. Activate this ability only any time you could cast a sorcery.\n{3}{B}: Target player discards a card. Activate this ability only any time you could cast a sorcery.",
+      "originalType": "Creature — Human Wizard",
+      "power": "2",
+      "printings": [
+        "pREL",
+        "RAV",
+        "MM2",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "text": "({U/B} can be paid with either {U} or {B}.)\n{3}{U}: Target player draws a card. Activate this ability only any time you could cast a sorcery.\n{3}{B}: Target player discards a card. Activate this ability only any time you could cast a sorcery.",
+      "toughness": "2",
+      "type": "Creature — Human Wizard",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Johann Bodin",
+      "cmc": 6,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "flavor": "\"Welcome to the Dimir Public Offices. Not responsible for death or loss of property. Basement off-limits.\"\n—Sign outside Dinrova Building",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Dinrova-Schrecken",
+          "multiverseid": 455942
+        },
+        {
+          "language": "Spanish",
+          "name": "Horror de Dinrova",
+          "multiverseid": 455967
+        },
+        {
+          "language": "French",
+          "name": "Horreur de Dinrova",
+          "multiverseid": 455992
+        },
+        {
+          "language": "Italian",
+          "name": "Orrore di Dinrova",
+          "multiverseid": 456017
+        },
+        {
+          "language": "Japanese",
+          "name": "ディンローヴァの恐怖",
+          "multiverseid": 456042
+        }
+      ],
+      "id": "dfaef6e01a045bf9df3a8e536527c9054ff58127",
+      "imageName": "dinrova horror",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{U}{B}",
+      "multiverseid": 455917,
+      "name": "Dinrova Horror",
+      "number": "14",
+      "originalText": "When Dinrova Horror enters the battlefield, return target permanent to its owner's hand, then that player discards a card.",
+      "originalType": "Creature — Horror",
+      "power": "4",
+      "printings": [
+        "GTC",
+        "MM3",
+        "BBD",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2017-03-14",
+          "text": "If the target permanent is an illegal target when Dinrova Horror's ability tries to resolve, the ability won't resolve and none of its effects will happen. No player will discard a card."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "If a player has no cards in their hand and Dinrova Horror returns a card to that player's hand, the player must discard that card. They won't have the opportunity to cast that card (or do anything else with it) before discarding it."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "A token permanent returned to a player's hand isn't a card and can't be discarded. It will cease to exist when state-based actions are performed after the ability finishes resolving."
+        }
+      ],
+      "subtypes": [
+        "Horror"
+      ],
+      "text": "When Dinrova Horror enters the battlefield, return target permanent to its owner's hand, then that player discards a card.",
+      "toughness": "4",
+      "type": "Creature — Horror",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Brandon Kitkouski",
+      "cmc": 2,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "flavor": "\"I am confident that if anyone actually penetrates our facades, even the most perceptive would still be fundamentally unprepared for the truth of House Dimir.\"\n—Szadek",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Schimmer des Undenkbaren",
+          "multiverseid": 455943
+        },
+        {
+          "language": "Spanish",
+          "name": "Vislumbrar lo impensable",
+          "multiverseid": 455968
+        },
+        {
+          "language": "French",
+          "name": "Aperçu de l'inimaginable",
+          "multiverseid": 455993
+        },
+        {
+          "language": "Italian",
+          "name": "Cogliere l'Inconcepibile",
+          "multiverseid": 456018
+        },
+        {
+          "language": "Japanese",
+          "name": "不可思の一瞥",
+          "multiverseid": 456043
+        }
+      ],
+      "id": "3c08253d85422a855383ad4d98a9561a341e0656",
+      "imageName": "glimpse the unthinkable",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{U}{B}",
+      "multiverseid": 455918,
+      "name": "Glimpse the Unthinkable",
+      "number": "15",
+      "originalText": "Target player puts the top ten cards of their library into their graveyard.",
+      "originalType": "Sorcery",
+      "printings": [
+        "RAV",
+        "IMA",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Rare",
+      "text": "Target player puts the top ten cards of their library into their graveyard.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "David Rapoza",
+      "cmc": 4,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Lazav, Dimir-Drahtzieher",
+          "multiverseid": 455944
+        },
+        {
+          "language": "Spanish",
+          "name": "Lazav, mente maestra dimir",
+          "multiverseid": 455969
+        },
+        {
+          "language": "French",
+          "name": "Lazav, érudit de Dimir",
+          "multiverseid": 455994
+        },
+        {
+          "language": "Italian",
+          "name": "Lazav, Genio Dimir",
+          "multiverseid": 456019
+        },
+        {
+          "language": "Japanese",
+          "name": "ディミーアの黒幕ラザーヴ",
+          "multiverseid": 456044
+        }
+      ],
+      "id": "71c6d8236da8ca6a1eed00d1bd1c6b723dc579f9",
+      "imageName": "lazav, dimir mastermind",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{U}{U}{B}{B}",
+      "multiverseid": 455919,
+      "name": "Lazav, Dimir Mastermind",
+      "number": "16",
+      "originalText": "Hexproof\nWhenever a creature card is put into an opponent's graveyard from anywhere, you may have Lazav, Dimir Mastermind become a copy of that card, except its name is Lazav, Dimir Mastermind, it's legendary in addition to its other types, and it has hexproof and this ability.",
+      "originalType": "Legendary Creature — Shapeshifter",
+      "power": "3",
+      "printings": [
+        "GTC",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Mythic Rare",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "Lazav, Dimir Mastermind becomes a copy of the creature card in the graveyard. If that card is no longer in the graveyard when Lazav's ability resolves, use the characteristics of that card as it last existed in the graveyard. Notably, copy effects that applied to the creature card when it was on the battlefield won't be copied by Lazav. For example, if a Clone is put into an opponent's graveyard from the battlefield and you use Lazav's ability, it will become 0/0. It won't become a copy of whatever Clone was copying."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "If multiple creature cards are put into an opponent's graveyard at the same time, you choose the order that Lazav's triggered abilities go on the stack."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "Enters-the-battlefield abilities of the creature card Lazav is copying won't trigger as Lazav is already on the battlefield when it becomes a copy of that creature card."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "Token creatures dying won't cause Lazav's triggered ability to trigger."
+        }
+      ],
+      "subtypes": [
+        "Shapeshifter"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Hexproof\nWhenever a creature card is put into an opponent's graveyard from anywhere, you may have Lazav, Dimir Mastermind become a copy of that card, except its name is Lazav, Dimir Mastermind, it's legendary in addition to its other types, and it has hexproof and this ability.",
+      "toughness": "3",
+      "type": "Legendary Creature — Shapeshifter",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Chase Stone",
+      "cmc": 5,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Mirko Vosk, Verstandtrinker",
+          "multiverseid": 455945
+        },
+        {
+          "language": "Spanish",
+          "name": "Mirko Vosk, bebedor de mentes",
+          "multiverseid": 455970
+        },
+        {
+          "language": "French",
+          "name": "Mirko Vosk, buveur d'esprit",
+          "multiverseid": 455995
+        },
+        {
+          "language": "Italian",
+          "name": "Mirko Vosk, Suggimente",
+          "multiverseid": 456020
+        },
+        {
+          "language": "Japanese",
+          "name": "精神を飲む者、ミルコ・ヴォスク",
+          "multiverseid": 456045
+        }
+      ],
+      "id": "c9ceb02f61b3e7b7b43fa5d9216146cade828cb0",
+      "imageName": "mirko vosk, mind drinker",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{U}{B}",
+      "multiverseid": 455920,
+      "name": "Mirko Vosk, Mind Drinker",
+      "number": "17",
+      "originalText": "Flying\nWhenever Mirko Vosk, Mind Drinker deals combat damage to a player, that player reveals cards from the top of their library until they reveal four land cards, then puts those cards into their graveyard.",
+      "originalType": "Legendary Creature — Vampire",
+      "power": "2",
+      "printings": [
+        "DGM",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "If the player has fewer than four land cards in their library, all cards from that library will be revealed and put into that player's graveyard."
+        }
+      ],
+      "subtypes": [
+        "Vampire"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying\nWhenever Mirko Vosk, Mind Drinker deals combat damage to a player, that player reveals cards from the top of their library until they reveal four land cards, then puts those cards into their graveyard.",
+      "toughness": "4",
+      "type": "Legendary Creature — Vampire",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Dan Scott",
+      "cmc": 4,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "flavor": "\"Touched by moroii\"\n—Undercity slang meaning \"to grow old\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Moroii",
+          "multiverseid": 455946
+        },
+        {
+          "language": "Spanish",
+          "name": "Moroii",
+          "multiverseid": 455971
+        },
+        {
+          "language": "French",
+          "name": "Moroii",
+          "multiverseid": 455996
+        },
+        {
+          "language": "Italian",
+          "name": "Moroii",
+          "multiverseid": 456021
+        },
+        {
+          "language": "Japanese",
+          "name": "モロイ",
+          "multiverseid": 456046
+        }
+      ],
+      "id": "b0f4479ba0eb77ee48da60fd44f2aa6db0df8e4f",
+      "imageName": "moroii",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{U}{B}",
+      "multiverseid": 455921,
+      "name": "Moroii",
+      "number": "18",
+      "originalText": "Flying\nAt the beginning of your upkeep, you lose 1 life.",
+      "originalType": "Creature — Vampire",
+      "power": "4",
+      "printings": [
+        "RAV",
+        "DDH",
+        "MM3",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Vampire"
+      ],
+      "text": "Flying\nAt the beginning of your upkeep, you lose 1 life.",
+      "toughness": "4",
+      "type": "Creature — Vampire",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Min Yum",
+      "cmc": 3,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Nachtschleiergespenst",
+          "multiverseid": 455947
+        },
+        {
+          "language": "Spanish",
+          "name": "Espectro velo nocturno",
+          "multiverseid": 455972
+        },
+        {
+          "language": "French",
+          "name": "Spectre voilenuit",
+          "multiverseid": 455997
+        },
+        {
+          "language": "Italian",
+          "name": "Spettro Velo Notturno",
+          "multiverseid": 456022
+        },
+        {
+          "language": "Japanese",
+          "name": "夜帷の死霊",
+          "multiverseid": 456047
+        }
+      ],
+      "id": "6f146917746131cd050800e457c0c9cd5b849161",
+      "imageName": "nightveil specter",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{U/B}{U/B}{U/B}",
+      "multiverseid": 455922,
+      "name": "Nightveil Specter",
+      "number": "19",
+      "originalText": "Flying\nWhenever Nightveil Specter deals combat damage to a player, that player exiles the top card of their library.\nYou may play cards exiled with Nightveil Specter.",
+      "originalType": "Creature — Specter",
+      "power": "2",
+      "printings": [
+        "pMEI",
+        "GTC",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "The card is exiled face up. All players may look at it."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "Playing a card exiled with Nightveil Specter follows all the normal rules for playing that card. You must pay its costs, and you must follow all timing restrictions, for example."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "Nightveil Specter's last ability applies to cards exiled with that specific Nightveil Specter, not any other creature named Nightveil Specter. You should keep cards exiled by different Nightveil Specters separate."
+        }
+      ],
+      "subtypes": [
+        "Specter"
+      ],
+      "text": "Flying\nWhenever Nightveil Specter deals combat damage to a player, that player exiles the top card of their library.\nYou may play cards exiled with Nightveil Specter.",
+      "toughness": "3",
+      "type": "Creature — Specter",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Donato Giancola",
+      "cmc": 7,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Szadek, Herr der Geheimnisse",
+          "multiverseid": 455948
+        },
+        {
+          "language": "Spanish",
+          "name": "Szadek, señor de los secretos",
+          "multiverseid": 455973
+        },
+        {
+          "language": "French",
+          "name": "Szadek, Seigneur des secrets",
+          "multiverseid": 455998
+        },
+        {
+          "language": "Italian",
+          "name": "Szadek, Signore dei Segreti",
+          "multiverseid": 456023
+        },
+        {
+          "language": "Japanese",
+          "name": "秘密の王、ザデック",
+          "multiverseid": 456048
+        }
+      ],
+      "id": "932d2158b4ebb81c29bd0ea9731fccb9154d88cf",
+      "imageName": "szadek, lord of secrets",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{U}{U}{B}{B}",
+      "multiverseid": 455923,
+      "name": "Szadek, Lord of Secrets",
+      "number": "20",
+      "originalText": "Flying\nIf Szadek, Lord of Secrets would deal combat damage to a player, instead put that many +1/+1 counters on Szadek and that player puts that many cards from the top of their library into their graveyard.",
+      "originalType": "Legendary Creature — Vampire",
+      "power": "5",
+      "printings": [
+        "RAV",
+        "CMD",
+        "CM2",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "If another effect would prevent Szadek's combat damage from being dealt to the defending player or replace it with something else, that player chooses which effect applies first. For example, the player can choose to first have Mending Hands prevent 4 of the damage and then apply Szadek's ability so that it gets only one counter."
+        }
+      ],
+      "subtypes": [
+        "Vampire"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying\nIf Szadek, Lord of Secrets would deal combat damage to a player, instead put that many +1/+1 counters on Szadek and that player puts that many cards from the top of their library into their graveyard.",
+      "toughness": "5",
+      "type": "Legendary Creature — Vampire",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Karl Kopinski",
+      "cmc": 2,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "flavor": "The Gruul seek unbounded strength. The Dimir deliver cruel irony.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Verkrümmte Figur",
+          "multiverseid": 455949
+        },
+        {
+          "language": "Spanish",
+          "name": "Físico deformado",
+          "multiverseid": 455974
+        },
+        {
+          "language": "French",
+          "name": "Physique difforme",
+          "multiverseid": 455999
+        },
+        {
+          "language": "Italian",
+          "name": "Fisico Deforme",
+          "multiverseid": 456024
+        },
+        {
+          "language": "Japanese",
+          "name": "歪んだ体形",
+          "multiverseid": 456049
+        }
+      ],
+      "id": "d37d3b47e7bebc8fc8e75147e408663192ae967e",
+      "imageName": "warped physique",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{U}{B}",
+      "multiverseid": 455924,
+      "name": "Warped Physique",
+      "number": "21",
+      "originalText": "Target creature gets +X/-X until end of turn, where X is the number of cards in your hand.",
+      "originalType": "Instant",
+      "printings": [
+        "DGM",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "Use the number of cards in your hand as Warped Physique resolves to determine the value of X. Warped Physique won't be in your hand at that time."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Once Warped Physique resolves, the effect won't change if the number of cards in your hand changes."
+        }
+      ],
+      "text": "Target creature gets +X/-X until end of turn, where X is the number of cards in your hand.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Raoul Vitale",
+      "cmc": 2,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "flavor": "An emblem of a secret guild, the Dimir insignia is seen only by its own members—and the doomed.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Dimir-Petschaft",
+          "multiverseid": 455950
+        },
+        {
+          "language": "Spanish",
+          "name": "Sello dimir",
+          "multiverseid": 455975
+        },
+        {
+          "language": "French",
+          "name": "Cachet de Dimir",
+          "multiverseid": 456000
+        },
+        {
+          "language": "Italian",
+          "name": "Sigillo Dimir",
+          "multiverseid": 456025
+        },
+        {
+          "language": "Japanese",
+          "name": "ディミーアの印鑑",
+          "multiverseid": 456050
+        }
+      ],
+      "id": "c122354c5acf59adfcae52df2a2ddafdfef58250",
+      "imageName": "dimir signet",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}",
+      "multiverseid": 455925,
+      "name": "Dimir Signet",
+      "number": "22",
+      "originalText": "{1}, {T}: Add {U}{B}.",
+      "originalType": "Artifact",
+      "printings": [
+        "RAV",
+        "ARC",
+        "CMD",
+        "MM3",
+        "CM2",
+        "C18",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Common",
+      "text": "{1}, {T}: Add {U}{B}.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "John Avon",
+      "cmc": 0,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Dimir-Aquädukt",
+          "multiverseid": 455951
+        },
+        {
+          "language": "Spanish",
+          "name": "Acueducto dimir",
+          "multiverseid": 455976
+        },
+        {
+          "language": "French",
+          "name": "Aqueduc de Dimir",
+          "multiverseid": 456001
+        },
+        {
+          "language": "Italian",
+          "name": "Acquedotto Dimir",
+          "multiverseid": 456026
+        },
+        {
+          "language": "Japanese",
+          "name": "ディミーアの水路",
+          "multiverseid": 456051
+        }
+      ],
+      "id": "6099e76a382b53a9fc5155dc84cb63c0310ad50e",
+      "imageName": "dimir aqueduct",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 455926,
+      "name": "Dimir Aqueduct",
+      "number": "23",
+      "originalText": "Dimir Aqueduct enters the battlefield tapped.\nWhen Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {U}{B}.",
+      "originalType": "Land",
+      "printings": [
+        "RAV",
+        "CMD",
+        "PC2",
+        "MM2",
+        "C16",
+        "PCA",
+        "C17",
+        "IMA",
+        "CM2",
+        "C18",
+        "GK1_DIMIR"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand."
+        }
+      ],
+      "text": "Dimir Aqueduct enters the battlefield tapped.\nWhen Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {U}{B}.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Dimir"
+    },
+    {
+      "artist": "Jung Park",
+      "cmc": 0,
+      "colorIdentity": [
+        "U"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Insel",
+          "multiverseid": 455952
+        },
+        {
+          "language": "Spanish",
+          "name": "Isla",
+          "multiverseid": 455977
+        },
+        {
+          "language": "French",
+          "name": "Île",
+          "multiverseid": 456002
+        },
+        {
+          "language": "Italian",
+          "name": "Isola",
+          "multiverseid": 456027
+        },
+        {
+          "language": "Japanese",
+          "name": "島",
+          "multiverseid": 456052
+        }
+      ],
+      "id": "0a3a0520bec26cd1ee7cf62140446d31b732481f",
+      "imageName": "island",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 455927,
+      "name": "Island",
+      "number": "24",
+      "originalText": "U",
+      "originalType": "Basic Land — Island",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_IZZET",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Island"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Island",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Blue"
+    },
+    {
+      "artist": "Noah Bradley",
+      "cmc": 0,
+      "colorIdentity": [
+        "B"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Sumpf",
+          "multiverseid": 455953
+        },
+        {
+          "language": "Spanish",
+          "name": "Pantano",
+          "multiverseid": 455978
+        },
+        {
+          "language": "French",
+          "name": "Marais",
+          "multiverseid": 456003
+        },
+        {
+          "language": "Italian",
+          "name": "Palude",
+          "multiverseid": 456028
+        },
+        {
+          "language": "Japanese",
+          "name": "沼",
+          "multiverseid": 456053
+        }
+      ],
+      "id": "209e11b74e20a9777f7f26323a917c54b9a25f63",
+      "imageName": "swamp",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 455928,
+      "name": "Swamp",
+      "number": "25",
+      "originalText": "B",
+      "originalType": "Basic Land — Swamp",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM",
+        "BBD",
+        "CM2",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_GOLGAR",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Swamp"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Swamp",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Black"
+    }
+  ]
+}

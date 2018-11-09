@@ -7690,7 +7690,8 @@
         "ORI",
         "DDT",
         "IMA",
-        "BBD"
+        "BBD",
+        "GNT"
       ],
       "rarity": "Common",
       "rulings": [
@@ -8434,7 +8435,8 @@
         "THS",
         "DDO",
         "CN2",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -8813,7 +8815,8 @@
         "CNS",
         "SOI",
         "E01",
-        "BBD"
+        "BBD",
+        "GNT"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -9015,7 +9018,8 @@
       "originalType": "Sorcery",
       "printings": [
         "M13",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -9155,7 +9159,8 @@
       "printings": [
         "GTC",
         "A25",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Put target nonland permanent on top of its owner's library.",
@@ -9628,7 +9633,8 @@
       "power": "1",
       "printings": [
         "AKH",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -12577,7 +12583,8 @@
         "M14",
         "DDN",
         "AER",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Shock deals 2 damage to any target.",
@@ -12715,7 +12722,8 @@
         "CN2",
         "IMA",
         "A25",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -13289,7 +13297,8 @@
       "printings": [
         "ROE",
         "DDP",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -16129,7 +16138,8 @@
       "power": "2",
       "printings": [
         "KLD",
-        "BBD"
+        "BBD",
+        "GNT"
       ],
       "rarity": "Common",
       "rulings": [
@@ -17227,7 +17237,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17395,7 +17408,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17566,7 +17582,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17740,7 +17759,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17911,7 +17933,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

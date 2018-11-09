@@ -118,7 +118,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}{W}",
-      "mciNumber": "1",
       "multiverseid": 197160,
       "name": "Admonition Angel",
       "number": "1",
@@ -234,7 +233,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "2",
       "multiverseid": 197769,
       "name": "Apex Hawks",
       "number": "2",
@@ -334,7 +332,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "3",
       "multiverseid": 201575,
       "name": "Archon of Redemption",
       "number": "3",
@@ -439,7 +436,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "4",
       "multiverseid": 198394,
       "name": "Battle Hurda",
       "number": "4",
@@ -538,7 +534,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "5",
       "multiverseid": 191580,
       "name": "Fledgling Griffin",
       "number": "5",
@@ -646,7 +641,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "6",
       "multiverseid": 197872,
       "name": "Guardian Zendikon",
       "number": "6",
@@ -770,7 +764,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "7",
       "multiverseid": 198400,
       "name": "Hada Freeblade",
       "number": "7",
@@ -872,7 +865,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "8",
       "multiverseid": 197880,
       "name": "Iona's Judgment",
       "number": "8",
@@ -967,7 +959,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "9",
       "multiverseid": 194706,
       "name": "Join the Ranks",
       "number": "9",
@@ -1067,7 +1058,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "10",
       "multiverseid": 194018,
       "name": "Kitesail Apprentice",
       "number": "10",
@@ -1167,7 +1157,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "11",
       "multiverseid": 194708,
       "name": "Kor Firewalker",
       "number": "11",
@@ -1274,7 +1263,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "12",
       "multiverseid": 189159,
       "name": "Lightkeeper of Emeria",
       "number": "12",
@@ -1375,7 +1363,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "13",
       "multiverseid": 197873,
       "name": "Loam Lion",
       "number": "13",
@@ -1481,7 +1468,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "14",
       "multiverseid": 194718,
       "name": "Marsh Threader",
       "number": "14",
@@ -1580,7 +1566,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "15",
       "multiverseid": 198393,
       "name": "Marshal's Anthem",
       "number": "15",
@@ -1676,7 +1661,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "16",
       "multiverseid": 198361,
       "name": "Perimeter Captain",
       "number": "16",
@@ -1775,7 +1759,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "17",
       "multiverseid": 189163,
       "name": "Refraction Trap",
       "number": "17",
@@ -1910,7 +1893,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "18",
       "multiverseid": 189180,
       "name": "Rest for the Weary",
       "number": "18",
@@ -2026,7 +2008,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "19",
       "multiverseid": 198378,
       "name": "Ruin Ghost",
       "number": "19",
@@ -2138,7 +2119,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "20",
       "multiverseid": 198383,
       "name": "Stoneforge Mystic",
       "number": "20",
@@ -2245,7 +2225,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "21",
       "multiverseid": 194672,
       "name": "Talus Paladin",
       "number": "21",
@@ -2352,7 +2331,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "22",
       "multiverseid": 197866,
       "name": "Terra Eternal",
       "number": "22",
@@ -2452,7 +2430,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "23",
       "multiverseid": 198384,
       "name": "Veteran's Reflexes",
       "number": "23",
@@ -2555,7 +2532,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "24",
       "multiverseid": 201568,
       "name": "Aether Tradewinds",
       "number": "24",
@@ -2656,7 +2632,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "25",
       "multiverseid": 191569,
       "name": "Calcite Snapper",
       "number": "25",
@@ -2781,7 +2756,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "26",
       "multiverseid": 201562,
       "name": "Dispel",
       "number": "26",
@@ -2876,7 +2850,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "27",
       "multiverseid": 197767,
       "name": "Enclave Elite",
       "number": "27",
@@ -2977,7 +2950,6 @@
         }
       ],
       "manaCost": "{5}{U}{U}",
-      "mciNumber": "28",
       "multiverseid": 197153,
       "name": "Goliath Sphinx",
       "number": "28",
@@ -3075,7 +3047,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "29",
       "multiverseid": 197129,
       "name": "Halimar Excavator",
       "number": "29",
@@ -3176,7 +3147,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "30",
       "multiverseid": 180412,
       "name": "Horizon Drake",
       "number": "30",
@@ -3281,7 +3251,6 @@
       ],
       "loyalty": 3,
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "31",
       "multiverseid": 195297,
       "name": "Jace, the Mind Sculptor",
       "number": "31",
@@ -3395,7 +3364,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "32",
       "multiverseid": 198390,
       "name": "Jwari Shapeshifter",
       "number": "32",
@@ -3517,7 +3485,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "33",
       "multiverseid": 194699,
       "name": "Mysteries of the Deep",
       "number": "33",
@@ -3632,7 +3599,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "34",
       "multiverseid": 194703,
       "name": "Permafrost Trap",
       "number": "34",
@@ -3742,7 +3708,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "35",
       "multiverseid": 198401,
       "name": "Quest for Ula's Temple",
       "number": "35",
@@ -3849,7 +3814,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "36",
       "multiverseid": 197844,
       "name": "Sejiri Merfolk",
       "number": "36",
@@ -3949,7 +3913,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "37",
       "multiverseid": 194700,
       "name": "Selective Memory",
       "number": "37",
@@ -4042,7 +4005,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "38",
       "multiverseid": 194714,
       "name": "Spell Contortion",
       "number": "38",
@@ -4146,7 +4108,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "39",
       "multiverseid": 198370,
       "name": "Surrakar Banisher",
       "number": "39",
@@ -4245,7 +4206,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "40",
       "multiverseid": 197973,
       "name": "Thada Adel, Acquisitor",
       "number": "40",
@@ -4362,7 +4322,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "41",
       "multiverseid": 194012,
       "name": "Tideforce Elemental",
       "number": "41",
@@ -4471,7 +4430,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "42",
       "multiverseid": 197968,
       "name": "Treasure Hunt",
       "number": "42",
@@ -4581,7 +4539,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "43",
       "multiverseid": 198396,
       "name": "Twitch",
       "number": "43",
@@ -4683,7 +4640,6 @@
         }
       ],
       "manaCost": "{4}{U}",
-      "mciNumber": "44",
       "multiverseid": 194003,
       "name": "Vapor Snare",
       "number": "44",
@@ -4779,7 +4735,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "45",
       "multiverseid": 189181,
       "name": "Voyager Drake",
       "number": "45",
@@ -4877,7 +4832,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "46",
       "multiverseid": 197865,
       "name": "Wind Zendikon",
       "number": "46",
@@ -5000,7 +4954,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "47",
       "multiverseid": 197869,
       "name": "Abyssal Persecutor",
       "number": "47",
@@ -5126,7 +5079,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "48",
       "multiverseid": 198402,
       "name": "Agadeem Occultist",
       "number": "48",
@@ -5233,7 +5185,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "49",
       "multiverseid": 177508,
       "name": "Anowon, the Ruin Sage",
       "number": "49",
@@ -5346,7 +5297,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "50",
       "multiverseid": 191570,
       "name": "Bloodhusk Ritualist",
       "number": "50",
@@ -5447,7 +5397,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "51",
       "multiverseid": 197159,
       "name": "Bojuka Brigand",
       "number": "51",
@@ -5548,7 +5497,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "52",
       "multiverseid": 201571,
       "name": "Brink of Disaster",
       "number": "52",
@@ -5664,7 +5612,6 @@
         }
       ],
       "manaCost": "{5}{B}{B}",
-      "mciNumber": "53",
       "multiverseid": 197125,
       "name": "Butcher of Malakir",
       "number": "53",
@@ -5789,7 +5736,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "54",
       "multiverseid": 198376,
       "name": "Caustic Crawler",
       "number": "54",
@@ -5897,7 +5843,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "55",
       "multiverseid": 197874,
       "name": "Corrupted Zendikon",
       "number": "55",
@@ -6020,7 +5965,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "56",
       "multiverseid": 194679,
       "name": "Dead Reckoning",
       "number": "56",
@@ -6132,7 +6076,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "57",
       "multiverseid": 198372,
       "name": "Death's Shadow",
       "number": "57",
@@ -6254,7 +6197,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "58",
       "multiverseid": 191581,
       "name": "Jagwasp Swarm",
       "number": "58",
@@ -6353,7 +6295,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "59",
       "multiverseid": 197118,
       "name": "Kalastria Highborn",
       "number": "59",
@@ -6468,7 +6409,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "60",
       "multiverseid": 194002,
       "name": "Mire's Toll",
       "number": "60",
@@ -6568,7 +6508,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "61",
       "multiverseid": 197836,
       "name": "Nemesis Trap",
       "number": "61",
@@ -6704,7 +6643,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "62",
       "multiverseid": 197154,
       "name": "Pulse Tracker",
       "number": "62",
@@ -6804,7 +6742,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "63",
       "multiverseid": 197763,
       "name": "Quag Vampires",
       "number": "63",
@@ -6904,7 +6841,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "64",
       "multiverseid": 198386,
       "name": "Quest for the Nihil Stone",
       "number": "64",
@@ -7004,7 +6940,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "65",
       "multiverseid": 194678,
       "name": "Ruthless Cullblade",
       "number": "65",
@@ -7103,7 +7038,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "66",
       "multiverseid": 198382,
       "name": "Scrib Nibblers",
       "number": "66",
@@ -7212,7 +7146,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "67",
       "multiverseid": 197877,
       "name": "Shoreline Salvager",
       "number": "67",
@@ -7315,7 +7248,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "68",
       "multiverseid": 191578,
       "name": "Smother",
       "number": "68",
@@ -7425,7 +7357,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "69",
       "multiverseid": 195307,
       "name": "Tomb Hex",
       "number": "69",
@@ -7540,7 +7471,6 @@
         }
       ],
       "manaCost": "{B}{B}",
-      "mciNumber": "70",
       "multiverseid": 198368,
       "name": "Urge to Feed",
       "number": "70",
@@ -7649,7 +7579,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "71",
       "multiverseid": 198360,
       "name": "Akoum Battlesinger",
       "number": "71",
@@ -7750,7 +7679,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "72",
       "multiverseid": 198364,
       "name": "Bazaar Trader",
       "number": "72",
@@ -7863,7 +7791,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "73",
       "multiverseid": 201560,
       "name": "Bull Rush",
       "number": "73",
@@ -7957,7 +7884,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "74",
       "multiverseid": 201573,
       "name": "Chain Reaction",
       "number": "74",
@@ -8059,7 +7985,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "75",
       "multiverseid": 193975,
       "name": "Claws of Valakut",
       "number": "75",
@@ -8156,7 +8081,6 @@
         }
       ],
       "manaCost": "{X}{R}{R}",
-      "mciNumber": "76",
       "multiverseid": 197766,
       "name": "Comet Storm",
       "number": "76",
@@ -8274,7 +8198,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "77",
       "multiverseid": 201565,
       "name": "Cosi's Ravager",
       "number": "77",
@@ -8383,7 +8306,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "78",
       "multiverseid": 180416,
       "name": "Crusher Zendikon",
       "number": "78",
@@ -8506,7 +8428,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "79",
       "multiverseid": 201563,
       "name": "Cunning Sparkmage",
       "number": "79",
@@ -8605,7 +8526,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "80",
       "multiverseid": 191540,
       "name": "Deathforge Shaman",
       "number": "80",
@@ -8710,7 +8630,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "81",
       "multiverseid": 197854,
       "name": "Dragonmaster Outcast",
       "number": "81",
@@ -8812,7 +8731,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "82",
       "multiverseid": 194681,
       "name": "Goblin Roughrider",
       "number": "82",
@@ -8911,7 +8829,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "83",
       "multiverseid": 191548,
       "name": "Grotag Thrasher",
       "number": "83",
@@ -9020,7 +8937,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "84",
       "multiverseid": 197145,
       "name": "Kazuul, Tyrant of the Cliffs",
       "number": "84",
@@ -9149,7 +9065,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}{R}",
-      "mciNumber": "85",
       "multiverseid": 197162,
       "name": "Mordant Dragon",
       "number": "85",
@@ -9249,7 +9164,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "86",
       "multiverseid": 198392,
       "name": "Quest for the Goblin Lord",
       "number": "86",
@@ -9343,7 +9257,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "87",
       "multiverseid": 191549,
       "name": "Ricochet Trap",
       "number": "87",
@@ -9466,7 +9379,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}",
-      "mciNumber": "88",
       "multiverseid": 194671,
       "name": "Roiling Terrain",
       "number": "88",
@@ -9574,7 +9486,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "89",
       "multiverseid": 197770,
       "name": "Rumbling Aftershocks",
       "number": "89",
@@ -9677,7 +9588,6 @@
         }
       ],
       "manaCost": "{R}{R}",
-      "mciNumber": "90",
       "multiverseid": 193982,
       "name": "Searing Blaze",
       "number": "90",
@@ -9802,7 +9712,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "91",
       "multiverseid": 197758,
       "name": "Skitter of Lizards",
       "number": "91",
@@ -9902,7 +9811,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "92",
       "multiverseid": 197859,
       "name": "Slavering Nulls",
       "number": "92",
@@ -10002,7 +9910,6 @@
         }
       ],
       "manaCost": "{5}{R}",
-      "mciNumber": "93",
       "multiverseid": 191552,
       "name": "Stone Idol Trap",
       "number": "93",
@@ -10120,7 +10027,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "94",
       "multiverseid": 201579,
       "name": "Tuktuk Scrapper",
       "number": "94",
@@ -10231,7 +10137,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "95",
       "multiverseid": 197959,
       "name": "Arbor Elf",
       "number": "95",
@@ -10332,7 +10237,6 @@
         }
       ],
       "manaCost": "{5}{G}{G}",
-      "mciNumber": "96",
       "multiverseid": 201570,
       "name": "Avenger of Zendikar",
       "number": "96",
@@ -10443,7 +10347,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "97",
       "multiverseid": 197843,
       "name": "Bestial Menace",
       "number": "97",
@@ -10538,7 +10441,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "98",
       "multiverseid": 193970,
       "name": "Canopy Cover",
       "number": "98",
@@ -10641,7 +10543,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "99",
       "multiverseid": 201578,
       "name": "Explore",
       "number": "99",
@@ -10752,7 +10653,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "100",
       "multiverseid": 198362,
       "name": "Feral Contest",
       "number": "100",
@@ -10871,7 +10771,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "101",
       "multiverseid": 197771,
       "name": "Gnarlid Pack",
       "number": "101",
@@ -10972,7 +10871,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "102",
       "multiverseid": 198371,
       "name": "Grappler Spider",
       "number": "102",
@@ -11071,7 +10969,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "103",
       "multiverseid": 193994,
       "name": "Graypelt Hunter",
       "number": "103",
@@ -11173,7 +11070,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "104",
       "multiverseid": 193998,
       "name": "Groundswell",
       "number": "104",
@@ -11290,7 +11186,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "105",
       "multiverseid": 194675,
       "name": "Harabaz Druid",
       "number": "105",
@@ -11396,7 +11291,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "106",
       "multiverseid": 197765,
       "name": "Joraga Warcaller",
       "number": "106",
@@ -11505,7 +11399,6 @@
         }
       ],
       "manaCost": "{G}{G}{G}",
-      "mciNumber": "107",
       "multiverseid": 197856,
       "name": "Leatherback Baloth",
       "number": "107",
@@ -11603,7 +11496,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "108",
       "multiverseid": 198357,
       "name": "Nature's Claim",
       "number": "108",
@@ -11706,7 +11598,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "109",
       "multiverseid": 197759,
       "name": "Omnath, Locus of Mana",
       "number": "109",
@@ -11822,7 +11713,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "110",
       "multiverseid": 194007,
       "name": "Quest for Renewal",
       "number": "110",
@@ -11934,7 +11824,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "111",
       "multiverseid": 194017,
       "name": "Slingbow Trap",
       "number": "111",
@@ -12041,7 +11930,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "112",
       "multiverseid": 191547,
       "name": "Snapping Creeper",
       "number": "112",
@@ -12149,7 +12037,6 @@
         }
       ],
       "manaCost": "{X}{G}{G}",
-      "mciNumber": "113",
       "multiverseid": 197875,
       "name": "Strength of the Tajuru",
       "number": "113",
@@ -12261,7 +12148,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "114",
       "multiverseid": 197864,
       "name": "Summit Apes",
       "number": "114",
@@ -12365,7 +12251,6 @@
         }
       ],
       "manaCost": "{6}{G}{G}",
-      "mciNumber": "115",
       "multiverseid": 197137,
       "name": "Terastodon",
       "number": "115",
@@ -12480,7 +12365,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "116",
       "multiverseid": 201566,
       "name": "Vastwood Animist",
       "number": "116",
@@ -12598,7 +12482,6 @@
         }
       ],
       "manaCost": "{4}{G}",
-      "mciNumber": "117",
       "multiverseid": 197870,
       "name": "Vastwood Zendikon",
       "number": "117",
@@ -12721,7 +12604,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "118",
       "multiverseid": 189162,
       "name": "Wolfbriar Elemental",
       "number": "118",
@@ -12826,7 +12708,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}{W}{W}",
-      "mciNumber": "119",
       "multiverseid": 197857,
       "name": "Novablast Wurm",
       "number": "119",
@@ -12940,7 +12821,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}{B}",
-      "mciNumber": "120",
       "multiverseid": 197840,
       "name": "Wrexial, the Risen Deep",
       "number": "120",
@@ -13055,7 +12935,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "121",
       "multiverseid": 191577,
       "name": "Amulet of Vigor",
       "number": "121",
@@ -13153,7 +13032,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "122",
       "multiverseid": 198356,
       "name": "Basilisk Collar",
       "number": "122",
@@ -13244,7 +13122,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "123",
       "multiverseid": 198374,
       "name": "Everflowing Chalice",
       "number": "123",
@@ -13344,7 +13221,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "124",
       "multiverseid": 197871,
       "name": "Hammer of Ruin",
       "number": "124",
@@ -13435,7 +13311,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "125",
       "multiverseid": 194686,
       "name": "Hedron Rover",
       "number": "125",
@@ -13539,7 +13414,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "126",
       "multiverseid": 197152,
       "name": "Kitesail",
       "number": "126",
@@ -13633,7 +13507,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "127",
       "multiverseid": 191557,
       "name": "Lodestone Golem",
       "number": "127",
@@ -13747,7 +13620,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "128",
       "multiverseid": 198367,
       "name": "Pilgrim's Eye",
       "number": "128",
@@ -13761,7 +13633,8 @@
         "C14",
         "BFZ",
         "EMA",
-        "CMA"
+        "CMA",
+        "GNT"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -13847,7 +13720,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "129",
       "multiverseid": 198395,
       "name": "Razor Boomerang",
       "number": "129",
@@ -13956,7 +13828,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "130",
       "multiverseid": 201561,
       "name": "Seer's Sundial",
       "number": "130",
@@ -14063,7 +13934,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "131",
       "multiverseid": 198375,
       "name": "Walking Atlas",
       "number": "131",
@@ -14168,7 +14038,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "132",
       "multiverseid": 197786,
       "name": "Bojuka Bog",
       "number": "132",
@@ -14263,7 +14132,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "133",
       "multiverseid": 177545,
       "name": "Celestial Colonnade",
       "number": "133",
@@ -14364,7 +14232,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "134",
       "multiverseid": 177520,
       "name": "Creeping Tar Pit",
       "number": "134",
@@ -14461,7 +14328,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "135",
       "multiverseid": 205425,
       "name": "Dread Statuary",
       "number": "135",
@@ -14560,7 +14426,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "136",
       "multiverseid": 197881,
       "name": "Eye of Ugin",
       "number": "136",
@@ -14668,7 +14533,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "137",
       "multiverseid": 197787,
       "name": "Halimar Depths",
       "number": "137",
@@ -14758,7 +14622,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "138",
       "multiverseid": 197789,
       "name": "Khalni Garden",
       "number": "138",
@@ -14853,7 +14716,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "139",
       "multiverseid": 171007,
       "name": "Lavaclaw Reaches",
       "number": "139",
@@ -14954,7 +14816,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "140",
       "multiverseid": 197853,
       "name": "Quicksand",
       "number": "140",
@@ -15049,7 +14910,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "141",
       "multiverseid": 177583,
       "name": "Raging Ravine",
       "number": "141",
@@ -15156,7 +15016,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "142",
       "multiverseid": 197788,
       "name": "Sejiri Steppe",
       "number": "142",
@@ -15246,7 +15105,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "143",
       "multiverseid": 197785,
       "name": "Smoldering Spires",
       "number": "143",
@@ -15337,7 +15195,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "144",
       "multiverseid": 177560,
       "name": "Stirring Wildwood",
       "number": "144",
@@ -15436,7 +15293,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "145",
       "multiverseid": 197855,
       "name": "Tectonic Edge",
       "number": "145",

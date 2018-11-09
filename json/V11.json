@@ -36,7 +36,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "1",
       "multiverseid": 244670,
       "name": "Cao Cao, Lord of Wei",
       "number": "1",
@@ -102,7 +101,6 @@
         }
       ],
       "manaCost": "{2}{G}{W}",
-      "mciNumber": "2",
       "multiverseid": 244665,
       "name": "Captain Sisay",
       "number": "2",
@@ -174,7 +172,6 @@
         }
       ],
       "manaCost": "{W}{B}{G}",
-      "mciNumber": "3",
       "multiverseid": 244674,
       "name": "Doran, the Siege Tower",
       "number": "3",
@@ -250,7 +247,6 @@
         }
       ],
       "manaCost": "{2}{R}{R}{R}",
-      "mciNumber": "4",
       "multiverseid": 244666,
       "name": "Kiki-Jiki, Mirror Breaker",
       "number": "4",
@@ -341,7 +337,6 @@
         }
       ],
       "manaCost": "{2}{B}{R}{G}",
-      "mciNumber": "5",
       "multiverseid": 244672,
       "name": "Kresh the Bloodbraided",
       "number": "5",
@@ -408,7 +403,6 @@
         }
       ],
       "manaCost": "{X}{W}",
-      "mciNumber": "6",
       "multiverseid": 259296,
       "name": "Mikaeus, the Lunarch",
       "number": "6",
@@ -470,7 +464,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "7",
       "multiverseid": 259295,
       "name": "Omnath, Locus of Mana",
       "number": "7",
@@ -546,7 +539,6 @@
         }
       ],
       "manaCost": "{3}{U/B}{U/B}{U/B}",
-      "mciNumber": "8",
       "multiverseid": 244668,
       "name": "Oona, Queen of the Fae",
       "number": "8",
@@ -627,7 +619,6 @@
         }
       ],
       "manaCost": "{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}",
-      "mciNumber": "9",
       "multiverseid": 244675,
       "name": "Progenitus",
       "number": "9",
@@ -704,7 +695,6 @@
         }
       ],
       "manaCost": "{1}{G}{W}{U}",
-      "mciNumber": "10",
       "multiverseid": 244669,
       "name": "Rafiq of the Many",
       "number": "10",
@@ -796,7 +786,6 @@
         }
       ],
       "manaCost": "{3}{W}{U}{B}",
-      "mciNumber": "11",
       "multiverseid": 244664,
       "name": "Sharuum the Hegemon",
       "number": "11",
@@ -852,7 +841,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "12",
       "multiverseid": 244663,
       "name": "Sun Quan, Lord of Wu",
       "number": "12",
@@ -925,7 +913,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}{U}",
-      "mciNumber": "13",
       "multiverseid": 244667,
       "name": "Teferi, Mage of Zhalfir",
       "number": "13",
@@ -999,7 +986,6 @@
         }
       ],
       "manaCost": "{11}",
-      "mciNumber": "14",
       "multiverseid": 261321,
       "name": "Ulamog, the Infinite Gyre",
       "number": "14",
@@ -1071,7 +1057,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}{B}",
-      "mciNumber": "15",
       "multiverseid": 244677,
       "name": "Visara the Dreadful",
       "number": "15",

@@ -1,0 +1,2606 @@
+{
+  "name": "Guild Kit: Selesnya",
+  "code": "GK1_SELESN",
+  "releaseDate": "2018-11-02",
+  "border": "black",
+  "type": "box",
+  "cards": [
+    {
+      "artist": "Sidharth Chaturvedi",
+      "cmc": 4,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "There are no soloists in the chorus of Selesnya.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Trostani, die Stimme Selesnijas",
+          "multiverseid": 456386
+        },
+        {
+          "language": "Spanish",
+          "name": "Trostani, la voz de Selesnya",
+          "multiverseid": 456412
+        },
+        {
+          "language": "French",
+          "name": "Trostani, Voix de Selesnya",
+          "multiverseid": 456438
+        },
+        {
+          "language": "Italian",
+          "name": "Trostani, Voce di Selesnya",
+          "multiverseid": 456464
+        },
+        {
+          "language": "Japanese",
+          "name": "セレズニアの声、トロスターニ",
+          "multiverseid": 456490
+        }
+      ],
+      "id": "5bfb97bf8943b439b3fc720b027142bac0572056",
+      "imageName": "trostani, selesnya's voice",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}{G}{W}{W}",
+      "multiverseid": 456360,
+      "name": "Trostani, Selesnya's Voice",
+      "number": "102",
+      "originalText": "Whenever another creature enters the battlefield under your control, you gain life equal to that creature's toughness.\n{1}{G}{W}, {T}: Populate. (Create a token that's a copy of a creature token you control.)",
+      "originalType": "Legendary Creature — Dryad",
+      "power": "2",
+      "printings": [
+        "RTR",
+        "GK1_SELESN"
+      ],
+      "rarity": "Mythic Rare",
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "Trostani's first ability checks the creature's toughness as it resolves. If that creature has left the battlefield, use its toughness from when it was last on the battlefield. You can't lose life this way if that creature's toughness was less than 0."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "You can choose any creature token you control for populate. If a spell or ability puts a token onto the battlefield under your control and then instructs you to populate (as Coursers' Accord does), you may choose to copy the token you just created, or you may choose to copy another creature token you control."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you choose to copy a creature token that's a copy of another creature, the new creature token will copy the characteristics of whatever the original token is copying."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The new creature token copies the characteristics of the original token as stated by the effect that put the original token onto the battlefield."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The new token doesn't copy whether the original token is tapped or untapped, whether it has any counters on it or Auras and Equipment attached to it, or any noncopy effects that have changed its power, toughness, color, and so on."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Any \"as [this creature] enters the battlefield\" or \"[this creature] enters the battlefield with\" abilities of the new token will work."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you control no creature tokens when you populate, nothing will happen."
+        }
+      ],
+      "subtypes": [
+        "Dryad"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Whenever another creature enters the battlefield under your control, you gain life equal to that creature's toughness.\n{1}{G}{W}, {T}: Populate. (Create a token that's a copy of a creature token you control.)",
+      "toughness": "5",
+      "type": "Legendary Creature — Dryad",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Pete Venters",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "Into the light the good are welcomed, and with the light the evil are banished.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Verzehrendes Licht",
+          "multiverseid": 456387
+        },
+        {
+          "language": "Spanish",
+          "name": "Luz devoradora",
+          "multiverseid": 456413
+        },
+        {
+          "language": "French",
+          "name": "Lumière dévorante",
+          "multiverseid": 456439
+        },
+        {
+          "language": "Italian",
+          "name": "Luce Divoratrice",
+          "multiverseid": 456465
+        },
+        {
+          "language": "Japanese",
+          "name": "貪る光",
+          "multiverseid": 456491
+        }
+      ],
+      "id": "c9205911b4a98d6ab96efe4b5db41155af927260",
+      "imageName": "devouring light",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{W}{W}",
+      "multiverseid": 456361,
+      "name": "Devouring Light",
+      "number": "103",
+      "originalText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nExile target attacking or blocking creature.",
+      "originalType": "Instant",
+      "printings": [
+        "RAV",
+        "M15",
+        "GK1_SELESN"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2014-07-18",
+          "text": "You can tap untapped attacking or blocking creatures you control to help cast Devouring Light. This doesn't remove those creatures from combat."
+        },
+        {
+          "date": "2014-07-18",
+          "text": "The declare blockers step is the last chance to cast Devouring Light before creatures deal their combat damage. However, a creature remains an attacking or blocking creature during the combat damage step and end of combat step. Devouring Light may be cast targeting such a creature during those steps, after the creature has dealt combat damage."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "You can tap an untapped creature you haven't controlled continuously since the beginning of your most recent turn to convoke a spell."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Convoke doesn't change a spell's mana cost or converted mana cost."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Worldsoul Colossus (a spell with convoke and mana cost {X}{G}{W}) and choose X to be 3, the total cost is {3}{G}{W}. If you tap two green creatures and two white creatures, you'll have to pay {1}."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped before you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke."
+        }
+      ],
+      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nExile target attacking or blocking creature.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Randy Gallegos",
+      "cmc": 7,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Ravnica, like a hedge, must be pruned, leaving only leaves of verdant uniformity.\"\n—Niszka, Selesnya evangel",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Stunde der Abrechnung",
+          "multiverseid": 456388
+        },
+        {
+          "language": "Spanish",
+          "name": "La hora de la verdad",
+          "multiverseid": 456414
+        },
+        {
+          "language": "French",
+          "name": "Heure du Jugement",
+          "multiverseid": 456440
+        },
+        {
+          "language": "Italian",
+          "name": "L'Ora dei Conti",
+          "multiverseid": 456466
+        },
+        {
+          "language": "Japanese",
+          "name": "報いの時",
+          "multiverseid": 456492
+        }
+      ],
+      "id": "ba01dc8a41c989b711982c3c1015d3f3738ce861",
+      "imageName": "hour of reckoning",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{W}{W}{W}",
+      "multiverseid": 456362,
+      "name": "Hour of Reckoning",
+      "number": "104",
+      "originalText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nDestroy all nontoken creatures.",
+      "originalType": "Sorcery",
+      "printings": [
+        "RAV",
+        "CMD",
+        "GK1_SELESN"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "You can tap an untapped creature you haven't controlled continuously since the beginning of your most recent turn to convoke a spell."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Convoke doesn't change a spell's mana cost or converted mana cost."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Worldsoul Colossus (a spell with convoke and mana cost {X}{G}{W}) and choose X to be 3, the total cost is {3}{G}{W}. If you tap two green creatures and two white creatures, you'll have to pay {1}."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped before you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke."
+        }
+      ],
+      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nDestroy all nontoken creatures.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Brian Despain",
+      "cmc": 1,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Mut ansammeln",
+          "multiverseid": 456389
+        },
+        {
+          "language": "Spanish",
+          "name": "Armarse de valor",
+          "multiverseid": 456415
+        },
+        {
+          "language": "French",
+          "name": "Rassembler son courage",
+          "multiverseid": 456441
+        },
+        {
+          "language": "Italian",
+          "name": "Raccogliere il Coraggio",
+          "multiverseid": 456467
+        },
+        {
+          "language": "Japanese",
+          "name": "かき集める勇気",
+          "multiverseid": 456493
+        }
+      ],
+      "id": "26fd06de340faa36aeffbd208e543abfb83418fc",
+      "imageName": "gather courage",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}",
+      "multiverseid": 456363,
+      "name": "Gather Courage",
+      "number": "105",
+      "originalText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTarget creature gets +2/+2 until end of turn.",
+      "originalType": "Instant",
+      "printings": [
+        "RAV",
+        "M15",
+        "GK1_SELESN"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "You can tap an untapped creature you haven't controlled continuously since the beginning of your most recent turn to convoke a spell."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Convoke doesn't change a spell's mana cost or converted mana cost."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Worldsoul Colossus (a spell with convoke and mana cost {X}{G}{W}) and choose X to be 3, the total cost is {3}{G}{W}. If you tap two green creatures and two white creatures, you'll have to pay {1}."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped before you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke."
+        }
+      ],
+      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTarget creature gets +2/+2 until end of turn.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Rob Alexander",
+      "cmc": 5,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "From the seeds of faith, great forests grow.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Die Samen verstreuen",
+          "multiverseid": 456390
+        },
+        {
+          "language": "Spanish",
+          "name": "Esparcir las semillas",
+          "multiverseid": 456416
+        },
+        {
+          "language": "French",
+          "name": "Graines en pluie",
+          "multiverseid": 456442
+        },
+        {
+          "language": "Italian",
+          "name": "Spargere i Semi",
+          "multiverseid": 456468
+        },
+        {
+          "language": "Japanese",
+          "name": "種のばら撒き",
+          "multiverseid": 456494
+        }
+      ],
+      "id": "cb431b19058546d6378d1f926ddb67d024733b85",
+      "imageName": "scatter the seeds",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{G}{G}",
+      "multiverseid": 456364,
+      "name": "Scatter the Seeds",
+      "number": "106",
+      "originalText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCreate three 1/1 green Saproling creature tokens.",
+      "originalType": "Instant",
+      "printings": [
+        "RAV",
+        "MM2",
+        "GK1_SELESN"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "You can tap an untapped creature you haven't controlled continuously since the beginning of your most recent turn to convoke a spell."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Convoke doesn't change a spell's mana cost or converted mana cost."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Worldsoul Colossus (a spell with convoke and mana cost {X}{G}{W}) and choose X to be 3, the total cost is {3}{G}{W}. If you tap two green creatures and two white creatures, you'll have to pay {1}."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped before you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke."
+        }
+      ],
+      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCreate three 1/1 green Saproling creature tokens.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Lucas Graciano",
+      "cmc": 4,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "The consciousness of Mat'Selesnya does not always spread in peaceful ways.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Ankunft des Wurms",
+          "multiverseid": 456391
+        },
+        {
+          "language": "Spanish",
+          "name": "Advenimiento de la sierpe",
+          "multiverseid": 456417
+        },
+        {
+          "language": "French",
+          "name": "Avènement de la guivre",
+          "multiverseid": 456443
+        },
+        {
+          "language": "Italian",
+          "name": "Venuta del Wurm",
+          "multiverseid": 456469
+        },
+        {
+          "language": "Japanese",
+          "name": "ワームの到来",
+          "multiverseid": 456495
+        }
+      ],
+      "id": "9d1324a0c9de743b50b5a90b382f22908061ffcb",
+      "imageName": "advent of the wurm",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{G}{G}{W}",
+      "multiverseid": 456365,
+      "name": "Advent of the Wurm",
+      "number": "107",
+      "originalText": "Create a 5/5 green Wurm creature token with trample.",
+      "originalType": "Instant",
+      "printings": [
+        "DGM",
+        "MM3",
+        "GK1_SELESN"
+      ],
+      "rarity": "Rare",
+      "text": "Create a 5/5 green Wurm creature token with trample.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Volkan Baga",
+      "cmc": 6,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "No one in the Conclave acts alone.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Armadawurm",
+          "multiverseid": 456392
+        },
+        {
+          "language": "Spanish",
+          "name": "Sierpe de la armada",
+          "multiverseid": 456418
+        },
+        {
+          "language": "French",
+          "name": "Guivre d'armada",
+          "multiverseid": 456444
+        },
+        {
+          "language": "Italian",
+          "name": "Wurm dell'Armata",
+          "multiverseid": 456470
+        },
+        {
+          "language": "Japanese",
+          "name": "大軍のワーム",
+          "multiverseid": 456496
+        }
+      ],
+      "id": "1e25b89214d9cc4a5bcf8e9b857ff30416a035e2",
+      "imageName": "armada wurm",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{G}{G}{W}{W}",
+      "multiverseid": 456366,
+      "name": "Armada Wurm",
+      "number": "108",
+      "originalText": "Trample\nWhen Armada Wurm enters the battlefield, create a 5/5 green Wurm creature token with trample.",
+      "originalType": "Creature — Wurm",
+      "power": "5",
+      "printings": [
+        "RTR",
+        "GK1_SELESN"
+      ],
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Wurm"
+      ],
+      "text": "Trample\nWhen Armada Wurm enters the battlefield, create a 5/5 green Wurm creature token with trample.",
+      "toughness": "5",
+      "type": "Creature — Wurm",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Terese Nielsen",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "Centaurs are sent to evangelize in Gruul territories where words of war speak louder than prayers of peace.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Ruf des Konklaves",
+          "multiverseid": 456393
+        },
+        {
+          "language": "Spanish",
+          "name": "Llamada del Cónclave",
+          "multiverseid": 456419
+        },
+        {
+          "language": "French",
+          "name": "Appel du Conclave",
+          "multiverseid": 456445
+        },
+        {
+          "language": "Italian",
+          "name": "Chiamata del Conclave",
+          "multiverseid": 456471
+        },
+        {
+          "language": "Japanese",
+          "name": "議事会の招集",
+          "multiverseid": 456497
+        }
+      ],
+      "id": "46acf9c8aced862881a55ba6938de5ba7311d76e",
+      "imageName": "call of the conclave",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}{W}",
+      "multiverseid": 456367,
+      "name": "Call of the Conclave",
+      "number": "109",
+      "originalText": "Create a 3/3 green Centaur creature token.",
+      "originalType": "Sorcery",
+      "printings": [
+        "pFNM",
+        "RTR",
+        "MM3",
+        "GK1_SELESN"
+      ],
+      "rarity": "Uncommon",
+      "text": "Create a 3/3 green Centaur creature token.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Mark Zug",
+      "cmc": 3,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "Instructors at the Kasarna training grounds are capable healers in case their students fail to grasp the subtleties of combat.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Heilender Zentaur",
+          "multiverseid": 456394
+        },
+        {
+          "language": "Spanish",
+          "name": "Sanador centauro",
+          "multiverseid": 456420
+        },
+        {
+          "language": "French",
+          "name": "Guérisseur centaure",
+          "multiverseid": 456446
+        },
+        {
+          "language": "Italian",
+          "name": "Centauro Guaritore",
+          "multiverseid": 456472
+        },
+        {
+          "language": "Japanese",
+          "name": "ケンタウルスの癒し手",
+          "multiverseid": 456498
+        }
+      ],
+      "id": "fdca58e3d61a865eb43c7db5e09591aa2f4007d4",
+      "imageName": "centaur healer",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{G}{W}",
+      "multiverseid": 456368,
+      "name": "Centaur Healer",
+      "number": "110",
+      "originalText": "When Centaur Healer enters the battlefield, you gain 3 life.",
+      "originalType": "Creature — Centaur Cleric",
+      "power": "3",
+      "printings": [
+        "RTR",
+        "MM3",
+        "BBD",
+        "GK1_SELESN"
+      ],
+      "rarity": "Common",
+      "subtypes": [
+        "Centaur",
+        "Cleric"
+      ],
+      "text": "When Centaur Healer enters the battlefield, you gain 3 life.",
+      "toughness": "3",
+      "type": "Creature — Centaur Cleric",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Terese Nielsen",
+      "cmc": 1,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "\"We will defend the Worldsoul from Izzet 'progress' at any cost.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Militante Dryade",
+          "multiverseid": 456395
+        },
+        {
+          "language": "Spanish",
+          "name": "Dríada militante",
+          "multiverseid": 456421
+        },
+        {
+          "language": "French",
+          "name": "Militante dryade",
+          "multiverseid": 456447
+        },
+        {
+          "language": "Italian",
+          "name": "Driade Militante",
+          "multiverseid": 456473
+        },
+        {
+          "language": "Japanese",
+          "name": "ドライアドの闘士",
+          "multiverseid": 456499
+        }
+      ],
+      "id": "a9ef8f1225ed68e621621e3c87da8ae82f45cd44",
+      "imageName": "dryad militant",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G/W}",
+      "multiverseid": 456369,
+      "name": "Dryad Militant",
+      "number": "111",
+      "originalText": "If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.",
+      "originalType": "Creature — Dryad Soldier",
+      "power": "2",
+      "printings": [
+        "pMGD",
+        "RTR",
+        "GK1_SELESN"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "If an instant or sorcery spell destroys Dryad Militant directly (like Murder does), that instant or sorcery card will be put into its owner's graveyard. However, if an instant or sorcery card deals lethal damage to Dryad Militant, Dryad Militant will remain on the battlefield until the next time state-based actions are checked, which is after the instant or sorcery finishes resolving. The instant or sorcery will be exiled."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "If an instant or sorcery card is discarded while Dryad Militant is on the battlefield, abilities that function when a card is discarded (such as madness) still work, even though that card never reaches a graveyard. In addition, spells or abilities that check the characteristics of a discarded card (such as Chandra Ablaze's first ability) can find that card in exile."
+        }
+      ],
+      "subtypes": [
+        "Dryad",
+        "Soldier"
+      ],
+      "text": "If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.",
+      "toughness": "1",
+      "type": "Creature — Dryad Soldier",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "cmc": 4,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "The righteous light of Selesnya is channeled through the devout, striking out to blind the nonbelievers.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Leuchten der Unterwerfung",
+          "multiverseid": 456396
+        },
+        {
+          "language": "Spanish",
+          "name": "Fulgor subyugante",
+          "multiverseid": 456422
+        },
+        {
+          "language": "French",
+          "name": "Éblouissement de subjugation",
+          "multiverseid": 456448
+        },
+        {
+          "language": "Italian",
+          "name": "Sguardo di Sottomissione",
+          "multiverseid": 456474
+        },
+        {
+          "language": "Japanese",
+          "name": "制圧の輝き",
+          "multiverseid": 456500
+        }
+      ],
+      "id": "42597be1ef6319ccf62db3d1bdd89ea320b2122c",
+      "imageName": "glare of subdual",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{G}{W}",
+      "multiverseid": 456370,
+      "name": "Glare of Subdual",
+      "number": "112",
+      "originalText": "Tap an untapped creature you control: Tap target artifact or creature.",
+      "originalType": "Enchantment",
+      "printings": [
+        "RAV",
+        "EMA",
+        "GK1_SELESN"
+      ],
+      "rarity": "Rare",
+      "text": "Tap an untapped creature you control: Tap target artifact or creature.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Seb McKinnon",
+      "cmc": 4,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "\"We will grow an army large enough to withstand the Izzet's madness.\"\n—Trostani",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Wachsende Reihen",
+          "multiverseid": 456397
+        },
+        {
+          "language": "Spanish",
+          "name": "Engrosar las filas",
+          "multiverseid": 456423
+        },
+        {
+          "language": "French",
+          "name": "Rangs en augmentation",
+          "multiverseid": 456449
+        },
+        {
+          "language": "Italian",
+          "name": "Ranghi in Crescita",
+          "multiverseid": 456475
+        },
+        {
+          "language": "Japanese",
+          "name": "兵士の育成",
+          "multiverseid": 456501
+        }
+      ],
+      "id": "7db2267a8539d3a64cead291d1c9454893bb1124",
+      "imageName": "growing ranks",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{G/W}{G/W}",
+      "multiverseid": 456371,
+      "name": "Growing Ranks",
+      "number": "113",
+      "originalText": "At the beginning of your upkeep, populate. (Create a token that's a copy of a creature token you control.)",
+      "originalType": "Enchantment",
+      "printings": [
+        "RTR",
+        "GK1_SELESN"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "You can choose any creature token you control for populate. If a spell or ability puts a token onto the battlefield under your control and then instructs you to populate (as Coursers' Accord does), you may choose to copy the token you just created, or you may choose to copy another creature token you control."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you choose to copy a creature token that's a copy of another creature, the new creature token will copy the characteristics of whatever the original token is copying."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The new creature token copies the characteristics of the original token as stated by the effect that put the original token onto the battlefield."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The new token doesn't copy whether the original token is tapped or untapped, whether it has any counters on it or Auras and Equipment attached to it, or any noncopy effects that have changed its power, toughness, color, and so on."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Any \"as [this creature] enters the battlefield\" or \"[this creature] enters the battlefield with\" abilities of the new token will work."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you control no creature tokens when you populate, nothing will happen."
+        }
+      ],
+      "text": "At the beginning of your upkeep, populate. (Create a token that's a copy of a creature token you control.)",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 4,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "\"I have lived long, and I remember how this city once was. If my death serves to bring back the Ravnica in my memory, then so be it.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Loxodon-Hierarch",
+          "multiverseid": 456398
+        },
+        {
+          "language": "Spanish",
+          "name": "Jerarca loxodón",
+          "multiverseid": 456424
+        },
+        {
+          "language": "French",
+          "name": "Hiérarche loxodon",
+          "multiverseid": 456450
+        },
+        {
+          "language": "Italian",
+          "name": "Gerarca Lossodonte",
+          "multiverseid": 456476
+        },
+        {
+          "language": "Japanese",
+          "name": "ロクソドンの教主",
+          "multiverseid": 456502
+        }
+      ],
+      "id": "d36d81d6189e70861f05e61c4c165053edac2b42",
+      "imageName": "loxodon hierarch",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{G}{W}",
+      "multiverseid": 456372,
+      "name": "Loxodon Hierarch",
+      "number": "114",
+      "originalText": "When Loxodon Hierarch enters the battlefield, you gain 4 life.\n{G}{W}, Sacrifice Loxodon Hierarch: Regenerate each creature you control.",
+      "originalType": "Creature — Elephant Cleric",
+      "power": "4",
+      "printings": [
+        "RAV",
+        "DDH",
+        "GK1_SELESN"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "The second ability sets up individual regeneration shields for each creature you control. They are each used up as necessary during the turn and wear off when the turn ends."
+        }
+      ],
+      "subtypes": [
+        "Elephant",
+        "Cleric"
+      ],
+      "text": "When Loxodon Hierarch enters the battlefield, you gain 4 life.\n{G}{W}, Sacrifice Loxodon Hierarch: Regenerate each creature you control.",
+      "toughness": "4",
+      "type": "Creature — Elephant Cleric",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Terese Nielsen",
+      "cmc": 6,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Pollenbenetzte Flügel",
+          "multiverseid": 456399
+        },
+        {
+          "language": "Spanish",
+          "name": "Alas de polenbrillante",
+          "multiverseid": 456425
+        },
+        {
+          "language": "French",
+          "name": "Ailes de clairpollen",
+          "multiverseid": 456451
+        },
+        {
+          "language": "Italian",
+          "name": "Ali Splendipolline",
+          "multiverseid": 456477
+        },
+        {
+          "language": "Japanese",
+          "name": "花粉光の羽",
+          "multiverseid": 456503
+        }
+      ],
+      "id": "82b7f8e267563be0679c5feb0e7d80671e979d70",
+      "imageName": "pollenbright wings",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{G}{W}",
+      "multiverseid": 456373,
+      "name": "Pollenbright Wings",
+      "number": "115",
+      "originalText": "Enchant creature\nEnchanted creature has flying.\nWhenever enchanted creature deals combat damage to a player, create that many 1/1 green Saproling creature tokens.",
+      "originalType": "Enchantment — Aura",
+      "printings": [
+        "RAV",
+        "PC2",
+        "PCA",
+        "GK1_SELESN"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant creature\nEnchanted creature has flying.\nWhenever enchanted creature deals combat damage to a player, create that many 1/1 green Saproling creature tokens.",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Wayne England",
+      "cmc": 5,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "\"We in the Conclave have a saying: 'When you hold a shield, lend your shield.' The strong must never forget what they owe to the weak.\"\n– Niszka, Selesnya evangel",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Privilegierte Position",
+          "multiverseid": 456400
+        },
+        {
+          "language": "Spanish",
+          "name": "Posición privilegiada",
+          "multiverseid": 456426
+        },
+        {
+          "language": "French",
+          "name": "Position privilégiée",
+          "multiverseid": 456452
+        },
+        {
+          "language": "Italian",
+          "name": "Posizione Privilegiata",
+          "multiverseid": 456478
+        },
+        {
+          "language": "Japanese",
+          "name": "特権階級",
+          "multiverseid": 456504
+        }
+      ],
+      "id": "afd0cb3d99f2c2e6a6b99599891c2a9a9f70a008",
+      "imageName": "privileged position",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{G/W}{G/W}{G/W}",
+      "multiverseid": 456374,
+      "name": "Privileged Position",
+      "number": "116",
+      "originalText": "Other permanents you control have hexproof.",
+      "originalType": "Enchantment",
+      "printings": [
+        "RAV",
+        "GK1_SELESN"
+      ],
+      "rarity": "Rare",
+      "text": "({G/W} can be paid with either {G} or {W}.)\nOther permanents you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Zoltan Boros",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Selesnija-Amulett",
+          "multiverseid": 456401
+        },
+        {
+          "language": "Spanish",
+          "name": "Amuleto selesnya",
+          "multiverseid": 456427
+        },
+        {
+          "language": "French",
+          "name": "Charme de Selesnya",
+          "multiverseid": 456453
+        },
+        {
+          "language": "Italian",
+          "name": "Talismano di Selesnya",
+          "multiverseid": 456479
+        },
+        {
+          "language": "Japanese",
+          "name": "セレズニアの魔除け",
+          "multiverseid": 456505
+        }
+      ],
+      "id": "0ba71e795dbeff53992d6cf6467fd833813f3b6e",
+      "imageName": "selesnya charm",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}{W}",
+      "multiverseid": 456375,
+      "name": "Selesnya Charm",
+      "number": "117",
+      "originalText": "Choose one —\n• Target creature gets +2/+2 and gains trample until end of turn.\n• Exile target creature with power 5 or greater.\n• Create a 2/2 white Knight creature token with vigilance.",
+      "originalType": "Instant",
+      "printings": [
+        "RTR",
+        "C13",
+        "CMA",
+        "GK1_SELESN"
+      ],
+      "rarity": "Uncommon",
+      "text": "Choose one —\n• Target creature gets +2/+2 and gains trample until end of turn.\n• Exile target creature with power 5 or greater.\n• Create a 2/2 white Knight creature token with vigilance.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Rob Alexander",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "\"The clamor of the city drowns all voices. But together we can sing a harmony that will resonate from Ravnica's tallest spires to her deepest wells.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Selesnija-Evangelistin",
+          "multiverseid": 456402
+        },
+        {
+          "language": "Spanish",
+          "name": "Misionera selesnya",
+          "multiverseid": 456428
+        },
+        {
+          "language": "French",
+          "name": "Prédicatrice de Selesnya",
+          "multiverseid": 456454
+        },
+        {
+          "language": "Italian",
+          "name": "Evangelista di Selesnya",
+          "multiverseid": 456480
+        },
+        {
+          "language": "Japanese",
+          "name": "セレズニアの福音者",
+          "multiverseid": 456506
+        }
+      ],
+      "id": "afa95a959452b13533240924e373ceb35e9b1372",
+      "imageName": "selesnya evangel",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}{W}",
+      "multiverseid": 456376,
+      "name": "Selesnya Evangel",
+      "number": "118",
+      "originalText": "{1}, {T}, Tap an untapped creature you control: Create a 1/1 green Saproling creature token.",
+      "originalType": "Creature — Elf Shaman",
+      "power": "1",
+      "printings": [
+        "RAV",
+        "CMD",
+        "GK1_SELESN"
+      ],
+      "rarity": "Common",
+      "subtypes": [
+        "Elf",
+        "Shaman"
+      ],
+      "text": "{1}, {T}, Tap an untapped creature you control: Create a 1/1 green Saproling creature token.",
+      "toughness": "2",
+      "type": "Creature — Elf Shaman",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Mark Zug",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Selesnija-Gildenmagier",
+          "multiverseid": 456403
+        },
+        {
+          "language": "Spanish",
+          "name": "Mago del Gremio Selesnya",
+          "multiverseid": 456429
+        },
+        {
+          "language": "French",
+          "name": "Ghildmage de Selesnya",
+          "multiverseid": 456455
+        },
+        {
+          "language": "Italian",
+          "name": "Mago della Gilda di Selesnya",
+          "multiverseid": 456481
+        },
+        {
+          "language": "Japanese",
+          "name": "セレズニアのギルド魔道士",
+          "multiverseid": 456507
+        }
+      ],
+      "id": "61b31b348edfa7356631cd56b8f266b3f55246bf",
+      "imageName": "selesnya guildmage",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G/W}{G/W}",
+      "multiverseid": 456377,
+      "name": "Selesnya Guildmage",
+      "number": "119",
+      "originalText": "{3}{G}: Create a 1/1 green Saproling creature token.\n{3}{W}: Creatures you control get +1/+1 until end of turn.",
+      "originalType": "Creature — Elf Wizard",
+      "power": "2",
+      "printings": [
+        "RAV",
+        "ARC",
+        "CMD",
+        "C13",
+        "MM2",
+        "C16",
+        "CMA",
+        "GK1_SELESN"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Elf",
+        "Wizard"
+      ],
+      "text": "{3}{G}: Create a 1/1 green Saproling creature token.\n{3}{W}: Creatures you control get +1/+1 until end of turn.",
+      "toughness": "2",
+      "type": "Creature — Elf Wizard",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "David Palumbo",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "\"One day every pillar will be a tree and every hall a glade.\"\n—Trostani",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Trennendes Wachstum",
+          "multiverseid": 456404
+        },
+        {
+          "language": "Spanish",
+          "name": "Crecimiento quebrador",
+          "multiverseid": 456430
+        },
+        {
+          "language": "French",
+          "name": "Croissance morceleuse",
+          "multiverseid": 456456
+        },
+        {
+          "language": "Italian",
+          "name": "Crescita Dilaniante",
+          "multiverseid": 456482
+        },
+        {
+          "language": "Japanese",
+          "name": "隔離する成長",
+          "multiverseid": 456508
+        }
+      ],
+      "id": "ec462bdf39d0c688f7616569084aa3d36a412d27",
+      "imageName": "sundering growth",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G/W}{G/W}",
+      "multiverseid": 456378,
+      "name": "Sundering Growth",
+      "number": "120",
+      "originalText": "Destroy target artifact or enchantment, then populate. (Create a token that's a copy of a creature token you control.)",
+      "originalType": "Instant",
+      "printings": [
+        "RTR",
+        "MM3",
+        "GK1_SELESN"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "You can choose any creature token you control for populate. If a spell or ability puts a token onto the battlefield under your control and then instructs you to populate (as Coursers' Accord does), you may choose to copy the token you just created, or you may choose to copy another creature token you control."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you choose to copy a creature token that's a copy of another creature, the new creature token will copy the characteristics of whatever the original token is copying."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The new creature token copies the characteristics of the original token as stated by the effect that put the original token onto the battlefield."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The new token doesn't copy whether the original token is tapped or untapped, whether it has any counters on it or Auras and Equipment attached to it, or any noncopy effects that have changed its power, toughness, color, and so on."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Any \"as [this creature] enters the battlefield\" or \"[this creature] enters the battlefield with\" abilities of the new token will work."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you control no creature tokens when you populate, nothing will happen."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "You must target an artifact or enchantment to cast Sundering Growth. If that artifact or enchantment is an illegal target when Sundering Growth tries to resolve, it won't resolve and none of its effects will happen. You won't populate."
+        }
+      ],
+      "text": "Destroy target artifact or enchantment, then populate. (Create a token that's a copy of a creature token you control.)",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Donato Giancola",
+      "cmc": 6,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Tolsimir Wolfsblut",
+          "multiverseid": 456405
+        },
+        {
+          "language": "Spanish",
+          "name": "Tolsimir Sangrelobo",
+          "multiverseid": 456431
+        },
+        {
+          "language": "French",
+          "name": "Tolsimir Sangdeloup",
+          "multiverseid": 456457
+        },
+        {
+          "language": "Italian",
+          "name": "Tolsimir Sanguelupo",
+          "multiverseid": 456483
+        },
+        {
+          "language": "Japanese",
+          "name": "トルシミール・ウルフブラッド",
+          "multiverseid": 456509
+        }
+      ],
+      "id": "1476e5c697bb62fe9155476abb05d8ac8237d596",
+      "imageName": "tolsimir wolfblood",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{G}{W}",
+      "multiverseid": 456379,
+      "name": "Tolsimir Wolfblood",
+      "number": "121",
+      "originalText": "Other green creatures you control get +1/+1.\nOther white creatures you control get +1/+1.\n{T}: Create a legendary 2/2 green and white Wolf creature token named Voja.",
+      "originalType": "Legendary Creature — Elf Warrior",
+      "power": "3",
+      "printings": [
+        "RAV",
+        "GK1_SELESN"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "Other creatures you control that are both green and white, including Voja, get +2/+2."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "The token is named \"Voja\" and has creature type \"Wolf.\" This is different from most creature tokens, where the name and creature type are the same."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "The \"legend rule\" means that creating a second Voja while one is already under your control will result in one of them being put into its owner's graveyard (where it promptly ceases to exist). You choose which of the two remains on the battlefield and which is put into the graveyard."
+        }
+      ],
+      "subtypes": [
+        "Elf",
+        "Warrior"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Other green creatures you control get +1/+1.\nOther white creatures you control get +1/+1.\n{T}: Create a legendary 2/2 green and white Wolf creature token named Voja.",
+      "toughness": "4",
+      "type": "Legendary Creature — Elf Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "Only in Ravnica do the wolves watch the flock.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Wachwolf",
+          "multiverseid": 456406
+        },
+        {
+          "language": "Spanish",
+          "name": "Lobo guardián",
+          "multiverseid": 456432
+        },
+        {
+          "language": "French",
+          "name": "Loup de garde",
+          "multiverseid": 456458
+        },
+        {
+          "language": "Italian",
+          "name": "Lupo da Guardia",
+          "multiverseid": 456484
+        },
+        {
+          "language": "Japanese",
+          "name": "番狼",
+          "multiverseid": 456510
+        }
+      ],
+      "id": "621e3f4f5681749ad34556d503ea7930575dc549",
+      "imageName": "watchwolf",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}{W}",
+      "multiverseid": 456380,
+      "name": "Watchwolf",
+      "number": "122",
+      "originalType": "Creature — Wolf",
+      "power": "3",
+      "printings": [
+        "pFNM",
+        "RAV",
+        "ARC",
+        "A25",
+        "GK1_SELESN"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Wolf"
+      ],
+      "toughness": "3",
+      "type": "Creature — Wolf",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Raoul Vitale",
+      "cmc": 2,
+      "colorIdentity": [
+        "G",
+        "W"
+      ],
+      "flavor": "The symbol of the Conclave is one of unity, with tree supporting sun and sun feeding tree.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Selesnija-Petschaft",
+          "multiverseid": 456407
+        },
+        {
+          "language": "Spanish",
+          "name": "Sello selesnya",
+          "multiverseid": 456433
+        },
+        {
+          "language": "French",
+          "name": "Cachet de Selesnya",
+          "multiverseid": 456459
+        },
+        {
+          "language": "Italian",
+          "name": "Sigillo di Selesnya",
+          "multiverseid": 456485
+        },
+        {
+          "language": "Japanese",
+          "name": "セレズニアの印鑑",
+          "multiverseid": 456511
+        }
+      ],
+      "id": "20d96d2827112965dc16265aca8d066ca5e860ca",
+      "imageName": "selesnya signet",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}",
+      "multiverseid": 456381,
+      "name": "Selesnya Signet",
+      "number": "123",
+      "originalText": "{1}, {T}: Add {G}{W}.",
+      "originalType": "Artifact",
+      "printings": [
+        "RAV",
+        "CMD",
+        "C13",
+        "MM3",
+        "CMA",
+        "GK1_SELESN"
+      ],
+      "rarity": "Common",
+      "text": "{1}, {T}: Add {G}{W}.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "Christine Choi",
+      "cmc": 0,
+      "colorIdentity": [
+        "G",
+        "W"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Hain des Bewahrers",
+          "multiverseid": 456408
+        },
+        {
+          "language": "Spanish",
+          "name": "Arboleda del guardián",
+          "multiverseid": 456434
+        },
+        {
+          "language": "French",
+          "name": "Bosquet du Gardien",
+          "multiverseid": 456460
+        },
+        {
+          "language": "Italian",
+          "name": "Boschetto del Guardiano",
+          "multiverseid": 456486
+        },
+        {
+          "language": "Japanese",
+          "name": "守護者の木立ち",
+          "multiverseid": 456512
+        }
+      ],
+      "id": "76a25c5b1afc898eb78aa0d90d01cafd00fea728",
+      "imageName": "grove of the guardian",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456382,
+      "name": "Grove of the Guardian",
+      "number": "124",
+      "originalText": "{T}: Add {C}.\n{3}{G}{W}, {T}, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Create an 8/8 green and white Elemental creature token with vigilance.",
+      "originalType": "Land",
+      "printings": [
+        "pPRE",
+        "RTR",
+        "GK1_SELESN"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "To activate Grove of the Guardian's second ability you can tap any two untapped creatures you control, including ones you haven't controlled continuously since the beginning of your most recent turn."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "You can't tap Grove of the Guardian to activate both abilities at the same time."
+        }
+      ],
+      "text": "{T}: Add {C}.\n{3}{G}{W}, {T}, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Create an 8/8 green and white Elemental creature token with vigilance.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "John Avon",
+      "cmc": 0,
+      "colorIdentity": [
+        "G",
+        "W"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Selesnija-Heiligtum",
+          "multiverseid": 456409
+        },
+        {
+          "language": "Spanish",
+          "name": "Santuario selesnya",
+          "multiverseid": 456435
+        },
+        {
+          "language": "French",
+          "name": "Sanctuaire de Selesnya",
+          "multiverseid": 456461
+        },
+        {
+          "language": "Italian",
+          "name": "Santuario di Selesnya",
+          "multiverseid": 456487
+        },
+        {
+          "language": "Japanese",
+          "name": "セレズニアの聖域",
+          "multiverseid": 456513
+        }
+      ],
+      "id": "dfe44e186faecc29e66a9417018e3a32e28c3b3f",
+      "imageName": "selesnya sanctuary",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456383,
+      "name": "Selesnya Sanctuary",
+      "number": "125",
+      "originalText": "Selesnya Sanctuary enters the battlefield tapped.\nWhen Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {G}{W}.",
+      "originalType": "Land",
+      "printings": [
+        "RAV",
+        "DDG",
+        "CMD",
+        "PC2",
+        "C13",
+        "MM2",
+        "C16",
+        "PCA",
+        "CMA",
+        "C17",
+        "IMA",
+        "C18",
+        "GK1_SELESN"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand."
+        }
+      ],
+      "text": "Selesnya Sanctuary enters the battlefield tapped.\nWhen Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {G}{W}.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Selesnya"
+    },
+    {
+      "artist": "James Paick",
+      "cmc": 0,
+      "colorIdentity": [
+        "W"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Ebene",
+          "multiverseid": 456410
+        },
+        {
+          "language": "Spanish",
+          "name": "Llanura",
+          "multiverseid": 456436
+        },
+        {
+          "language": "French",
+          "name": "Plaine",
+          "multiverseid": 456462
+        },
+        {
+          "language": "Italian",
+          "name": "Pianura",
+          "multiverseid": 456488
+        },
+        {
+          "language": "Japanese",
+          "name": "平地",
+          "multiverseid": 456514
+        }
+      ],
+      "id": "4bc2f27e71bbf7342c8292293768a5ba04bb27a8",
+      "imageName": "plains",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456384,
+      "name": "Plains",
+      "number": "126",
+      "originalText": "W",
+      "originalType": "Basic Land — Plains",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_SELESN",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Plains"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Plains",
+      "types": [
+        "Land"
+      ],
+      "watermark": "White"
+    },
+    {
+      "artist": "Alayna Danner",
+      "cmc": 0,
+      "colorIdentity": [
+        "G"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Wald",
+          "multiverseid": 456411
+        },
+        {
+          "language": "Spanish",
+          "name": "Bosque",
+          "multiverseid": 456437
+        },
+        {
+          "language": "French",
+          "name": "Forêt",
+          "multiverseid": 456463
+        },
+        {
+          "language": "Italian",
+          "name": "Foresta",
+          "multiverseid": 456489
+        },
+        {
+          "language": "Japanese",
+          "name": "森",
+          "multiverseid": 456515
+        }
+      ],
+      "id": "7f4a44706bb5ec88b24d50ea7fdf92a48c4af22d",
+      "imageName": "forest",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456385,
+      "name": "Forest",
+      "number": "127",
+      "originalText": "G",
+      "originalType": "Basic Land — Forest",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_GOLGAR",
+        "GK1_SELESN",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Forest"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Forest",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Green"
+    }
+  ]
+}

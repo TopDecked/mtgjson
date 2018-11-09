@@ -43,7 +43,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "1a",
       "multiverseid": 439314,
       "name": "Archangel Avacyn",
       "names": [
@@ -122,7 +121,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "1b",
       "multiverseid": 439315,
       "name": "Avacyn, the Purifier",
       "names": [
@@ -191,7 +189,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "2a",
       "multiverseid": 439316,
       "name": "Arguel's Blood Fast",
       "names": [
@@ -265,7 +262,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "2b",
       "multiverseid": 439317,
       "name": "Temple of Aclazotz",
       "names": [
@@ -337,7 +333,6 @@
       ],
       "loyalty": 3,
       "manaCost": "{2}{R}{G}",
-      "mciNumber": "3a",
       "multiverseid": 439318,
       "name": "Arlinn Kord",
       "names": [
@@ -426,7 +421,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "3b",
       "multiverseid": 439319,
       "name": "Arlinn, Embraced by the Moon",
       "names": [
@@ -510,7 +504,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "4a",
       "multiverseid": 439320,
       "name": "Bloodline Keeper",
       "names": [
@@ -576,7 +569,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "4b",
       "multiverseid": 439321,
       "name": "Lord of Lineage",
       "names": [
@@ -638,7 +630,6 @@
         }
       ],
       "manaCost": "{5}{W}{W}",
-      "mciNumber": "5a",
       "multiverseid": 439322,
       "name": "Bruna, the Fading Light",
       "names": [
@@ -707,7 +698,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "5b",
       "multiverseid": 439323,
       "name": "Brisela, Voice of Nightmares",
       "names": [
@@ -783,7 +773,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "5b",
       "multiverseid": 439323,
       "name": "Brisela, Voice of Nightmares",
       "names": [
@@ -858,7 +847,6 @@
         }
       ],
       "manaCost": "{1}{R}{R}",
-      "mciNumber": "6a",
       "multiverseid": 439324,
       "name": "Chandra, Fire of Kaladesh",
       "names": [
@@ -974,7 +962,6 @@
         }
       ],
       "loyalty": 4,
-      "mciNumber": "6b",
       "multiverseid": 439325,
       "name": "Chandra, Roaring Flame",
       "names": [
@@ -1050,7 +1037,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "7a",
       "multiverseid": 439326,
       "name": "Delver of Secrets",
       "names": [
@@ -1122,7 +1108,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "7b",
       "multiverseid": 439327,
       "name": "Insectile Aberration",
       "names": [
@@ -1182,7 +1167,6 @@
         }
       ],
       "manaCost": "{7}",
-      "mciNumber": "8a",
       "multiverseid": 439328,
       "name": "Elbrus, the Binding Blade",
       "names": [
@@ -1266,7 +1250,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "8b",
       "multiverseid": 439329,
       "name": "Withengar Unbound",
       "names": [
@@ -1332,7 +1315,6 @@
       ],
       "loyalty": 3,
       "manaCost": "{3}{G}",
-      "mciNumber": "9a",
       "multiverseid": 439330,
       "name": "Garruk Relentless",
       "names": [
@@ -1413,7 +1395,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "9b",
       "multiverseid": 439331,
       "name": "Garruk, the Veil-Cursed",
       "names": [
@@ -1490,7 +1471,6 @@
         }
       ],
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "10a",
       "multiverseid": 439332,
       "name": "Gisela, the Broken Blade",
       "names": [
@@ -1563,7 +1543,6 @@
         }
       ],
       "manaCost": "{2}{R}{G}",
-      "mciNumber": "11a",
       "multiverseid": 439333,
       "name": "Huntmaster of the Fells",
       "names": [
@@ -1632,7 +1611,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "11b",
       "multiverseid": 439334,
       "name": "Ravager of the Fells",
       "names": [
@@ -1690,7 +1668,6 @@
         }
       ],
       "manaCost": "{1}{U}",
-      "mciNumber": "12a",
       "multiverseid": 439335,
       "name": "Jace, Vryn's Prodigy",
       "names": [
@@ -1806,7 +1783,6 @@
         }
       ],
       "loyalty": 5,
-      "mciNumber": "12b",
       "multiverseid": 439336,
       "name": "Jace, Telepath Unbound",
       "names": [
@@ -1878,7 +1854,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "13a",
       "multiverseid": 439337,
       "name": "Kytheon, Hero of Akros",
       "names": [
@@ -1990,7 +1965,6 @@
         }
       ],
       "loyalty": 3,
-      "mciNumber": "13b",
       "multiverseid": 439338,
       "name": "Gideon, Battle-Forged",
       "names": [
@@ -2078,7 +2052,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "14a",
       "multiverseid": 439339,
       "name": "Liliana, Heretical Healer",
       "names": [
@@ -2190,7 +2163,6 @@
         }
       ],
       "loyalty": 3,
-      "mciNumber": "14b",
       "multiverseid": 439340,
       "name": "Liliana, Defiant Necromancer",
       "names": [
@@ -2254,7 +2226,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "15a",
       "multiverseid": 439341,
       "name": "Nissa, Vastwood Seer",
       "names": [
@@ -2366,7 +2337,6 @@
         }
       ],
       "loyalty": 3,
-      "mciNumber": "15b",
       "multiverseid": 439342,
       "name": "Nissa, Sage Animist",
       "names": [

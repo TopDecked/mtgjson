@@ -40,7 +40,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "1",
       "multiverseid": 9741,
       "name": "Charm School",
       "number": "1",
@@ -76,7 +75,6 @@
         }
       ],
       "manaCost": "{4}{W}{W}",
-      "mciNumber": "2",
       "multiverseid": 9773,
       "name": "The Cheese Stands Alone",
       "number": "2",
@@ -112,7 +110,6 @@
         }
       ],
       "manaCost": "{4}{W}",
-      "mciNumber": "3",
       "multiverseid": 5726,
       "name": "Double Dip",
       "number": "3",
@@ -148,7 +145,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "4",
       "multiverseid": 9743,
       "name": "Get a Life",
       "number": "4",
@@ -183,7 +179,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "5",
       "multiverseid": 9774,
       "name": "I'm Rubber, You're Glue",
       "number": "5",
@@ -219,7 +214,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "6",
       "multiverseid": 9742,
       "name": "Knight of the Hokey Pokey",
       "number": "6",
@@ -260,7 +254,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "7",
       "multiverseid": 9760,
       "name": "Lexivore",
       "number": "7",
@@ -301,7 +294,6 @@
         }
       ],
       "manaCost": "{5}{W}{W}",
-      "mciNumber": "8",
       "multiverseid": 9771,
       "name": "Look at Me, I'm the DCI",
       "number": "8",
@@ -337,7 +329,6 @@
         }
       ],
       "manaCost": "{W}{W}",
-      "mciNumber": "9",
       "multiverseid": 5725,
       "name": "Mesa Chicken",
       "number": "9",
@@ -378,7 +369,6 @@
         }
       ],
       "manaCost": "{3}{W}",
-      "mciNumber": "10",
       "multiverseid": 9745,
       "name": "Miss Demeanor",
       "number": "10",
@@ -422,7 +412,6 @@
         }
       ],
       "manaCost": "{W}{W}{W}{W}",
-      "mciNumber": "11",
       "multiverseid": 9772,
       "name": "Once More with Feeling",
       "number": "11",
@@ -458,7 +447,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "12",
       "multiverseid": 9744,
       "name": "Prismatic Wardrobe",
       "number": "12",
@@ -493,7 +481,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "13",
       "multiverseid": 5755,
       "name": "Sex Appeal",
       "number": "13",
@@ -528,7 +515,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "14",
       "multiverseid": 9778,
       "name": "Bureaucracy",
       "number": "14",
@@ -564,7 +550,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "15",
       "multiverseid": 9747,
       "name": "Censorship",
       "number": "15",
@@ -599,7 +584,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "16",
       "multiverseid": 9746,
       "name": "Checks and Balances",
       "number": "16",
@@ -635,7 +619,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "17",
       "multiverseid": 9749,
       "name": "Chicken à la King",
       "number": "17",
@@ -676,7 +659,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "18",
       "multiverseid": 5763,
       "name": "Clambassadors",
       "number": "18",
@@ -717,7 +699,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "19",
       "multiverseid": 5770,
       "name": "Clam-I-Am",
       "number": "19",
@@ -758,7 +739,6 @@
         }
       ],
       "manaCost": "{1}{U}{U}",
-      "mciNumber": "20",
       "multiverseid": 5824,
       "name": "Clam Session",
       "number": "20",
@@ -799,7 +779,6 @@
         }
       ],
       "manaCost": "{2}{U}{U}",
-      "mciNumber": "21",
       "multiverseid": 9748,
       "name": "Common Courtesy",
       "number": "21",
@@ -835,7 +814,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "22",
       "multiverseid": 5800,
       "name": "Denied!",
       "number": "22",
@@ -871,7 +849,6 @@
         }
       ],
       "manaCost": "{3}{U}{U}",
-      "mciNumber": "23",
       "multiverseid": 9894,
       "name": "Double Take",
       "number": "23",
@@ -907,7 +884,6 @@
         }
       ],
       "manaCost": "{2}{U}",
-      "mciNumber": "24",
       "multiverseid": 5822,
       "name": "Fowl Play",
       "number": "24",
@@ -945,7 +921,6 @@
         }
       ],
       "manaCost": "{3}{U}",
-      "mciNumber": "25",
       "multiverseid": 9775,
       "name": "Free-for-All",
       "number": "25",
@@ -980,7 +955,6 @@
         }
       ],
       "manaCost": "{U}",
-      "mciNumber": "26",
       "multiverseid": 9777,
       "name": "Psychic Network",
       "number": "26",
@@ -1015,7 +989,6 @@
         }
       ],
       "manaCost": "{U}{U}",
-      "mciNumber": "27",
       "multiverseid": 9776,
       "name": "Sorry",
       "number": "27",
@@ -1131,7 +1104,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "30",
       "multiverseid": 5839,
       "name": "Deadhead",
       "number": "30",
@@ -1172,7 +1144,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "31",
       "multiverseid": 5846,
       "name": "Double Cross",
       "number": "31",
@@ -1208,7 +1179,6 @@
         }
       ],
       "manaCost": "{3}{B}{B}",
-      "mciNumber": "32",
       "multiverseid": 9751,
       "name": "Handcuffs",
       "number": "32",
@@ -1243,7 +1213,6 @@
         }
       ],
       "manaCost": "{6}{B}{B}{B}",
-      "mciNumber": "33",
       "multiverseid": 9779,
       "name": "Infernal Spawn of Evil",
       "number": "33",
@@ -1283,7 +1252,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "34",
       "multiverseid": 9750,
       "name": "Jumbo Imp",
       "number": "34",
@@ -1324,7 +1292,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "35",
       "multiverseid": 9752,
       "name": "Organ Harvest",
       "number": "35",
@@ -1360,7 +1327,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "36",
       "multiverseid": 9781,
       "name": "Ow",
       "number": "36",
@@ -1396,7 +1362,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "37",
       "multiverseid": 5864,
       "name": "Poultrygeist",
       "number": "37",
@@ -1437,7 +1402,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "38",
       "multiverseid": 10717,
       "name": "Temp of the Damned",
       "number": "38",
@@ -1477,7 +1441,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "39",
       "multiverseid": 9753,
       "name": "Volrath's Motion Sensor",
       "number": "39",
@@ -1515,7 +1478,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "40",
       "multiverseid": 9783,
       "name": "Burning Cinder Fury of Crimson Chaos Fire",
       "number": "40",
@@ -1551,7 +1513,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "41",
       "multiverseid": 9667,
       "name": "Chicken Egg",
       "number": "41",
@@ -1592,7 +1553,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "42",
       "multiverseid": 8812,
       "name": "Double Deal",
       "number": "42",
@@ -1628,7 +1588,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "43",
       "multiverseid": 9665,
       "name": "Goblin Bookie",
       "number": "43",
@@ -1669,7 +1628,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "44",
       "multiverseid": 9666,
       "name": "Goblin Bowling Team",
       "number": "44",
@@ -1709,7 +1667,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "45",
       "multiverseid": 9755,
       "name": "Goblin Tutor",
       "number": "45",
@@ -1745,7 +1702,6 @@
         }
       ],
       "manaCost": "{2}{R}",
-      "mciNumber": "46",
       "multiverseid": 8904,
       "name": "Hurloon Wrangler",
       "number": "46",
@@ -1785,7 +1741,6 @@
         }
       ],
       "manaCost": "{3}{R}{R}",
-      "mciNumber": "47",
       "multiverseid": 9782,
       "name": "Jalum Grifter",
       "number": "47",
@@ -1829,7 +1784,6 @@
         }
       ],
       "manaCost": "{3}{R}",
-      "mciNumber": "48",
       "multiverseid": 9758,
       "name": "Krazy Kow",
       "number": "48",
@@ -1869,7 +1823,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "49",
       "multiverseid": 9785,
       "name": "Landfill",
       "number": "49",
@@ -1904,7 +1857,6 @@
         }
       ],
       "manaCost": "{R}",
-      "mciNumber": "50",
       "multiverseid": 9756,
       "name": "Ricochet",
       "number": "50",
@@ -1939,7 +1891,6 @@
         }
       ],
       "manaCost": "{4}{R}",
-      "mciNumber": "51",
       "multiverseid": 9754,
       "name": "Spark Fiend",
       "number": "51",
@@ -1979,7 +1930,6 @@
         }
       ],
       "manaCost": "{1}{R}",
-      "mciNumber": "52",
       "multiverseid": 9784,
       "name": "Strategy, Schmategy",
       "number": "52",
@@ -2015,7 +1965,6 @@
         }
       ],
       "manaCost": "{X}{Y}{Z}{R}{R}",
-      "mciNumber": "53",
       "multiverseid": 9757,
       "name": "The Ultimate Nightmare of Wizards of the Coast® Customer Service",
       "number": "53",
@@ -2051,7 +2000,6 @@
         }
       ],
       "manaCost": "{5}{G}",
-      "mciNumber": "54",
       "multiverseid": 9762,
       "name": "Cardboard Carapace",
       "number": "54",
@@ -2090,7 +2038,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "55",
       "multiverseid": 9895,
       "name": "Double Play",
       "number": "55",
@@ -2126,7 +2073,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "56",
       "multiverseid": 9669,
       "name": "Elvish Impersonators",
       "number": "56",
@@ -2167,7 +2113,6 @@
         }
       ],
       "manaCost": "{X}{G}{G}",
-      "mciNumber": "57",
       "multiverseid": 9759,
       "name": "Flock of Rabid Sheep",
       "number": "57",
@@ -2202,7 +2147,6 @@
         }
       ],
       "manaCost": "{3}{G}",
-      "mciNumber": "58",
       "multiverseid": 9675,
       "name": "Free-Range Chicken",
       "number": "58",
@@ -2242,7 +2186,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "59",
       "multiverseid": 9761,
       "name": "Gerrymandering",
       "number": "59",
@@ -2277,7 +2220,6 @@
         }
       ],
       "manaCost": "{G}",
-      "mciNumber": "60",
       "multiverseid": 9668,
       "name": "Ghazbán Ogress",
       "number": "60",
@@ -2318,7 +2260,6 @@
         }
       ],
       "manaCost": "{1}{G}",
-      "mciNumber": "61",
       "multiverseid": 9671,
       "name": "Growth Spurt",
       "number": "61",
@@ -2354,7 +2295,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "62",
       "multiverseid": 9670,
       "name": "Gus",
       "number": "62",
@@ -2395,7 +2335,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "63",
       "multiverseid": 9843,
       "name": "Hungry Hungry Heifer",
       "number": "63",
@@ -2435,7 +2374,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}{G}{G}",
-      "mciNumber": "64",
       "multiverseid": 9788,
       "name": "Incoming!",
       "number": "64",
@@ -2470,7 +2408,6 @@
         }
       ],
       "manaCost": "{4}{G}{G}",
-      "mciNumber": "65",
       "multiverseid": 9787,
       "name": "Mine, Mine, Mine!",
       "number": "65",
@@ -2506,7 +2443,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "66",
       "multiverseid": 9789,
       "name": "Squirrel Farm",
       "number": "66",
@@ -2542,7 +2478,6 @@
         }
       ],
       "manaCost": "{2}{G}",
-      "mciNumber": "67",
       "multiverseid": 9763,
       "name": "Team Spirit",
       "number": "67",
@@ -2578,7 +2513,6 @@
         }
       ],
       "manaCost": "{2}{G}{G}",
-      "mciNumber": "68",
       "multiverseid": 9786,
       "name": "Timmy, Power Gamer",
       "number": "68",
@@ -2617,7 +2551,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "69",
       "multiverseid": 9769,
       "name": "Ashnod's Coupon",
       "number": "69",
@@ -2647,7 +2580,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "70",
       "multiverseid": 9764,
       "name": "Blacker Lotus",
       "number": "70",
@@ -2677,7 +2609,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "71",
       "multiverseid": 9730,
       "name": "Bronze Calendar",
       "number": "71",
@@ -2707,7 +2638,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "72",
       "multiverseid": 5712,
       "name": "Chaos Confetti",
       "number": "72",
@@ -2736,7 +2666,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "73",
       "multiverseid": 9766,
       "name": "Clay Pigeon",
       "number": "73",
@@ -2772,7 +2701,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "74",
       "multiverseid": 9767,
       "name": "Giant Fan",
       "number": "74",
@@ -2808,7 +2736,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "75",
       "multiverseid": 9729,
       "name": "Jack-in-the-Mox",
       "number": "75",
@@ -2838,7 +2765,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "76",
       "multiverseid": 9739,
       "name": "Jester's Sombrero",
       "number": "76",
@@ -2867,7 +2793,6 @@
         }
       ],
       "manaCost": "{7}",
-      "mciNumber": "77",
       "multiverseid": 9765,
       "name": "Mirror Mirror",
       "number": "77",
@@ -2897,7 +2822,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "78",
       "multiverseid": 5705,
       "name": "Paper Tiger",
       "number": "78",
@@ -2933,7 +2857,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "79",
       "multiverseid": 5648,
       "name": "Rock Lobster",
       "number": "79",
@@ -2969,7 +2892,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "80",
       "multiverseid": 5698,
       "name": "Scissors Lizard",
       "number": "80",
@@ -3005,7 +2927,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "81",
       "multiverseid": 9740,
       "name": "Spatula of the Ages",
       "number": "81",
@@ -3034,7 +2955,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "82",
       "multiverseid": 9770,
       "name": "Urza's Contact Lenses",
       "number": "82",
@@ -3063,7 +2983,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "83",
       "multiverseid": 9731,
       "name": "Urza's Science Fair Project",
       "number": "83",
@@ -3221,7 +3140,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "84",
       "multiverseid": 9680,
       "name": "Plains",
       "number": "84",
@@ -3332,7 +3250,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3483,7 +3404,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "85",
       "multiverseid": 9677,
       "name": "Island",
       "number": "85",
@@ -3594,7 +3514,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3745,7 +3668,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "86",
       "multiverseid": 9676,
       "name": "Swamp",
       "number": "86",
@@ -3859,7 +3781,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4010,7 +3935,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "87",
       "multiverseid": 9707,
       "name": "Mountain",
       "number": "87",
@@ -4127,7 +4051,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4278,7 +4205,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "88",
       "multiverseid": 9683,
       "name": "Forest",
       "number": "88",
@@ -4392,7 +4318,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [

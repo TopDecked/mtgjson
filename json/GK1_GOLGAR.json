@@ -1,0 +1,2646 @@
+{
+  "name": "Guild Kit: Golgari",
+  "code": "GK1_GOLGAR",
+  "releaseDate": "2018-11-02",
+  "border": "black",
+  "type": "box",
+  "cards": [
+    {
+      "artist": "Winona Nelson",
+      "cmc": 6,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Izoni Tausendauge",
+          "multiverseid": 456081
+        },
+        {
+          "language": "Spanish",
+          "name": "Izoni, la del Millar de Ojos",
+          "multiverseid": 456108
+        },
+        {
+          "language": "French",
+          "name": "Izoni aux Mille Yeux",
+          "multiverseid": 456135
+        },
+        {
+          "language": "Italian",
+          "name": "Izoni, dai Mille Occhi",
+          "multiverseid": 456162
+        },
+        {
+          "language": "Japanese",
+          "name": "千の目、アイゾーニ",
+          "multiverseid": 456189
+        }
+      ],
+      "id": "6ecc887b91e2ce6b907875dc2aef50fab6bcc7cf",
+      "imageName": "izoni, thousand-eyed",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{B}{B}{G}{G}",
+      "multiverseid": 456054,
+      "name": "Izoni, Thousand-Eyed",
+      "number": "50",
+      "originalText": "Undergrowth — When Izoni, Thousand-Eyed enters the battlefield, create a 1/1 black and green Insect creature token for each creature card in your graveyard.\n{B}{G}, Sacrifice another creature: You gain 1 life and draw a card.",
+      "originalType": "Legendary Creature — Elf Shaman",
+      "power": "2",
+      "printings": [
+        "GRN",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "You can activate Izoni's last ability while its undergrowth ability is on the stack. This will increase the number of Insect tokens you'll create."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Creature cards with other types, such as artifact creature cards, count for undergrowth abilities."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Because tokens aren't cards, they never count for undergrowth abilities."
+        }
+      ],
+      "subtypes": [
+        "Elf",
+        "Shaman"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Undergrowth — When Izoni, Thousand-Eyed enters the battlefield, create a 1/1 black and green Insect creature token for each creature card in your graveyard.\n{B}{G}, Sacrifice another creature: You gain 1 life and draw a card.",
+      "toughness": "3",
+      "type": "Legendary Creature — Elf Shaman",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Randy Gallegos",
+      "cmc": 1,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Dunkler Knall",
+          "multiverseid": 456082
+        },
+        {
+          "language": "Spanish",
+          "name": "Ráfaga oscura",
+          "multiverseid": 456109
+        },
+        {
+          "language": "French",
+          "name": "Salve obscure",
+          "multiverseid": 456136
+        },
+        {
+          "language": "Italian",
+          "name": "Esplosione Oscura",
+          "multiverseid": 456163
+        },
+        {
+          "language": "Japanese",
+          "name": "暗黒破",
+          "multiverseid": 456190
+        }
+      ],
+      "id": "fe9163c819afbea3e8df31bd211dec11eb86f639",
+      "imageName": "darkblast",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B}",
+      "multiverseid": 456055,
+      "name": "Darkblast",
+      "number": "51",
+      "originalText": "Target creature gets -1/-1 until end of turn.\nDredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+      "originalType": "Instant",
+      "printings": [
+        "RAV",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-06-07",
+          "text": "Dredge lets you replace any card draw, not just the one during your draw step."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "Once you decide to replace a draw using a card's dredge ability, that card can't be removed from your graveyard \"in response.\" (Replacement effects don't use the stack.)"
+        },
+        {
+          "date": "2013-06-07",
+          "text": "You can't use dredge unless you're going to draw a card and the card with dredge is already in your graveyard."
+        }
+      ],
+      "text": "Target creature gets -1/-1 until end of turn.\nDredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Karl Kopinski",
+      "cmc": 4,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "The outskirts of Golgari territory are guarded by more than just walls.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Ghettoschnitter",
+          "multiverseid": 456083
+        },
+        {
+          "language": "Spanish",
+          "name": "Segador del distrito",
+          "multiverseid": 456110
+        },
+        {
+          "language": "French",
+          "name": "Faucheur des quartiers pauvres",
+          "multiverseid": 456137
+        },
+        {
+          "language": "Italian",
+          "name": "Mietitore dei Bassifondi",
+          "multiverseid": 456164
+        },
+        {
+          "language": "Japanese",
+          "name": "貧民街の刈り取るもの",
+          "multiverseid": 456191
+        }
+      ],
+      "id": "657d280c59b31fb933ce3d34674342819a567380",
+      "imageName": "slum reaper",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{B}",
+      "multiverseid": 456056,
+      "name": "Slum Reaper",
+      "number": "52",
+      "originalText": "When Slum Reaper enters the battlefield, each player sacrifices a creature.",
+      "originalType": "Creature — Horror",
+      "power": "4",
+      "printings": [
+        "RTR",
+        "BBD",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "When the ability resolves, you may sacrifice Slum Reaper itself. If you control no other creatures, you'll have to sacrifice Slum Reaper."
+        }
+      ],
+      "subtypes": [
+        "Horror"
+      ],
+      "text": "When Slum Reaper enters the battlefield, each player sacrifices a creature.",
+      "toughness": "2",
+      "type": "Creature — Horror",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Nils Hamm",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Stinkwurzbold",
+          "multiverseid": 456084
+        },
+        {
+          "language": "Spanish",
+          "name": "Diablillo hierbapestosa",
+          "multiverseid": 456111
+        },
+        {
+          "language": "French",
+          "name": "Diablotin de diplotaxis",
+          "multiverseid": 456138
+        },
+        {
+          "language": "Italian",
+          "name": "Demonietto di Brassicacea",
+          "multiverseid": 456165
+        },
+        {
+          "language": "Japanese",
+          "name": "臭い草のインプ",
+          "multiverseid": 456192
+        }
+      ],
+      "id": "1701aa341f843ae0fd2417f85a6e09e8f6377e5e",
+      "imageName": "stinkweed imp",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{B}",
+      "multiverseid": 456057,
+      "name": "Stinkweed Imp",
+      "number": "53",
+      "originalText": "Flying\nWhenever Stinkweed Imp deals combat damage to a creature, destroy that creature.\nDredge 5 (If you would draw a card, instead you may put exactly five cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+      "originalType": "Creature — Imp",
+      "power": "1",
+      "printings": [
+        "RAV",
+        "DDC",
+        "DDJ",
+        "MMA",
+        "DD3_DVD",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-06-07",
+          "text": "Dredge lets you replace any card draw, not just the one during your draw step."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "Once you decide to replace a draw using a card's dredge ability, that card can't be removed from your graveyard \"in response.\" (Replacement effects don't use the stack.)"
+        },
+        {
+          "date": "2013-06-07",
+          "text": "You can't use dredge unless you're going to draw a card and the card with dredge is already in your graveyard."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "Notably, Stinkweed Imp's ability isn't deathtouch. It's a triggered ability that triggers only on combat damage."
+        }
+      ],
+      "subtypes": [
+        "Imp"
+      ],
+      "text": "Flying\nWhenever Stinkweed Imp deals combat damage to a creature, destroy that creature.\nDredge 5 (If you would draw a card, instead you may put exactly five cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+      "toughness": "2",
+      "type": "Creature — Imp",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Dan Scott",
+      "cmc": 4,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "After fear and weakness rot away, that which remains is stronger than its living form.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Todesenergie",
+          "multiverseid": 456085
+        },
+        {
+          "language": "Spanish",
+          "name": "Vigor mortis",
+          "multiverseid": 456112
+        },
+        {
+          "language": "French",
+          "name": "Vigor Mortis",
+          "multiverseid": 456139
+        },
+        {
+          "language": "Italian",
+          "name": "Vigor Mortis",
+          "multiverseid": 456166
+        },
+        {
+          "language": "Japanese",
+          "name": "死後剛直",
+          "multiverseid": 456193
+        }
+      ],
+      "id": "5866549e4880e87340eea052388a339a621c3ee4",
+      "imageName": "vigor mortis",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{B}{B}",
+      "multiverseid": 456058,
+      "name": "Vigor Mortis",
+      "number": "54",
+      "originalText": "Return target creature card from your graveyard to the battlefield. If {G} was spent to cast Vigor Mortis, that creature enters the battlefield with an additional +1/+1 counter on it.",
+      "originalType": "Sorcery",
+      "printings": [
+        "RAV",
+        "DDJ",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "The +1/+1 counter from this ability is in addition to any other counters the creature enters the battlefield with."
+        }
+      ],
+      "text": "Return target creature card from your graveyard to the battlefield. If {G} was spent to cast Vigor Mortis, that creature enters the battlefield with an additional +1/+1 counter on it.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Chase Stone",
+      "cmc": 4,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "Some Golgari insects live for centuries—and they never stop growing.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Todesbrücken-Goliathkäfer",
+          "multiverseid": 456086
+        },
+        {
+          "language": "Spanish",
+          "name": "Goliat de Puente Muerto",
+          "multiverseid": 456113
+        },
+        {
+          "language": "French",
+          "name": "Goliath de Mortepont",
+          "multiverseid": 456140
+        },
+        {
+          "language": "Italian",
+          "name": "Golia di Pontemorto",
+          "multiverseid": 456167
+        },
+        {
+          "language": "Japanese",
+          "name": "死橋の大巨虫",
+          "multiverseid": 456194
+        }
+      ],
+      "id": "2ec9101e05c3e7dd6c6679dc07380048956e2793",
+      "imageName": "deadbridge goliath",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{G}{G}",
+      "multiverseid": 456059,
+      "name": "Deadbridge Goliath",
+      "number": "55",
+      "originalText": "Scavenge {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)",
+      "originalType": "Creature — Insect",
+      "power": "5",
+      "printings": [
+        "pLPA",
+        "RTR",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "Exiling the creature card with scavenge is part of the cost of activating the scavenge ability. Once the ability is activated and the cost is paid, it's too late to stop the ability from being activated by trying to remove the creature card from the graveyard."
+        }
+      ],
+      "subtypes": [
+        "Insect"
+      ],
+      "text": "Scavenge {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)",
+      "toughness": "5",
+      "type": "Creature — Insect",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Justin Sweet",
+      "cmc": 1,
+      "colorIdentity": [
+        "G",
+        "B"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "Cast out of the Conclave generations ago, these elves found a home in the corrupted districts of the Golgari.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Elfen des dunklen Schattens",
+          "multiverseid": 456087
+        },
+        {
+          "language": "Spanish",
+          "name": "Elfos de sombra profunda",
+          "multiverseid": 456114
+        },
+        {
+          "language": "French",
+          "name": "Elfes de l'ombre profonde",
+          "multiverseid": 456141
+        },
+        {
+          "language": "Italian",
+          "name": "Elfi Oscuri",
+          "multiverseid": 456168
+        },
+        {
+          "language": "Japanese",
+          "name": "深き闇のエルフ",
+          "multiverseid": 456195
+        }
+      ],
+      "id": "285fa21326ed4ec78e69b99da439217f27f19ae6",
+      "imageName": "elves of deep shadow",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}",
+      "multiverseid": 456060,
+      "name": "Elves of Deep Shadow",
+      "number": "56",
+      "originalText": "{T}: Add {B}. Elves of Deep Shadow deals 1 damage to you.",
+      "originalType": "Creature — Elf Druid",
+      "power": "1",
+      "printings": [
+        "DRK",
+        "pFNM",
+        "RAV",
+        "ME3",
+        "DDJ",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Common",
+      "subtypes": [
+        "Elf",
+        "Druid"
+      ],
+      "text": "{T}: Add {B}. Elves of Deep Shadow deals 1 damage to you.",
+      "toughness": "1",
+      "type": "Creature — Elf Druid",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Svetlin Velinov",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "flavor": "The Izzet quickly suspended their policy of lifetime guarantees.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Abrupter Verfall",
+          "multiverseid": 456088
+        },
+        {
+          "language": "Spanish",
+          "name": "Deterioro brusco",
+          "multiverseid": 456115
+        },
+        {
+          "language": "French",
+          "name": "Décomposition abrupte",
+          "multiverseid": 456142
+        },
+        {
+          "language": "Italian",
+          "name": "Deterioramento Improvviso",
+          "multiverseid": 456169
+        },
+        {
+          "language": "Japanese",
+          "name": "突然の衰微",
+          "multiverseid": 456196
+        }
+      ],
+      "id": "0384935e4aef697e6d2ecf34e7b3bdae80c17bb3",
+      "imageName": "abrupt decay",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B}{G}",
+      "multiverseid": 456061,
+      "name": "Abrupt Decay",
+      "number": "57",
+      "originalText": "This spell can't be countered.\nDestroy target nonland permanent with converted mana cost 3 or less.",
+      "originalType": "Instant",
+      "printings": [
+        "RTR",
+        "MM3",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2017-03-14",
+          "text": "The converted mana cost of a creature token is 0, unless that token is a copy of another creature, in which case it copies that creature's mana cost."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "If a permanent has {X} in its mana cost, X is considered to be 0."
+        }
+      ],
+      "text": "This spell can't be countered.\nDestroy target nonland permanent with converted mana cost 3 or less.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Zoltan Boros",
+      "cmc": 6,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Todesbrücken-Gesang",
+          "multiverseid": 456089
+        },
+        {
+          "language": "Spanish",
+          "name": "Canto de Puente Muerto",
+          "multiverseid": 456116
+        },
+        {
+          "language": "French",
+          "name": "Chant de Mortepont",
+          "multiverseid": 456143
+        },
+        {
+          "language": "Italian",
+          "name": "Canto di Pontemorto",
+          "multiverseid": 456170
+        },
+        {
+          "language": "Japanese",
+          "name": "死橋の詠唱",
+          "multiverseid": 456197
+        }
+      ],
+      "id": "ba6b2569d1928f425d0ce4be72d3e7e070406804",
+      "imageName": "deadbridge chant",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{B}{G}",
+      "multiverseid": 456062,
+      "name": "Deadbridge Chant",
+      "number": "58",
+      "originalText": "When Deadbridge Chant enters the battlefield, put the top ten cards of your library into your graveyard.\nAt the beginning of your upkeep, choose a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, put it into your hand.",
+      "originalType": "Enchantment",
+      "printings": [
+        "DGM",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Mythic Rare",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "The card is chosen at random as the ability resolves. If any player responds to the ability, that player won't yet know what card will be chosen."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Because the last ability doesn't target any card in your graveyard, any card put into your graveyard in response to the ability may be chosen."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Each card in your graveyard must have an equal chance of being chosen. Assigning them each a number and rolling a die is an easy way to do this. In formats that allow you to rearrange your graveyard—including Standard, Modern, and Return to Ravnica block Limited formats, you may also shuffle your graveyard face down and choose a card at random."
+        }
+      ],
+      "text": "When Deadbridge Chant enters the battlefield, put the top ten cards of your library into your graveyard.\nAt the beginning of your upkeep, choose a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, put it into your hand.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Steve Argyle",
+      "cmc": 1,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Todesritenschamane",
+          "multiverseid": 456090
+        },
+        {
+          "language": "Spanish",
+          "name": "Chamán rito mortal",
+          "multiverseid": 456117
+        },
+        {
+          "language": "French",
+          "name": "Shamane ritemort",
+          "multiverseid": 456144
+        },
+        {
+          "language": "Italian",
+          "name": "Sciamano Letalmago",
+          "multiverseid": 456171
+        },
+        {
+          "language": "Japanese",
+          "name": "死儀礼のシャーマン",
+          "multiverseid": 456198
+        }
+      ],
+      "id": "0c0de197f105f0617a281d8ecd0bc280ed61692f",
+      "imageName": "deathrite shaman",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Modern",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B/G}",
+      "multiverseid": 456063,
+      "name": "Deathrite Shaman",
+      "number": "59",
+      "originalText": "{T}: Exile target land card from a graveyard. Add one mana of any color.\n{B}, {T}: Exile target instant or sorcery card from a graveyard. Each opponent loses 2 life.\n{G}, {T}: Exile target creature card from a graveyard. You gain 2 life.",
+      "originalType": "Creature — Elf Shaman",
+      "power": "1",
+      "printings": [
+        "RTR",
+        "EMA",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Because the first ability requires a target, it is not a mana ability. It uses the stack and can be responded to."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "If the target of any of Deathrite Shaman's three abilities is an illegal target when that ability tries to resolve, it won't resolve and none of its effects will happen. You won't add mana to your mana pool, no opponent will lose life, or you won't gain life, as appropriate."
+        }
+      ],
+      "subtypes": [
+        "Elf",
+        "Shaman"
+      ],
+      "text": "{T}: Exile target land card from a graveyard. Add one mana of any color.\n{B}, {T}: Exile target instant or sorcery card from a graveyard. Each opponent loses 2 life.\n{G}, {T}: Exile target creature card from a graveyard. You gain 2 life.",
+      "toughness": "2",
+      "type": "Creature — Elf Shaman",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Seb McKinnon",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "flavor": "The rot farmer's first rite of passage is to craft a pair of work stilts.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Im Dreck ertrinken",
+          "multiverseid": 456091
+        },
+        {
+          "language": "Spanish",
+          "name": "Ahogado en mugre",
+          "multiverseid": 456118
+        },
+        {
+          "language": "French",
+          "name": "Noyade dans la fange",
+          "multiverseid": 456145
+        },
+        {
+          "language": "Italian",
+          "name": "Sommerso dalla Sporcizia",
+          "multiverseid": 456172
+        },
+        {
+          "language": "Japanese",
+          "name": "汚濁まみれ",
+          "multiverseid": 456199
+        }
+      ],
+      "id": "ee132892c47547a9d021902973ec0693cd351f00",
+      "imageName": "drown in filth",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B}{G}",
+      "multiverseid": 456064,
+      "name": "Drown in Filth",
+      "number": "60",
+      "originalText": "Choose target creature. Put the top four cards of your library into your graveyard, then that creature gets -1/-1 until end of turn for each land card in your graveyard.",
+      "originalType": "Sorcery",
+      "printings": [
+        "DGM",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "You choose the target of Drown in Filth as you cast the spell. You won't necessarily know what will happen to that creature's power and toughness at that time."
+        }
+      ],
+      "text": "Choose target creature. Put the top four cards of your library into your graveyard, then that creature gets -1/-1 until end of turn for each land card in your graveyard.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Nils Hamm",
+      "cmc": 3,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "flavor": "Golgari reclaimers resent the gorgons, begrudging the loss of so many fine nutrients locked away in stone.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Granitblick",
+          "multiverseid": 456092
+        },
+        {
+          "language": "Spanish",
+          "name": "Mirada de granito",
+          "multiverseid": 456119
+        },
+        {
+          "language": "French",
+          "name": "Regard de granit",
+          "multiverseid": 456146
+        },
+        {
+          "language": "Italian",
+          "name": "Sguardo di Granito",
+          "multiverseid": 456173
+        },
+        {
+          "language": "Japanese",
+          "name": "花崗岩の凝視",
+          "multiverseid": 456200
+        }
+      ],
+      "id": "16aa882b52c1db6d966cfd7215c8ea84bc2f8af4",
+      "imageName": "gaze of granite",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{X}{B}{B}{G}",
+      "multiverseid": 456065,
+      "name": "Gaze of Granite",
+      "number": "61",
+      "originalText": "Destroy each nonland permanent with converted mana cost X or less.",
+      "originalType": "Sorcery",
+      "printings": [
+        "pMEI",
+        "DGM",
+        "C18",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "If a permanent has {X} in its mana cost, the value of that X is 0."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The converted mana cost of a creature token is 0 unless that token is a copy of another creature, in which case it copies that creature's mana cost."
+        }
+      ],
+      "text": "Destroy each nonland permanent with converted mana cost X or less.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Zoltan Boros",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "flavor": "\"Let the rest of Ravnica sneer. One way or another, they all end up in the undercity.\"\n—Jarad",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Golgari-Amulett",
+          "multiverseid": 456093
+        },
+        {
+          "language": "Spanish",
+          "name": "Amuleto golgari",
+          "multiverseid": 456120
+        },
+        {
+          "language": "French",
+          "name": "Charme de Golgari",
+          "multiverseid": 456147
+        },
+        {
+          "language": "Italian",
+          "name": "Talismano Golgari",
+          "multiverseid": 456174
+        },
+        {
+          "language": "Japanese",
+          "name": "ゴルガリの魔除け",
+          "multiverseid": 456201
+        }
+      ],
+      "id": "e34149a52fdc9454c981a4b08ba9d9f9b6918f58",
+      "imageName": "golgari charm",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B}{G}",
+      "multiverseid": 456066,
+      "name": "Golgari Charm",
+      "number": "62",
+      "originalText": "Choose one —\n• All creatures get -1/-1 until end of turn.\n• Destroy target enchantment.\n• Regenerate each creature you control.",
+      "originalType": "Instant",
+      "printings": [
+        "RTR",
+        "C15",
+        "CMA",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Uncommon",
+      "text": "Choose one —\n• All creatures get -1/-1 until end of turn.\n• Destroy target enchantment.\n• Regenerate each creature you control.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Pete Venters",
+      "cmc": 5,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Grabmuschel-Skarabäus",
+          "multiverseid": 456094
+        },
+        {
+          "language": "Spanish",
+          "name": "Escarabajo caparazón de tumba",
+          "multiverseid": 456121
+        },
+        {
+          "language": "French",
+          "name": "Scarabée cénotaphe",
+          "multiverseid": 456148
+        },
+        {
+          "language": "Italian",
+          "name": "Scarabeo Guscio-Tomba",
+          "multiverseid": 456175
+        },
+        {
+          "language": "Japanese",
+          "name": "墓掘り甲のスカラベ",
+          "multiverseid": 456202
+        }
+      ],
+      "id": "9b8481e224a92801d2ef3a022dca0440cb9f234c",
+      "imageName": "grave-shell scarab",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{B}{G}{G}",
+      "multiverseid": 456067,
+      "name": "Grave-Shell Scarab",
+      "number": "63",
+      "originalText": "{1}, Sacrifice Grave-Shell Scarab: Draw a card.\nDredge 1 (If you would draw a card, instead you may put exactly one card from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+      "originalType": "Creature — Insect",
+      "power": "4",
+      "printings": [
+        "RAV",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "You may sacrifice Grave-Shell Scarab to pay for its first ability, then replace that draw using the Scarab's dredge ability. The result is that the top card of your library is put into your graveyard and Grave-Shell Scarab returns to your hand (after a brief trip to the graveyard)."
+        }
+      ],
+      "subtypes": [
+        "Insect"
+      ],
+      "text": "{1}, Sacrifice Grave-Shell Scarab: Draw a card.\nDredge 1 (If you would draw a card, instead you may put exactly one card from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+      "toughness": "4",
+      "type": "Creature — Insect",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Dave Kendall",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "flavor": "To the Golgari, anything buried is treasure.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Grauenhafte Bergung",
+          "multiverseid": 456095
+        },
+        {
+          "language": "Spanish",
+          "name": "Recuperación truculenta",
+          "multiverseid": 456122
+        },
+        {
+          "language": "French",
+          "name": "Horrible récupération",
+          "multiverseid": 456149
+        },
+        {
+          "language": "Italian",
+          "name": "Recupero Raccapricciante",
+          "multiverseid": 456176
+        },
+        {
+          "language": "Japanese",
+          "name": "忌まわしい回収",
+          "multiverseid": 456203
+        }
+      ],
+      "id": "bb8c067e9bdff763ffbbb93587c1f8ecb4c20864",
+      "imageName": "grisly salvage",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B}{G}",
+      "multiverseid": 456068,
+      "name": "Grisly Salvage",
+      "number": "64",
+      "originalText": "Reveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard.",
+      "originalType": "Instant",
+      "printings": [
+        "pFNM",
+        "RTR",
+        "C15",
+        "CMA",
+        "C18",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Common",
+      "text": "Reveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Eric Deschamps",
+      "cmc": 4,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Jarad, Lichfürst der Golgari",
+          "multiverseid": 456096
+        },
+        {
+          "language": "Spanish",
+          "name": "Jarad, señor liche golgari",
+          "multiverseid": 456123
+        },
+        {
+          "language": "French",
+          "name": "Jarad, seigneur liche des Golgari",
+          "multiverseid": 456150
+        },
+        {
+          "language": "Italian",
+          "name": "Jarad, Signore dei Lich Golgari",
+          "multiverseid": 456177
+        },
+        {
+          "language": "Japanese",
+          "name": "ゴルガリの死者の王、ジャラド",
+          "multiverseid": 456204
+        }
+      ],
+      "id": "9e69cc4650a0347943e82fd7f004e4c99d372add",
+      "imageName": "jarad, golgari lich lord",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B}{B}{G}{G}",
+      "multiverseid": 456069,
+      "name": "Jarad, Golgari Lich Lord",
+      "number": "65",
+      "originalText": "Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your graveyard.\n{1}{B}{G}, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power.\nSacrifice a Swamp and a Forest: Return Jarad from your graveyard to your hand.",
+      "originalType": "Legendary Creature — Zombie Elf",
+      "power": "2",
+      "printings": [
+        "DDJ",
+        "RTR",
+        "C15",
+        "CMA",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Mythic Rare",
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "Jarad's first ability applies only when Jarad is on the battlefield."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "The life loss is based on the power of the sacrificed creature as it last existed on the battlefield."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "To activate Jarad's last ability, you must sacrifice two lands. It doesn't matter what other land types the two lands have, as long as one is a Swamp and one is a Forest. Even if one of the lands you sacrifice is both a Swamp and a Forest, you have to sacrifice another land that is a Swamp or a Forest."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "You can sacrifice any land with the land type Swamp or Forest, not just ones named Swamp or Forest. For example, you could sacrifice two Overgrown Tombs."
+        }
+      ],
+      "subtypes": [
+        "Zombie",
+        "Elf"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your graveyard.\n{1}{B}{G}, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power.\nSacrifice a Swamp and a Forest: Return Jarad from your graveyard to your hand.",
+      "toughness": "2",
+      "type": "Legendary Creature — Zombie Elf",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Ryan Pancoast",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Korozda-Gildenmagier",
+          "multiverseid": 456097
+        },
+        {
+          "language": "Spanish",
+          "name": "Mago del gremio de Korozda",
+          "multiverseid": 456124
+        },
+        {
+          "language": "French",
+          "name": "Ghildmage de Korozda",
+          "multiverseid": 456151
+        },
+        {
+          "language": "Italian",
+          "name": "Mago della Gilda di Korozda",
+          "multiverseid": 456178
+        },
+        {
+          "language": "Japanese",
+          "name": "コロズダのギルド魔道士",
+          "multiverseid": 456205
+        }
+      ],
+      "id": "86447e5844ee1947224cab67b5d3426fa478d4fd",
+      "imageName": "korozda guildmage",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B}{G}",
+      "multiverseid": 456070,
+      "name": "Korozda Guildmage",
+      "number": "66",
+      "originalText": "{1}{B}{G}: Target creature gets +1/+1 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)\n{2}{B}{G}, Sacrifice a nontoken creature: Create X 1/1 green Saproling creature tokens, where X is the sacrificed creature's toughness.",
+      "originalType": "Creature — Elf Shaman",
+      "power": "2",
+      "printings": [
+        "DDJ",
+        "RTR",
+        "C15",
+        "C16",
+        "CMA",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "Use the sacrificed creature's toughness when it was last on the battlefield to determine the value of X."
+        }
+      ],
+      "subtypes": [
+        "Elf",
+        "Shaman"
+      ],
+      "text": "{1}{B}{G}: Target creature gets +1/+1 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)\n{2}{B}{G}, Sacrifice a nontoken creature: Create X 1/1 green Saproling creature tokens, where X is the sacrificed creature's toughness.",
+      "toughness": "2",
+      "type": "Creature — Elf Shaman",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Vincent Proce",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "flavor": "He lurks in the undercity, eager for the corpse haulers to unload their rotting cargo.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Lotleth-Troll",
+          "multiverseid": 456098
+        },
+        {
+          "language": "Spanish",
+          "name": "Trol lotleth",
+          "multiverseid": 456125
+        },
+        {
+          "language": "French",
+          "name": "Troll de Lotleth",
+          "multiverseid": 456152
+        },
+        {
+          "language": "Italian",
+          "name": "Troll Lotleth",
+          "multiverseid": 456179
+        },
+        {
+          "language": "Japanese",
+          "name": "ロッテスのトロール",
+          "multiverseid": 456206
+        }
+      ],
+      "id": "2dc18e7b572db207fec0b9313347da85ae865d80",
+      "imageName": "lotleth troll",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B}{G}",
+      "multiverseid": 456071,
+      "name": "Lotleth Troll",
+      "number": "67",
+      "originalText": "Trample\nDiscard a creature card: Put a +1/+1 counter on Lotleth Troll.\n{B}: Regenerate Lotleth Troll.",
+      "originalType": "Creature — Zombie Troll",
+      "power": "2",
+      "printings": [
+        "RTR",
+        "C15",
+        "CMA",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Zombie",
+        "Troll"
+      ],
+      "text": "Trample\nDiscard a creature card: Put a +1/+1 counter on Lotleth Troll.\n{B}: Regenerate Lotleth Troll.",
+      "toughness": "1",
+      "type": "Creature — Zombie Troll",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Clint Cearley",
+      "cmc": 3,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "flavor": "\"All matter, animate or not, rots when exposed to time. We merely speed up the process.\"\n—Ezoc, Golgari rot farmer",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Verfaulen lassen",
+          "multiverseid": 456099
+        },
+        {
+          "language": "Spanish",
+          "name": "Pudrir",
+          "multiverseid": 456126
+        },
+        {
+          "language": "French",
+          "name": "Putréfier",
+          "multiverseid": 456153
+        },
+        {
+          "language": "Italian",
+          "name": "Putrificare",
+          "multiverseid": 456180
+        },
+        {
+          "language": "Japanese",
+          "name": "化膿",
+          "multiverseid": 456207
+        }
+      ],
+      "id": "9e388ee0c00cc8d248b30ddc3e250e49249ec7af",
+      "imageName": "putrefy",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{B}{G}",
+      "multiverseid": 456072,
+      "name": "Putrefy",
+      "number": "68",
+      "originalText": "Destroy target artifact or creature. It can't be regenerated.",
+      "originalType": "Instant",
+      "printings": [
+        "pMPR",
+        "RAV",
+        "DDJ",
+        "DGM",
+        "C15",
+        "C16",
+        "MM3",
+        "CMA",
+        "CM2",
+        "C18",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2006-02-01",
+          "text": "This spell isn't Modal. When it resolves, it will destroy the target if it's a creature or an artifact, even if it changed from one to the other between targeting and resolution."
+        }
+      ],
+      "text": "Destroy target artifact or creature. It can't be regenerated.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Scott M. Fischer",
+      "cmc": 4,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "flavor": "\"Nature's most raw beauty is the circle: perfect in its continuance, with no break between death and life.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Savra, Königin der Golgari",
+          "multiverseid": 456100
+        },
+        {
+          "language": "Spanish",
+          "name": "Savra, reina de los golgari",
+          "multiverseid": 456127
+        },
+        {
+          "language": "French",
+          "name": "Savra, Reine des Golgari",
+          "multiverseid": 456154
+        },
+        {
+          "language": "Italian",
+          "name": "Savra, Regina dei Golgari",
+          "multiverseid": 456181
+        },
+        {
+          "language": "Japanese",
+          "name": "ゴルガリの女王、サヴラ",
+          "multiverseid": 456208
+        }
+      ],
+      "id": "896a90147b10bca2f20995a4738145d0055ed636",
+      "imageName": "savra, queen of the golgari",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{B}{G}",
+      "multiverseid": 456073,
+      "name": "Savra, Queen of the Golgari",
+      "number": "69",
+      "originalText": "Whenever you sacrifice a black creature, you may pay 2 life. If you do, each other player sacrifices a creature.\nWhenever you sacrifice a green creature, you may gain 2 life.",
+      "originalType": "Legendary Creature — Elf Shaman",
+      "power": "2",
+      "printings": [
+        "RAV",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "These abilities trigger specifically when you \"sacrifice\" a creature. They won't trigger when a creature is put into your graveyard for any other reason."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "Savra itself doesn't let you sacrifice creatures, and you can't sacrifice them spontaneously. You must have another spell or ability that lets you sacrifice creatures."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "Sacrificing a creature that's both black and green will make both abilities trigger. You may put them on the stack in whichever order you want."
+        }
+      ],
+      "subtypes": [
+        "Elf",
+        "Shaman"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Whenever you sacrifice a black creature, you may pay 2 life. If you do, each other player sacrifices a creature.\nWhenever you sacrifice a green creature, you may gain 2 life.",
+      "toughness": "2",
+      "type": "Legendary Creature — Elf Shaman",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Joel Thomas",
+      "cmc": 3,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Schlurfendes Muschelwesen",
+          "multiverseid": 456101
+        },
+        {
+          "language": "Spanish",
+          "name": "Caparazón tambaleante",
+          "multiverseid": 456128
+        },
+        {
+          "language": "French",
+          "name": "Carapace chavirante",
+          "multiverseid": 456155
+        },
+        {
+          "language": "Italian",
+          "name": "Guscio Barcollante",
+          "multiverseid": 456182
+        },
+        {
+          "language": "Japanese",
+          "name": "よろめく殻",
+          "multiverseid": 456209
+        }
+      ],
+      "id": "e63891b98c2255b34115bff48964bce69f86f654",
+      "imageName": "shambling shell",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{B}{G}",
+      "multiverseid": 456074,
+      "name": "Shambling Shell",
+      "number": "70",
+      "originalText": "Sacrifice Shambling Shell: Put a +1/+1 counter on target creature.\nDredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+      "originalType": "Creature — Plant Zombie",
+      "power": "3",
+      "printings": [
+        "RAV",
+        "DDJ",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Common",
+      "subtypes": [
+        "Plant",
+        "Zombie"
+      ],
+      "text": "Sacrifice Shambling Shell: Put a +1/+1 counter on target creature.\nDredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+      "toughness": "1",
+      "type": "Creature — Plant Zombie",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Donato Giancola",
+      "cmc": 8,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Schwestern des steinernen Todes",
+          "multiverseid": 456102
+        },
+        {
+          "language": "Spanish",
+          "name": "Hermanas de la muerte pétrea",
+          "multiverseid": 456129
+        },
+        {
+          "language": "French",
+          "name": "Sœurs de la mort de pierre",
+          "multiverseid": 456156
+        },
+        {
+          "language": "Italian",
+          "name": "Sorelle di Pietramorte",
+          "multiverseid": 456183
+        },
+        {
+          "language": "Japanese",
+          "name": "石の死の姉妹",
+          "multiverseid": 456210
+        }
+      ],
+      "id": "4caad8a3551395ddc09304a3186fa5f97bb983bf",
+      "imageName": "sisters of stone death",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{B}{B}{G}{G}",
+      "multiverseid": 456075,
+      "name": "Sisters of Stone Death",
+      "number": "71",
+      "originalText": "{G}: Target creature blocks Sisters of Stone Death this turn if able.\n{B}{G}: Exile target creature blocking or blocked by Sisters of Stone Death.\n{2}{B}: Put a creature card exiled with Sisters of Stone Death onto the battlefield under your control.",
+      "originalType": "Legendary Creature — Gorgon",
+      "power": "7",
+      "printings": [
+        "RAV",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "The third ability can get back any creature card exiled by the second ability, no matter when it was exiled. If a card that's not a creature card (such as Svogthos, the Restless Tomb) was exiled, the third ability can't return it."
+        }
+      ],
+      "subtypes": [
+        "Gorgon"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "{G}: Target creature blocks Sisters of Stone Death this turn if able.\n{B}{G}: Exile target creature blocking or blocked by Sisters of Stone Death.\n{2}{B}: Put a creature card exiled with Sisters of Stone Death onto the battlefield under your control.",
+      "toughness": "5",
+      "type": "Legendary Creature — Gorgon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Jason Chan",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "flavor": "Gorgons crave beautiful things: gems, exquisite amulets, the alabaster corpses of the petrified dead . . .",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Geschätzter Fund",
+          "multiverseid": 456103
+        },
+        {
+          "language": "Spanish",
+          "name": "Hallazgo preciado",
+          "multiverseid": 456130
+        },
+        {
+          "language": "French",
+          "name": "Trouvaille",
+          "multiverseid": 456157
+        },
+        {
+          "language": "Italian",
+          "name": "Ritrovamento Prezioso",
+          "multiverseid": 456184
+        },
+        {
+          "language": "Japanese",
+          "name": "貴重な発見",
+          "multiverseid": 456211
+        }
+      ],
+      "id": "01e717bb9f38a622189a6808e571fb1adb23347f",
+      "imageName": "treasured find",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B}{G}",
+      "multiverseid": 456076,
+      "name": "Treasured Find",
+      "number": "72",
+      "originalText": "Return target card from your graveyard to your hand. Exile Treasured Find.",
+      "originalType": "Sorcery",
+      "printings": [
+        "RTR",
+        "DDM",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Uncommon",
+      "text": "Return target card from your graveyard to your hand. Exile Treasured Find.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Raoul Vitale",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "flavor": "Depending on your point of view, the seal represents a proud guardian of the natural cycle or one who has sold her soul to darkness for eternal life.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Golgari-Petschaft",
+          "multiverseid": 456104
+        },
+        {
+          "language": "Spanish",
+          "name": "Sello golgari",
+          "multiverseid": 456131
+        },
+        {
+          "language": "French",
+          "name": "Cachet de Golgari",
+          "multiverseid": 456158
+        },
+        {
+          "language": "Italian",
+          "name": "Sigillo Golgari",
+          "multiverseid": 456185
+        },
+        {
+          "language": "Japanese",
+          "name": "ゴルガリの印鑑",
+          "multiverseid": 456212
+        }
+      ],
+      "id": "ccb567e2a013f432f8a2357e53685d8a2f2b119b",
+      "imageName": "golgari signet",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}",
+      "multiverseid": 456077,
+      "name": "Golgari Signet",
+      "number": "73",
+      "originalText": "{1}, {T}: Add {B}{G}.",
+      "originalType": "Artifact",
+      "printings": [
+        "RAV",
+        "CMD",
+        "DDJ",
+        "C15",
+        "C16",
+        "MM3",
+        "CMA",
+        "CM2",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Common",
+      "text": "{1}, {T}: Add {B}{G}.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "John Avon",
+      "cmc": 0,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Golgari-Verrottungsfarm",
+          "multiverseid": 456105
+        },
+        {
+          "language": "Spanish",
+          "name": "Granja de podredumbre golgari",
+          "multiverseid": 456132
+        },
+        {
+          "language": "French",
+          "name": "Ferme à putréfaction des Golgari",
+          "multiverseid": 456159
+        },
+        {
+          "language": "Italian",
+          "name": "Mortificio Golgari",
+          "multiverseid": 456186
+        },
+        {
+          "language": "Japanese",
+          "name": "ゴルガリの腐敗農場",
+          "multiverseid": 456213
+        }
+      ],
+      "id": "0b8e56798aabff0f64f471d8c60065237a656a1e",
+      "imageName": "golgari rot farm",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456078,
+      "name": "Golgari Rot Farm",
+      "number": "74",
+      "originalText": "Golgari Rot Farm enters the battlefield tapped.\nWhen Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {B}{G}.",
+      "originalType": "Land",
+      "printings": [
+        "RAV",
+        "CMD",
+        "DDJ",
+        "C13",
+        "MM2",
+        "C15",
+        "C16",
+        "CMA",
+        "IMA",
+        "CM2",
+        "C18",
+        "GK1_GOLGAR"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand."
+        }
+      ],
+      "text": "Golgari Rot Farm enters the battlefield tapped.\nWhen Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {B}{G}.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Golgari"
+    },
+    {
+      "artist": "Florian de Gesincourt",
+      "cmc": 0,
+      "colorIdentity": [
+        "B"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Sumpf",
+          "multiverseid": 456106
+        },
+        {
+          "language": "Spanish",
+          "name": "Pantano",
+          "multiverseid": 456133
+        },
+        {
+          "language": "French",
+          "name": "Marais",
+          "multiverseid": 456160
+        },
+        {
+          "language": "Italian",
+          "name": "Palude",
+          "multiverseid": 456187
+        },
+        {
+          "language": "Japanese",
+          "name": "沼",
+          "multiverseid": 456214
+        }
+      ],
+      "id": "3f3068f24fd4cfa484e6633831278f6eb57589a6",
+      "imageName": "swamp",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456079,
+      "name": "Swamp",
+      "number": "75",
+      "originalText": "B",
+      "originalType": "Basic Land — Swamp",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM",
+        "BBD",
+        "CM2",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_GOLGAR",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Swamp"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Swamp",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Black"
+    },
+    {
+      "artist": "Svetlin Velinov",
+      "cmc": 0,
+      "colorIdentity": [
+        "G"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Wald",
+          "multiverseid": 456107
+        },
+        {
+          "language": "Spanish",
+          "name": "Bosque",
+          "multiverseid": 456134
+        },
+        {
+          "language": "French",
+          "name": "Forêt",
+          "multiverseid": 456161
+        },
+        {
+          "language": "Italian",
+          "name": "Foresta",
+          "multiverseid": 456188
+        },
+        {
+          "language": "Japanese",
+          "name": "森",
+          "multiverseid": 456215
+        }
+      ],
+      "id": "2594fc72e90c8fa01177eb17de3a72878ec0866e",
+      "imageName": "forest",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 456080,
+      "name": "Forest",
+      "number": "76",
+      "originalText": "G",
+      "originalType": "Basic Land — Forest",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_GOLGAR",
+        "GK1_SELESN",
+        "GNT"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Forest"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Forest",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Green"
+    }
+  ]
+}

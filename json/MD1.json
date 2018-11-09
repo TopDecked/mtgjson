@@ -44,7 +44,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "1",
       "multiverseid": 382197,
       "name": "Soul Warden",
       "number": "1",
@@ -128,7 +127,6 @@
         }
       ],
       "manaCost": "{W}{B}",
-      "mciNumber": "2",
       "multiverseid": 382201,
       "name": "Tidehollow Sculler",
       "number": "2",
@@ -194,7 +192,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "3",
       "multiverseid": 382192,
       "name": "Path to Exile",
       "number": "3",
@@ -266,7 +263,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "4",
       "multiverseid": 382187,
       "name": "Inquisition of Kozilek",
       "number": "4",
@@ -320,7 +316,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "5",
       "multiverseid": 382196,
       "name": "Shrine of Loyal Legions",
       "number": "5",
@@ -369,7 +364,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "6",
       "multiverseid": 382186,
       "name": "Honor of the Pure",
       "number": "6",
@@ -425,7 +419,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "7",
       "multiverseid": 382188,
       "name": "Intangible Virtue",
       "number": "7",
@@ -481,7 +474,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "8",
       "multiverseid": 382194,
       "name": "Raise the Alarm",
       "number": "8",
@@ -542,7 +534,6 @@
         }
       ],
       "manaCost": "{W}{B}",
-      "mciNumber": "9",
       "multiverseid": 382204,
       "name": "Zealous Persecution",
       "number": "9",
@@ -591,7 +582,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "10",
       "multiverseid": 382200,
       "name": "Sword of Feast and Famine",
       "number": "10",
@@ -656,7 +646,6 @@
         }
       ],
       "manaCost": "{2}{W}",
-      "mciNumber": "11",
       "multiverseid": 382191,
       "name": "Lingering Souls",
       "number": "11",
@@ -712,7 +701,6 @@
         }
       ],
       "manaCost": "{2/W}{2/W}{2/W}",
-      "mciNumber": "12",
       "multiverseid": 382198,
       "name": "Spectral Procession",
       "number": "12",
@@ -786,7 +774,6 @@
       ],
       "loyalty": 4,
       "manaCost": "{2}{W}{W}",
-      "mciNumber": "13",
       "multiverseid": 382184,
       "name": "Elspeth, Knight-Errant",
       "number": "13",
@@ -853,7 +840,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "14",
       "multiverseid": 382180,
       "name": "Caves of Koilos",
       "number": "14",
@@ -910,7 +896,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "15",
       "multiverseid": 382181,
       "name": "City of Brass",
       "number": "15",
@@ -986,7 +971,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "16",
       "multiverseid": 382189,
       "name": "Isolated Chapel",
       "number": "16",
@@ -1037,7 +1021,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "17",
       "multiverseid": 382202,
       "name": "Vault of the Archangel",
       "number": "17",
@@ -1095,7 +1078,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "18",
       "multiverseid": 382203,
       "name": "Windbrisk Heights",
       "number": "18",
@@ -1255,7 +1237,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "19",
       "multiverseid": 382193,
       "name": "Plains",
       "number": "19",
@@ -1366,7 +1347,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -1516,7 +1500,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "20",
       "multiverseid": 382199,
       "name": "Swamp",
       "number": "20",
@@ -1630,7 +1613,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -1675,7 +1661,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "21",
       "multiverseid": 382195,
       "name": "Relic of Progenitus",
       "number": "21",
@@ -1741,7 +1726,6 @@
         }
       ],
       "manaCost": "{W}",
-      "mciNumber": "22",
       "multiverseid": 382179,
       "name": "Burrenton Forge-Tender",
       "number": "22",
@@ -1827,7 +1811,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "23",
       "multiverseid": 382183,
       "name": "Duress",
       "number": "23",
@@ -1850,7 +1833,8 @@
         "DTK",
         "EMA",
         "XLN",
-        "IMA"
+        "IMA",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
@@ -1895,7 +1879,6 @@
         }
       ],
       "manaCost": "{1}{W}",
-      "mciNumber": "24",
       "multiverseid": 382190,
       "name": "Kataki, War's Wage",
       "number": "24",
@@ -1957,7 +1940,6 @@
         }
       ],
       "manaCost": "{1}{B/P}{B/P}",
-      "mciNumber": "25",
       "multiverseid": 382182,
       "name": "Dismember",
       "number": "25",
@@ -2031,7 +2013,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "26",
       "multiverseid": 382185,
       "name": "Ghost Quarter",
       "number": "26",

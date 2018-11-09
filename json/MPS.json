@@ -49,7 +49,6 @@
         }
       ],
       "manaCost": "{3}{W}{W}",
-      "mciNumber": "1",
       "multiverseid": 420588,
       "name": "Cataclysmic Gearhulk",
       "number": "1",
@@ -133,7 +132,6 @@
         }
       ],
       "manaCost": "{4}{U}{U}",
-      "mciNumber": "2",
       "multiverseid": 420589,
       "name": "Torrential Gearhulk",
       "number": "2",
@@ -209,7 +207,6 @@
         }
       ],
       "manaCost": "{4}{B}{B}",
-      "mciNumber": "3",
       "multiverseid": 420590,
       "name": "Noxious Gearhulk",
       "number": "3",
@@ -281,7 +278,6 @@
         }
       ],
       "manaCost": "{4}{R}{R}",
-      "mciNumber": "4",
       "multiverseid": 420591,
       "name": "Combustible Gearhulk",
       "number": "4",
@@ -357,7 +353,6 @@
         }
       ],
       "manaCost": "{3}{G}{G}",
-      "mciNumber": "5",
       "multiverseid": 420592,
       "name": "Verdurous Gearhulk",
       "number": "5",
@@ -423,7 +418,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "6",
       "multiverseid": 420593,
       "name": "Aether Vial",
       "number": "6",
@@ -475,7 +469,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "7",
       "multiverseid": 420594,
       "name": "Champion's Helm",
       "number": "7",
@@ -531,7 +524,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "8",
       "multiverseid": 420595,
       "name": "Chromatic Lantern",
       "number": "8",
@@ -540,7 +532,8 @@
       "printings": [
         "RTR",
         "MPS",
-        "C16"
+        "C16",
+        "GRN"
       ],
       "rarity": "Special",
       "rulings": [
@@ -584,7 +577,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "9",
       "multiverseid": 420596,
       "name": "Chrome Mox",
       "number": "9",
@@ -643,7 +635,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "10",
       "multiverseid": 420597,
       "name": "Cloudstone Curio",
       "number": "10",
@@ -690,7 +681,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "11",
       "multiverseid": 420598,
       "name": "Crucible of Worlds",
       "number": "11",
@@ -700,7 +690,8 @@
         "pJGP",
         "5DN",
         "10E",
-        "MPS"
+        "MPS",
+        "M19"
       ],
       "rarity": "Special",
       "rulings": [
@@ -752,7 +743,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "12",
       "multiverseid": 420599,
       "name": "Gauntlet of Power",
       "number": "12",
@@ -794,7 +784,6 @@
         }
       ],
       "manaCost": "{X}{X}",
-      "mciNumber": "13",
       "multiverseid": 420600,
       "name": "Hangarback Walker",
       "number": "13",
@@ -857,7 +846,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "14",
       "multiverseid": 420601,
       "name": "Lightning Greaves",
       "number": "14",
@@ -917,7 +905,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "15",
       "multiverseid": 420602,
       "name": "Lotus Petal",
       "number": "15",
@@ -958,7 +945,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "16",
       "multiverseid": 420603,
       "name": "Mana Crypt",
       "number": "16",
@@ -1006,7 +992,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "17",
       "multiverseid": 420604,
       "name": "Mana Vault",
       "number": "17",
@@ -1062,7 +1047,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "18",
       "multiverseid": 420605,
       "name": "Mind's Eye",
       "number": "18",
@@ -1111,7 +1095,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "19",
       "multiverseid": 420606,
       "name": "Mox Opal",
       "number": "19",
@@ -1162,7 +1145,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "20",
       "multiverseid": 420607,
       "name": "Painter's Servant",
       "number": "20",
@@ -1241,7 +1223,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "21",
       "multiverseid": 420608,
       "name": "Rings of Brighthearth",
       "number": "21",
@@ -1289,7 +1270,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "22",
       "multiverseid": 420609,
       "name": "Scroll Rack",
       "number": "22",
@@ -1343,7 +1323,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "23",
       "multiverseid": 420610,
       "name": "Sculpting Steel",
       "number": "23",
@@ -1405,7 +1384,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "24",
       "multiverseid": 420611,
       "name": "Sol Ring",
       "number": "24",
@@ -1467,7 +1445,6 @@
         }
       ],
       "manaCost": "{4}",
-      "mciNumber": "25",
       "multiverseid": 420612,
       "name": "Solemn Simulacrum",
       "number": "25",
@@ -1522,7 +1499,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "26",
       "multiverseid": 420613,
       "name": "Static Orb",
       "number": "26",
@@ -1572,7 +1548,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "27",
       "multiverseid": 420614,
       "name": "Steel Overseer",
       "number": "27",
@@ -1631,7 +1606,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "28",
       "multiverseid": 420615,
       "name": "Sword of Feast and Famine",
       "number": "28",
@@ -1688,7 +1662,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "29",
       "multiverseid": 420616,
       "name": "Sword of Fire and Ice",
       "number": "29",
@@ -1745,7 +1718,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "30",
       "multiverseid": 420617,
       "name": "Sword of Light and Shadow",
       "number": "30",
@@ -1803,7 +1775,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "31",
       "multiverseid": 425802,
       "name": "Arcbound Ravager",
       "number": "31",
@@ -1854,7 +1825,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "32",
       "multiverseid": 425803,
       "name": "Black Vise",
       "number": "32",
@@ -1918,7 +1888,6 @@
         }
       ],
       "manaCost": "{X}{X}",
-      "mciNumber": "33",
       "multiverseid": 425804,
       "name": "Chalice of the Void",
       "number": "33",
@@ -1985,7 +1954,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "34",
       "multiverseid": 425805,
       "name": "Defense Grid",
       "number": "34",
@@ -2043,7 +2011,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "35",
       "multiverseid": 425806,
       "name": "Duplicant",
       "number": "35",
@@ -2120,7 +2087,6 @@
         }
       ],
       "manaCost": "{X}",
-      "mciNumber": "36",
       "multiverseid": 425807,
       "name": "Engineered Explosives",
       "number": "36",
@@ -2174,7 +2140,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "37",
       "multiverseid": 425808,
       "name": "Ensnaring Bridge",
       "number": "37",
@@ -2229,7 +2194,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "38",
       "multiverseid": 425809,
       "name": "Extraplanar Lens",
       "number": "38",
@@ -2272,7 +2236,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "39",
       "multiverseid": 425810,
       "name": "Grindstone",
       "number": "39",
@@ -2322,7 +2285,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "40",
       "multiverseid": 425811,
       "name": "Meekstone",
       "number": "40",
@@ -2377,7 +2339,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "41",
       "multiverseid": 425812,
       "name": "Oblivion Stone",
       "number": "41",
@@ -2434,7 +2395,6 @@
         }
       ],
       "manaCost": "{0}",
-      "mciNumber": "42",
       "multiverseid": 425813,
       "name": "Ornithopter",
       "number": "42",
@@ -2502,7 +2462,6 @@
         }
       ],
       "manaCost": "{5}",
-      "mciNumber": "43",
       "multiverseid": 425814,
       "name": "Paradox Engine",
       "number": "43",
@@ -2561,7 +2520,6 @@
         }
       ],
       "manaCost": "{1}",
-      "mciNumber": "44",
       "multiverseid": 425815,
       "name": "Pithing Needle",
       "number": "44",
@@ -2637,7 +2595,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "45",
       "multiverseid": 425816,
       "name": "Planar Bridge",
       "number": "45",
@@ -2693,7 +2650,6 @@
         }
       ],
       "manaCost": "{7}",
-      "mciNumber": "46",
       "multiverseid": 425817,
       "name": "Platinum Angel",
       "number": "46",
@@ -2769,7 +2725,6 @@
         }
       ],
       "manaCost": "{2}",
-      "mciNumber": "47",
       "multiverseid": 425818,
       "name": "Sphere of Resistance",
       "number": "47",
@@ -2822,7 +2777,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "48",
       "multiverseid": 425819,
       "name": "Staff of Domination",
       "number": "48",
@@ -2869,7 +2823,6 @@
         }
       ],
       "manaCost": "{8}",
-      "mciNumber": "49",
       "multiverseid": 425820,
       "name": "Sundering Titan",
       "number": "49",
@@ -2942,7 +2895,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "50",
       "multiverseid": 425821,
       "name": "Sword of Body and Mind",
       "number": "50",
@@ -2998,7 +2950,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "51",
       "multiverseid": 425822,
       "name": "Sword of War and Peace",
       "number": "51",
@@ -3054,7 +3005,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "52",
       "multiverseid": 425823,
       "name": "Trinisphere",
       "number": "52",
@@ -3123,7 +3073,6 @@
         }
       ],
       "manaCost": "{3}",
-      "mciNumber": "53",
       "multiverseid": 425824,
       "name": "Vedalken Shackles",
       "number": "53",
@@ -3184,7 +3133,6 @@
         }
       ],
       "manaCost": "{6}",
-      "mciNumber": "54",
       "multiverseid": 425825,
       "name": "Wurmcoil Engine",
       "number": "54",

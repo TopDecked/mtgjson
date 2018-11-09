@@ -39,7 +39,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "1",
       "multiverseid": 270459,
       "name": "Putrid Imp",
       "number": "1",
@@ -99,7 +98,6 @@
         }
       ],
       "manaCost": "{1}{B}{B}",
-      "mciNumber": "2",
       "multiverseid": 270464,
       "name": "Hidden Horror",
       "number": "2",
@@ -173,7 +171,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "3",
       "multiverseid": 270458,
       "name": "Faceless Butcher",
       "number": "3",
@@ -242,7 +239,6 @@
         }
       ],
       "manaCost": "{5}{B}",
-      "mciNumber": "4",
       "multiverseid": 270453,
       "name": "Twisted Abomination",
       "number": "4",
@@ -325,7 +321,6 @@
         }
       ],
       "manaCost": "{3}{U}{B}{R}",
-      "mciNumber": "5",
       "multiverseid": 270140,
       "name": "Crosis, the Purger",
       "number": "5",
@@ -396,7 +391,6 @@
         }
       ],
       "manaCost": "{6}{B}{B}",
-      "mciNumber": "6",
       "multiverseid": 270448,
       "name": "Avatar of Woe",
       "number": "6",
@@ -465,7 +459,6 @@
         }
       ],
       "manaCost": "{6}{G}{G}",
-      "mciNumber": "7",
       "multiverseid": 270451,
       "name": "Terastodon",
       "number": "7",
@@ -542,7 +535,6 @@
         }
       ],
       "manaCost": "{5}{G}{G}{G}",
-      "mciNumber": "8",
       "multiverseid": 270450,
       "name": "Verdant Force",
       "number": "8",
@@ -622,7 +614,6 @@
         }
       ],
       "manaCost": "{5}{W}{U}{B}",
-      "mciNumber": "9",
       "multiverseid": 270446,
       "name": "Sphinx of the Steel Wind",
       "number": "9",
@@ -683,7 +674,6 @@
         }
       ],
       "manaCost": "{7}{U}{U}",
-      "mciNumber": "10",
       "multiverseid": 270447,
       "name": "Inkwell Leviathan",
       "number": "10",
@@ -744,7 +734,6 @@
         }
       ],
       "manaCost": "{6}{W}{W}{W}",
-      "mciNumber": "11",
       "multiverseid": 270449,
       "name": "Blazing Archon",
       "number": "11",
@@ -804,7 +793,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "12",
       "multiverseid": 265166,
       "name": "Cabal Therapy",
       "number": "12",
@@ -877,7 +865,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "13",
       "multiverseid": 270465,
       "name": "Duress",
       "number": "13",
@@ -900,7 +887,8 @@
         "DTK",
         "EMA",
         "XLN",
-        "IMA"
+        "IMA",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
@@ -941,7 +929,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "14",
       "multiverseid": 270456,
       "name": "Entomb",
       "number": "14",
@@ -993,7 +980,6 @@
         }
       ],
       "manaCost": "{B}",
-      "mciNumber": "15",
       "multiverseid": 270452,
       "name": "Reanimate",
       "number": "15",
@@ -1048,7 +1034,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "16",
       "multiverseid": 265167,
       "name": "Animate Dead",
       "number": "16",
@@ -1132,7 +1117,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "17",
       "multiverseid": 270462,
       "name": "Exhume",
       "number": "17",
@@ -1182,7 +1166,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "18",
       "multiverseid": 270460,
       "name": "Sickening Dreams",
       "number": "18",
@@ -1235,7 +1218,6 @@
         }
       ],
       "manaCost": "{1}{B}",
-      "mciNumber": "19",
       "multiverseid": 270454,
       "name": "Zombie Infestation",
       "number": "19",
@@ -1290,7 +1272,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "20",
       "multiverseid": 270455,
       "name": "Buried Alive",
       "number": "20",
@@ -1346,7 +1327,6 @@
         }
       ],
       "manaCost": "{2}{B}",
-      "mciNumber": "21",
       "multiverseid": 270457,
       "name": "Last Rites",
       "number": "21",
@@ -1394,7 +1374,6 @@
         }
       ],
       "manaCost": "{3}{B}",
-      "mciNumber": "22",
       "multiverseid": 270461,
       "name": "Diabolic Servitude",
       "number": "22",
@@ -1455,7 +1434,6 @@
         }
       ],
       "manaCost": "{2}{B}{B}",
-      "mciNumber": "23",
       "multiverseid": 270463,
       "name": "Dread Return",
       "number": "23",
@@ -1498,7 +1476,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "24",
       "multiverseid": 270466,
       "name": "Crystal Vein",
       "number": "24",
@@ -1541,7 +1518,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "25",
       "multiverseid": 270467,
       "name": "Ebon Stronghold",
       "number": "25",
@@ -1589,7 +1565,6 @@
           "legality": "Legal"
         }
       ],
-      "mciNumber": "26",
       "multiverseid": 270468,
       "name": "Polluted Mire",
       "number": "26",
@@ -1868,7 +1843,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2136,7 +2114,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2404,7 +2385,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2672,7 +2656,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "M19",
+        "GRN",
+        "GNT"
       ],
       "rarity": "Basic Land",
       "subtypes": [
