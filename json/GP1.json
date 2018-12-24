@@ -1,0 +1,289 @@
+{
+  "name": "Gift Pack",
+  "code": "GP1",
+  "releaseDate": "2018-11-16",
+  "border": "black",
+  "type": "box",
+  "cards": [
+    {
+      "artist": "Sara Winters",
+      "cmc": 6,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"No single arrow can pierce an entire flock.\"",
+      "id": "d161a947773183ebe91d46ba53f51ffc3086dfe0",
+      "imageName": "angelic guardian",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{W}{W}",
+      "multiverseid": 456516,
+      "name": "Angelic Guardian",
+      "number": "1",
+      "originalText": "Flying\nWhenever one or more creatures you control attack, they gain indestructible until end of turn.",
+      "originalType": "Creature — Angel",
+      "power": "5",
+      "printings": [
+        "GP1"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Angel"
+      ],
+      "text": "Flying\nWhenever one or more creatures you control attack, they gain indestructible until end of turn.",
+      "toughness": "5",
+      "type": "Creature — Angel",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Alex Konstad",
+      "cmc": 7,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "It is ancient, immense, and irresistible.",
+      "id": "b7d934d46d0d73b562674fef69de2259b6920f0a",
+      "imageName": "angler turtle",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{5}{U}{U}",
+      "multiverseid": 456517,
+      "name": "Angler Turtle",
+      "number": "2",
+      "originalText": "Hexproof\nCreatures your opponents control attack each combat if able.",
+      "originalType": "Creature — Turtle",
+      "power": "5",
+      "printings": [
+        "GP1"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Turtle"
+      ],
+      "text": "Hexproof\nCreatures your opponents control attack each combat if able.",
+      "toughness": "7",
+      "type": "Creature — Turtle",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Mitchell Malloy",
+      "cmc": 6,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"Those who stood in my path now lay behind me.\"",
+      "id": "3eb233c3c72ce8bb02408f66037ebd900c6f90b0",
+      "imageName": "vengeant vampire",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{B}{B}",
+      "multiverseid": 456518,
+      "name": "Vengeant Vampire",
+      "number": "3",
+      "originalText": "Lifelink\nWhen Vengeant Vampire dies, destroy target creature an opponent controls and you gain 4 life.",
+      "originalType": "Creature — Vampire",
+      "power": "4",
+      "printings": [
+        "GP1"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Vampire"
+      ],
+      "text": "Lifelink\nWhen Vengeant Vampire dies, destroy target creature an opponent controls and you gain 4 life.",
+      "toughness": "4",
+      "type": "Creature — Vampire",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Daarken",
+      "cmc": 6,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Their fires burn quietly, allowing the phoenixes to glide silently through the canyon.",
+      "id": "4daa65918223151328be193e6bb747c7164c1bac",
+      "imageName": "immortal phoenix",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{R}{R}",
+      "multiverseid": 456519,
+      "name": "Immortal Phoenix",
+      "number": "4",
+      "originalText": "Flying\nWhen Immortal Phoenix dies, return it to its owner's hand.",
+      "originalType": "Creature — Phoenix",
+      "power": "5",
+      "printings": [
+        "GP1"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Phoenix"
+      ],
+      "text": "Flying\nWhen Immortal Phoenix dies, return it to its owner's hand.",
+      "toughness": "3",
+      "type": "Creature — Phoenix",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Lars Grant-West",
+      "cmc": 7,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "Not even the tallest tree stands a chance against the underside of a dinosaur's foot.",
+      "id": "ec3efbb0a03d2a411face3b83dea86350177ba93",
+      "imageName": "rampaging brontodon",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{5}{G}{G}",
+      "multiverseid": 456520,
+      "name": "Rampaging Brontodon",
+      "number": "5",
+      "originalText": "Trample\nWhenever Rampaging Brontodon attacks, it gets +1/+1 until end of turn for each land you control.",
+      "originalType": "Creature — Dinosaur",
+      "power": "7",
+      "printings": [
+        "GP1"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Dinosaur"
+      ],
+      "text": "Trample\nWhenever Rampaging Brontodon attacks, it gets +1/+1 until end of turn for each land you control.",
+      "toughness": "7",
+      "type": "Creature — Dinosaur",
+      "types": [
+        "Creature"
+      ]
+    }
+  ]
+}

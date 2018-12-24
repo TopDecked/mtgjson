@@ -1,0 +1,12 @@
+{
+  "SET": {
+    "name": "Ultimate Masters",
+    "code": "UMA",
+    "releaseDate": "2018-12-07",
+    "border": "black",
+    "type": "reprint",
+    "booster": [
+      ["rare", "mythic rare"], "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", ["foil mythic rare", "foil rare", "foil uncommon", "foil common"]
+    ]
+  }
+}
