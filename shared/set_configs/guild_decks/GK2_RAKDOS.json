@@ -1,0 +1,9 @@
+{
+  "SET": {
+    "name": "Guild Kit: Rakdos",
+    "code": "GK2_RAKDOS",
+    "releaseDate": "2019-02-10",
+    "border": "black",
+    "type": "box"
+  }
+}

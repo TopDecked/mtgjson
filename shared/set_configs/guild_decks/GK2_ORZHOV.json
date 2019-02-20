@@ -1,0 +1,9 @@
+{
+  "SET": {
+    "name": "Guild Kit: Orzhov",
+    "code": "GK2_ORZHOV",
+    "releaseDate": "2019-02-10",
+    "border": "black",
+    "type": "box"
+  }
+}
