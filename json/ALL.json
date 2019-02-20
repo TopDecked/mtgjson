@@ -692,7 +692,7 @@
       "printings": [
         "ALL",
         "DKM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -743,7 +743,7 @@
       "printings": [
         "ALL",
         "DKM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -832,7 +832,7 @@
       "power": "0",
       "printings": [
         "ALL",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -933,8 +933,8 @@
       "artist": "Alan Rabinowitz",
       "cmc": 1,
       "flavor": "\"Our newfound security enables us to turn more of our attentions to the wonders that lie deep within the soil.\"\n—Arcum Dagsson,\nSoldevi Machinist",
-      "id": "473abd65447f2d5b7609d27c4a4cff046883c401",
-      "imageName": "soldevi sentry2",
+      "id": "dba0e8b8eea42d362e9f34074e4cccd5bbfb3e00",
+      "imageName": "soldevi sentry1",
       "layout": "normal",
       "legalities": [
         {
@@ -982,8 +982,8 @@
       "artist": "Alan Rabinowitz",
       "cmc": 1,
       "flavor": "\"A dreadful invention. What ease is there under the watchful eye of cold steel?\"\n—Sorine Relicbane, Soldevi Heretic",
-      "id": "dba0e8b8eea42d362e9f34074e4cccd5bbfb3e00",
-      "imageName": "soldevi sentry1",
+      "id": "473abd65447f2d5b7609d27c4a4cff046883c401",
+      "imageName": "soldevi sentry2",
       "layout": "normal",
       "legalities": [
         {
@@ -1494,7 +1494,7 @@
       "printings": [
         "ALL",
         "DKM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "text": "You may pay 1 life and exile a black card from your hand rather than pay this spell's mana cost.\nDistribute two -2/-1 counters among one or two target creatures.",
@@ -1669,8 +1669,8 @@
         "Black"
       ],
       "flavor": "\"The living cannot understand the benefits of death.\"\n—Chaeska, Keeper of Tresserhorn",
-      "id": "c0ad462ea036e7836cac7505e5ea189aa012d9f7",
-      "imageName": "feast or famine2",
+      "id": "db447200771a3ed5509501fba18ee2513aa713e8",
+      "imageName": "feast or famine1",
       "layout": "normal",
       "legalities": [
         {
@@ -1697,7 +1697,7 @@
       "originalType": "Instant",
       "printings": [
         "ALL",
-        "MED",
+        "ME1",
         "DDJ"
       ],
       "rarity": "Common",
@@ -1720,8 +1720,8 @@
         "Black"
       ],
       "flavor": "\"We are not yet free of Lim-Dûl's terrors.\"\n—Halvor Arensson, Kjeldoran Priest",
-      "id": "db447200771a3ed5509501fba18ee2513aa713e8",
-      "imageName": "feast or famine1",
+      "id": "c0ad462ea036e7836cac7505e5ea189aa012d9f7",
+      "imageName": "feast or famine2",
       "layout": "normal",
       "legalities": [
         {
@@ -1748,7 +1748,7 @@
       "originalType": "Instant",
       "printings": [
         "ALL",
-        "MED",
+        "ME1",
         "DDJ"
       ],
       "rarity": "Common",
@@ -2316,8 +2316,8 @@
       "colors": [
         "Black"
       ],
-      "id": "0aaffcbf4c8722eb2b46eaf4ea6df2fc72eb4aec",
-      "imageName": "phantasmal fiend2",
+      "id": "731eda8b8f06d02179f1d6e0ea5ae7bf6d451e71",
+      "imageName": "phantasmal fiend1",
       "layout": "normal",
       "legalities": [
         {
@@ -2391,8 +2391,8 @@
       "colors": [
         "Black"
       ],
-      "id": "731eda8b8f06d02179f1d6e0ea5ae7bf6d451e71",
-      "imageName": "phantasmal fiend1",
+      "id": "0aaffcbf4c8722eb2b46eaf4ea6df2fc72eb4aec",
+      "imageName": "phantasmal fiend2",
       "layout": "normal",
       "legalities": [
         {
@@ -2466,8 +2466,8 @@
         "Black"
       ],
       "flavor": "\"Dagsson should have paid attention to the lessons of Phyrexia before attempting to create a mechanical utopia.\"\n—Sorine Relicbane, Soldevi Heretic",
-      "id": "c08435a02ec1b71f645af945fbc4978a050dffb4",
-      "imageName": "phyrexian boon2",
+      "id": "e8e0dfafa135efa936a009783d0e32a0d16ff7f2",
+      "imageName": "phyrexian boon1",
       "layout": "normal",
       "legalities": [
         {
@@ -2494,7 +2494,7 @@
       "originalType": "Enchant Creature",
       "printings": [
         "ALL",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -2519,8 +2519,8 @@
         "Black"
       ],
       "flavor": "\"Phyrexia's touch is painful to all but the blackest of hearts.\"\n—Gerda Äagesdotter,\nArchmage of the Unseen",
-      "id": "e8e0dfafa135efa936a009783d0e32a0d16ff7f2",
-      "imageName": "phyrexian boon1",
+      "id": "c08435a02ec1b71f645af945fbc4978a050dffb4",
+      "imageName": "phyrexian boon2",
       "layout": "normal",
       "legalities": [
         {
@@ -2547,7 +2547,7 @@
       "originalType": "Enchant Creature",
       "printings": [
         "ALL",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -2740,8 +2740,8 @@
         "Black"
       ],
       "flavor": "\"My lord, there is only so much I can do. This plague infests Krov worse than any other city.\"\n—Halvor Arensson, Kjeldoran Priest",
-      "id": "dd1f12ace030dcbfd3282cc324b1d586a40a02b6",
-      "imageName": "stench of decay2",
+      "id": "92fe7a482457eab0da61ca9a99bd9e8fd5b8fe7a",
+      "imageName": "stench of decay1",
       "layout": "normal",
       "legalities": [
         {
@@ -2789,8 +2789,8 @@
         "Black"
       ],
       "flavor": "\"Disa is dead, and I am left. I shall allow no others to succumb to this pestilence.\"\n—Kolbjörn, High Honored Druid",
-      "id": "92fe7a482457eab0da61ca9a99bd9e8fd5b8fe7a",
-      "imageName": "stench of decay1",
+      "id": "dd1f12ace030dcbfd3282cc324b1d586a40a02b6",
+      "imageName": "stench of decay2",
       "layout": "normal",
       "legalities": [
         {
@@ -2894,8 +2894,8 @@
       "colors": [
         "Black"
       ],
-      "id": "6f09e3cc58fa454ab395d7be27f58c53da268231",
-      "imageName": "swamp mosquito2",
+      "id": "f7006785751393217e16770ee81abc824eb77d85",
+      "imageName": "swamp mosquito1",
       "layout": "normal",
       "legalities": [
         {
@@ -2966,8 +2966,8 @@
       "colors": [
         "Black"
       ],
-      "id": "f7006785751393217e16770ee81abc824eb77d85",
-      "imageName": "swamp mosquito1",
+      "id": "6f09e3cc58fa454ab395d7be27f58c53da268231",
+      "imageName": "swamp mosquito2",
       "layout": "normal",
       "legalities": [
         {
@@ -3066,7 +3066,7 @@
       "originalType": "Interrupt",
       "printings": [
         "ALL",
-        "MED",
+        "ME1",
         "C13",
         "C16",
         "CMA",
@@ -3125,7 +3125,7 @@
       "originalType": "Interrupt",
       "printings": [
         "ALL",
-        "MED",
+        "ME1",
         "C13",
         "C16",
         "CMA",
@@ -3514,7 +3514,7 @@
       "printings": [
         "ALL",
         "6ED",
-        "MED",
+        "ME1",
         "EMA"
       ],
       "rarity": "Rare",
@@ -3690,7 +3690,7 @@
       "printings": [
         "ALL",
         "pJGP",
-        "MED",
+        "ME1",
         "VMA",
         "EMA",
         "MPS_AKH"
@@ -3814,8 +3814,8 @@
         "Blue"
       ],
       "flavor": "\"Lat-Nam has bequeathed us its secrets. With them we shall attain true enlightenment.\" —Gerda Äagesdotter, Archmage of the Unseen",
-      "id": "7884831754c445fccde9ca150467ccddb85ad767",
-      "imageName": "lat-nam's legacy2",
+      "id": "c6a08a4ac20641b106602119ee63de129ebdc512",
+      "imageName": "lat-nam's legacy1",
       "layout": "normal",
       "legalities": [
         {
@@ -3871,8 +3871,8 @@
         "Blue"
       ],
       "flavor": "\"All the knowledge of Lat-Nam could not protect its sages from the Brothers' War.\" —Gerda Äagesdotter, Archmage of the Unseen",
-      "id": "c6a08a4ac20641b106602119ee63de129ebdc512",
-      "imageName": "lat-nam's legacy1",
+      "id": "7884831754c445fccde9ca150467ccddb85ad767",
+      "imageName": "lat-nam's legacy2",
       "layout": "normal",
       "legalities": [
         {
@@ -4026,8 +4026,8 @@
         "Blue"
       ],
       "flavor": "\"It cannot be Soldev crushed, and my machines to blame?\"\n—Arcum Dagsson, Soldevi Machinist",
-      "id": "cb34c9526561c9a3180c58e4bc27d5dea7b8e790",
-      "imageName": "soldevi heretic2",
+      "id": "85d370e026c53acf6865d65458127980a00e70c6",
+      "imageName": "soldevi heretic1",
       "layout": "normal",
       "legalities": [
         {
@@ -4082,8 +4082,8 @@
         "Blue"
       ],
       "flavor": "\"In the arms of tragedy, there is little comfort in being right.\"\n—Sorine Relicbane, Soldevi Heretic",
-      "id": "85d370e026c53acf6865d65458127980a00e70c6",
-      "imageName": "soldevi heretic1",
+      "id": "cb34c9526561c9a3180c58e4bc27d5dea7b8e790",
+      "imageName": "soldevi heretic2",
       "layout": "normal",
       "legalities": [
         {
@@ -5051,8 +5051,8 @@
         "Green"
       ],
       "flavor": "\"How can any Human hope to match our skills? We are children of Fyndhorn, and its sap runs in our veins.\"\n—Taaveti of Kelsinko,\nElvish Hunter",
-      "id": "d90b2477110d2f23a1bbe2439e566e19964a9385",
-      "imageName": "elvish ranger2",
+      "id": "1d6b73a3faeb0c5bb602de61349ac24c9b3203b4",
+      "imageName": "elvish ranger1",
       "layout": "normal",
       "legalities": [
         {
@@ -5105,8 +5105,8 @@
         "Green"
       ],
       "flavor": "\"No one may fault an Elvish Ranger's heart, but the simplest frailty may fell even the proudest warrior.\"\n—Kaysa, Elder Druid of the Juniper Order",
-      "id": "1d6b73a3faeb0c5bb602de61349ac24c9b3203b4",
-      "imageName": "elvish ranger1",
+      "id": "d90b2477110d2f23a1bbe2439e566e19964a9385",
+      "imageName": "elvish ranger2",
       "layout": "normal",
       "legalities": [
         {
@@ -5218,8 +5218,8 @@
         "Green"
       ],
       "flavor": "\"Honor those who honor Fyndhorn above themselves.\"\n—Kolbjörn, High Honored Druid",
-      "id": "7fc0a3ce3ff37c4acde9db10f04e812a682178ac",
-      "imageName": "fyndhorn druid2",
+      "id": "d89589f744a44017d9d2ab945cf45a23877fce7a",
+      "imageName": "fyndhorn druid1",
       "layout": "normal",
       "legalities": [
         {
@@ -5273,8 +5273,8 @@
         "Green"
       ],
       "flavor": "\"All struggles ultimately require sacrifice. It's just that some sacrifices are dearer than others.\"\n—Jaeuhl Carthalion,\nJuniper Order Advocate",
-      "id": "d89589f744a44017d9d2ab945cf45a23877fce7a",
-      "imageName": "fyndhorn druid1",
+      "id": "7fc0a3ce3ff37c4acde9db10f04e812a682178ac",
+      "imageName": "fyndhorn druid2",
       "layout": "normal",
       "legalities": [
         {
@@ -5356,7 +5356,7 @@
       "power": "7",
       "printings": [
         "ALL",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -6116,7 +6116,7 @@
       "originalType": "Enchantment",
       "printings": [
         "ALL",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -6498,7 +6498,7 @@
       "printings": [
         "ALL",
         "DKM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -6672,7 +6672,7 @@
         "pWOR",
         "BTD",
         "DKM",
-        "MED",
+        "ME1",
         "A25"
       ],
       "rarity": "Rare",
@@ -6812,8 +6812,8 @@
       "colors": [
         "Red"
       ],
-      "id": "1b0abda9cf6ec50721979fcefb613bcc4b90382b",
-      "imageName": "bestial fury2",
+      "id": "ae25be192d11c3508ff87b1cb192a9a0450a0ca9",
+      "imageName": "bestial fury1",
       "layout": "normal",
       "legalities": [
         {
@@ -6840,7 +6840,7 @@
       "originalType": "Enchant Creature",
       "printings": [
         "ALL",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -6864,8 +6864,8 @@
       "colors": [
         "Red"
       ],
-      "id": "ae25be192d11c3508ff87b1cb192a9a0450a0ca9",
-      "imageName": "bestial fury1",
+      "id": "1b0abda9cf6ec50721979fcefb613bcc4b90382b",
+      "imageName": "bestial fury2",
       "layout": "normal",
       "legalities": [
         {
@@ -6892,7 +6892,7 @@
       "originalType": "Enchant Creature",
       "printings": [
         "ALL",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -7438,8 +7438,8 @@
       "colors": [
         "Red"
       ],
-      "id": "0d5c068329e0bc6ff7193306b5c340241621ed6b",
-      "imageName": "guerrilla tactics2",
+      "id": "3499035f141598aa8a25ecb245ecd4432dd31ef6",
+      "imageName": "guerrilla tactics1",
       "layout": "normal",
       "legalities": [
         {
@@ -7508,8 +7508,8 @@
       "colors": [
         "Red"
       ],
-      "id": "3499035f141598aa8a25ecb245ecd4432dd31ef6",
-      "imageName": "guerrilla tactics1",
+      "id": "0d5c068329e0bc6ff7193306b5c340241621ed6b",
+      "imageName": "guerrilla tactics2",
       "layout": "normal",
       "legalities": [
         {
@@ -7912,8 +7912,8 @@
         "Red"
       ],
       "flavor": "\"Embrace the storm. Its voice shall echo within you, and its fire shall become your touch\"\n—Lovisa Coldeyes,\nBalduvian Chieftain",
-      "id": "2c724d0c8b13fc8358040a62d75f5b02dc3ad1a5",
-      "imageName": "storm shaman2",
+      "id": "dc94dc630451fa18f6308b5bc8381f3ad94061a8",
+      "imageName": "storm shaman1",
       "layout": "normal",
       "legalities": [
         {
@@ -7970,8 +7970,8 @@
         "Red"
       ],
       "flavor": "\"Let the lightning be your warning, and the thunder your battle cry.\"\n—Lovisa Coldeyes,\nBalduvian Chieftain",
-      "id": "dc94dc630451fa18f6308b5bc8381f3ad94061a8",
-      "imageName": "storm shaman1",
+      "id": "2c724d0c8b13fc8358040a62d75f5b02dc3ad1a5",
+      "imageName": "storm shaman2",
       "layout": "normal",
       "legalities": [
         {
@@ -8169,7 +8169,7 @@
       "power": "3",
       "printings": [
         "ALL",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -8204,8 +8204,8 @@
         "Red"
       ],
       "flavor": "\"Teach by example. If your students do not survive, they were not worth the lesson.\"\n—General Varchild",
-      "id": "f73043ba6479b816a485b33e696f353a86bed5ee",
-      "imageName": "veteran's voice2",
+      "id": "145707e0f47558a9626c3ef08fb40cf196ffb83f",
+      "imageName": "veteran's voice1",
       "layout": "normal",
       "legalities": [
         {
@@ -8262,8 +8262,8 @@
         "Red"
       ],
       "flavor": "\"Good soldiers rely first upon their training, then upon their instincts.\" —King Darien of Kjeldor",
-      "id": "145707e0f47558a9626c3ef08fb40cf196ffb83f",
-      "imageName": "veteran's voice1",
+      "id": "f73043ba6479b816a485b33e696f353a86bed5ee",
+      "imageName": "veteran's voice2",
       "layout": "normal",
       "legalities": [
         {
@@ -8320,8 +8320,8 @@
         "White"
       ],
       "flavor": "\"It's true I ask no fealty of the flocks—but surely we are more than mere beasts.\" —King Darien of Kjeldor, in a missive to General Varchild",
-      "id": "9fb740fba1692e5f633adf55bf30c637cc96c65c",
-      "imageName": "carrier pigeons2",
+      "id": "d156e27e9b32eb5e5c6597cf6d7cc26479c27500",
+      "imageName": "carrier pigeons1",
       "layout": "normal",
       "legalities": [
         {
@@ -8374,8 +8374,8 @@
         "White"
       ],
       "flavor": "\"Birds know no borders! Why, then, should we?\"\n—General Varchild, in a missive to King Darien of Kjeldor",
-      "id": "d156e27e9b32eb5e5c6597cf6d7cc26479c27500",
-      "imageName": "carrier pigeons1",
+      "id": "9fb740fba1692e5f633adf55bf30c637cc96c65c",
+      "imageName": "carrier pigeons2",
       "layout": "normal",
       "legalities": [
         {
@@ -8592,7 +8592,7 @@
       "printings": [
         "ALL",
         "6ED",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Rare",
@@ -8786,8 +8786,8 @@
         "White"
       ],
       "flavor": "\"The first caravan has passed safely through the Karplusan Mountains without incident, forging a trade route to Balduvia. Kjeld himself would never have believed it\"\n—King Darien of Kjeldor",
-      "id": "f7eb17982055c627cd104ed42fd964b6729b3e7d",
-      "imageName": "kjeldoran escort2",
+      "id": "30cccec76cfecea792ac364b95c97663f4c5aa59",
+      "imageName": "kjeldoran escort1",
       "layout": "normal",
       "legalities": [
         {
@@ -8859,8 +8859,8 @@
         "White"
       ],
       "flavor": "\"We willingly trade with Kjeldor, but the peace we build must come from both our lands.\"\n—Lovisa Coldeyes,\nBalduvian Chieftain",
-      "id": "30cccec76cfecea792ac364b95c97663f4c5aa59",
-      "imageName": "kjeldoran escort1",
+      "id": "f7eb17982055c627cd104ed42fd964b6729b3e7d",
+      "imageName": "kjeldoran escort2",
       "layout": "normal",
       "legalities": [
         {
@@ -9239,8 +9239,8 @@
         "White"
       ],
       "flavor": "\"They are fighters as fine as any Knight they carry.\"\n—Arna Kennerüd, Skycaptain",
-      "id": "4e4df5f00b5c11c28b5d75df666b23e63d552c3e",
-      "imageName": "noble steeds2",
+      "id": "796dd55858765410103db2c0f453eabbcf9d0636",
+      "imageName": "noble steeds1",
       "layout": "normal",
       "legalities": [
         {
@@ -9288,8 +9288,8 @@
         "White"
       ],
       "flavor": "\"Only an animal born in the wild has sufficient heart to be a true Knight's steed.\"\n—King Darien of Kjeldor",
-      "id": "796dd55858765410103db2c0f453eabbcf9d0636",
-      "imageName": "noble steeds1",
+      "id": "4e4df5f00b5c11c28b5d75df666b23e63d552c3e",
+      "imageName": "noble steeds2",
       "layout": "normal",
       "legalities": [
         {
@@ -9337,8 +9337,8 @@
         "White"
       ],
       "flavor": "\"We aided the Balduvians once before. They need but ask and we shall do so again.\"\n—King Darien of Kjeldor",
-      "id": "3155f5e20f38463086cd65c9d6ad55599d2beb31",
-      "imageName": "reinforcements2",
+      "id": "47f04149c4c47528096c69adf569e643623a158f",
+      "imageName": "reinforcements1",
       "layout": "normal",
       "legalities": [
         {
@@ -9394,8 +9394,8 @@
         "White"
       ],
       "flavor": "\"Let them send their legions I will show them that my truth is stronger than their swords.\"\n—General Varchild",
-      "id": "47f04149c4c47528096c69adf569e643623a158f",
-      "imageName": "reinforcements1",
+      "id": "3155f5e20f38463086cd65c9d6ad55599d2beb31",
+      "imageName": "reinforcements2",
       "layout": "normal",
       "legalities": [
         {
@@ -10171,7 +10171,7 @@
       "originalType": "Instant",
       "printings": [
         "ALL",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -10288,7 +10288,7 @@
       "originalType": "Instant",
       "printings": [
         "ALL",
-        "MED",
+        "ME1",
         "C13"
       ],
       "rarity": "Uncommon",
@@ -10354,7 +10354,7 @@
       "power": "10",
       "printings": [
         "ALL",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -10528,7 +10528,7 @@
       "power": "4",
       "printings": [
         "ALL",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -10919,7 +10919,7 @@
       "originalType": "Land",
       "printings": [
         "ALL",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Rare",
@@ -11098,7 +11098,7 @@
       "printings": [
         "ALL",
         "pJGP",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Rare",

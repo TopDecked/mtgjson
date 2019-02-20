@@ -1048,7 +1048,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "PD3",
         "VMA",
         "EMA"
@@ -1780,7 +1780,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -1846,7 +1846,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2051,7 +2052,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -2117,7 +2118,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2322,7 +2324,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -2388,7 +2390,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2593,7 +2596,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -2659,7 +2662,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [

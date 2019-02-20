@@ -17719,7 +17719,8 @@
         "C17",
         "E02",
         "CM2",
-        "C18"
+        "C18",
+        "RNA"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -20605,7 +20606,8 @@
       "originalType": "Artifact",
       "printings": [
         "MRD",
-        "C18"
+        "C18",
+        "RNA"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Target player exiles a card from their graveyard.\n{1}, Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card.",
@@ -21983,7 +21985,8 @@
         "C13",
         "MM3",
         "CMA",
-        "C18"
+        "C18",
+        "RNA"
       ],
       "rarity": "Common",
       "rulings": [
@@ -25180,7 +25183,8 @@
         "C15",
         "MM3",
         "C17",
-        "C18"
+        "C18",
+        "RNA"
       ],
       "rarity": "Common",
       "rulings": [
@@ -27063,7 +27067,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -27130,7 +27134,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27325,7 +27330,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -27392,7 +27397,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27587,7 +27593,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -27654,7 +27660,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27848,7 +27855,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -27916,7 +27923,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28110,7 +28118,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -28178,7 +28186,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28372,7 +28381,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -28440,7 +28449,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28636,7 +28646,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -28704,7 +28714,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28900,7 +28911,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -28968,7 +28979,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29164,7 +29176,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -29232,7 +29244,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29429,7 +29442,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -29500,7 +29513,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29697,7 +29711,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -29768,7 +29782,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29965,7 +29980,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -30036,7 +30051,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30232,7 +30248,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -30301,7 +30317,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30497,7 +30514,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -30566,7 +30583,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30762,7 +30780,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -30831,7 +30849,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [

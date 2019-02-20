@@ -1453,7 +1453,7 @@
       "originalType": "Artifact",
       "printings": [
         "ICE",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "text": "{2}: Prevent the next 1 damage that would be dealt to you this turn.",
@@ -1818,7 +1818,7 @@
       "printings": [
         "ICE",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "text": "{T}, Sacrifice Urza's Bauble: Look at a card at random in target player's hand. You draw a card at the beginning of the next turn's upkeep.",
@@ -1962,7 +1962,7 @@
       "printings": [
         "ICE",
         "DKM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -2135,7 +2135,7 @@
       "originalType": "Artifact",
       "printings": [
         "ICE",
-        "MED",
+        "ME1",
         "V10"
       ],
       "rarity": "Uncommon",
@@ -3233,7 +3233,7 @@
         "ICE",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -3403,7 +3403,7 @@
       "power": "4",
       "printings": [
         "ICE",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -4777,7 +4777,7 @@
       "printings": [
         "ICE",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -6249,7 +6249,7 @@
       "printings": [
         "ICE",
         "5ED",
-        "MED",
+        "ME1",
         "EMA"
       ],
       "rarity": "Common",
@@ -6407,7 +6407,7 @@
       "power": "4",
       "printings": [
         "ICE",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -6583,7 +6583,7 @@
       "power": "7",
       "printings": [
         "ICE",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -6634,7 +6634,7 @@
       "originalType": "Enchantment",
       "printings": [
         "ICE",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -7086,7 +7086,7 @@
       "originalType": "Enchantment",
       "printings": [
         "ICE",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -7202,7 +7202,7 @@
       "power": "11",
       "printings": [
         "ICE",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -8323,7 +8323,7 @@
       "originalType": "Instant",
       "printings": [
         "ICE",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "text": "Return target creature and all white Auras you own attached to it to their owners' hands.",
@@ -8827,7 +8827,7 @@
       "printings": [
         "ICE",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -9626,7 +9626,7 @@
       "printings": [
         "ICE",
         "DKM",
-        "MED",
+        "ME1",
         "V13",
         "VMA"
       ],
@@ -10296,7 +10296,7 @@
         "POR",
         "PO2",
         "S99",
-        "MED",
+        "ME1",
         "DDD",
         "VMA",
         "DD3_GVL"
@@ -10753,7 +10753,7 @@
       "printings": [
         "ICE",
         "BTD",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -12674,7 +12674,7 @@
         "ICE",
         "ATH",
         "DKM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -13083,7 +13083,7 @@
         "5ED",
         "6ED",
         "DKM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "text": "Destroy all artifacts, creatures, and lands. They can't be regenerated.",
@@ -13306,7 +13306,7 @@
       "power": "1",
       "printings": [
         "ICE",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -14093,7 +14093,7 @@
       "printings": [
         "ICE",
         "5ED",
-        "MED",
+        "ME1",
         "EMA"
       ],
       "rarity": "Common",
@@ -15897,7 +15897,7 @@
         "4ED",
         "ICE",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "text": "Regenerate target creature.",
@@ -16519,7 +16519,7 @@
       "originalType": "Enchantment",
       "printings": [
         "ICE",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "text": "{W}{W}: Return target nonsnow land you control to its owner's hand.",
@@ -17770,7 +17770,7 @@
       "printings": [
         "ICE",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -18206,7 +18206,7 @@
       "power": "3",
       "printings": [
         "ICE",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -18585,7 +18585,7 @@
       "originalType": "Instant",
       "printings": [
         "ICE",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -18927,7 +18927,7 @@
       "originalType": "Sorcery",
       "printings": [
         "ICE",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "text": "Put target creature card from a graveyard onto the battlefield under your control.",
@@ -19776,7 +19776,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -19842,7 +19842,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20044,7 +20045,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -20110,7 +20111,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20312,7 +20314,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -20378,7 +20380,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20580,7 +20583,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -20646,7 +20649,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20848,7 +20852,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -20914,7 +20918,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -21116,7 +21121,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -21182,7 +21187,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -22083,7 +22089,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -22151,7 +22157,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -22354,7 +22361,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -22422,7 +22429,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -22625,7 +22633,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -22693,7 +22701,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -22964,7 +22973,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -23029,7 +23038,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -23229,7 +23239,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -23294,7 +23304,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -23494,7 +23505,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -23559,7 +23570,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -23831,7 +23843,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -23895,7 +23907,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -24096,7 +24109,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -24160,7 +24173,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -24361,7 +24375,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -24425,7 +24439,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [

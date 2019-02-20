@@ -1,0 +1,2724 @@
+{
+  "name": "Guild Kit: Simic",
+  "code": "GK2_SIMIC",
+  "releaseDate": "2019-02-10",
+  "border": "black",
+  "type": "box",
+  "cards": [
+    {
+      "artist": "Ekaterina Burmak",
+      "cmc": 4,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Zegana, Utopia-Sprecherin",
+          "multiverseid": 460793
+        },
+        {
+          "language": "Spanish",
+          "name": "Zegana, portavoz utópica",
+          "multiverseid": 460820
+        },
+        {
+          "language": "French",
+          "name": "Zegana, oratrice utopiste",
+          "multiverseid": 460847
+        },
+        {
+          "language": "Italian",
+          "name": "Zegana, Voce degli Utopisti",
+          "multiverseid": 460874
+        },
+        {
+          "language": "Japanese",
+          "name": "楽園党の議長、ゼガーナ",
+          "multiverseid": 460901
+        }
+      ],
+      "id": "0f93f979cab5d20c9cdd270881d4482f23f2f662",
+      "imageName": "zegana, utopian speaker",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{G}{U}",
+      "multiverseid": 460766,
+      "name": "Zegana, Utopian Speaker",
+      "number": "107",
+      "originalText": "When Zegana, Utopian Speaker enters the battlefield, if you control another creature with a +1/+1 counter on it, draw a card.\n{4}{G}{U}: Adapt 4. <i>(If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)</i>\nEach creature you control with a +1/+1 counter on it has trample.",
+      "originalType": "Legendary Creature — Merfolk Wizard",
+      "power": "4",
+      "printings": [
+        "RNA",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2019-01-25",
+          "text": "You can always activate an ability that will cause a creature to adapt. As that ability resolves, if the creature has a +1/+1 counter on it for any reason, you simply won't put any +1/+1 counters on it."
+        },
+        {
+          "date": "2019-01-25",
+          "text": "If a creature somehow loses all of its +1/+1 counters, it can adapt again and get more +1/+1 counters."
+        }
+      ],
+      "subtypes": [
+        "Merfolk",
+        "Wizard"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "When Zegana, Utopian Speaker enters the battlefield, if you control another creature with a +1/+1 counter on it, draw a card.\n{4}{G}{U}: Adapt 4. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)\nEach creature you control with a +1/+1 counter on it has trample.",
+      "toughness": "4",
+      "type": "Legendary Creature — Merfolk Wizard",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Peter Mohrbacher",
+      "cmc": 1,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Wolkenflossen-Raubvogel",
+          "multiverseid": 460794
+        },
+        {
+          "language": "Spanish",
+          "name": "Rapaz aleta cortanubes",
+          "multiverseid": 460821
+        },
+        {
+          "language": "French",
+          "name": "Raptor nuageoire",
+          "multiverseid": 460848
+        },
+        {
+          "language": "Italian",
+          "name": "Raptor Pinnanube",
+          "multiverseid": 460875
+        },
+        {
+          "language": "Japanese",
+          "name": "雲ヒレの猛禽",
+          "multiverseid": 460902
+        }
+      ],
+      "id": "7d128165fa69d6ad9aed8271e7962876737cca61",
+      "imageName": "cloudfin raptor",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{U}",
+      "multiverseid": 460767,
+      "name": "Cloudfin Raptor",
+      "number": "108",
+      "originalText": "Flying\nEvolve <i>(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)</i>",
+      "originalType": "Creature — Bird Mutant",
+      "power": "0",
+      "printings": [
+        "GTC",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "When comparing the stats of the two creatures for evolve, you always compare power to power and toughness to toughness."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Whenever a creature enters the battlefield under your control, check its power and toughness against the power and toughness of the creature with evolve. If neither stat of the new creature is greater, evolve won't trigger at all."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If evolve triggers, the stat comparison will happen again when the ability tries to resolve. If neither stat of the new creature is greater, the ability will do nothing. If the creature that entered the battlefield leaves the battlefield before evolve tries to resolve, use its last known power and toughness to compare the stats."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a creature enters the battlefield with +1/+1 counters on it, consider those counters when determining if evolve will trigger. For example, a 1/1 creature that enters the battlefield with two +1/+1 counters on it will cause the evolve ability of a 2/2 creature to trigger."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If multiple creatures enter the battlefield at the same time, evolve may trigger multiple times, although the stat comparison will take place each time one of those abilities tries to resolve. For example, if you control a 2/2 creature with evolve and two 3/3 creatures enter the battlefield, evolve will trigger twice. The first ability will resolve and put a +1/+1 counter on the creature with evolve. When the second ability tries to resolve, neither the power nor the toughness of the new creature is greater than that of the creature with evolve, so that ability does nothing."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When comparing the stats as the evolve ability resolves, it's possible that the stat that's greater changes from power to toughness or vice versa. If this happens, the ability will still resolve and you'll put a +1/+1 counter on the creature with evolve. For example, if you control a 2/2 creature with evolve and a 1/3 creature enters the battlefield under your control, it toughness is greater so evolve will trigger. In response, the 1/3 creature gets +2/-2. When the evolve trigger tries to resolve, its power is greater. You'll put a +1/+1 counter on the creature with evolve."
+        }
+      ],
+      "subtypes": [
+        "Bird",
+        "Mutant"
+      ],
+      "text": "Flying\nEvolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)",
+      "toughness": "1",
+      "type": "Creature — Bird Mutant",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Jack Wang",
+      "cmc": 1,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"We've merged your life essence with that of several creatures at once. You're welcome.\"\n—Speaker Trifon",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Schnelle Hybridisierung",
+          "multiverseid": 460795
+        },
+        {
+          "language": "Spanish",
+          "name": "Hibridación rápida",
+          "multiverseid": 460822
+        },
+        {
+          "language": "French",
+          "name": "Hybridation rapide",
+          "multiverseid": 460849
+        },
+        {
+          "language": "Italian",
+          "name": "Ibridazione Rapida",
+          "multiverseid": 460876
+        },
+        {
+          "language": "Japanese",
+          "name": "急速混成",
+          "multiverseid": 460903
+        }
+      ],
+      "id": "769e9cce78b24daf7fbe8b189ca8e24e4873500c",
+      "imageName": "rapid hybridization",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{U}",
+      "multiverseid": 460768,
+      "name": "Rapid Hybridization",
+      "number": "109",
+      "originalText": "Destroy target creature. It can't be regenerated. That creature's controller creates a 3/3 green Frog Lizard creature token.",
+      "originalType": "Instant",
+      "printings": [
+        "GTC",
+        "C15",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "If the creature is an illegal target when Rapid Hybridization tries to resolve, it won't resolve and none of its effects will happen. No Frog Lizard token will be created."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If Rapid Hybridization resolves and the creature isn't destroyed (perhaps because it has indestructible), its controller will still get the Frog Lizard token."
+        }
+      ],
+      "text": "Destroy target creature. It can't be regenerated. That creature's controller creates a 3/3 green Frog Lizard creature token.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Thomas M. Baxa",
+      "cmc": 4,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Wurzelsippen-Zytoplast",
+          "multiverseid": 460796
+        },
+        {
+          "language": "Spanish",
+          "name": "Enraizado citoplástico",
+          "multiverseid": 460823
+        },
+        {
+          "language": "French",
+          "name": "Cytoplaste sangracine",
+          "multiverseid": 460850
+        },
+        {
+          "language": "Italian",
+          "name": "Stirpe-Radice Citoplasta",
+          "multiverseid": 460877
+        },
+        {
+          "language": "Japanese",
+          "name": "細胞質の根の血族",
+          "multiverseid": 460904
+        }
+      ],
+      "id": "c9130ac44b061b5d9d1e28e389ff7b228a62edb5",
+      "imageName": "cytoplast root-kin",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{G}{G}",
+      "multiverseid": 460769,
+      "name": "Cytoplast Root-Kin",
+      "number": "110",
+      "originalText": "Graft 4 <i>(This creature enters the battlefield with four +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)</i>\nWhen Cytoplast Root-Kin enters the battlefield, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it.\n{2}: Move a +1/+1 counter from target creature you control onto Cytoplast Root-Kin.",
+      "originalType": "Creature — Elemental Mutant",
+      "power": "0",
+      "printings": [
+        "DIS",
+        "MM2",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Elemental",
+        "Mutant"
+      ],
+      "text": "Graft 4 (This creature enters the battlefield with four +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)\nWhen Cytoplast Root-Kin enters the battlefield, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it.\n{2}: Move a +1/+1 counter from target creature you control onto Cytoplast Root-Kin.",
+      "toughness": "0",
+      "type": "Creature — Elemental Mutant",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Chase Stone",
+      "cmc": 1,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Experiment Eins",
+          "multiverseid": 460797
+        },
+        {
+          "language": "Spanish",
+          "name": "Experimento uno",
+          "multiverseid": 460824
+        },
+        {
+          "language": "French",
+          "name": "Expérience Un",
+          "multiverseid": 460851
+        },
+        {
+          "language": "Italian",
+          "name": "Primo Esperimento",
+          "multiverseid": 460878
+        },
+        {
+          "language": "Japanese",
+          "name": "実験体",
+          "multiverseid": 460905
+        }
+      ],
+      "id": "4a3021131bc40057a4bb9acb48b509608d410dca",
+      "imageName": "experiment one",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}",
+      "multiverseid": 460770,
+      "name": "Experiment One",
+      "number": "111",
+      "originalText": "Evolve <i>(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)</i>\nRemove two +1/+1 counters from Experiment One: Regenerate Experiment One.",
+      "originalType": "Creature — Human Ooze",
+      "power": "1",
+      "printings": [
+        "pFNM",
+        "GTC",
+        "C15",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "If removing two +1/+1 counters from Experiment One causes the amount of damage already marked on Experiment One to be equal to or greater than its toughness, it will be put into its owner's graveyard as a state-based action before the regeneration shield is created."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When comparing the stats of the two creatures for evolve, you always compare power to power and toughness to toughness."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Whenever a creature enters the battlefield under your control, check its power and toughness against the power and toughness of the creature with evolve. If neither stat of the new creature is greater, evolve won't trigger at all."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If evolve triggers, the stat comparison will happen again when the ability tries to resolve. If neither stat of the new creature is greater, the ability will do nothing. If the creature that entered the battlefield leaves the battlefield before evolve tries to resolve, use its last known power and toughness to compare the stats."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a creature enters the battlefield with +1/+1 counters on it, consider those counters when determining if evolve will trigger. For example, a 1/1 creature that enters the battlefield with two +1/+1 counters on it will cause the evolve ability of a 2/2 creature to trigger."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If multiple creatures enter the battlefield at the same time, evolve may trigger multiple times, although the stat comparison will take place each time one of those abilities tries to resolve. For example, if you control a 2/2 creature with evolve and two 3/3 creatures enter the battlefield, evolve will trigger twice. The first ability will resolve and put a +1/+1 counter on the creature with evolve. When the second ability tries to resolve, neither the power nor the toughness of the new creature is greater than that of the creature with evolve, so that ability does nothing."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When comparing the stats as the evolve ability resolves, it's possible that the stat that's greater changes from power to toughness or vice versa. If this happens, the ability will still resolve and you'll put a +1/+1 counter on the creature with evolve. For example, if you control a 2/2 creature with evolve and a 1/3 creature enters the battlefield under your control, it toughness is greater so evolve will trigger. In response, the 1/3 creature gets +2/-2. When the evolve trigger tries to resolve, its power is greater. You'll put a +1/+1 counter on the creature with evolve."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Ooze"
+      ],
+      "text": "Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)\nRemove two +1/+1 counters from Experiment One: Regenerate Experiment One.",
+      "toughness": "1",
+      "type": "Creature — Human Ooze",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Tyler Jacobson",
+      "cmc": 2,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Weise des Wirbels",
+          "multiverseid": 460798
+        },
+        {
+          "language": "Spanish",
+          "name": "Sabia del espiral",
+          "multiverseid": 460825
+        },
+        {
+          "language": "French",
+          "name": "Sage de la spirale",
+          "multiverseid": 460852
+        },
+        {
+          "language": "Italian",
+          "name": "Saggia del Cerchio",
+          "multiverseid": 460879
+        },
+        {
+          "language": "Japanese",
+          "name": "円環の賢者",
+          "multiverseid": 460906
+        }
+      ],
+      "id": "2d82c12d8c2651b2ecc8c12912af15936854032c",
+      "imageName": "gyre sage",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{G}",
+      "multiverseid": 460771,
+      "name": "Gyre Sage",
+      "number": "112",
+      "originalText": "Evolve <i>(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)</i>\n{T}: Add {G} for each +1/+1 counter on Gyre Sage.",
+      "originalType": "Creature — Elf Druid",
+      "power": "1",
+      "printings": [
+        "GTC",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "Gyre Sage's last ability is a mana ability. It doesn't use the stack and can't be responded to."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When comparing the stats of the two creatures for evolve, you always compare power to power and toughness to toughness."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Whenever a creature enters the battlefield under your control, check its power and toughness against the power and toughness of the creature with evolve. If neither stat of the new creature is greater, evolve won't trigger at all."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If evolve triggers, the stat comparison will happen again when the ability tries to resolve. If neither stat of the new creature is greater, the ability will do nothing. If the creature that entered the battlefield leaves the battlefield before evolve tries to resolve, use its last known power and toughness to compare the stats."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a creature enters the battlefield with +1/+1 counters on it, consider those counters when determining if evolve will trigger. For example, a 1/1 creature that enters the battlefield with two +1/+1 counters on it will cause the evolve ability of a 2/2 creature to trigger."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If multiple creatures enter the battlefield at the same time, evolve may trigger multiple times, although the stat comparison will take place each time one of those abilities tries to resolve. For example, if you control a 2/2 creature with evolve and two 3/3 creatures enter the battlefield, evolve will trigger twice. The first ability will resolve and put a +1/+1 counter on the creature with evolve. When the second ability tries to resolve, neither the power nor the toughness of the new creature is greater than that of the creature with evolve, so that ability does nothing."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When comparing the stats as the evolve ability resolves, it's possible that the stat that's greater changes from power to toughness or vice versa. If this happens, the ability will still resolve and you'll put a +1/+1 counter on the creature with evolve. For example, if you control a 2/2 creature with evolve and a 1/3 creature enters the battlefield under your control, it toughness is greater so evolve will trigger. In response, the 1/3 creature gets +2/-2. When the evolve trigger tries to resolve, its power is greater. You'll put a +1/+1 counter on the creature with evolve."
+        }
+      ],
+      "subtypes": [
+        "Elf",
+        "Druid"
+      ],
+      "text": "Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)\n{T}: Add {G} for each +1/+1 counter on Gyre Sage.",
+      "toughness": "2",
+      "type": "Creature — Elf Druid",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Svetlin Velinov",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"We paid the Simic very well for this capability, but we should quickly recoup our expenses in saved wages.\"\n—Milana, Orzhov prelate",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Nachahmender Schleim",
+          "multiverseid": 460799
+        },
+        {
+          "language": "Spanish",
+          "name": "Fango mímico",
+          "multiverseid": 460826
+        },
+        {
+          "language": "French",
+          "name": "Boue mimique",
+          "multiverseid": 460853
+        },
+        {
+          "language": "Italian",
+          "name": "Melma Imitativa",
+          "multiverseid": 460880
+        },
+        {
+          "language": "Japanese",
+          "name": "真似るスライム",
+          "multiverseid": 460907
+        }
+      ],
+      "id": "2fc24ace674ee26fb52bffadda327870d2623d4e",
+      "imageName": "miming slime",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{G}",
+      "multiverseid": 460772,
+      "name": "Miming Slime",
+      "number": "113",
+      "originalText": "Create an X/X green Ooze creature token, where X is the greatest power among creatures you control.",
+      "originalType": "Sorcery",
+      "printings": [
+        "GTC",
+        "UMA",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2018-12-07",
+          "text": "The value of X is the greatest power among creatures you control when Miming Slime resolves. If you control no creatures at that time, X will be 0, creating a 0/0 Ooze token that will be put into your graveyard as a state-based action (unless something else is raising its toughness)."
+        },
+        {
+          "date": "2018-12-07",
+          "text": "The power and toughness of the Ooze token is determined when Miming Slime resolves. It won't change as the greatest power among creatures you control changes."
+        }
+      ],
+      "text": "Create an X/X green Ooze creature token, where X is the greatest power among creatures you control.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Mark Tedin",
+      "cmc": 2,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "It grows to hate you.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Kletterranken-Kudzu",
+          "multiverseid": 460800
+        },
+        {
+          "language": "Spanish",
+          "name": "Kudzú azotaparra",
+          "multiverseid": 460827
+        },
+        {
+          "language": "French",
+          "name": "Kudzu fouettevigne",
+          "multiverseid": 460854
+        },
+        {
+          "language": "Italian",
+          "name": "Kudzo Sferzaliane",
+          "multiverseid": 460881
+        },
+        {
+          "language": "Japanese",
+          "name": "殴打蔦の葛",
+          "multiverseid": 460908
+        }
+      ],
+      "id": "a56326cde5955a0c7571d0e69d27a3d5185adc4e",
+      "imageName": "vinelasher kudzu",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{G}",
+      "multiverseid": 460773,
+      "name": "Vinelasher Kudzu",
+      "number": "114",
+      "originalText": "Whenever a land enters the battlefield under your control, put a +1/+1 counter on Vinelasher Kudzu.",
+      "originalType": "Creature — Plant",
+      "power": "1",
+      "printings": [
+        "RAV",
+        "DDM",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Plant"
+      ],
+      "text": "Whenever a land enters the battlefield under your control, put a +1/+1 counter on Vinelasher Kudzu.",
+      "toughness": "1",
+      "type": "Creature — Plant",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Mark Zug",
+      "cmc": 2,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "flavor": "Snaking remnants of nature directed by a body of thought and progress, the oracles embody all that is Simic.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Gewundenes Orakel",
+          "multiverseid": 460801
+        },
+        {
+          "language": "Spanish",
+          "name": "Oráculo serpenteante",
+          "multiverseid": 460828
+        },
+        {
+          "language": "French",
+          "name": "Oracle annelé",
+          "multiverseid": 460855
+        },
+        {
+          "language": "Italian",
+          "name": "Oracolo Acciambellato",
+          "multiverseid": 460882
+        },
+        {
+          "language": "Japanese",
+          "name": "とぐろ巻きの巫女",
+          "multiverseid": 460909
+        }
+      ],
+      "id": "4478a545b5b5ac5b1c3a909dac708461bba68569",
+      "imageName": "coiling oracle",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}{U}",
+      "multiverseid": 460774,
+      "name": "Coiling Oracle",
+      "number": "115",
+      "originalText": "When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.",
+      "originalType": "Creature — Snake Elf Druid",
+      "power": "1",
+      "printings": [
+        "pARL",
+        "DIS",
+        "DDO",
+        "C15",
+        "CN2",
+        "C16",
+        "MM3",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Common",
+      "subtypes": [
+        "Snake",
+        "Elf",
+        "Druid"
+      ],
+      "text": "When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.",
+      "toughness": "1",
+      "type": "Creature — Snake Elf Druid",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Wesley Burt",
+      "cmc": 3,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Schlüpfrige Krasis",
+          "multiverseid": 460802
+        },
+        {
+          "language": "Spanish",
+          "name": "Krasis escurridizo",
+          "multiverseid": 460829
+        },
+        {
+          "language": "French",
+          "name": "Krasis insaisissable",
+          "multiverseid": 460856
+        },
+        {
+          "language": "Italian",
+          "name": "Krasis Elusivo",
+          "multiverseid": 460883
+        },
+        {
+          "language": "Japanese",
+          "name": "神出鬼没の混成体",
+          "multiverseid": 460910
+        }
+      ],
+      "id": "b16b41b240f435f0e774e0c93a3cbef5688c4617",
+      "imageName": "elusive krasis",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{G}{U}",
+      "multiverseid": 460775,
+      "name": "Elusive Krasis",
+      "number": "116",
+      "originalText": "Elusive Krasis can't be blocked.\nEvolve <i>(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)</i>",
+      "originalType": "Creature — Fish Mutant",
+      "power": "0",
+      "printings": [
+        "GTC",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "When comparing the stats of the two creatures for evolve, you always compare power to power and toughness to toughness."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Whenever a creature enters the battlefield under your control, check its power and toughness against the power and toughness of the creature with evolve. If neither stat of the new creature is greater, evolve won't trigger at all."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If evolve triggers, the stat comparison will happen again when the ability tries to resolve. If neither stat of the new creature is greater, the ability will do nothing. If the creature that entered the battlefield leaves the battlefield before evolve tries to resolve, use its last known power and toughness to compare the stats."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a creature enters the battlefield with +1/+1 counters on it, consider those counters when determining if evolve will trigger. For example, a 1/1 creature that enters the battlefield with two +1/+1 counters on it will cause the evolve ability of a 2/2 creature to trigger."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If multiple creatures enter the battlefield at the same time, evolve may trigger multiple times, although the stat comparison will take place each time one of those abilities tries to resolve. For example, if you control a 2/2 creature with evolve and two 3/3 creatures enter the battlefield, evolve will trigger twice. The first ability will resolve and put a +1/+1 counter on the creature with evolve. When the second ability tries to resolve, neither the power nor the toughness of the new creature is greater than that of the creature with evolve, so that ability does nothing."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When comparing the stats as the evolve ability resolves, it's possible that the stat that's greater changes from power to toughness or vice versa. If this happens, the ability will still resolve and you'll put a +1/+1 counter on the creature with evolve. For example, if you control a 2/2 creature with evolve and a 1/3 creature enters the battlefield under your control, it toughness is greater so evolve will trigger. In response, the 1/3 creature gets +2/-2. When the evolve trigger tries to resolve, its power is greater. You'll put a +1/+1 counter on the creature with evolve."
+        }
+      ],
+      "subtypes": [
+        "Fish",
+        "Mutant"
+      ],
+      "text": "Elusive Krasis can't be blocked.\nEvolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)",
+      "toughness": "4",
+      "type": "Creature — Fish Mutant",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Mark Tedin",
+      "cmc": 6,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "flavor": "\"Of course it will grow beyond control—it was designed to choose its own evolution.\"\n—Momir Vig",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Kraj-Experiment",
+          "multiverseid": 460803
+        },
+        {
+          "language": "Spanish",
+          "name": "Experimento Kraj",
+          "multiverseid": 460830
+        },
+        {
+          "language": "French",
+          "name": "Kraj expérimental",
+          "multiverseid": 460857
+        },
+        {
+          "language": "Italian",
+          "name": "Kraj Sperimentale",
+          "multiverseid": 460884
+        },
+        {
+          "language": "Japanese",
+          "name": "クラージ実験体",
+          "multiverseid": 460911
+        }
+      ],
+      "id": "30b2e646aa13596b73ae705c86951a0eb92edaa5",
+      "imageName": "experiment kraj",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{G}{G}{U}{U}",
+      "multiverseid": 460776,
+      "name": "Experiment Kraj",
+      "number": "117",
+      "originalText": "Experiment Kraj has all activated abilities of each other creature with a +1/+1 counter on it.\n{T}: Put a +1/+1 counter on target creature.",
+      "originalType": "Legendary Creature — Ooze Mutant",
+      "power": "4",
+      "printings": [
+        "DIS",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "Unlike with cards like Quicksilver Elemental, the costs of the activated abilities Experiment Kraj gains must be paid with the correct colors of mana."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Activated abilities contain a colon. They're generally written \"[Cost]: [Effect].\" Some keywords are activated abilities and will have colons in their reminder text."
+        }
+      ],
+      "subtypes": [
+        "Ooze",
+        "Mutant"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Experiment Kraj has all activated abilities of each other creature with a +1/+1 counter on it.\n{T}: Put a +1/+1 counter on target creature.",
+      "toughness": "6",
+      "type": "Legendary Creature — Ooze Mutant",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Ryan Pancoast",
+      "cmc": 4,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Einsichtige Magierin",
+          "multiverseid": 460804
+        },
+        {
+          "language": "Spanish",
+          "name": "Maga del entendimiento",
+          "multiverseid": 460831
+        },
+        {
+          "language": "French",
+          "name": "Mage des grands fonds",
+          "multiverseid": 460858
+        },
+        {
+          "language": "Italian",
+          "name": "Maga della Profondità",
+          "multiverseid": 460885
+        },
+        {
+          "language": "Japanese",
+          "name": "水深の魔道士",
+          "multiverseid": 460912
+        }
+      ],
+      "id": "8237bf63c76a62a9cb4c287e45ba4d8bc03985d8",
+      "imageName": "fathom mage",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{G}{U}",
+      "multiverseid": 460777,
+      "name": "Fathom Mage",
+      "number": "118",
+      "originalText": "Evolve <i>(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)</i>\nWhenever a +1/+1 counter is put on Fathom Mage, you may draw a card.",
+      "originalType": "Creature — Human Wizard",
+      "power": "1",
+      "printings": [
+        "pPRE",
+        "GTC",
+        "C16",
+        "CM2",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "Fathom Mage's last ability will trigger whenever any +1/+1 counter is placed on it, not just ones due to the evolve ability."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "If multiple +1/+1 counters are placed on Fathom Mage simultaneously, its last ability will trigger once for each of those counters."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "If Fathom Mage enters the battlefield with a +1/+1 counter on it (perhaps due to Master Biomancer), its last ability will trigger once for each +1/+1 counter it entered the battlefield with."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When comparing the stats of the two creatures for evolve, you always compare power to power and toughness to toughness."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Whenever a creature enters the battlefield under your control, check its power and toughness against the power and toughness of the creature with evolve. If neither stat of the new creature is greater, evolve won't trigger at all."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If evolve triggers, the stat comparison will happen again when the ability tries to resolve. If neither stat of the new creature is greater, the ability will do nothing. If the creature that entered the battlefield leaves the battlefield before evolve tries to resolve, use its last known power and toughness to compare the stats."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a creature enters the battlefield with +1/+1 counters on it, consider those counters when determining if evolve will trigger. For example, a 1/1 creature that enters the battlefield with two +1/+1 counters on it will cause the evolve ability of a 2/2 creature to trigger."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If multiple creatures enter the battlefield at the same time, evolve may trigger multiple times, although the stat comparison will take place each time one of those abilities tries to resolve. For example, if you control a 2/2 creature with evolve and two 3/3 creatures enter the battlefield, evolve will trigger twice. The first ability will resolve and put a +1/+1 counter on the creature with evolve. When the second ability tries to resolve, neither the power nor the toughness of the new creature is greater than that of the creature with evolve, so that ability does nothing."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When comparing the stats as the evolve ability resolves, it's possible that the stat that's greater changes from power to toughness or vice versa. If this happens, the ability will still resolve and you'll put a +1/+1 counter on the creature with evolve. For example, if you control a 2/2 creature with evolve and a 1/3 creature enters the battlefield under your control, it toughness is greater so evolve will trigger. In response, the 1/3 creature gets +2/-2. When the evolve trigger tries to resolve, its power is greater. You'll put a +1/+1 counter on the creature with evolve."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "text": "Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)\nWhenever a +1/+1 counter is put on Fathom Mage, you may draw a card.",
+      "toughness": "1",
+      "type": "Creature — Human Wizard",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Victor Adame Minguez",
+      "cmc": 5,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Momir Vig, Simic-Visionär",
+          "multiverseid": 460805
+        },
+        {
+          "language": "Spanish",
+          "name": "Mómir Vig, visionario simic",
+          "multiverseid": 460832
+        },
+        {
+          "language": "French",
+          "name": "Momir Vig, visionnaire simic",
+          "multiverseid": 460859
+        },
+        {
+          "language": "Italian",
+          "name": "Momir Vig, Visionario Simic",
+          "multiverseid": 460886
+        },
+        {
+          "language": "Japanese",
+          "name": "シミックの幻想家、モミール・ヴィグ",
+          "multiverseid": 460913
+        }
+      ],
+      "id": "0bda6c99890b9abe39b0309b4637e68ad8321446",
+      "imageName": "momir vig, simic visionary",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{G}{U}",
+      "multiverseid": 460778,
+      "name": "Momir Vig, Simic Visionary",
+      "number": "119",
+      "originalText": "Whenever you cast a green creature spell, you may search your library for a creature card and reveal it. If you do, shuffle your library and put that card on top of it.\nWhenever you cast a blue creature spell, reveal the top card of your library. If it's a creature card, put that card into your hand.",
+      "originalType": "Legendary Creature — Elf Wizard",
+      "power": "2",
+      "printings": [
+        "DIS",
+        "V16",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "If you cast a green and blue creature spell, both abilities will trigger. The abilities may be stacked so that when they resolve, you search your library for a creature card, put it on top of your library, and then put that card into your hand. The abilities may also be stacked in the other order, of course."
+        }
+      ],
+      "subtypes": [
+        "Elf",
+        "Wizard"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Whenever you cast a green creature spell, you may search your library for a creature card and reveal it. If you do, shuffle your library and put that card on top of it.\nWhenever you cast a blue creature spell, reveal the top card of your library. If it's a creature card, put that card into your hand.",
+      "toughness": "2",
+      "type": "Legendary Creature — Elf Wizard",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Howard Lyon",
+      "cmc": 2,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "flavor": "The Simic soon discovered that the sky offered as few constraints on size as the sea.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Nimbusschwimmer",
+          "multiverseid": 460806
+        },
+        {
+          "language": "Spanish",
+          "name": "Nadador de nimbos",
+          "multiverseid": 460833
+        },
+        {
+          "language": "French",
+          "name": "Nageur des nimbus",
+          "multiverseid": 460860
+        },
+        {
+          "language": "Italian",
+          "name": "Nuotatore dei Nembi",
+          "multiverseid": 460887
+        },
+        {
+          "language": "Japanese",
+          "name": "雨雲を泳ぐもの",
+          "multiverseid": 460914
+        }
+      ],
+      "id": "dc0e695c234091ace260858da786da69724d191a",
+      "imageName": "nimbus swimmer",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{X}{G}{U}",
+      "multiverseid": 460779,
+      "name": "Nimbus Swimmer",
+      "number": "120",
+      "originalText": "Flying\nNimbus Swimmer enters the battlefield with X +1/+1 counters on it.",
+      "originalType": "Creature — Leviathan",
+      "power": "0",
+      "printings": [
+        "GTC",
+        "DDO",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Leviathan"
+      ],
+      "text": "Flying\nNimbus Swimmer enters the battlefield with X +1/+1 counters on it.",
+      "toughness": "0",
+      "type": "Creature — Leviathan",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Jim Nelson",
+      "cmc": 4,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "flavor": "\"This creature has hyperevolved chameleonic abilities. It no longer mimics its surroundings, instead forcing them to take on its form.\"\n—Simic research notes",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Verfroscher",
+          "multiverseid": 460807
+        },
+        {
+          "language": "Spanish",
+          "name": "Omnibio",
+          "multiverseid": 460834
+        },
+        {
+          "language": "French",
+          "name": "Omnibien",
+          "multiverseid": 460861
+        },
+        {
+          "language": "Italian",
+          "name": "Omnibio",
+          "multiverseid": 460888
+        },
+        {
+          "language": "Japanese",
+          "name": "オムニビアン",
+          "multiverseid": 460915
+        }
+      ],
+      "id": "00c27987f4d96ee038f86fcdcff355d3cb653d51",
+      "imageName": "omnibian",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{G}{G}{U}",
+      "multiverseid": 460780,
+      "name": "Omnibian",
+      "number": "121",
+      "originalText": "{T}: Target creature becomes a Frog with base power and toughness 3/3 until end of turn.",
+      "originalType": "Creature — Frog",
+      "power": "3",
+      "printings": [
+        "DIS",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "If the target creature has any counters on it that modify its power and toughness (such as a +1/+1 counter), those counters will continue to affect the creature after it becomes 3/3. In the example given, it will be 4/4."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If the target creature is affected by any effects that modify its power or toughness without setting them to specific values (such as from Giant Growth), Omnibian's effect will be applied before those effects. In the example given, the creature will be 6/6."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "This effect changes only the power, toughness, and creature type of the targeted creature. It does not cause that creature to lose any abilities."
+        }
+      ],
+      "subtypes": [
+        "Frog"
+      ],
+      "text": "{T}: Target creature becomes a Frog with base power and toughness 3/3 until end of turn.",
+      "toughness": "3",
+      "type": "Creature — Frog",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Greg Staples",
+      "cmc": 3,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Plaxwerfender Frosch",
+          "multiverseid": 460808
+        },
+        {
+          "language": "Spanish",
+          "name": "Renacuajo lanzaplax",
+          "multiverseid": 460835
+        },
+        {
+          "language": "French",
+          "name": "Grenouilleau lanceplax",
+          "multiverseid": 460862
+        },
+        {
+          "language": "Italian",
+          "name": "Ranolingio Sputaplax",
+          "multiverseid": 460889
+        },
+        {
+          "language": "Japanese",
+          "name": "粘体投げの小蛙",
+          "multiverseid": 460916
+        }
+      ],
+      "id": "c5a1766e8a36b836e1e68b34594141c840d10587",
+      "imageName": "plaxcaster frogling",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{G}{U}",
+      "multiverseid": 460781,
+      "name": "Plaxcaster Frogling",
+      "number": "122",
+      "originalText": "Graft 3 <i>(This creature enters the battlefield with three +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)</i>\n{2}: Target creature with a +1/+1 counter on it gains shroud until end of turn. <i>(It can't be the target of spells or abilities.)</i>",
+      "originalType": "Creature — Frog Mutant",
+      "power": "0",
+      "printings": [
+        "DIS",
+        "MM2",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Frog",
+        "Mutant"
+      ],
+      "text": "Graft 3 (This creature enters the battlefield with three +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)\n{2}: Target creature with a +1/+1 counter on it gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+      "toughness": "0",
+      "type": "Creature — Frog Mutant",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Daarken",
+      "cmc": 6,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Nachahmer der Ahnen",
+          "multiverseid": 460809
+        },
+        {
+          "language": "Spanish",
+          "name": "Mímico progenitor",
+          "multiverseid": 460836
+        },
+        {
+          "language": "French",
+          "name": "Mimique progéniteur",
+          "multiverseid": 460863
+        },
+        {
+          "language": "Italian",
+          "name": "Mimic Progenitore",
+          "multiverseid": 460890
+        },
+        {
+          "language": "Japanese",
+          "name": "前駆ミミック",
+          "multiverseid": 460917
+        }
+      ],
+      "id": "5aaaa983cf7da5cf07ab536e1867adc07f5a1b0b",
+      "imageName": "progenitor mimic",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{G}{U}",
+      "multiverseid": 460782,
+      "name": "Progenitor Mimic",
+      "number": "123",
+      "originalText": "You may have Progenitor Mimic enter the battlefield as a copy of any creature on the battlefield, except it has \"At the beginning of your upkeep, if this creature isn't a token, create a token that's a copy of this creature.\"",
+      "originalType": "Creature — Shapeshifter",
+      "power": "0",
+      "printings": [
+        "DGM",
+        "C16",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Mythic Rare",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "Progenitor Mimic copies exactly what was printed on the original creature and nothing more (unless that creature is copying something else or is a token). It doesn't copy whether that creature is tapped or untapped, whether it has any counters on it or Auras attached to it, or any non-copy effects that have changed its power, toughness, types, color, or so on."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The original Progenitor Mimic will create tokens, but those token copies will not."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you choose to have Progenitor Mimic enter the battlefield as a copy of a creature, the triggered ability it gains will become part of its copiable values. For example, suppose Progenitor Mimic enters the battlefield as a copy of Runeclaw Bear, a 2/2 green Bear creature with mana cost {1}{G}. The resulting object is a 2/2 green Bear creature named Runeclaw Bear with mana cost {1}{G} and with \"At the beginning of your upkeep, if this creature isn't a token, put a token onto the battlefield that's a copy of this creature.\" If another Progenitor Mimic enters the battlefield as a copy of that creature, it will be a Runeclaw Bear with two instances of the triggered ability."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If the chosen creature is a token, Progenitor Mimic copies the original characteristics of that token as stated by the effect that put it onto the battlefield. Copying a token doesn't make Progenitor Mimic become a token."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Any enters-the-battlefield abilities of the copied creature will trigger when Progenitor Mimic enters the battlefield. Any \"as [this creature] enters the battlefield\" or \"[this creature] enters the battlefield with\" abilities of the chosen creature will also work."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If the chosen creature has {X} in its mana cost (such as Protean Hydra), X is considered to be zero."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If Progenitor Mimic somehow enters the battlefield at the same time as another creature, it can't become a copy of that creature. You may choose only a creature that's already on the battlefield."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "You can choose not to copy anything. In that case, Progenitor Mimic enters the battlefield as a 0/0 Shapeshifter creature and is probably put into the graveyard immediately."
+        }
+      ],
+      "subtypes": [
+        "Shapeshifter"
+      ],
+      "text": "You may have Progenitor Mimic enter the battlefield as a copy of any creature on the battlefield, except it has \"At the beginning of your upkeep, if this creature isn't a token, create a token that's a copy of this creature.\"",
+      "toughness": "0",
+      "type": "Creature — Shapeshifter",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "rk post",
+      "cmc": 7,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "flavor": "\"We've bred out the shortcomings of the species' natural form and replaced them with assets of our own design.\"\n—Momir Vig",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Simischer Himmelsverschlinger",
+          "multiverseid": 460810
+        },
+        {
+          "language": "Spanish",
+          "name": "Devorador celeste simic",
+          "multiverseid": 460837
+        },
+        {
+          "language": "French",
+          "name": "Briffaud céleste des Simic",
+          "multiverseid": 460864
+        },
+        {
+          "language": "Italian",
+          "name": "Divora Cieli Simic",
+          "multiverseid": 460891
+        },
+        {
+          "language": "Japanese",
+          "name": "シミックの空呑み",
+          "multiverseid": 460918
+        }
+      ],
+      "id": "5267997c573a37ada64969d87e1ba04cbb4f960b",
+      "imageName": "simic sky swallower",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{5}{G}{U}",
+      "multiverseid": 460783,
+      "name": "Simic Sky Swallower",
+      "number": "124",
+      "originalText": "Flying, trample\nShroud <i>(This creature can't be the target of spells or abilities.)</i>",
+      "originalType": "Creature — Leviathan",
+      "power": "6",
+      "printings": [
+        "DIS",
+        "CMD",
+        "DDO",
+        "MM3",
+        "IMA",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Leviathan"
+      ],
+      "text": "Flying, trample\nShroud (This creature can't be the target of spells or abilities.)",
+      "toughness": "6",
+      "type": "Creature — Leviathan",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Jack Wang",
+      "cmc": 3,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "flavor": "Held aloft by metabolized magic, trygons are ravenous for sources of mystic fuel.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Jagender Trygon",
+          "multiverseid": 460811
+        },
+        {
+          "language": "Spanish",
+          "name": "Depredador trygon",
+          "multiverseid": 460838
+        },
+        {
+          "language": "French",
+          "name": "Clavelade prédatrice",
+          "multiverseid": 460865
+        },
+        {
+          "language": "Italian",
+          "name": "Predatore Trigone",
+          "multiverseid": 460892
+        },
+        {
+          "language": "Japanese",
+          "name": "三角エイの捕食者",
+          "multiverseid": 460919
+        }
+      ],
+      "id": "ffe1b0f0b960178a62a305f79004bdb0fee41ba9",
+      "imageName": "trygon predator",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{G}{U}",
+      "multiverseid": 460784,
+      "name": "Trygon Predator",
+      "number": "125",
+      "originalText": "Flying\nWhenever Trygon Predator deals combat damage to a player, you may destroy target artifact or enchantment that player controls.",
+      "originalType": "Creature — Beast",
+      "power": "2",
+      "printings": [
+        "DIS",
+        "MMA",
+        "C15",
+        "EMA",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Beast"
+      ],
+      "text": "Flying\nWhenever Trygon Predator deals combat damage to a player, you may destroy target artifact or enchantment that player controls.",
+      "toughness": "3",
+      "type": "Creature — Beast",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Eytan Zana",
+      "cmc": 5,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "flavor": "As the Simic released more of their krasis experiments, they required new habitats, always at the expense of the locals.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Stadtentwicklung",
+          "multiverseid": 460812
+        },
+        {
+          "language": "Spanish",
+          "name": "Evolución urbana",
+          "multiverseid": 460839
+        },
+        {
+          "language": "French",
+          "name": "Évolution urbaine",
+          "multiverseid": 460866
+        },
+        {
+          "language": "Italian",
+          "name": "Evoluzione Urbana",
+          "multiverseid": 460893
+        },
+        {
+          "language": "Japanese",
+          "name": "都の進化",
+          "multiverseid": 460920
+        }
+      ],
+      "id": "a24b698e90540cccb80c2bd0ac31870ded7644a6",
+      "imageName": "urban evolution",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{G}{U}",
+      "multiverseid": 460785,
+      "name": "Urban Evolution",
+      "number": "126",
+      "originalText": "Draw three cards. You may play an additional land this turn.",
+      "originalType": "Sorcery",
+      "printings": [
+        "GTC",
+        "DDO",
+        "MM3",
+        "UMA",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2018-12-07",
+          "text": "Urban Evolution's effect allows you to play an additional land during your main phase. Doing so follows the normal timing rules for playing lands. In particular, you don't get to play a land as Urban Evolution resolves; Urban Evolution fully resolves first and you draw three cards, perhaps including a land you'll play later."
+        },
+        {
+          "date": "2018-12-07",
+          "text": "The effects of multiple Urban Evolutions in the same turn are cumulative. They're also cumulative with other effects that let you play additional lands, such as the one from Explore."
+        },
+        {
+          "date": "2018-12-07",
+          "text": "If you somehow manage to cast Urban Evolution when it's not your turn, you'll draw three cards when it resolves, but you won't be able to play a land that turn."
+        }
+      ],
+      "text": "Draw three cards. You may play an additional land this turn.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Jim Murray",
+      "cmc": 3,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "flavor": "\"It is technically an ooze, but its lifespan measures only seconds. In that short time, its appetite for magic is extraordinary.\"\n—Simic research notes",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Auflösender Schleim",
+          "multiverseid": 460813
+        },
+        {
+          "language": "Spanish",
+          "name": "Babanuladora",
+          "multiverseid": 460840
+        },
+        {
+          "language": "French",
+          "name": "Vide gluant",
+          "multiverseid": 460867
+        },
+        {
+          "language": "Italian",
+          "name": "Sviscisvuota",
+          "multiverseid": 460894
+        },
+        {
+          "language": "Japanese",
+          "name": "虚空粘",
+          "multiverseid": 460921
+        }
+      ],
+      "id": "4947946d4e261b87ff59dc61eba33e3056ab4801",
+      "imageName": "voidslime",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}{U}{U}",
+      "multiverseid": 460786,
+      "name": "Voidslime",
+      "number": "127",
+      "originalText": "Counter target spell, activated ability, or triggered ability. <i>(Mana abilities can't be targeted.)</i>",
+      "originalType": "Instant",
+      "printings": [
+        "pCMP",
+        "DIS",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Activated abilities contain a colon. They're generally written \"[Cost]: [Effect].\" Some keywords are activated abilities and will have colons in their reminder text."
+        }
+      ],
+      "text": "Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Mike Bierek",
+      "cmc": 3,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "flavor": "\"I used to hurl rocks and eat scraps of meat burned over a fire. Look at what I've become and tell me Simic does not hold infinite possibility.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Vorel von der Hülsenklade",
+          "multiverseid": 460814
+        },
+        {
+          "language": "Spanish",
+          "name": "Vorel del Clado de la Vaina",
+          "multiverseid": 460841
+        },
+        {
+          "language": "French",
+          "name": "Vorel du Cladus Coque",
+          "multiverseid": 460868
+        },
+        {
+          "language": "Italian",
+          "name": "Vorel del Clade del Carapace",
+          "multiverseid": 460895
+        },
+        {
+          "language": "Japanese",
+          "name": "育殻組のヴォレル",
+          "multiverseid": 460922
+        }
+      ],
+      "id": "186c99e48ae52c78ad8a8bcd883f2085ee933fdc",
+      "imageName": "vorel of the hull clade",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{G}{U}",
+      "multiverseid": 460787,
+      "name": "Vorel of the Hull Clade",
+      "number": "128",
+      "originalText": "{G}{U}, {T}: Double the number of each kind of counter on target artifact, creature, or land.",
+      "originalType": "Legendary Creature — Human Merfolk",
+      "power": "1",
+      "printings": [
+        "DGM",
+        "C16",
+        "CM2",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "The effect of Vorel's ability will essentially double the counters on the target artifact, creature, or land. For example, if a creature has three +1/+1 counters and a divinity counter on it before the ability resolves, it will have six +1/+1 counters and two divinity counters on it after the ability resolves."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Merfolk"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "{G}{U}, {T}: Double the number of each kind of counter on target artifact, creature, or land.",
+      "toughness": "4",
+      "type": "Legendary Creature — Human Merfolk",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Chase Stone",
+      "cmc": 2,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Zameck-Gildenmagier",
+          "multiverseid": 460815
+        },
+        {
+          "language": "Spanish",
+          "name": "Mago del gremio de Zameck",
+          "multiverseid": 460842
+        },
+        {
+          "language": "French",
+          "name": "Ghildmage de Zameck",
+          "multiverseid": 460869
+        },
+        {
+          "language": "Italian",
+          "name": "Mago della Gilda di Zameck",
+          "multiverseid": 460896
+        },
+        {
+          "language": "Japanese",
+          "name": "ザーメクのギルド魔道士",
+          "multiverseid": 460923
+        }
+      ],
+      "id": "251ad0748e691551ffcae8a044331dd1b83e584c",
+      "imageName": "zameck guildmage",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}{U}",
+      "multiverseid": 460788,
+      "name": "Zameck Guildmage",
+      "number": "129",
+      "originalText": "{G}{U}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.\n{G}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.",
+      "originalType": "Creature — Elf Wizard",
+      "power": "2",
+      "printings": [
+        "pMGD",
+        "GTC",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "Zameck Guildmage's first ability is cumulative. For example, if it resolves twice in a turn, each creature that enters the battlefield under your control that turn will do so with two +1/+1 additional counters on it."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "Zameck Guildmage's first ability has no effect on creatures already on the battlefield when it resolves."
+        }
+      ],
+      "subtypes": [
+        "Elf",
+        "Wizard"
+      ],
+      "text": "{G}{U}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.\n{G}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.",
+      "toughness": "2",
+      "type": "Creature — Elf Wizard",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Mike Sass",
+      "cmc": 2,
+      "colorIdentity": [
+        "G",
+        "U"
+      ],
+      "flavor": "For the Simic Combine, its sigil serves not as an emblem of honor but as a trademark. Its familiar image on any biological commodity attests to superb craftsmanship, ingenious innovation, and higher cost.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Simic-Petschaft",
+          "multiverseid": 460816
+        },
+        {
+          "language": "Spanish",
+          "name": "Sello simic",
+          "multiverseid": 460843
+        },
+        {
+          "language": "French",
+          "name": "Cachet de Simic",
+          "multiverseid": 460870
+        },
+        {
+          "language": "Italian",
+          "name": "Sigillo Simic",
+          "multiverseid": 460897
+        },
+        {
+          "language": "Japanese",
+          "name": "シミックの印鑑",
+          "multiverseid": 460924
+        }
+      ],
+      "id": "318a5de91bac7a304ad823ef4ba56033044f297f",
+      "imageName": "simic signet",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}",
+      "multiverseid": 460789,
+      "name": "Simic Signet",
+      "number": "130",
+      "originalText": "{1}, {T}: Add {G}{U}.",
+      "originalType": "Artifact",
+      "printings": [
+        "DIS",
+        "CMD",
+        "C13",
+        "C15",
+        "C16",
+        "MM3",
+        "CMA",
+        "CM2",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Uncommon",
+      "text": "{1}, {T}: Add {G}{U}.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "John Avon",
+      "cmc": 0,
+      "colorIdentity": [
+        "G",
+        "U"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Simic-Wachstumskammer",
+          "multiverseid": 460817
+        },
+        {
+          "language": "Spanish",
+          "name": "Cámara de crecimiento simic",
+          "multiverseid": 460844
+        },
+        {
+          "language": "French",
+          "name": "Chambre de croissance des Simic",
+          "multiverseid": 460871
+        },
+        {
+          "language": "Italian",
+          "name": "Camera di Coltura Simic",
+          "multiverseid": 460898
+        },
+        {
+          "language": "Japanese",
+          "name": "シミックの成長室",
+          "multiverseid": 460925
+        }
+      ],
+      "id": "b62652484a80a9aec7065910f51eba7b51147fd0",
+      "imageName": "simic growth chamber",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 460790,
+      "name": "Simic Growth Chamber",
+      "number": "131",
+      "originalText": "Simic Growth Chamber enters the battlefield tapped.\nWhen Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {G}{U}.",
+      "originalType": "Land",
+      "printings": [
+        "DIS",
+        "CMD",
+        "MM2",
+        "C15",
+        "C16",
+        "IMA",
+        "CM2",
+        "C18",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand."
+        }
+      ],
+      "text": "Simic Growth Chamber enters the battlefield tapped.\nWhen Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {G}{U}.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Simic"
+    },
+    {
+      "artist": "Yeong-Hao Han",
+      "cmc": 0,
+      "colorIdentity": [
+        "U"
+      ],
+      "id": "011b83a95655bb4ccbe3f6deee46f4e4df1e0de8",
+      "imageName": "island",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 460791,
+      "name": "Island",
+      "number": "132",
+      "originalText": "U",
+      "originalType": "Basic Land — Island",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "ME1",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_IZZET",
+        "GNT",
+        "RNA",
+        "GK2_AZORIUS",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Island"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Island",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Blue"
+    },
+    {
+      "artist": "Yeong-Hao Han",
+      "cmc": 0,
+      "colorIdentity": [
+        "G"
+      ],
+      "id": "beda8d9deb00d9153fb3f9af6ca7f346130ae07b",
+      "imageName": "forest",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 460792,
+      "name": "Forest",
+      "number": "133",
+      "originalText": "G",
+      "originalType": "Basic Land — Forest",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "ME1",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_GOLGAR",
+        "GK1_SELESN",
+        "GNT",
+        "RNA",
+        "GK2_GRUUL",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Forest"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Forest",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Green"
+    }
+  ]
+}

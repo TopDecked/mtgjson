@@ -3456,7 +3456,7 @@
       "printings": [
         "ALL",
         "6ED",
-        "MED",
+        "ME1",
         "EMA"
       ],
       "rarity": "Rare",
@@ -3672,7 +3672,7 @@
       "printings": [
         "ALL",
         "pJGP",
-        "MED",
+        "ME1",
         "VMA",
         "EMA",
         "MPS_AKH"
@@ -3898,7 +3898,7 @@
       "printings": [
         "ARN",
         "4ED",
-        "MED",
+        "ME1",
         "ME4",
         "EMA"
       ],
@@ -4103,7 +4103,7 @@
       "printings": [
         "ICE",
         "5ED",
-        "MED",
+        "ME1",
         "EMA"
       ],
       "rarity": "Uncommon",
@@ -4864,7 +4864,7 @@
         "4ED",
         "ITP",
         "5ED",
-        "MED",
+        "ME1",
         "EMA",
         "IMA"
       ],
@@ -5226,7 +5226,7 @@
       "printings": [
         "ARN",
         "3ED",
-        "MED",
+        "ME1",
         "V09",
         "VMA",
         "EMA"
@@ -5774,7 +5774,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "PD3",
         "VMA",
         "EMA"
@@ -6826,7 +6826,7 @@
       "printings": [
         "FEM",
         "ATH",
-        "MED",
+        "ME1",
         "V13",
         "VMA",
         "EMA"
@@ -10447,7 +10447,7 @@
       "printings": [
         "ICE",
         "5ED",
-        "MED",
+        "ME1",
         "EMA"
       ],
       "rarity": "Uncommon",
@@ -13455,7 +13455,7 @@
       "originalType": "Enchantment — Aura",
       "printings": [
         "HML",
-        "MED",
+        "ME1",
         "EMA"
       ],
       "rarity": "Common",
@@ -13710,7 +13710,7 @@
         "LEG",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "CM1",
         "VMA",
         "EMA"
@@ -14627,7 +14627,8 @@
       "printings": [
         "CNS",
         "VMA",
-        "EMA"
+        "EMA",
+        "MED"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -16751,7 +16752,7 @@
         "4ED",
         "5ED",
         "ATH",
-        "MED",
+        "ME1",
         "V10",
         "C13",
         "VMA",
@@ -17152,7 +17153,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "EMA"
       ],
       "rarity": "Rare",
@@ -17644,7 +17645,7 @@
         "ATQ",
         "4ED",
         "pJGP",
-        "MED",
+        "ME1",
         "DDF",
         "EMA",
         "A25"

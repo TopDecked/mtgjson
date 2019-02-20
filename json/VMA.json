@@ -609,7 +609,7 @@
         "ATH",
         "6ED",
         "S99",
-        "MED",
+        "ME1",
         "ME4",
         "VMA",
         "V14",
@@ -1472,7 +1472,7 @@
       "printings": [
         "ALL",
         "6ED",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Common",
@@ -3975,7 +3975,7 @@
       "printings": [
         "ALL",
         "pJGP",
-        "MED",
+        "ME1",
         "VMA",
         "EMA",
         "MPS_AKH"
@@ -4204,7 +4204,7 @@
       "printings": [
         "FEM",
         "pMEI",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Uncommon",
@@ -5410,7 +5410,7 @@
       "printings": [
         "ARN",
         "3ED",
-        "MED",
+        "ME1",
         "V09",
         "VMA",
         "EMA"
@@ -6041,7 +6041,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "PD3",
         "VMA",
         "EMA"
@@ -7066,7 +7066,7 @@
       "printings": [
         "FEM",
         "ATH",
-        "MED",
+        "ME1",
         "V13",
         "VMA",
         "EMA"
@@ -7682,7 +7682,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Common",
@@ -11449,7 +11449,7 @@
         "2ED",
         "CED",
         "CEI",
-        "MED",
+        "ME1",
         "V09",
         "VMA",
         "CN2"
@@ -12103,7 +12103,7 @@
       "originalType": "Sorcery",
       "printings": [
         "LEG",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Mythic Rare",
@@ -12237,7 +12237,7 @@
       "printings": [
         "ICE",
         "DKM",
-        "MED",
+        "ME1",
         "V13",
         "VMA"
       ],
@@ -12812,7 +12812,7 @@
         "POR",
         "PO2",
         "S99",
-        "MED",
+        "ME1",
         "DDD",
         "VMA",
         "DD3_GVL"
@@ -13633,7 +13633,7 @@
         "LEG",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "CM1",
         "VMA",
         "EMA"
@@ -14351,7 +14351,8 @@
       "printings": [
         "CNS",
         "VMA",
-        "EMA"
+        "EMA",
+        "MED"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -15388,7 +15389,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Rare",
@@ -15695,7 +15696,7 @@
         "ATQ",
         "3ED",
         "4ED",
-        "MED",
+        "ME1",
         "V10",
         "VMA"
       ],
@@ -16093,7 +16094,7 @@
         "4ED",
         "5ED",
         "ATH",
-        "MED",
+        "ME1",
         "V10",
         "C13",
         "VMA",
@@ -16506,7 +16507,7 @@
       "power": "4",
       "printings": [
         "ATQ",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Uncommon",
@@ -17373,7 +17374,7 @@
       "originalType": "Land",
       "printings": [
         "ALL",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Rare",
@@ -18199,7 +18200,7 @@
       "printings": [
         "ALL",
         "pJGP",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Rare",

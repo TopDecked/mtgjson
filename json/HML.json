@@ -529,7 +529,7 @@
       "power": "5",
       "printings": [
         "HML",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -2416,8 +2416,8 @@
         "Blue"
       ],
       "flavor": "\"Legend says they got a treasure cave, but it don't say where to find it.\"\n—Zeki, Reef Pirate",
-      "id": "5ad5ab95b33883fe50e1203b362ca734515b7d7c",
-      "imageName": "labyrinth minotaur2",
+      "id": "df2285acac4b16c4bbfcf7c134097537483c5251",
+      "imageName": "labyrinth minotaur1",
       "layout": "normal",
       "legalities": [
         {
@@ -2478,8 +2478,8 @@
         "Blue"
       ],
       "flavor": "\"I doubt any Labyrinth Minotaurs still live—but then again, we Minotaurs are stubborn beings.\"\n—Onatah, Anaba Shaman",
-      "id": "df2285acac4b16c4bbfcf7c134097537483c5251",
-      "imageName": "labyrinth minotaur1",
+      "id": "5ad5ab95b33883fe50e1203b362ca734515b7d7c",
+      "imageName": "labyrinth minotaur2",
       "layout": "normal",
       "legalities": [
         {
@@ -3062,7 +3062,7 @@
       "printings": [
         "HML",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -3297,7 +3297,7 @@
       "power": "4",
       "printings": [
         "HML",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -3669,7 +3669,7 @@
       "printings": [
         "HML",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -3721,7 +3721,7 @@
       "printings": [
         "HML",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -3926,7 +3926,7 @@
       "printings": [
         "HML",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "text": "At the beginning of each player's upkeep, Primal Order deals damage to that player equal to the number of nonbasic lands they control.",
@@ -4063,7 +4063,7 @@
       "originalType": "Enchant Creature",
       "printings": [
         "HML",
-        "MED",
+        "ME1",
         "EMA"
       ],
       "rarity": "Uncommon",
@@ -4259,7 +4259,7 @@
       "printings": [
         "HML",
         "ATH",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -6162,7 +6162,7 @@
       "printings": [
         "HML",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -6494,8 +6494,8 @@
         "White"
       ],
       "flavor": "\"Powders and potions are nothing compared to faith.\"\n—Baris, Serra Inquisitor",
-      "id": "ab98221cc2c7ab141ba4ae092ca1f689c3886e72",
-      "imageName": "samite alchemist2",
+      "id": "9ad47a92a2f57f63ec3c562922378bb0819b1906",
+      "imageName": "samite alchemist1",
       "layout": "normal",
       "legalities": [
         {
@@ -6545,8 +6545,8 @@
         "White"
       ],
       "flavor": "\"The wisest of Aysen dwell not in the Abbey, but in the laboratory.\"\n—Taysir",
-      "id": "9ad47a92a2f57f63ec3c562922378bb0819b1906",
-      "imageName": "samite alchemist1",
+      "id": "ab98221cc2c7ab141ba4ae092ca1f689c3886e72",
+      "imageName": "samite alchemist2",
       "layout": "normal",
       "legalities": [
         {

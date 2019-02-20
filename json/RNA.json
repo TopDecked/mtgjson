@@ -15673,7 +15673,7 @@
       "originalText": "+1: Add {R} or {G}. If that mana is spent on a creature spell, it gains riot.\n−3: Look at the top four cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.\n−8: You get an emblem with \"At the beginning of each end step, create a 4/4 red and green Beast creature token with trample.\"",
       "originalType": "Legendary Planeswalker — Domri",
       "printings": [
-        "pMED",
+        "MED",
         "RNA"
       ],
       "rarity": "Mythic Rare",
@@ -17605,7 +17605,7 @@
       "originalText": "+1: Exile up to two target cards from a single graveyard. You gain 2 life if at least one creature card was exiled this way.\n−1: Exile target nonland permanent with converted mana cost 1 or less.\n−5: Kaya, Orzhov Usurper deals damage to target player equal to the number of cards that player owns in exile and you gain that much life.",
       "originalType": "Legendary Planeswalker — Kaya",
       "printings": [
-        "pMED",
+        "MED",
         "RNA"
       ],
       "rarity": "Mythic Rare",

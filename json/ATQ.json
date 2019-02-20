@@ -215,7 +215,7 @@
         "ATQ",
         "CHR",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -630,7 +630,7 @@
       "printings": [
         "ATQ",
         "4ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -686,7 +686,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED",
+        "ME1",
         "ME4"
       ],
       "rarity": "Common",
@@ -861,7 +861,7 @@
         "ATQ",
         "3ED",
         "4ED",
-        "MED",
+        "ME1",
         "V10",
         "VMA"
       ],
@@ -1163,7 +1163,7 @@
         "ATQ",
         "3ED",
         "4ED",
-        "MED",
+        "ME1",
         "ME4"
       ],
       "rarity": "Uncommon",
@@ -1534,7 +1534,7 @@
       "power": "4",
       "printings": [
         "ATQ",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Uncommon",
@@ -1620,7 +1620,7 @@
       "originalType": "Mono Artifact",
       "printings": [
         "ATQ",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -1989,7 +1989,7 @@
       "originalType": "Poly Artifact",
       "printings": [
         "ATQ",
-        "MED",
+        "ME1",
         "ME4"
       ],
       "rarity": "Common",
@@ -3338,7 +3338,7 @@
       "originalType": "Interrupt",
       "printings": [
         "ATQ",
-        "MED",
+        "ME1",
         "ME4"
       ],
       "rarity": "Common",
@@ -3597,7 +3597,7 @@
       "power": "1",
       "printings": [
         "ATQ",
-        "MED",
+        "ME1",
         "ME4"
       ],
       "rarity": "Common",
@@ -3697,7 +3697,7 @@
       "power": "1",
       "printings": [
         "ATQ",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -4009,8 +4009,8 @@
     {
       "artist": "Kaja & Phil Foglio",
       "cmc": 0,
-      "id": "308fdb93ab2b714372c965baccafde1f49aa58e6",
-      "imageName": "mishra's factory3",
+      "id": "044fa27b9b32c077af97465ab5a18c082c42421e",
+      "imageName": "mishra's factory2",
       "layout": "normal",
       "legalities": [
         {
@@ -4034,7 +4034,7 @@
         "ATQ",
         "4ED",
         "pJGP",
-        "MED",
+        "ME1",
         "DDF",
         "EMA",
         "A25"
@@ -4076,8 +4076,8 @@
     {
       "artist": "Kaja & Phil Foglio",
       "cmc": 0,
-      "id": "34410d1a8ee957ad8e3f5383da411508f5ea4039",
-      "imageName": "mishra's factory1",
+      "id": "308fdb93ab2b714372c965baccafde1f49aa58e6",
+      "imageName": "mishra's factory3",
       "layout": "normal",
       "legalities": [
         {
@@ -4101,7 +4101,7 @@
         "ATQ",
         "4ED",
         "pJGP",
-        "MED",
+        "ME1",
         "DDF",
         "EMA",
         "A25"
@@ -4168,7 +4168,7 @@
         "ATQ",
         "4ED",
         "pJGP",
-        "MED",
+        "ME1",
         "DDF",
         "EMA",
         "A25"
@@ -4210,8 +4210,8 @@
     {
       "artist": "Kaja & Phil Foglio",
       "cmc": 0,
-      "id": "044fa27b9b32c077af97465ab5a18c082c42421e",
-      "imageName": "mishra's factory2",
+      "id": "34410d1a8ee957ad8e3f5383da411508f5ea4039",
+      "imageName": "mishra's factory1",
       "layout": "normal",
       "legalities": [
         {
@@ -4235,7 +4235,7 @@
         "ATQ",
         "4ED",
         "pJGP",
-        "MED",
+        "ME1",
         "DDF",
         "EMA",
         "A25"
@@ -4334,8 +4334,8 @@
       "artist": "Daniel Gelon",
       "cmc": 0,
       "flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
-      "id": "4f888b704fd556082a5e61e7e786f49bccc45406",
-      "imageName": "strip mine3",
+      "id": "13b3e9a567c668d2800991461a0d5cdd59b7e793",
+      "imageName": "strip mine2",
       "layout": "normal",
       "legalities": [
         {
@@ -4380,8 +4380,8 @@
       "artist": "Daniel Gelon",
       "cmc": 0,
       "flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
-      "id": "13b3e9a567c668d2800991461a0d5cdd59b7e793",
-      "imageName": "strip mine2",
+      "id": "4f888b704fd556082a5e61e7e786f49bccc45406",
+      "imageName": "strip mine3",
       "layout": "normal",
       "legalities": [
         {
@@ -4426,8 +4426,8 @@
       "artist": "Daniel Gelon",
       "cmc": 0,
       "flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
-      "id": "9662f523243bd1aadd994352d4b3b245eb915a74",
-      "imageName": "strip mine1",
+      "id": "cf2b7d87397bac6a3fac7a9fd70b94a069c9fb6f",
+      "imageName": "strip mine4",
       "layout": "normal",
       "legalities": [
         {
@@ -4472,8 +4472,8 @@
       "artist": "Daniel Gelon",
       "cmc": 0,
       "flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
-      "id": "cf2b7d87397bac6a3fac7a9fd70b94a069c9fb6f",
-      "imageName": "strip mine4",
+      "id": "9662f523243bd1aadd994352d4b3b245eb915a74",
+      "imageName": "strip mine1",
       "layout": "normal",
       "legalities": [
         {
@@ -4518,8 +4518,8 @@
       "artist": "Anson Maddocks",
       "cmc": 0,
       "flavor": "Mines became common as cities during the days of the artificers.",
-      "id": "4743c895cc8b1ef5ccbed9b44756297591b3119e",
-      "imageName": "urza's mine4",
+      "id": "6dd60f404c7c1588831d1f89511f9538504c82cd",
+      "imageName": "urza's mine2",
       "layout": "normal",
       "legalities": [
         {
@@ -4577,8 +4577,8 @@
       "artist": "Anson Maddocks",
       "cmc": 0,
       "flavor": "Mines became common as cities during the days of the artificers.",
-      "id": "6dd60f404c7c1588831d1f89511f9538504c82cd",
-      "imageName": "urza's mine2",
+      "id": "f8482ee0ea64363bda2fed3e0fa882db334aefa0",
+      "imageName": "urza's mine1",
       "layout": "normal",
       "legalities": [
         {
@@ -4636,8 +4636,8 @@
       "artist": "Anson Maddocks",
       "cmc": 0,
       "flavor": "Mines became common as cities during the days of the artificers.",
-      "id": "f8482ee0ea64363bda2fed3e0fa882db334aefa0",
-      "imageName": "urza's mine1",
+      "id": "4743c895cc8b1ef5ccbed9b44756297591b3119e",
+      "imageName": "urza's mine4",
       "layout": "normal",
       "legalities": [
         {
@@ -4813,8 +4813,8 @@
       "artist": "Mark Tedin",
       "cmc": 0,
       "flavor": "Artifact construction requires immense resources.",
-      "id": "239785e11184a3bdee89cda922ed314a76ed8032",
-      "imageName": "urza's power plant1",
+      "id": "14deb706883f7b9cf02ff36424c63715bc39979a",
+      "imageName": "urza's power plant3",
       "layout": "normal",
       "legalities": [
         {
@@ -4931,8 +4931,8 @@
       "artist": "Mark Tedin",
       "cmc": 0,
       "flavor": "Artifact construction requires immense resources.",
-      "id": "14deb706883f7b9cf02ff36424c63715bc39979a",
-      "imageName": "urza's power plant3",
+      "id": "239785e11184a3bdee89cda922ed314a76ed8032",
+      "imageName": "urza's power plant1",
       "layout": "normal",
       "legalities": [
         {
@@ -4990,8 +4990,8 @@
       "artist": "Mark Poole",
       "cmc": 0,
       "flavor": "Urza always put Tocasia's lessons on resource-gathering to effective use.",
-      "id": "83085139f233f723b373d1452db2c81ff1dee2f3",
-      "imageName": "urza's tower1",
+      "id": "a9925e25c3ed80d3e228b10eaaed83aa5ac62952",
+      "imageName": "urza's tower3",
       "layout": "normal",
       "legalities": [
         {
@@ -5043,8 +5043,8 @@
       "artist": "Mark Poole",
       "cmc": 0,
       "flavor": "Urza always put Tocasia's lessons on resource-gathering to effective use.",
-      "id": "c92cd78ff06d6a392e0c15afd463eebfa8ad4688",
-      "imageName": "urza's tower4",
+      "id": "83085139f233f723b373d1452db2c81ff1dee2f3",
+      "imageName": "urza's tower1",
       "layout": "normal",
       "legalities": [
         {
@@ -5096,8 +5096,8 @@
       "artist": "Mark Poole",
       "cmc": 0,
       "flavor": "Urza always put Tocasia's lessons on resource-gathering to effective use.",
-      "id": "a9925e25c3ed80d3e228b10eaaed83aa5ac62952",
-      "imageName": "urza's tower3",
+      "id": "c92cd78ff06d6a392e0c15afd463eebfa8ad4688",
+      "imageName": "urza's tower4",
       "layout": "normal",
       "legalities": [
         {

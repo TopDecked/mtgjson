@@ -14579,7 +14579,8 @@
         "KTK",
         "ORI",
         "A25",
-        "M19"
+        "M19",
+        "RNA"
       ],
       "rarity": "Common",
       "rulings": [
@@ -22801,7 +22802,8 @@
       "originalText": "Prevent all combat damage that would be dealt this turn.",
       "originalType": "Instant",
       "printings": [
-        "M19"
+        "M19",
+        "RNA"
       ],
       "rarity": "Common",
       "text": "Prevent all combat damage that would be dealt this turn.",
@@ -29928,7 +29930,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -29997,7 +29999,8 @@
         "GRN",
         "GK1_BOROS",
         "GK1_SELESN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30228,7 +30231,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -30297,7 +30300,8 @@
         "GRN",
         "GK1_BOROS",
         "GK1_SELESN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30528,7 +30532,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -30597,7 +30601,8 @@
         "GRN",
         "GK1_BOROS",
         "GK1_SELESN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30828,7 +30833,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -30897,7 +30902,8 @@
         "GRN",
         "GK1_BOROS",
         "GK1_SELESN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31127,7 +31133,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -31197,7 +31203,8 @@
         "GRN",
         "GK1_DIMIR",
         "GK1_IZZET",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31427,7 +31434,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -31497,7 +31504,8 @@
         "GRN",
         "GK1_DIMIR",
         "GK1_IZZET",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31727,7 +31735,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -31797,7 +31805,8 @@
         "GRN",
         "GK1_DIMIR",
         "GK1_IZZET",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32027,7 +32036,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -32097,7 +32106,8 @@
         "GRN",
         "GK1_DIMIR",
         "GK1_IZZET",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32329,7 +32339,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -32399,7 +32409,8 @@
         "GRN",
         "GK1_DIMIR",
         "GK1_GOLGAR",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32631,7 +32642,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -32701,7 +32712,8 @@
         "GRN",
         "GK1_DIMIR",
         "GK1_GOLGAR",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32933,7 +32945,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -33003,7 +33015,8 @@
         "GRN",
         "GK1_DIMIR",
         "GK1_GOLGAR",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33235,7 +33248,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -33305,7 +33318,8 @@
         "GRN",
         "GK1_DIMIR",
         "GK1_GOLGAR",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33538,7 +33552,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -33611,7 +33625,8 @@
         "GRN",
         "GK1_BOROS",
         "GK1_IZZET",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33844,7 +33859,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -33917,7 +33932,8 @@
         "GRN",
         "GK1_BOROS",
         "GK1_IZZET",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34150,7 +34166,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -34223,7 +34239,8 @@
         "GRN",
         "GK1_BOROS",
         "GK1_IZZET",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34456,7 +34473,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -34529,7 +34546,8 @@
         "GRN",
         "GK1_BOROS",
         "GK1_IZZET",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34761,7 +34779,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -34832,7 +34850,8 @@
         "GRN",
         "GK1_GOLGAR",
         "GK1_SELESN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35064,7 +35083,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -35135,7 +35154,8 @@
         "GRN",
         "GK1_GOLGAR",
         "GK1_SELESN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35367,7 +35387,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -35438,7 +35458,8 @@
         "GRN",
         "GK1_GOLGAR",
         "GK1_SELESN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35670,7 +35691,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -35741,7 +35762,8 @@
         "GRN",
         "GK1_GOLGAR",
         "GK1_SELESN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [

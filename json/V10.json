@@ -230,7 +230,7 @@
         "ATQ",
         "3ED",
         "4ED",
-        "MED",
+        "ME1",
         "V10",
         "VMA"
       ],
@@ -632,7 +632,7 @@
         "4ED",
         "5ED",
         "ATH",
-        "MED",
+        "ME1",
         "V10",
         "C13",
         "VMA",
@@ -868,7 +868,7 @@
       "originalType": "Artifact",
       "printings": [
         "ICE",
-        "MED",
+        "ME1",
         "V10"
       ],
       "rarity": "Mythic Rare",

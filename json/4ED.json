@@ -198,7 +198,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Rare",
@@ -843,7 +843,7 @@
         "ITP",
         "5ED",
         "BTD",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -1092,7 +1092,7 @@
       "printings": [
         "ATQ",
         "4ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -1349,7 +1349,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED",
+        "ME1",
         "ME4"
       ],
       "rarity": "Rare",
@@ -1923,7 +1923,7 @@
         "ATQ",
         "3ED",
         "4ED",
-        "MED",
+        "ME1",
         "V10",
         "VMA"
       ],
@@ -2469,7 +2469,7 @@
         "4ED",
         "5ED",
         "ATH",
-        "MED",
+        "ME1",
         "V10",
         "C13",
         "VMA",
@@ -2571,7 +2571,7 @@
         "ATQ",
         "3ED",
         "4ED",
-        "MED",
+        "ME1",
         "ME4"
       ],
       "rarity": "Rare",
@@ -3501,7 +3501,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "EMA"
       ],
       "rarity": "Rare",
@@ -3717,7 +3717,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "PD3",
         "VMA",
         "EMA"
@@ -3917,7 +3917,7 @@
         "5ED",
         "ATH",
         "pFNM",
-        "MED",
+        "ME1",
         "M10",
         "M11",
         "ME4"
@@ -3970,7 +3970,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -4734,7 +4734,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "A25"
       ],
       "rarity": "Common",
@@ -5544,7 +5544,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -5719,7 +5719,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Common",
@@ -7341,7 +7341,7 @@
       "printings": [
         "DRK",
         "4ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -8170,7 +8170,7 @@
       "printings": [
         "ARN",
         "4ED",
-        "MED",
+        "ME1",
         "ME4",
         "EMA"
       ],
@@ -9031,7 +9031,7 @@
         "4ED",
         "ITP",
         "5ED",
-        "MED",
+        "ME1",
         "EMA",
         "IMA"
       ],
@@ -9412,7 +9412,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -10032,7 +10032,7 @@
       "printings": [
         "DRK",
         "4ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "text": "At the beginning of your upkeep, sacrifice Sunken City unless you pay {U}{U}.\nBlue creatures get +1/+1.",
@@ -10124,7 +10124,7 @@
         "LEG",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -10792,7 +10792,7 @@
         "DRK",
         "4ED",
         "ATH",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -12949,7 +12949,7 @@
         "ITP",
         "5ED",
         "BRB",
-        "MED",
+        "ME1",
         "ME3"
       ],
       "rarity": "Common",
@@ -13111,7 +13111,7 @@
         "LEG",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "CM1",
         "VMA",
         "EMA"
@@ -13196,7 +13196,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -13838,7 +13838,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -14132,7 +14132,7 @@
         "RQS",
         "ITP",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -14252,7 +14252,7 @@
         "5ED",
         "pJGP",
         "BTD",
-        "MED",
+        "ME1",
         "M10",
         "PD2",
         "A25"
@@ -14412,7 +14412,7 @@
         "DRK",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -15336,7 +15336,7 @@
       "printings": [
         "DRK",
         "4ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "text": "Destroy target creature or land. It can't be regenerated.",
@@ -16053,7 +16053,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -16120,7 +16120,7 @@
         "ATH",
         "BTD",
         "pMPR",
-        "MED",
+        "ME1",
         "M10",
         "M11",
         "PD2",
@@ -16282,7 +16282,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -17087,7 +17087,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "M10",
         "DDI"
       ],
@@ -17619,7 +17619,7 @@
         "4ED",
         "5ED",
         "POR",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -17772,7 +17772,7 @@
         "DRK",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -17826,7 +17826,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -17890,7 +17890,7 @@
         "ATH",
         "6ED",
         "S99",
-        "MED",
+        "ME1",
         "ME4",
         "VMA",
         "V14",
@@ -18012,7 +18012,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -18843,7 +18843,7 @@
         "5ED",
         "6ED",
         "pSUS",
-        "MED",
+        "ME1",
         "DDF"
       ],
       "rarity": "Rare",
@@ -18898,7 +18898,7 @@
         "4ED",
         "ICE",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "text": "Regenerate target creature.",
@@ -19047,7 +19047,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -19095,7 +19095,7 @@
       "printings": [
         "LEG",
         "4ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -19729,7 +19729,7 @@
         "RQS",
         "ITP",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -21312,7 +21312,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -21378,7 +21378,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -21580,7 +21581,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -21646,7 +21647,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -21848,7 +21850,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -21914,7 +21916,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -22116,7 +22119,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -22182,7 +22185,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -22384,7 +22388,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -22450,7 +22454,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -22652,7 +22657,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -22718,7 +22723,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -22962,7 +22968,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -23030,7 +23036,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -23233,7 +23240,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -23301,7 +23308,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -23504,7 +23512,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -23572,7 +23580,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -23773,7 +23782,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -23837,7 +23846,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -24038,7 +24048,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -24102,7 +24112,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -24303,7 +24314,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -24367,7 +24378,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -24413,7 +24425,7 @@
         "ATQ",
         "4ED",
         "pJGP",
-        "MED",
+        "ME1",
         "DDF",
         "EMA",
         "A25"
@@ -24665,7 +24677,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -24730,7 +24742,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -24930,7 +24943,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -24995,7 +25008,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25195,7 +25209,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -25260,7 +25274,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [

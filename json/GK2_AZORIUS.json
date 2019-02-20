@@ -1,0 +1,2633 @@
+{
+  "name": "Guild Kit: Azorius",
+  "code": "GK2_AZORIUS",
+  "releaseDate": "2019-02-10",
+  "border": "black",
+  "type": "box",
+  "cards": [
+    {
+      "artist": "Lucas Graciano",
+      "cmc": 6,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "flavor": "\"I serve only justice. But through that duty, I serve all of Ravnica.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Isperia, Oberste Richterin",
+          "multiverseid": 460157
+        },
+        {
+          "language": "Spanish",
+          "name": "Isperia, jueza suprema",
+          "multiverseid": 460184
+        },
+        {
+          "language": "French",
+          "name": "Isperia, juge suprême",
+          "multiverseid": 460211
+        },
+        {
+          "language": "Italian",
+          "name": "Isperia, Giudice Supremo",
+          "multiverseid": 460238
+        },
+        {
+          "language": "Japanese",
+          "name": "至高の審判者、イスペリア",
+          "multiverseid": 460265
+        }
+      ],
+      "id": "28119f65909e26a6764d820b3355a1bc741126c4",
+      "imageName": "isperia, supreme judge",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{W}{W}{U}{U}",
+      "multiverseid": 460130,
+      "name": "Isperia, Supreme Judge",
+      "number": "1",
+      "originalText": "Flying\nWhenever a creature attacks you or a planeswalker you control, you may draw a card.",
+      "originalType": "Legendary Creature — Sphinx",
+      "power": "6",
+      "printings": [
+        "RTR",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Sphinx"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying\nWhenever a creature attacks you or a planeswalker you control, you may draw a card.",
+      "toughness": "4",
+      "type": "Legendary Creature — Sphinx",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Justin Sweet",
+      "cmc": 3,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"As peace should be—gentle yet unstoppable.\"\n—Augustin IV",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Azorius-Herold",
+          "multiverseid": 460158
+        },
+        {
+          "language": "Spanish",
+          "name": "Heraldo azorio",
+          "multiverseid": 460185
+        },
+        {
+          "language": "French",
+          "name": "Héraut d'Azorius",
+          "multiverseid": 460212
+        },
+        {
+          "language": "Italian",
+          "name": "Araldo di Azorius",
+          "multiverseid": 460239
+        },
+        {
+          "language": "Japanese",
+          "name": "アゾリウスの伝令",
+          "multiverseid": 460266
+        }
+      ],
+      "id": "5f1ba613fe307ea861d50f9fbb8d3576a67ce26c",
+      "imageName": "azorius herald",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{W}",
+      "multiverseid": 460131,
+      "name": "Azorius Herald",
+      "number": "2",
+      "originalText": "Azorius Herald can't be blocked.\nWhen Azorius Herald enters the battlefield, you gain 4 life.\nWhen Azorius Herald enters the battlefield, sacrifice it unless {U} was spent to cast it.",
+      "originalType": "Creature — Spirit",
+      "power": "2",
+      "printings": [
+        "DIS",
+        "C13",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "If this enters the battlefield in a way other than announcing it as a spell, then the appropriate mana can't have been paid, and you'll have to sacrifice it."
+        }
+      ],
+      "subtypes": [
+        "Spirit"
+      ],
+      "text": "Azorius Herald can't be blocked.\nWhen Azorius Herald enters the battlefield, you gain 4 life.\nWhen Azorius Herald enters the battlefield, sacrifice it unless {U} was spent to cast it.",
+      "toughness": "1",
+      "type": "Creature — Spirit",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Chris Rahn",
+      "cmc": 4,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Your potential to commit a crime warrants further investigation.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Azorius-Justiziarin",
+          "multiverseid": 460159
+        },
+        {
+          "language": "Spanish",
+          "name": "Justiciar azorio",
+          "multiverseid": 460186
+        },
+        {
+          "language": "French",
+          "name": "Justicière d'Azorius",
+          "multiverseid": 460213
+        },
+        {
+          "language": "Italian",
+          "name": "Magistrato Azorius",
+          "multiverseid": 460240
+        },
+        {
+          "language": "Japanese",
+          "name": "アゾリウスの大司法官",
+          "multiverseid": 460267
+        }
+      ],
+      "id": "53e58449c257b44c3b4c3d3f34891a5b6c3c776e",
+      "imageName": "azorius justiciar",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{W}{W}",
+      "multiverseid": 460132,
+      "name": "Azorius Justiciar",
+      "number": "3",
+      "originalText": "When Azorius Justiciar enters the battlefield, detain up to two target creatures your opponents control. <i>(Until your next turn, those creatures can't attack or block and their activated abilities can't be activated.)</i>",
+      "originalType": "Creature — Human Wizard",
+      "power": "2",
+      "printings": [
+        "RTR",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "The two creatures can be controlled by the same opponent or by different opponents."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Activated abilities include a colon and are written in the form \"[cost]: [effect].\" No one can activate any activated abilities, including mana abilities, of a detained permanent."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The static abilities of a detained permanent still apply. The triggered abilities of a detained permanent can still trigger."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a creature is already attacking or blocking when it's detained, it won't be removed from combat. It will continue to attack or block."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a permanent's activated ability is on the stack when that permanent is detained, the ability will be unaffected."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a noncreature permanent is detained and later turns into a creature, it won't be able to attack or block."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When a player leaves a multiplayer game, any continuous effects with durations that last until that player's next turn or until a specific point in that turn will last until that turn would have begun. They neither expire immediately nor last indefinitely."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "text": "When Azorius Justiciar enters the battlefield, detain up to two target creatures your opponents control. (Until your next turn, those creatures can't attack or block and their activated abilities can't be activated.)",
+      "toughness": "2",
+      "type": "Creature — Human Wizard",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Randy Gallegos",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Life is fleeting, and so is death. Only the oath is eternal.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Stoische Ephemeriden",
+          "multiverseid": 460160
+        },
+        {
+          "language": "Spanish",
+          "name": "Efímeros estoicos",
+          "multiverseid": 460187
+        },
+        {
+          "language": "French",
+          "name": "Éphéméroptères stoïques",
+          "multiverseid": 460214
+        },
+        {
+          "language": "Italian",
+          "name": "Effimera Stoica",
+          "multiverseid": 460241
+        },
+        {
+          "language": "Japanese",
+          "name": "冷静な陽炎",
+          "multiverseid": 460268
+        }
+      ],
+      "id": "b1e3ad5b6bafe6e150916a64be087829d2369d04",
+      "imageName": "stoic ephemera",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{W}",
+      "multiverseid": 460133,
+      "name": "Stoic Ephemera",
+      "number": "4",
+      "originalText": "Defender, flying\nWhen Stoic Ephemera blocks, sacrifice it at end of combat.",
+      "originalType": "Creature — Spirit",
+      "power": "5",
+      "printings": [
+        "DIS",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Spirit"
+      ],
+      "text": "Defender (This creature can't attack.)\nFlying\nWhen Stoic Ephemera blocks, sacrifice it at end of combat.",
+      "toughness": "5",
+      "type": "Creature — Spirit",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Ron Spears",
+      "cmc": 3,
+      "colorIdentity": [
+        "U",
+        "W"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Husar des Hofes",
+          "multiverseid": 460161
+        },
+        {
+          "language": "Spanish",
+          "name": "Húsar de la corte",
+          "multiverseid": 460188
+        },
+        {
+          "language": "French",
+          "name": "Hussard de la cour",
+          "multiverseid": 460215
+        },
+        {
+          "language": "Italian",
+          "name": "Ussaro di Corte",
+          "multiverseid": 460242
+        },
+        {
+          "language": "Japanese",
+          "name": "宮廷の軽騎兵",
+          "multiverseid": 460269
+        }
+      ],
+      "id": "5345a21640da8926b2bd22354f14355e39ead450",
+      "imageName": "court hussar",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{U}",
+      "multiverseid": 460134,
+      "name": "Court Hussar",
+      "number": "5",
+      "originalText": "Vigilance\nWhen Court Hussar enters the battlefield, look at the top three cards of your library, then put one of them into your hand and the rest on the bottom of your library in any order.\nWhen Court Hussar enters the battlefield, sacrifice it unless {W} was spent to cast it.",
+      "originalType": "Creature — Vedalken Knight",
+      "power": "1",
+      "printings": [
+        "DIS",
+        "CMD",
+        "A25",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "If this enters the battlefield in a way other than announcing it as a spell, then the appropriate mana can't have been paid, and you'll have to sacrifice it."
+        }
+      ],
+      "subtypes": [
+        "Vedalken",
+        "Knight"
+      ],
+      "text": "Vigilance\nWhen Court Hussar enters the battlefield, look at the top three cards of your library, then put one of them into your hand and the rest on the bottom of your library in any order.\nWhen Court Hussar enters the battlefield, sacrifice it unless {W} was spent to cast it.",
+      "toughness": "3",
+      "type": "Creature — Vedalken Knight",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Mathias Kollros",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "As whispers and rumors increased, so did the demand for fail-safe barriers.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Schwebebarriere",
+          "multiverseid": 460162
+        },
+        {
+          "language": "Spanish",
+          "name": "Barrera aérea",
+          "multiverseid": 460189
+        },
+        {
+          "language": "French",
+          "name": "Barrière lévitante",
+          "multiverseid": 460216
+        },
+        {
+          "language": "Italian",
+          "name": "Barriera Sospesa",
+          "multiverseid": 460243
+        },
+        {
+          "language": "Japanese",
+          "name": "浮遊障壁",
+          "multiverseid": 460270
+        }
+      ],
+      "id": "f4a6ff826e10a5dc0b228ae834fa96ad6363f609",
+      "imageName": "hover barrier",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{U}",
+      "multiverseid": 460135,
+      "name": "Hover Barrier",
+      "number": "6",
+      "originalText": "Defender, flying",
+      "originalType": "Creature — Illusion Wall",
+      "power": "0",
+      "printings": [
+        "RTR",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Illusion",
+        "Wall"
+      ],
+      "text": "Defender, flying",
+      "toughness": "6",
+      "type": "Creature — Illusion Wall",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "David Rapoza",
+      "cmc": 7,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Archon des Triumvirats",
+          "multiverseid": 460163
+        },
+        {
+          "language": "Spanish",
+          "name": "Arconte del triunvirato",
+          "multiverseid": 460190
+        },
+        {
+          "language": "French",
+          "name": "Archonte du Triumvirat",
+          "multiverseid": 460217
+        },
+        {
+          "language": "Italian",
+          "name": "Arconte del Triumvirato",
+          "multiverseid": 460244
+        },
+        {
+          "language": "Japanese",
+          "name": "三巨頭の執政官",
+          "multiverseid": 460271
+        }
+      ],
+      "id": "3a6d41d33fa83cc9f2821176419dd372d3dd4c9e",
+      "imageName": "archon of the triumvirate",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{5}{W}{U}",
+      "multiverseid": 460136,
+      "name": "Archon of the Triumvirate",
+      "number": "7",
+      "originalText": "Flying\nWhenever Archon of the Triumvirate attacks, detain up to two target nonland permanents your opponents control. <i>(Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)</i>",
+      "originalType": "Creature — Archon",
+      "power": "4",
+      "printings": [
+        "pPRE",
+        "RTR",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "The two nonland permanents can be controlled by the same opponent or by different opponents."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "The nonland permanents will be detained before blockers are chosen. Notably, a creature detained this way can't block before it is detained."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Activated abilities include a colon and are written in the form \"[cost]: [effect].\" No one can activate any activated abilities, including mana abilities, of a detained permanent."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The static abilities of a detained permanent still apply. The triggered abilities of a detained permanent can still trigger."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a creature is already attacking or blocking when it's detained, it won't be removed from combat. It will continue to attack or block."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a permanent's activated ability is on the stack when that permanent is detained, the ability will be unaffected."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a noncreature permanent is detained and later turns into a creature, it won't be able to attack or block."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When a player leaves a multiplayer game, any continuous effects with durations that last until that player's next turn or until a specific point in that turn will last until that turn would have begun. They neither expire immediately nor last indefinitely."
+        }
+      ],
+      "subtypes": [
+        "Archon"
+      ],
+      "text": "Flying\nWhenever Archon of the Triumvirate attacks, detain up to two target nonland permanents your opponents control. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)",
+      "toughness": "5",
+      "type": "Creature — Archon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Zoltan Boros",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Azorius-Amulett",
+          "multiverseid": 460164
+        },
+        {
+          "language": "Spanish",
+          "name": "Amuleto azorio",
+          "multiverseid": 460191
+        },
+        {
+          "language": "French",
+          "name": "Charme d'Azorius",
+          "multiverseid": 460218
+        },
+        {
+          "language": "Italian",
+          "name": "Talismano Azorius",
+          "multiverseid": 460245
+        },
+        {
+          "language": "Japanese",
+          "name": "アゾリウスの魔除け",
+          "multiverseid": 460272
+        }
+      ],
+      "id": "cddc12aa420d6012f3c78c0a5ff71fe34111080d",
+      "imageName": "azorius charm",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{W}{U}",
+      "multiverseid": 460137,
+      "name": "Azorius Charm",
+      "number": "8",
+      "originalText": "Choose one —\n• Creatures you control gain lifelink until end of turn.\n• Draw a card.\n• Put target attacking or blocking creature on top of its owner's library.",
+      "originalType": "Instant",
+      "printings": [
+        "RTR",
+        "IMA",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "Multiple instances of lifelink on the same creature are redundant."
+        }
+      ],
+      "text": "Choose one —\n• Creatures you control gain lifelink until end of turn.\n• Draw a card.\n• Put target attacking or blocking creature on top of its owner's library.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Christopher Moeller",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Azorius-Gildenmagier",
+          "multiverseid": 460165
+        },
+        {
+          "language": "Spanish",
+          "name": "Maga del Gremio Azorio",
+          "multiverseid": 460192
+        },
+        {
+          "language": "French",
+          "name": "Ghildmage d'Azorius",
+          "multiverseid": 460219
+        },
+        {
+          "language": "Italian",
+          "name": "Maga della Gilda Azorius",
+          "multiverseid": 460246
+        },
+        {
+          "language": "Japanese",
+          "name": "アゾリウスのギルド魔道士",
+          "multiverseid": 460273
+        }
+      ],
+      "id": "4aa6a8682d820072859b59b3605b493872962e65",
+      "imageName": "azorius guildmage",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{W/U}{W/U}",
+      "multiverseid": 460138,
+      "name": "Azorius Guildmage",
+      "number": "9",
+      "originalText": "{2}{W}: Tap target creature.\n{2}{U}: Counter target activated ability. <i>(Mana abilities can't be targeted.)</i>",
+      "originalType": "Creature — Vedalken Wizard",
+      "power": "2",
+      "printings": [
+        "pREL",
+        "DIS",
+        "CMD",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Activated abilities contain a colon. They're generally written \"[Cost]: [Effect].\" Some keywords are activated abilities and will have colons in their reminder text."
+        }
+      ],
+      "subtypes": [
+        "Vedalken",
+        "Wizard"
+      ],
+      "text": "{2}{W}: Tap target creature.\n{2}{U}: Counter target activated ability. (Mana abilities can't be targeted.)",
+      "toughness": "2",
+      "type": "Creature — Vedalken Wizard",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 3,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Arrestkugel",
+          "multiverseid": 460166
+        },
+        {
+          "language": "Spanish",
+          "name": "Esfera de detención",
+          "multiverseid": 460193
+        },
+        {
+          "language": "French",
+          "name": "Sphère de détention",
+          "multiverseid": 460220
+        },
+        {
+          "language": "Italian",
+          "name": "Sfera di Detenzione",
+          "multiverseid": 460247
+        },
+        {
+          "language": "Japanese",
+          "name": "拘留の宝球",
+          "multiverseid": 460274
+        }
+      ],
+      "id": "49ac8d65edaa8f1a43e0f610b4b43435ae0dbe8a",
+      "imageName": "detention sphere",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{W}{U}",
+      "multiverseid": 460139,
+      "name": "Detention Sphere",
+      "number": "10",
+      "originalText": "When Detention Sphere enters the battlefield, you may exile target nonland permanent not named Detention Sphere and all other permanents with the same name as that permanent.\nWhen Detention Sphere leaves the battlefield, return the exiled cards to the battlefield under their owner's control.",
+      "originalType": "Enchantment",
+      "printings": [
+        "RTR",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "Although the target of the enters-the-battlefield ability must not be a land, lands with the same name as that permanent will be exiled."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "The enters-the-battlefield ability has only one target. The other permanents with that name aren't targeted. For example, a permanent with protection from white will be exiled if it has the same name as the target nonland permanent."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "If the target nonland permanent is an illegal target when the enters-the-battlefield ability tries to resolve, it won't resolve and none of its effects will happen. No permanents will be exiled, including those with the same name as the target."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "If Detention Sphere leaves the battlefield before its enters-the-battlefield ability has resolved, its leaves-the-battlefield ability will trigger and do nothing. Then the enters-the-battlefield ability will resolve and exile the targeted nonland permanent and other permanents with that name indefinitely."
+        }
+      ],
+      "text": "When Detention Sphere enters the battlefield, you may exile target nonland permanent not named Detention Sphere and all other permanents with the same name as that permanent.\nWhen Detention Sphere leaves the battlefield, return the exiled cards to the battlefield under their owner's control.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Shishizaru",
+      "cmc": 6,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Taubenschlag",
+          "multiverseid": 460167
+        },
+        {
+          "language": "Spanish",
+          "name": "Paisaje de palomas",
+          "multiverseid": 460194
+        },
+        {
+          "language": "French",
+          "name": "Tourterelles",
+          "multiverseid": 460221
+        },
+        {
+          "language": "Italian",
+          "name": "Colombaggio",
+          "multiverseid": 460248
+        },
+        {
+          "language": "Japanese",
+          "name": "鳩散らし",
+          "multiverseid": 460275
+        }
+      ],
+      "id": "beb3ccc5d061e010b17676c1a3817cf45044b7f5",
+      "imageName": "dovescape",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{W/U}{W/U}{W/U}",
+      "multiverseid": 460140,
+      "name": "Dovescape",
+      "number": "11",
+      "originalText": "Whenever a player casts a noncreature spell, counter that spell. That player creates X 1/1 white and blue Bird creature tokens with flying, where X is the spell's converted mana cost.",
+      "originalType": "Enchantment",
+      "printings": [
+        "DIS",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "The Bird tokens are created even if the spell isn't countered by Dovescape's ability. This may happen because the spell can't be countered, because it's already been countered, or because it's otherwise been removed from the stack by the time Dovescape's ability resolves."
+        },
+        {
+          "date": "2006-05-01",
+          "text": "If a split card is cast, Dovescape makes tokens equal to the converted mana cost of the half that was cast."
+        }
+      ],
+      "text": "({W/U} can be paid with either {W} or {U}.)\nWhenever a player casts a noncreature spell, counter that spell. That player creates X 1/1 white and blue Bird creature tokens with flying, where X is the spell's converted mana cost.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Ryan Pancoast",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "flavor": "\"I never thought I'd be so glad to see two tons of beak and claws bearing down on me at the speed of an arrow.\"\n—Mirela, Azorius hussar",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Dramatische Rettung",
+          "multiverseid": 460168
+        },
+        {
+          "language": "Spanish",
+          "name": "Rescate espectacular",
+          "multiverseid": 460195
+        },
+        {
+          "language": "French",
+          "name": "Sauvetage dramatique",
+          "multiverseid": 460222
+        },
+        {
+          "language": "Italian",
+          "name": "Salvataggio Spettacolare",
+          "multiverseid": 460249
+        },
+        {
+          "language": "Japanese",
+          "name": "劇的な救出",
+          "multiverseid": 460276
+        }
+      ],
+      "id": "244d825b4e9977e7c736963546b9f1413af2165f",
+      "imageName": "dramatic rescue",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{W}{U}",
+      "multiverseid": 460141,
+      "name": "Dramatic Rescue",
+      "number": "12",
+      "originalText": "Return target creature to its owner's hand. You gain 2 life.",
+      "originalType": "Instant",
+      "printings": [
+        "RTR",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "You must be able to target a creature to cast Dramatic Rescue."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "If the target creature is an illegal target when Dramatic Rescue tries to resolve, it won't resolve and none of its effects will happen. You won't gain 2 life."
+        }
+      ],
+      "text": "Return target creature to its owner's hand. You gain 2 life.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Greg Staples",
+      "cmc": 5,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Isperia die Unergründliche",
+          "multiverseid": 460169
+        },
+        {
+          "language": "Spanish",
+          "name": "Isperia la inescrutable",
+          "multiverseid": 460196
+        },
+        {
+          "language": "French",
+          "name": "Isperia l'impénétrable",
+          "multiverseid": 460223
+        },
+        {
+          "language": "Italian",
+          "name": "Isperia l'Imperscrutabile",
+          "multiverseid": 460250
+        },
+        {
+          "language": "Japanese",
+          "name": "不可解なるイスペリア",
+          "multiverseid": 460277
+        }
+      ],
+      "id": "108e0c93c041cb2dbc09411772c5d132811f1232",
+      "imageName": "isperia the inscrutable",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{W}{W}{U}{U}",
+      "multiverseid": 460142,
+      "name": "Isperia the Inscrutable",
+      "number": "13",
+      "originalText": "Flying\nWhenever Isperia the Inscrutable deals combat damage to a player, choose a card name. That player reveals their hand. If a card with the chosen name is revealed this way, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle your library.",
+      "originalType": "Legendary Creature — Sphinx",
+      "power": "3",
+      "printings": [
+        "DIS",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "The card is named when the ability resolves. The named card can't be played after it's named but before the player's hand is revealed."
+        }
+      ],
+      "subtypes": [
+        "Sphinx"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying\nWhenever Isperia the Inscrutable deals combat damage to a player, choose a card name. That player reveals their hand. If a card with the chosen name is revealed this way, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle your library.",
+      "toughness": "6",
+      "type": "Legendary Creature — Sphinx",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Jack Wang",
+      "cmc": 1,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "flavor": "\"It misses nothing and it has no sense of humor.\"\n—Barvisa, courtroom scribe",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Vertrauter des Richters",
+          "multiverseid": 460170
+        },
+        {
+          "language": "Spanish",
+          "name": "Familiar del juez",
+          "multiverseid": 460197
+        },
+        {
+          "language": "French",
+          "name": "Familier du juge",
+          "multiverseid": 460224
+        },
+        {
+          "language": "Italian",
+          "name": "Famiglio del Giudice",
+          "multiverseid": 460251
+        },
+        {
+          "language": "Japanese",
+          "name": "審判官の使い魔",
+          "multiverseid": 460278
+        }
+      ],
+      "id": "160b813d212a5e98af8fd331868cf00cb659d9e0",
+      "imageName": "judge's familiar",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{W/U}",
+      "multiverseid": 460143,
+      "name": "Judge's Familiar",
+      "number": "14",
+      "originalText": "Flying\nSacrifice Judge's Familiar: Counter target instant or sorcery spell unless its controller pays {1}.",
+      "originalType": "Creature — Bird",
+      "power": "1",
+      "printings": [
+        "pFNM",
+        "RTR",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Bird"
+      ],
+      "text": "Flying\nSacrifice Judge's Familiar: Counter target instant or sorcery spell unless its controller pays {1}.",
+      "toughness": "1",
+      "type": "Creature — Bird",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Willian Murai",
+      "cmc": 5,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Lavinia aus dem Zehnten",
+          "multiverseid": 460171
+        },
+        {
+          "language": "Spanish",
+          "name": "Lavinia del Décimo",
+          "multiverseid": 460198
+        },
+        {
+          "language": "French",
+          "name": "Lavinia de la Dixième",
+          "multiverseid": 460225
+        },
+        {
+          "language": "Italian",
+          "name": "Lavinia del Decimo",
+          "multiverseid": 460252
+        },
+        {
+          "language": "Japanese",
+          "name": "第10管区のラヴィニア",
+          "multiverseid": 460279
+        }
+      ],
+      "id": "7009a220ed40ec34a41216d74b8145a583c12e4c",
+      "imageName": "lavinia of the tenth",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{W}{U}",
+      "multiverseid": 460144,
+      "name": "Lavinia of the Tenth",
+      "number": "15",
+      "originalText": "Protection from red\nWhen Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. <i>(Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)</i>",
+      "originalType": "Legendary Creature — Human Soldier",
+      "power": "4",
+      "printings": [
+        "DGM",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "Activated abilities include a colon and are written in the form \"[cost]: [effect].\" No one can activate any activated abilities, including mana abilities, of a detained permanent."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The static abilities of a detained permanent still apply. The triggered abilities of a detained permanent can still trigger."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a creature is already attacking or blocking when it's detained, it won't be removed from combat. It will continue to attack or block."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a permanent's activated ability is on the stack when that permanent is detained, the ability will be unaffected."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a noncreature permanent is detained and later turns into a creature, it won't be able to attack or block."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When a player leaves a multiplayer game, any continuous effects with durations that last until that player's next turn or until a specific point in that turn will last until that turn would have begun. They neither expire immediately nor last indefinitely."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The converted mana cost of a creature token is 0 unless that token is a copy of another creature, in which case it copies that creature's mana cost."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Lavinia's ability doesn't affect permanents an opponent gains control of after its enters-the-battlefield ability has resolved. Similarly, if you gain control of a detained permanent after that ability resolves, it will continue to be detained until your next turn."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Protection from red\nWhen Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)",
+      "toughness": "4",
+      "type": "Legendary Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Johannes Voss",
+      "cmc": 3,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Lyev-Himmelsritter",
+          "multiverseid": 460172
+        },
+        {
+          "language": "Spanish",
+          "name": "Caballero celeste lyev",
+          "multiverseid": 460199
+        },
+        {
+          "language": "French",
+          "name": "Chevalière céleste de Lyev",
+          "multiverseid": 460226
+        },
+        {
+          "language": "Italian",
+          "name": "Cavaliera dei Cieli Lyev",
+          "multiverseid": 460253
+        },
+        {
+          "language": "Japanese",
+          "name": "リーヴの空騎士",
+          "multiverseid": 460280
+        }
+      ],
+      "id": "eee0e993ffb4b0aeb51a742d9e17f8a4dd11beb8",
+      "imageName": "lyev skyknight",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{W}{U}",
+      "multiverseid": 460145,
+      "name": "Lyev Skyknight",
+      "number": "16",
+      "originalText": "Flying\nWhen Lyev Skyknight enters the battlefield, detain target nonland permanent an opponent controls. <i>(Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)</i>",
+      "originalType": "Creature — Human Knight",
+      "power": "3",
+      "printings": [
+        "RTR",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "Activated abilities include a colon and are written in the form \"[cost]: [effect].\" No one can activate any activated abilities, including mana abilities, of a detained permanent."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The static abilities of a detained permanent still apply. The triggered abilities of a detained permanent can still trigger."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a creature is already attacking or blocking when it's detained, it won't be removed from combat. It will continue to attack or block."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a permanent's activated ability is on the stack when that permanent is detained, the ability will be unaffected."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a noncreature permanent is detained and later turns into a creature, it won't be able to attack or block."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When a player leaves a multiplayer game, any continuous effects with durations that last until that player's next turn or until a specific point in that turn will last until that turn would have begun. They neither expire immediately nor last indefinitely."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Knight"
+      ],
+      "text": "Flying\nWhen Lyev Skyknight enters the battlefield, detain target nonland permanent an opponent controls. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)",
+      "toughness": "1",
+      "type": "Creature — Human Knight",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Rebecca Guay",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Stolz der Wolken",
+          "multiverseid": 460173
+        },
+        {
+          "language": "Spanish",
+          "name": "Manada de nubes",
+          "multiverseid": 460200
+        },
+        {
+          "language": "French",
+          "name": "Bande des nuages",
+          "multiverseid": 460227
+        },
+        {
+          "language": "Italian",
+          "name": "Orgoglio delle Nubi",
+          "multiverseid": 460254
+        },
+        {
+          "language": "Japanese",
+          "name": "雲の群れ",
+          "multiverseid": 460281
+        }
+      ],
+      "id": "3871d76227ffc49db17d8b2bb1e66abfdc2eb3af",
+      "imageName": "pride of the clouds",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{W}{U}",
+      "multiverseid": 460146,
+      "name": "Pride of the Clouds",
+      "number": "17",
+      "originalText": "Flying\nPride of the Clouds gets +1/+1 for each other creature with flying on the battlefield.\nForecast — {2}{W}{U}, Reveal Pride of the Clouds from your hand: Create a 1/1 white and blue Bird creature token with flying. <i>(Activate this ability only during your upkeep and only once each turn.)</i>",
+      "originalType": "Creature — Elemental Cat",
+      "power": "1",
+      "printings": [
+        "DIS",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Elemental",
+        "Cat"
+      ],
+      "text": "Flying\nPride of the Clouds gets +1/+1 for each other creature with flying on the battlefield.\nForecast — {2}{W}{U}, Reveal Pride of the Clouds from your hand: Create a 1/1 white and blue Bird creature token with flying. (Activate this ability only during your upkeep and only once each turn.)",
+      "toughness": "1",
+      "type": "Creature — Elemental Cat",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Matt Stewart",
+      "cmc": 3,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "flavor": "\"We have confiscated your spells as evidence. Once we conclude our investigation, you may petition to have them returned.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Mit Stummheit schlagen",
+          "multiverseid": 460174
+        },
+        {
+          "language": "Spanish",
+          "name": "Silenciar",
+          "multiverseid": 460201
+        },
+        {
+          "language": "French",
+          "name": "Réduire au silence",
+          "multiverseid": 460228
+        },
+        {
+          "language": "Italian",
+          "name": "Rendere Silente",
+          "multiverseid": 460255
+        },
+        {
+          "language": "Japanese",
+          "name": "静寂宣告",
+          "multiverseid": 460282
+        }
+      ],
+      "id": "f92eb575fed6d3918e090288296b1f5d62218af9",
+      "imageName": "render silent",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{W}{U}{U}",
+      "multiverseid": 460147,
+      "name": "Render Silent",
+      "number": "18",
+      "originalText": "Counter target spell. Its controller can't cast spells this turn.",
+      "originalType": "Instant",
+      "printings": [
+        "pMEI",
+        "DGM",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "You must be able to target a spell to cast Render Silent."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Render Silent doesn't stop any player from casting spells in response to Render Silent before it resolves."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The affected player can still activate abilities, including abilities of cards in their hand (such as bloodrush abilities), and the player can still play lands."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If the spell is an illegal target when Render Silent tries to resolve (because it's been countered by another spell, for example), Render Silent won't resolve and none of its effects will happen."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "A spell that \"can't be countered\" is a legal target for Render Silent. The spell won't be countered when Render Silent resolves, but that spell's controller won't be able to cast spells for the rest of the turn."
+        }
+      ],
+      "text": "Counter target spell. Its controller can't cast spells this turn.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 5,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Himmelshusar",
+          "multiverseid": 460175
+        },
+        {
+          "language": "Spanish",
+          "name": "Húsar celeste",
+          "multiverseid": 460202
+        },
+        {
+          "language": "French",
+          "name": "Hussard céleste",
+          "multiverseid": 460229
+        },
+        {
+          "language": "Italian",
+          "name": "Ussaro dei Cieli",
+          "multiverseid": 460256
+        },
+        {
+          "language": "Japanese",
+          "name": "空の軽騎兵",
+          "multiverseid": 460283
+        }
+      ],
+      "id": "8b30bc000b9fa0e3be0d320b29220ee816bfaa58",
+      "imageName": "sky hussar",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{W}{U}",
+      "multiverseid": 460148,
+      "name": "Sky Hussar",
+      "number": "19",
+      "originalText": "Flying\nWhen Sky Hussar enters the battlefield, untap all creatures you control.\nForecast — Tap two untapped white and/or blue creatures you control, Reveal Sky Hussar from your hand: Draw a card. <i>(Activate this ability only during your upkeep and only once each turn.)</i>",
+      "originalType": "Creature — Human Knight",
+      "power": "4",
+      "printings": [
+        "DIS",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Knight"
+      ],
+      "text": "Flying\nWhen Sky Hussar enters the battlefield, untap all creatures you control.\nForecast — Tap two untapped white and/or blue creatures you control, Reveal Sky Hussar from your hand: Draw a card. (Activate this ability only during your upkeep and only once each turn.)",
+      "toughness": "3",
+      "type": "Creature — Human Knight",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Christopher Moeller",
+      "cmc": 4,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "flavor": "\"Try not to look guilty. Or delicious.\"\n—Thorpe, street urchin",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Himmelszeichen-Roc",
+          "multiverseid": 460176
+        },
+        {
+          "language": "Spanish",
+          "name": "Roc marca celestial",
+          "multiverseid": 460203
+        },
+        {
+          "language": "French",
+          "name": "Roc marqueciel",
+          "multiverseid": 460230
+        },
+        {
+          "language": "Italian",
+          "name": "Roc Marchio Celeste",
+          "multiverseid": 460257
+        },
+        {
+          "language": "Japanese",
+          "name": "空印のロック",
+          "multiverseid": 460284
+        }
+      ],
+      "id": "316dd2f4cd0638bf55f4193122c3b879473c29c7",
+      "imageName": "skymark roc",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{W}{U}",
+      "multiverseid": 460149,
+      "name": "Skymark Roc",
+      "number": "20",
+      "originalText": "Flying\nWhenever Skymark Roc attacks, you may return target creature defending player controls with toughness 2 or less to its owner's hand.",
+      "originalType": "Creature — Bird",
+      "power": "3",
+      "printings": [
+        "RTR",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Bird"
+      ],
+      "text": "Flying\nWhenever Skymark Roc attacks, you may return target creature defending player controls with toughness 2 or less to its owner's hand.",
+      "toughness": "3",
+      "type": "Creature — Bird",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Slawomir Maniak",
+      "cmc": 3,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "flavor": "\"Let the knowledge of absolute law inspire you to live a life of absolute order.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Offenbarung der Sphinx",
+          "multiverseid": 460177
+        },
+        {
+          "language": "Spanish",
+          "name": "Revelación de la esfinge",
+          "multiverseid": 460204
+        },
+        {
+          "language": "French",
+          "name": "Révélation du sphinx",
+          "multiverseid": 460231
+        },
+        {
+          "language": "Italian",
+          "name": "Rivelazione della Sfinge",
+          "multiverseid": 460258
+        },
+        {
+          "language": "Japanese",
+          "name": "スフィンクスの啓示",
+          "multiverseid": 460285
+        }
+      ],
+      "id": "cf661b003120596ee62ec36dc1e27de1b3cd376f",
+      "imageName": "sphinx's revelation",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{X}{W}{U}{U}",
+      "multiverseid": 460150,
+      "name": "Sphinx's Revelation",
+      "number": "21",
+      "originalText": "You gain X life and draw X cards.",
+      "originalType": "Instant",
+      "printings": [
+        "RTR",
+        "MM3",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Mythic Rare",
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "If the value chosen for X is larger than the number of cards left in your library, you'll lose the game the next time state-based actions are performed."
+        }
+      ],
+      "text": "You gain X life and draw X cards.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Aleksi Briclot",
+      "cmc": 5,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Windbrecher",
+          "multiverseid": 460178
+        },
+        {
+          "language": "Spanish",
+          "name": "Desgarraviento",
+          "multiverseid": 460205
+        },
+        {
+          "language": "French",
+          "name": "Écumeur des vents",
+          "multiverseid": 460232
+        },
+        {
+          "language": "Italian",
+          "name": "Predavento",
+          "multiverseid": 460259
+        },
+        {
+          "language": "Japanese",
+          "name": "風を裂くもの",
+          "multiverseid": 460286
+        }
+      ],
+      "id": "269711e264cdc393013b2e97d015f46f7f68e2bf",
+      "imageName": "windreaver",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{W}{U}",
+      "multiverseid": 460151,
+      "name": "Windreaver",
+      "number": "22",
+      "originalText": "Flying\n{W}: Windreaver gains vigilance until end of turn.\n{W}: Windreaver gets +0/+1 until end of turn.\n{U}: Switch Windreaver's power and toughness until end of turn.\n{U}: Return Windreaver to its owner's hand.",
+      "originalType": "Creature — Elemental",
+      "power": "1",
+      "printings": [
+        "DIS",
+        "DDI",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "Effects that switch power and toughness apply after all other effects that change power and/or toughness, regardless of which effect was created first."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Switching a creature's power and toughness twice (or any even number of times) effectively returns the creature to the power and toughness it had before any switches."
+        }
+      ],
+      "subtypes": [
+        "Elemental"
+      ],
+      "text": "Flying\n{W}: Windreaver gains vigilance until end of turn.\n{W}: Windreaver gets +0/+1 until end of turn.\n{U}: Switch Windreaver's power and toughness until end of turn.\n{U}: Return Windreaver to its owner's hand.",
+      "toughness": "3",
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Daniel Ljunggren",
+      "cmc": 3,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "flavor": "\"The higher the mind soars, the greater its understanding of the law.\"\n—Isperia",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Azorius-Runenschlüssel",
+          "multiverseid": 460179
+        },
+        {
+          "language": "Spanish",
+          "name": "Llave rúnica azoria",
+          "multiverseid": 460206
+        },
+        {
+          "language": "French",
+          "name": "Runeclé d'Azorius",
+          "multiverseid": 460233
+        },
+        {
+          "language": "Italian",
+          "name": "Runachiave Azorius",
+          "multiverseid": 460260
+        },
+        {
+          "language": "Japanese",
+          "name": "アゾリウスの魔鍵",
+          "multiverseid": 460287
+        }
+      ],
+      "id": "5bb14f4ea73271160ecb6b6c831bd1cc3ae3f8ec",
+      "imageName": "azorius keyrune",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}",
+      "multiverseid": 460152,
+      "name": "Azorius Keyrune",
+      "number": "23",
+      "originalText": "{T}: Add {W} or {U}.\n{W}{U}: Azorius Keyrune becomes a 2/2 white and blue Bird artifact creature with flying until end of turn.",
+      "originalType": "Artifact",
+      "printings": [
+        "RTR",
+        "C13",
+        "CMA",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "Until the ability that turns the Keyrune into a creature resolves, the Keyrune is colorless."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Activating the ability that turns the Keyrune into a creature while it's already a creature will override any effects that set its power and/or toughness to another number, but effects that modify power and/or toughness without directly setting them will still apply."
+        }
+      ],
+      "text": "{T}: Add {W} or {U}.\n{W}{U}: Azorius Keyrune becomes a 2/2 white and blue Bird artifact creature with flying until end of turn.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Raoul Vitale",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "flavor": "The maze-like design embodies the core of Azorius law—strict structure designed to test wills and stall change.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Azorius-Petschaft",
+          "multiverseid": 460180
+        },
+        {
+          "language": "Spanish",
+          "name": "Sello azorio",
+          "multiverseid": 460207
+        },
+        {
+          "language": "French",
+          "name": "Cachet d'Azorius",
+          "multiverseid": 460234
+        },
+        {
+          "language": "Italian",
+          "name": "Sigillo Azorius",
+          "multiverseid": 460261
+        },
+        {
+          "language": "Japanese",
+          "name": "アゾリウスの印鑑",
+          "multiverseid": 460288
+        }
+      ],
+      "id": "696899a98c4902d563ad8c35104827f2da50bfcb",
+      "imageName": "azorius signet",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}",
+      "multiverseid": 460153,
+      "name": "Azorius Signet",
+      "number": "24",
+      "originalText": "{1}, {T}: Add {W}{U}.",
+      "originalType": "Artifact",
+      "printings": [
+        "DIS",
+        "ARC",
+        "MM3",
+        "C18",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Uncommon",
+      "text": "{1}, {T}: Add {W}{U}.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "John Avon",
+      "cmc": 0,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Azorius-Kanzlei",
+          "multiverseid": 460181
+        },
+        {
+          "language": "Spanish",
+          "name": "Tribunal azorio",
+          "multiverseid": 460208
+        },
+        {
+          "language": "French",
+          "name": "Cour de la chancellerie d'Azorius",
+          "multiverseid": 460235
+        },
+        {
+          "language": "Italian",
+          "name": "Cancelleria Azorius",
+          "multiverseid": 460262
+        },
+        {
+          "language": "Japanese",
+          "name": "アゾリウスの大法官庁",
+          "multiverseid": 460289
+        }
+      ],
+      "id": "cd1dbead6a1dc07a1ad0090bff6520e60481f0c3",
+      "imageName": "azorius chancery",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 460154,
+      "name": "Azorius Chancery",
+      "number": "25",
+      "originalText": "Azorius Chancery enters the battlefield tapped.\nWhen Azorius Chancery enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {W}{U}.",
+      "originalType": "Land",
+      "printings": [
+        "DIS",
+        "CMD",
+        "DDI",
+        "C13",
+        "MM2",
+        "C16",
+        "CMA",
+        "IMA",
+        "CM2",
+        "C18",
+        "GK2_AZORIUS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand."
+        }
+      ],
+      "text": "Azorius Chancery enters the battlefield tapped.\nWhen Azorius Chancery enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {W}{U}.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Azorius"
+    },
+    {
+      "artist": "Alayna Danner",
+      "cmc": 0,
+      "colorIdentity": [
+        "W"
+      ],
+      "id": "5a83d4737ffccdf7b978a52efd947b9e85ddf0c1",
+      "imageName": "plains",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 460155,
+      "name": "Plains",
+      "number": "26",
+      "originalText": "W",
+      "originalType": "Basic Land — Plains",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "ME1",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_SELESN",
+        "GNT",
+        "RNA",
+        "GK2_AZORIUS",
+        "GK2_ORZHOV"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Plains"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Plains",
+      "types": [
+        "Land"
+      ],
+      "watermark": "White"
+    },
+    {
+      "artist": "Alayna Danner",
+      "cmc": 0,
+      "colorIdentity": [
+        "U"
+      ],
+      "id": "e3ca82cb4ec4a12998d0bbdb7d8eed029984adaf",
+      "imageName": "island",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 460156,
+      "name": "Island",
+      "number": "27",
+      "originalText": "U",
+      "originalType": "Basic Land — Island",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "ME1",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_IZZET",
+        "GNT",
+        "RNA",
+        "GK2_AZORIUS",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Island"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Island",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Blue"
+    }
+  ]
+}

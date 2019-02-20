@@ -720,7 +720,7 @@
       "power": "1",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -773,7 +773,7 @@
       "power": "1",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -826,7 +826,7 @@
       "power": "1",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -879,7 +879,7 @@
       "power": "1",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -932,7 +932,7 @@
       "printings": [
         "FEM",
         "5ED",
-        "MED",
+        "ME1",
         "DDC",
         "DD3_DVD"
       ],
@@ -986,7 +986,7 @@
         "FEM",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -1083,7 +1083,7 @@
       "printings": [
         "FEM",
         "ATH",
-        "MED",
+        "ME1",
         "V13",
         "VMA",
         "EMA"
@@ -1135,7 +1135,7 @@
       "printings": [
         "FEM",
         "ATH",
-        "MED",
+        "ME1",
         "V13",
         "VMA",
         "EMA"
@@ -1187,7 +1187,7 @@
       "printings": [
         "FEM",
         "ATH",
-        "MED",
+        "ME1",
         "V13",
         "VMA",
         "EMA"
@@ -1239,7 +1239,7 @@
       "printings": [
         "FEM",
         "ATH",
-        "MED",
+        "ME1",
         "V13",
         "VMA",
         "EMA"
@@ -1465,7 +1465,7 @@
       "printings": [
         "FEM",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -1527,7 +1527,7 @@
       "printings": [
         "FEM",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -1589,7 +1589,7 @@
       "printings": [
         "FEM",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -1828,7 +1828,7 @@
       "power": "2",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -1881,7 +1881,7 @@
       "power": "2",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -1934,7 +1934,7 @@
       "power": "2",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -2039,7 +2039,7 @@
       "power": "2",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -2102,7 +2102,7 @@
       "printings": [
         "FEM",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -2348,7 +2348,7 @@
       "printings": [
         "FEM",
         "pMEI",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Common",
@@ -2407,7 +2407,7 @@
       "printings": [
         "FEM",
         "pMEI",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Common",
@@ -2466,7 +2466,7 @@
       "printings": [
         "FEM",
         "pMEI",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Common",
@@ -2776,7 +2776,7 @@
       "originalType": "Enchantment",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "text": "{1}{U}{U}, Sacrifice a blue creature: Create X 1/1 blue Camarid creature tokens, where X is the sacrificed creature's converted mana cost.",
@@ -3242,7 +3242,7 @@
       "power": "2",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -3291,7 +3291,7 @@
       "printings": [
         "FEM",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -3635,7 +3635,7 @@
       "power": "2",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -5697,7 +5697,7 @@
       "power": "2",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -5750,7 +5750,7 @@
       "power": "2",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -5803,7 +5803,7 @@
       "power": "2",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -5856,7 +5856,7 @@
       "power": "2",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -6172,7 +6172,7 @@
       "printings": [
         "FEM",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -6279,7 +6279,7 @@
       "printings": [
         "FEM",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -6333,7 +6333,7 @@
       "printings": [
         "FEM",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -6387,7 +6387,7 @@
       "printings": [
         "FEM",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -6440,7 +6440,7 @@
       "power": "0",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -6503,7 +6503,7 @@
       "power": "0",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -6566,7 +6566,7 @@
       "power": "0",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -6681,7 +6681,7 @@
       "printings": [
         "FEM",
         "ATH",
-        "MED",
+        "ME1",
         "M12",
         "DDT"
       ],
@@ -6749,7 +6749,7 @@
       "printings": [
         "FEM",
         "ATH",
-        "MED",
+        "ME1",
         "M12",
         "DDT"
       ],
@@ -6817,7 +6817,7 @@
       "printings": [
         "FEM",
         "ATH",
-        "MED",
+        "ME1",
         "M12",
         "DDT"
       ],
@@ -8042,8 +8042,8 @@
         "White"
       ],
       "flavor": "Farrel, a former priest, believed Icatia was far too complacent toward the Order of the Ebon Hand.",
-      "id": "3a77e6d76456ccf0ad578ef179edaf9ea54b50b1",
-      "imageName": "farrel's zealot3",
+      "id": "f14f39475f2aab11b7b1d2068d7fb60f46247d1a",
+      "imageName": "farrel's zealot1",
       "layout": "normal",
       "legalities": [
         {
@@ -8182,8 +8182,8 @@
         "White"
       ],
       "flavor": "After the fall of Trokair, Farrel and his followers formally broke their ties with the rest of Icatia.",
-      "id": "f14f39475f2aab11b7b1d2068d7fb60f46247d1a",
-      "imageName": "farrel's zealot1",
+      "id": "3a77e6d76456ccf0ad578ef179edaf9ea54b50b1",
+      "imageName": "farrel's zealot3",
       "layout": "normal",
       "legalities": [
         {
@@ -8325,7 +8325,7 @@
       "power": "2",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -8908,7 +8908,7 @@
       "power": "1",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -9523,7 +9523,7 @@
         "FEM",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "text": "Create four 1/1 white Citizen creature tokens.",
@@ -9567,7 +9567,7 @@
       "power": "2",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -9621,7 +9621,7 @@
       "power": "2",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -9675,7 +9675,7 @@
       "power": "2",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -10087,7 +10087,7 @@
       "originalType": "Land",
       "printings": [
         "FEM",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,

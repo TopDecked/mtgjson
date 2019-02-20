@@ -10132,7 +10132,8 @@
         "KTK",
         "ORI",
         "A25",
-        "M19"
+        "M19",
+        "RNA"
       ],
       "rarity": "Common",
       "rulings": [
@@ -16156,7 +16157,8 @@
       "originalText": "Creatures you control get +0/+5 and gain reach until end of turn.",
       "originalType": "Instant",
       "printings": [
-        "GTC"
+        "GTC",
+        "RNA"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -28436,7 +28438,8 @@
       "printings": [
         "DIS",
         "GTC",
-        "EXP"
+        "EXP",
+        "RNA"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -28678,7 +28681,8 @@
       "printings": [
         "GPT",
         "GTC",
-        "EXP"
+        "EXP",
+        "RNA"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -28800,7 +28804,8 @@
         "GTC",
         "DGM",
         "C13",
-        "MM3"
+        "MM3",
+        "RNA"
       ],
       "rarity": "Common",
       "rulings": [
@@ -28919,7 +28924,8 @@
         "C13",
         "C15",
         "MM3",
-        "C17"
+        "C17",
+        "RNA"
       ],
       "rarity": "Common",
       "rulings": [
@@ -29164,7 +29170,8 @@
         "C13",
         "C15",
         "MM3",
-        "CMA"
+        "CMA",
+        "RNA"
       ],
       "rarity": "Common",
       "rulings": [
@@ -29284,7 +29291,8 @@
       "printings": [
         "GPT",
         "GTC",
-        "EXP"
+        "EXP",
+        "RNA"
       ],
       "rarity": "Rare",
       "rulings": [

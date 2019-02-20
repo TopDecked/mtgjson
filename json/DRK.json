@@ -748,7 +748,7 @@
       "originalType": "Artifact",
       "printings": [
         "DRK",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -1240,7 +1240,7 @@
       "power": "3",
       "printings": [
         "DRK",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -1721,7 +1721,7 @@
       "printings": [
         "DRK",
         "CHR",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -1953,7 +1953,7 @@
       "originalType": "Sorcery",
       "printings": [
         "DRK",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -2003,7 +2003,7 @@
       "printings": [
         "DRK",
         "4ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -2785,7 +2785,7 @@
       "printings": [
         "DRK",
         "4ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "text": "At the beginning of your upkeep, sacrifice Sunken City unless you pay {U}{U}.\nBlue creatures get +1/+1.",
@@ -2926,7 +2926,7 @@
         "DRK",
         "4ED",
         "ATH",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -3840,7 +3840,7 @@
         "5ED",
         "pJGP",
         "BTD",
-        "MED",
+        "ME1",
         "M10",
         "PD2",
         "A25"
@@ -3970,7 +3970,7 @@
         "DRK",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -4158,7 +4158,7 @@
       "printings": [
         "DRK",
         "4ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "text": "Destroy target creature or land. It can't be regenerated.",
@@ -4459,7 +4459,7 @@
       "power": "1",
       "printings": [
         "DRK",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -4515,7 +4515,7 @@
       "printings": [
         "DRK",
         "CHR",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -4778,7 +4778,7 @@
         "DRK",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -4972,7 +4972,7 @@
       "printings": [
         "DRK",
         "5ED",
-        "MED",
+        "ME1",
         "ME4"
       ],
       "rarity": "Common",
@@ -5206,7 +5206,7 @@
       "originalType": "Instant",
       "printings": [
         "DRK",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "text": "Nonwhite creatures get -1/-1 until end of turn.",
@@ -5250,7 +5250,7 @@
       "power": "2",
       "printings": [
         "DRK",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -5526,7 +5526,7 @@
       "power": "1",
       "printings": [
         "DRK",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -5643,7 +5643,7 @@
       "originalType": "Sorcery",
       "printings": [
         "DRK",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "text": "Destroy all Goblins.",

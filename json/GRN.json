@@ -24904,7 +24904,8 @@
       "originalText": "Gateway Plaza enters the battlefield tapped.\nWhen Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.\n{T}: Add one mana of any color.",
       "originalType": "Land — Gate",
       "printings": [
-        "GRN"
+        "GRN",
+        "RNA"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -26187,7 +26188,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -26254,7 +26255,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26404,7 +26406,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -26472,7 +26474,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26624,7 +26627,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -26692,7 +26695,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26845,7 +26849,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -26916,7 +26920,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27068,7 +27073,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -27137,7 +27142,8 @@
         "M19",
         "C18",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [

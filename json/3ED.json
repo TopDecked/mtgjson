@@ -156,7 +156,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Rare",
@@ -499,7 +499,7 @@
         "ITP",
         "5ED",
         "BTD",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -814,7 +814,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED",
+        "ME1",
         "ME4"
       ],
       "rarity": "Rare",
@@ -1219,7 +1219,7 @@
         "ATQ",
         "3ED",
         "4ED",
-        "MED",
+        "ME1",
         "V10",
         "VMA"
       ],
@@ -1935,7 +1935,7 @@
         "4ED",
         "5ED",
         "ATH",
-        "MED",
+        "ME1",
         "V10",
         "C13",
         "VMA",
@@ -2037,7 +2037,7 @@
         "ATQ",
         "3ED",
         "4ED",
-        "MED",
+        "ME1",
         "ME4"
       ],
       "rarity": "Rare",
@@ -2624,7 +2624,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "EMA"
       ],
       "rarity": "Rare",
@@ -2733,7 +2733,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "PD3",
         "VMA",
         "EMA"
@@ -2878,7 +2878,7 @@
         "5ED",
         "ATH",
         "pFNM",
-        "MED",
+        "ME1",
         "M10",
         "M11",
         "ME4"
@@ -3681,7 +3681,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "A25"
       ],
       "rarity": "Common",
@@ -4244,7 +4244,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -4488,7 +4488,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Common",
@@ -7192,7 +7192,7 @@
         "4ED",
         "ITP",
         "5ED",
-        "MED",
+        "ME1",
         "EMA",
         "IMA"
       ],
@@ -7519,7 +7519,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -7671,7 +7671,7 @@
       "printings": [
         "ARN",
         "3ED",
-        "MED",
+        "ME1",
         "V09",
         "VMA",
         "EMA"
@@ -8265,7 +8265,7 @@
         "CED",
         "CEI",
         "3ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -10470,7 +10470,7 @@
         "ITP",
         "5ED",
         "BRB",
-        "MED",
+        "ME1",
         "ME3"
       ],
       "rarity": "Common",
@@ -10640,7 +10640,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -11169,7 +11169,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -12538,7 +12538,7 @@
         "CED",
         "CEI",
         "3ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -12761,7 +12761,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12885,7 +12885,7 @@
         "ATH",
         "BTD",
         "pMPR",
-        "MED",
+        "ME1",
         "M10",
         "M11",
         "PD2",
@@ -12983,7 +12983,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -13959,7 +13959,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "M10",
         "DDI"
       ],
@@ -14403,7 +14403,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -14467,7 +14467,7 @@
         "ATH",
         "6ED",
         "S99",
-        "MED",
+        "ME1",
         "ME4",
         "VMA",
         "V14",
@@ -14589,7 +14589,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15307,7 +15307,7 @@
         "5ED",
         "6ED",
         "pSUS",
-        "MED",
+        "ME1",
         "DDF"
       ],
       "rarity": "Rare",
@@ -15362,7 +15362,7 @@
         "4ED",
         "ICE",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "text": "Regenerate target creature.",
@@ -16072,7 +16072,7 @@
         "RQS",
         "ITP",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -17212,8 +17212,8 @@
       "colorIdentity": [
         "B"
       ],
-      "id": "5a8cf5ae45d3e9fee9752c7c89535d2f7d5bfbc3",
-      "imageName": "swamp1",
+      "id": "7f87f2737766cd8f504841c91f3b5a8cca2d6c27",
+      "imageName": "swamp2",
       "layout": "normal",
       "legalities": [
         {
@@ -17390,7 +17390,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -17456,7 +17456,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17480,8 +17481,8 @@
       "colorIdentity": [
         "B"
       ],
-      "id": "ded2ce9ffbaeb300b9714313f06e1c8e4327bfc8",
-      "imageName": "swamp3",
+      "id": "5a8cf5ae45d3e9fee9752c7c89535d2f7d5bfbc3",
+      "imageName": "swamp1",
       "layout": "normal",
       "legalities": [
         {
@@ -17658,7 +17659,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -17724,7 +17725,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17748,8 +17750,8 @@
       "colorIdentity": [
         "B"
       ],
-      "id": "7f87f2737766cd8f504841c91f3b5a8cca2d6c27",
-      "imageName": "swamp2",
+      "id": "ded2ce9ffbaeb300b9714313f06e1c8e4327bfc8",
+      "imageName": "swamp3",
       "layout": "normal",
       "legalities": [
         {
@@ -17926,7 +17928,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -17992,7 +17994,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -18633,8 +18636,8 @@
       "colorIdentity": [
         "G"
       ],
-      "id": "fa3b7bde34bd6b3589696e27b2d5643b8cdf6e32",
-      "imageName": "forest3",
+      "id": "fa2543a620ffeddc9bf2d7f40818ea8811094122",
+      "imageName": "forest1",
       "layout": "normal",
       "legalities": [
         {
@@ -18811,7 +18814,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -18877,7 +18880,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19079,7 +19083,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -19145,7 +19149,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19169,8 +19174,8 @@
       "colorIdentity": [
         "G"
       ],
-      "id": "fa2543a620ffeddc9bf2d7f40818ea8811094122",
-      "imageName": "forest1",
+      "id": "fa3b7bde34bd6b3589696e27b2d5643b8cdf6e32",
+      "imageName": "forest3",
       "layout": "normal",
       "legalities": [
         {
@@ -19347,7 +19352,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -19413,7 +19418,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19437,8 +19443,8 @@
       "colorIdentity": [
         "R"
       ],
-      "id": "96c7a29247674c6d5a45e091ef2b51e89b68d0f6",
-      "imageName": "mountain2",
+      "id": "8e3cffb31b68548748c4941e018dc36f006df18b",
+      "imageName": "mountain1",
       "layout": "normal",
       "legalities": [
         {
@@ -19616,7 +19622,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -19684,7 +19690,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19708,8 +19715,8 @@
       "colorIdentity": [
         "R"
       ],
-      "id": "2644bca0a04529efc785e563a78d35265fc5de9b",
-      "imageName": "mountain3",
+      "id": "96c7a29247674c6d5a45e091ef2b51e89b68d0f6",
+      "imageName": "mountain2",
       "layout": "normal",
       "legalities": [
         {
@@ -19887,7 +19894,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -19955,7 +19962,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19979,8 +19987,8 @@
       "colorIdentity": [
         "R"
       ],
-      "id": "8e3cffb31b68548748c4941e018dc36f006df18b",
-      "imageName": "mountain1",
+      "id": "2644bca0a04529efc785e563a78d35265fc5de9b",
+      "imageName": "mountain3",
       "layout": "normal",
       "legalities": [
         {
@@ -20158,7 +20166,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -20226,7 +20234,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20250,8 +20259,8 @@
       "colorIdentity": [
         "U"
       ],
-      "id": "7a9162e5e7bc5f2a7fb14c27b8a841ee9fbddff0",
-      "imageName": "island3",
+      "id": "9a8735612f894861cbd93871b0deebd62499300d",
+      "imageName": "island2",
       "layout": "normal",
       "legalities": [
         {
@@ -20426,7 +20435,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -20491,7 +20500,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20515,8 +20525,8 @@
       "colorIdentity": [
         "U"
       ],
-      "id": "9a8735612f894861cbd93871b0deebd62499300d",
-      "imageName": "island2",
+      "id": "ea7b0c68004d6f6aedab407a04526f2beed20bf2",
+      "imageName": "island1",
       "layout": "normal",
       "legalities": [
         {
@@ -20691,7 +20701,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -20756,7 +20766,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20780,8 +20791,8 @@
       "colorIdentity": [
         "U"
       ],
-      "id": "ea7b0c68004d6f6aedab407a04526f2beed20bf2",
-      "imageName": "island1",
+      "id": "7a9162e5e7bc5f2a7fb14c27b8a841ee9fbddff0",
+      "imageName": "island3",
       "layout": "normal",
       "legalities": [
         {
@@ -20956,7 +20967,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -21021,7 +21032,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -21045,8 +21057,8 @@
       "colorIdentity": [
         "W"
       ],
-      "id": "fb99e673ff8e568338d782b0588e718cfd07e33a",
-      "imageName": "plains3",
+      "id": "2463d6ec68e5abf1b0312bae6a44ecc2b1d582b7",
+      "imageName": "plains1",
       "layout": "normal",
       "legalities": [
         {
@@ -21222,7 +21234,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -21286,7 +21298,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -21487,7 +21500,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -21551,7 +21564,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -21575,8 +21589,8 @@
       "colorIdentity": [
         "W"
       ],
-      "id": "2463d6ec68e5abf1b0312bae6a44ecc2b1d582b7",
-      "imageName": "plains1",
+      "id": "fb99e673ff8e568338d782b0588e718cfd07e33a",
+      "imageName": "plains3",
       "layout": "normal",
       "legalities": [
         {
@@ -21752,7 +21766,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -21816,7 +21830,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [

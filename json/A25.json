@@ -412,7 +412,7 @@
         "ATH",
         "6ED",
         "S99",
-        "MED",
+        "ME1",
         "ME4",
         "VMA",
         "V14",
@@ -3247,7 +3247,7 @@
       "originalType": "Instant",
       "printings": [
         "ALL",
-        "MED",
+        "ME1",
         "C13",
         "C16",
         "CMA",
@@ -7053,7 +7053,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "A25"
       ],
       "rarity": "Common",
@@ -9227,7 +9227,8 @@
         "KTK",
         "ORI",
         "A25",
-        "M19"
+        "M19",
+        "RNA"
       ],
       "rarity": "Common",
       "rulings": [
@@ -9400,7 +9401,7 @@
         "pWOR",
         "BTD",
         "DKM",
-        "MED",
+        "ME1",
         "A25"
       ],
       "rarity": "Common",
@@ -9478,7 +9479,7 @@
         "5ED",
         "pJGP",
         "BTD",
-        "MED",
+        "ME1",
         "M10",
         "PD2",
         "A25"
@@ -11047,7 +11048,7 @@
         "ATH",
         "BTD",
         "pMPR",
-        "MED",
+        "ME1",
         "M10",
         "M11",
         "PD2",
@@ -18808,7 +18809,7 @@
         "ATQ",
         "4ED",
         "pJGP",
-        "MED",
+        "ME1",
         "DDF",
         "EMA",
         "A25"

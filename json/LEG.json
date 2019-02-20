@@ -734,7 +734,7 @@
       "originalType": "Artifact",
       "printings": [
         "LEG",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -1109,7 +1109,7 @@
         "LEG",
         "CHR",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "text": "{4}, {T}: Create a 1/1 colorless Snake artifact creature token. It has \"Whenever this creature deals damage to a player, that player gets a poison counter.\" (A player with ten or more poison counters loses the game.)",
@@ -1454,7 +1454,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -1549,7 +1549,7 @@
       "originalType": "Enchantment",
       "printings": [
         "LEG",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -4611,7 +4611,7 @@
         "CHR",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -4879,7 +4879,7 @@
       "originalType": "Sorcery",
       "printings": [
         "LEG",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -5422,7 +5422,7 @@
       "originalType": "Instant",
       "printings": [
         "LEG",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -5516,7 +5516,7 @@
         "LEG",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -6482,7 +6482,7 @@
       "originalType": "Sorcery",
       "printings": [
         "LEG",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Rare",
@@ -7161,7 +7161,7 @@
         "LEG",
         "CHR",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -7526,7 +7526,7 @@
       "printings": [
         "LEG",
         "CHR",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "text": "Storm Seeker deals damage to target player equal to the number of cards in that player's hand.",
@@ -7611,7 +7611,7 @@
         "LEG",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "CM1",
         "VMA",
         "EMA"
@@ -7976,7 +7976,7 @@
         "RQS",
         "ITP",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -8692,7 +8692,7 @@
       "power": "0",
       "printings": [
         "LEG",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -9627,7 +9627,7 @@
       "printings": [
         "LEG",
         "CHR",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -9903,7 +9903,7 @@
       "power": "1",
       "printings": [
         "LEG",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -10294,7 +10294,7 @@
         "4ED",
         "5ED",
         "POR",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -10822,7 +10822,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -10870,7 +10870,7 @@
       "printings": [
         "LEG",
         "4ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -11220,7 +11220,7 @@
       "printings": [
         "LEG",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "text": "{1}{W}: The next time a black or red source of your choice would deal damage to you this turn, prevent that damage.",
@@ -11748,7 +11748,7 @@
       "originalType": "Enchantment",
       "printings": [
         "LEG",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -11849,7 +11849,7 @@
       "printings": [
         "LEG",
         "CHR",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -12048,7 +12048,7 @@
       "power": "3",
       "printings": [
         "LEG",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -12293,7 +12293,7 @@
       "power": "2",
       "printings": [
         "LEG",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -12561,7 +12561,7 @@
       "power": "1",
       "printings": [
         "LEG",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -13109,7 +13109,7 @@
       "printings": [
         "LEG",
         "CHR",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -13524,7 +13524,7 @@
       "power": "3",
       "printings": [
         "LEG",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,

@@ -61,7 +61,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Rare",
@@ -371,7 +371,7 @@
         "ITP",
         "5ED",
         "BTD",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -479,7 +479,7 @@
         "2ED",
         "CED",
         "CEI",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "text": "At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player.",
@@ -728,7 +728,7 @@
         "2ED",
         "CED",
         "CEI",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -2002,7 +2002,7 @@
         "4ED",
         "5ED",
         "ATH",
-        "MED",
+        "ME1",
         "V10",
         "C13",
         "VMA",
@@ -2460,7 +2460,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "EMA"
       ],
       "rarity": "Rare",
@@ -2569,7 +2569,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "PD3",
         "VMA",
         "EMA"
@@ -2714,7 +2714,7 @@
         "5ED",
         "ATH",
         "pFNM",
-        "MED",
+        "ME1",
         "M10",
         "M11",
         "ME4"
@@ -4058,7 +4058,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -4302,7 +4302,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "VMA"
       ],
       "rarity": "Common",
@@ -7033,7 +7033,7 @@
         "4ED",
         "ITP",
         "5ED",
-        "MED",
+        "ME1",
         "EMA",
         "IMA"
       ],
@@ -7415,7 +7415,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -8175,7 +8175,7 @@
         "CED",
         "CEI",
         "3ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -8554,7 +8554,7 @@
         "2ED",
         "CED",
         "CEI",
-        "MED",
+        "ME1",
         "V09",
         "VMA",
         "CN2"
@@ -9609,7 +9609,7 @@
         "2ED",
         "CED",
         "CEI",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "text": "Destroy target land.",
@@ -10472,7 +10472,7 @@
         "ITP",
         "5ED",
         "BRB",
-        "MED",
+        "ME1",
         "ME3"
       ],
       "rarity": "Common",
@@ -10642,7 +10642,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -11120,7 +11120,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -12488,7 +12488,7 @@
         "CED",
         "CEI",
         "3ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -12767,7 +12767,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12834,7 +12834,7 @@
         "ATH",
         "BTD",
         "pMPR",
-        "MED",
+        "ME1",
         "M10",
         "M11",
         "PD2",
@@ -12889,7 +12889,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -13808,7 +13808,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED",
+        "ME1",
         "M10",
         "DDI"
       ],
@@ -14305,7 +14305,7 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -14369,7 +14369,7 @@
         "ATH",
         "6ED",
         "S99",
-        "MED",
+        "ME1",
         "ME4",
         "VMA",
         "V14",
@@ -14491,7 +14491,7 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15260,7 +15260,7 @@
         "5ED",
         "6ED",
         "pSUS",
-        "MED",
+        "ME1",
         "DDF"
       ],
       "rarity": "Rare",
@@ -15315,7 +15315,7 @@
         "4ED",
         "ICE",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "text": "Regenerate target creature.",
@@ -15970,7 +15970,7 @@
         "RQS",
         "ITP",
         "5ED",
-        "MED"
+        "ME1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -17246,7 +17246,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -17312,7 +17312,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17513,7 +17514,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -17579,7 +17580,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -18159,8 +18161,8 @@
       "colorIdentity": [
         "G"
       ],
-      "id": "5ede9781b0c5d157c28a15c3153a455d7d6180fa",
-      "imageName": "forest2",
+      "id": "970af6b2a9a1db5d3956172791717b2afab3e03f",
+      "imageName": "forest1",
       "layout": "normal",
       "legalities": [
         {
@@ -18337,7 +18339,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -18403,7 +18405,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -18426,8 +18429,8 @@
       "colorIdentity": [
         "G"
       ],
-      "id": "970af6b2a9a1db5d3956172791717b2afab3e03f",
-      "imageName": "forest1",
+      "id": "5ede9781b0c5d157c28a15c3153a455d7d6180fa",
+      "imageName": "forest2",
       "layout": "normal",
       "legalities": [
         {
@@ -18604,7 +18607,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -18670,7 +18673,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -18872,7 +18876,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -18940,7 +18944,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19142,7 +19147,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "EVG",
         "SHM",
@@ -19210,7 +19215,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19233,8 +19239,8 @@
       "colorIdentity": [
         "U"
       ],
-      "id": "1421a1f6e4261343c365936bb174b87be74ff50f",
-      "imageName": "island2",
+      "id": "6d9ad21affa03660f248b01853c485a713616ddd",
+      "imageName": "island1",
       "layout": "normal",
       "legalities": [
         {
@@ -19409,7 +19415,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -19474,7 +19480,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19497,8 +19504,8 @@
       "colorIdentity": [
         "U"
       ],
-      "id": "6d9ad21affa03660f248b01853c485a713616ddd",
-      "imageName": "island1",
+      "id": "1421a1f6e4261343c365936bb174b87be74ff50f",
+      "imageName": "island2",
       "layout": "normal",
       "legalities": [
         {
@@ -19673,7 +19680,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -19738,7 +19745,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19938,7 +19946,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -20002,7 +20010,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20202,7 +20211,7 @@
         "CST",
         "TSP",
         "10E",
-        "MED",
+        "ME1",
         "LRW",
         "SHM",
         "ALA",
@@ -20266,7 +20275,8 @@
         "BBD",
         "M19",
         "GRN",
-        "GNT"
+        "GNT",
+        "RNA"
       ],
       "rarity": "Basic Land",
       "subtypes": [

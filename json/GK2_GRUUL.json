@@ -1,0 +1,2579 @@
+{
+  "name": "Guild Kit: Gruul",
+  "code": "GK2_GRUUL",
+  "releaseDate": "2019-02-10",
+  "border": "black",
+  "type": "box",
+  "cards": [
+    {
+      "artist": "Jason A. Engle",
+      "cmc": 6,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Ruric Thar, der Ungebeugte",
+          "multiverseid": 460319
+        },
+        {
+          "language": "Spanish",
+          "name": "Ruric Thar, el incólume",
+          "multiverseid": 460346
+        },
+        {
+          "language": "French",
+          "name": "Ruric Thar, l'insoumis",
+          "multiverseid": 460373
+        },
+        {
+          "language": "Italian",
+          "name": "Ruric Thar, L'Indomito",
+          "multiverseid": 460400
+        },
+        {
+          "language": "Japanese",
+          "name": "自由なる者ルーリク・サー",
+          "multiverseid": 460427
+        }
+      ],
+      "id": "3ec24d9ba75db5d8166dcf2275b61f8553a2ddc6",
+      "imageName": "ruric thar, the unbowed",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{R}{G}",
+      "multiverseid": 460292,
+      "name": "Ruric Thar, the Unbowed",
+      "number": "80",
+      "originalText": "Vigilance, reach\nRuric Thar, the Unbowed attacks each combat if able.\nWhenever a player casts a noncreature spell, Ruric Thar deals 6 damage to that player.",
+      "originalType": "Legendary Creature — Ogre Warrior",
+      "power": "6",
+      "printings": [
+        "DGM",
+        "A25",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "Ruric Thar's triggered ability triggers whenever any player casts a noncreature spell, including you."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "Ruric Thar's triggered ability resolves before the spell that caused it to trigger. The ability will resolve even if that spell is countered."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "If Ruric Thar can't attack for any reason (such as being tapped or having come under that player's control that turn), then it doesn't attack. If there's a cost associated with having a creature attack, the player isn't forced to pay that cost, so Ruric Thar doesn't have to attack in that case either."
+        }
+      ],
+      "subtypes": [
+        "Ogre",
+        "Warrior"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Vigilance, reach\nRuric Thar, the Unbowed attacks each combat if able.\nWhenever a player casts a noncreature spell, Ruric Thar deals 6 damage to that player.",
+      "toughness": "6",
+      "type": "Legendary Creature — Ogre Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 6,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Skarrgischer Feuervogel",
+          "multiverseid": 460320
+        },
+        {
+          "language": "Spanish",
+          "name": "Ave de fuego skarrgana",
+          "multiverseid": 460347
+        },
+        {
+          "language": "French",
+          "name": "Oiseau de feu skarrgan",
+          "multiverseid": 460374
+        },
+        {
+          "language": "Italian",
+          "name": "Pirofenice Skarrgan",
+          "multiverseid": 460401
+        },
+        {
+          "language": "Japanese",
+          "name": "スカルガンの火の鳥",
+          "multiverseid": 460428
+        }
+      ],
+      "id": "8d21c618cfd732ee34b061b9730b207237230738",
+      "imageName": "skarrgan firebird",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{R}{R}",
+      "multiverseid": 460293,
+      "name": "Skarrgan Firebird",
+      "number": "81",
+      "originalText": "Bloodthirst 3 <i>(If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)</i>\nFlying\n{R}{R}{R}: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn.",
+      "originalType": "Creature — Phoenix",
+      "power": "3",
+      "printings": [
+        "GPT",
+        "DDL",
+        "MM2",
+        "E01",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2006-02-01",
+          "text": "You can activate Skarrgan Firebird's last ability if an opponent was dealt damage by any source, even if you didn't control that source."
+        }
+      ],
+      "subtypes": [
+        "Phoenix"
+      ],
+      "text": "Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)\nFlying\n{R}{R}{R}: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn.",
+      "toughness": "3",
+      "type": "Creature — Phoenix",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Marcelo Vignali",
+      "cmc": 1,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "Long ago, birds of paradise littered the skies. Thanks to the city's sprawl, most now exist as pets of society's elite.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Paradiesvögel",
+          "multiverseid": 460321
+        },
+        {
+          "language": "Spanish",
+          "name": "Aves del paraíso",
+          "multiverseid": 460348
+        },
+        {
+          "language": "French",
+          "name": "Oiseaux de paradis",
+          "multiverseid": 460375
+        },
+        {
+          "language": "Italian",
+          "name": "Uccelli del Paradiso",
+          "multiverseid": 460402
+        },
+        {
+          "language": "Japanese",
+          "name": "極楽鳥",
+          "multiverseid": 460429
+        }
+      ],
+      "id": "4f2327fd1bf50073a0d1d0948c7e83d7363ed4c5",
+      "imageName": "birds of paradise",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}",
+      "multiverseid": 460294,
+      "name": "Birds of Paradise",
+      "number": "82",
+      "originalText": "Flying\n{T}: Add one mana of any color.",
+      "originalType": "Creature — Bird",
+      "power": "0",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "pMEI",
+        "4ED",
+        "5ED",
+        "6ED",
+        "7ED",
+        "8ED",
+        "RAV",
+        "10E",
+        "M10",
+        "M11",
+        "M12",
+        "CN2",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Bird"
+      ],
+      "text": "Flying\n{T}: Add one mana of any color.",
+      "toughness": "1",
+      "type": "Creature — Bird",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Matt Cavotta",
+      "cmc": 7,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"Meat <i>and</i> eggs. We eat!\"\n—Borborygmos",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Veränderlicher Hüne",
+          "multiverseid": 460322
+        },
+        {
+          "language": "Spanish",
+          "name": "Titán proteica",
+          "multiverseid": 460349
+        },
+        {
+          "language": "French",
+          "name": "Carcasse protéenne",
+          "multiverseid": 460376
+        },
+        {
+          "language": "Italian",
+          "name": "Mole Proteiforme",
+          "multiverseid": 460403
+        },
+        {
+          "language": "Japanese",
+          "name": "変幻の大男",
+          "multiverseid": 460430
+        }
+      ],
+      "id": "d21c3279980abb8e65ab2aa338fa91c99b24ac37",
+      "imageName": "protean hulk",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{5}{G}{G}",
+      "multiverseid": 460295,
+      "name": "Protean Hulk",
+      "number": "83",
+      "originalText": "When Protean Hulk dies, search your library for any number of creature cards with total converted mana cost 6 or less and put them onto the battlefield. Then shuffle your library.",
+      "originalType": "Creature — Beast",
+      "power": "6",
+      "printings": [
+        "DIS",
+        "A25",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "If a card in your library has {X} in its mana cost, X is considered to be 0."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "You can find any number of creature cards, so long as their total converted mana cost is 6 or less. For example, you could find eight creature cards with converted mana cost 0 and three with converted mana cost 2, but you couldn't find two with converted mana cost 4."
+        }
+      ],
+      "subtypes": [
+        "Beast"
+      ],
+      "text": "When Protean Hulk dies, search your library for any number of creature cards with total converted mana cost 6 or less and put them onto the battlefield. Then shuffle your library.",
+      "toughness": "6",
+      "type": "Creature — Beast",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Liam Sharp",
+      "cmc": 1,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Skarrgischer Grubengammler",
+          "multiverseid": 460323
+        },
+        {
+          "language": "Spanish",
+          "name": "Furtivo del pozo skarrgano",
+          "multiverseid": 460350
+        },
+        {
+          "language": "French",
+          "name": "Indolent des fosses skarrgan",
+          "multiverseid": 460377
+        },
+        {
+          "language": "Italian",
+          "name": "Fossaiolo Skarrgan",
+          "multiverseid": 460404
+        },
+        {
+          "language": "Japanese",
+          "name": "スカルガンの穴潜み",
+          "multiverseid": 460431
+        }
+      ],
+      "id": "d8787d7a77eb64680f42f97a17d71d18f383f4db",
+      "imageName": "skarrgan pit-skulk",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}",
+      "multiverseid": 460296,
+      "name": "Skarrgan Pit-Skulk",
+      "number": "84",
+      "originalText": "Bloodthirst 1 <i>(If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)</i>\nCreatures with power less than Skarrgan Pit-Skulk's power can't block it.",
+      "originalType": "Creature — Human Warrior",
+      "power": "1",
+      "printings": [
+        "GPT",
+        "DDS",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2006-02-01",
+          "text": "Skarrgan Pit-Skulk compares each blocker's power against its own as blockers are being declared."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "text": "Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)\nCreatures with power less than Skarrgan Pit-Skulk's power can't block it.",
+      "toughness": "1",
+      "type": "Creature — Human Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Lucas Graciano",
+      "cmc": 1,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"The Gruul embrace all things poisonous and living in the cracks of society.\"\n—Teysa Karlov",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Viper der Einöden",
+          "multiverseid": 460324
+        },
+        {
+          "language": "Spanish",
+          "name": "Víbora de los yermos",
+          "multiverseid": 460351
+        },
+        {
+          "language": "French",
+          "name": "Vipère des terres dévastées",
+          "multiverseid": 460378
+        },
+        {
+          "language": "Italian",
+          "name": "Vipera delle Lande Desolate",
+          "multiverseid": 460405
+        },
+        {
+          "language": "Japanese",
+          "name": "不毛の地のバイパー",
+          "multiverseid": 460432
+        }
+      ],
+      "id": "84453aae991bb644b7fe302f6307f3d2538726eb",
+      "imageName": "wasteland viper",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{G}",
+      "multiverseid": 460297,
+      "name": "Wasteland Viper",
+      "number": "85",
+      "originalText": "Deathtouch\n<i>Bloodrush</i> — {G}, Discard Wasteland Viper: Target attacking creature gets +1/+2 and gains deathtouch until end of turn.",
+      "originalType": "Creature — Snake",
+      "power": "1",
+      "printings": [
+        "GTC",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Snake"
+      ],
+      "text": "Deathtouch\nBloodrush — {G}, Discard Wasteland Viper: Target attacking creature gets +1/+2 and gains deathtouch until end of turn.",
+      "toughness": "2",
+      "type": "Creature — Snake",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Mitch Cotie",
+      "cmc": 6,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "Some use magic to spy through walls. Others use it to crush them.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Wurmwindungen",
+          "multiverseid": 460325
+        },
+        {
+          "language": "Spanish",
+          "name": "Espiral tejesierpe",
+          "multiverseid": 460352
+        },
+        {
+          "language": "French",
+          "name": "Annelure de tisseguivre",
+          "multiverseid": 460379
+        },
+        {
+          "language": "Italian",
+          "name": "Bobina Tessiwurm",
+          "multiverseid": 460406
+        },
+        {
+          "language": "Japanese",
+          "name": "ワーム編みのとぐろ",
+          "multiverseid": 460433
+        }
+      ],
+      "id": "d2f15e9ca3e86c78b095c0890ce3a673eff79e2a",
+      "imageName": "wurmweaver coil",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{G}{G}",
+      "multiverseid": 460298,
+      "name": "Wurmweaver Coil",
+      "number": "86",
+      "originalText": "Enchant green creature\nEnchanted creature gets +6/+6.\n{G}{G}{G}, Sacrifice Wurmweaver Coil: Create a 6/6 green Wurm creature token.",
+      "originalType": "Enchantment — Aura",
+      "printings": [
+        "GPT",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2006-02-01",
+          "text": "Wurmweaver Coil can enchant only a green creature. It can't enter the battlefield attached to a nongreen creature, it can't be moved onto a nongreen creature, and if the creature it's attached to stops being green, the Aura is put into its owner's graveyard."
+        }
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant green creature\nEnchanted creature gets +6/+6.\n{G}{G}{G}, Sacrifice Wurmweaver Coil: Create a 6/6 green Wurm creature token.",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Todd Lockwood",
+      "cmc": 7,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "flavor": "\"It's easy to see why those Gruul dirtbags follow him—the only orders he gives are 'Crush them!' and 'We eat!'\"\n—Teysa Karlov",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Borborygmos",
+          "multiverseid": 460326
+        },
+        {
+          "language": "Spanish",
+          "name": "Borborygmos",
+          "multiverseid": 460353
+        },
+        {
+          "language": "French",
+          "name": "Borborygmos",
+          "multiverseid": 460380
+        },
+        {
+          "language": "Italian",
+          "name": "Borborygmos",
+          "multiverseid": 460407
+        },
+        {
+          "language": "Japanese",
+          "name": "腹音鳴らし",
+          "multiverseid": 460434
+        }
+      ],
+      "id": "c22493f53dc8f725c756b8aa91aaf8167ba0fee7",
+      "imageName": "borborygmos",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{R}{R}{G}{G}",
+      "multiverseid": 460299,
+      "name": "Borborygmos",
+      "number": "87",
+      "originalText": "Trample\nWhenever Borborygmos deals combat damage to a player, put a +1/+1 counter on each creature you control.",
+      "originalType": "Legendary Creature — Cyclops",
+      "power": "6",
+      "printings": [
+        "GPT",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2006-02-01",
+          "text": "Borborygmos's ability won't save your creatures that were dealt lethal damage in combat. Those creatures will be sent to your graveyard before they would get a counter."
+        }
+      ],
+      "subtypes": [
+        "Cyclops"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Trample\nWhenever Borborygmos deals combat damage to a player, put a +1/+1 counter on each creature you control.",
+      "toughness": "7",
+      "type": "Legendary Creature — Cyclops",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Izzy",
+      "cmc": 2,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "flavor": "Those who regard the Gruul as savage simpletons underestimate the subtle power of their shamans.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Gesandte des Brandbaums",
+          "multiverseid": 460327
+        },
+        {
+          "language": "Spanish",
+          "name": "Emisaria Árbol Ardiente",
+          "multiverseid": 460354
+        },
+        {
+          "language": "French",
+          "name": "Émissaire de Brûle-Arbre",
+          "multiverseid": 460381
+        },
+        {
+          "language": "Italian",
+          "name": "Emissaria di Brucia-Albero",
+          "multiverseid": 460408
+        },
+        {
+          "language": "Japanese",
+          "name": "炎樹族の使者",
+          "multiverseid": 460435
+        }
+      ],
+      "id": "93bc9e6b9f30d82f7158dabd69100f15fb9ad346",
+      "imageName": "burning-tree emissary",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{R/G}{R/G}",
+      "multiverseid": 460300,
+      "name": "Burning-Tree Emissary",
+      "number": "88",
+      "originalText": "When Burning-Tree Emissary enters the battlefield, add {R}{G}.",
+      "originalType": "Creature — Human Shaman",
+      "power": "2",
+      "printings": [
+        "GTC",
+        "MM3",
+        "DDS",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2017-03-14",
+          "text": "Burning-Tree Emissary's ability isn't a mana ability. It uses the stack and can be responded to."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Shaman"
+      ],
+      "text": "When Burning-Tree Emissary enters the battlefield, add {R}{G}.",
+      "toughness": "2",
+      "type": "Creature — Human Shaman",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Dan Scott",
+      "cmc": 3,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "flavor": "Gruul shamans are bent on punishing the civilized. Any act more complex than rubbing sticks together or eating with utensils is met with the stinging burn of their magic.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Brandbaum-Schamane",
+          "multiverseid": 460328
+        },
+        {
+          "language": "Spanish",
+          "name": "Chamán Árbol Ardiente",
+          "multiverseid": 460355
+        },
+        {
+          "language": "French",
+          "name": "Shamane de Brûlebranche",
+          "multiverseid": 460382
+        },
+        {
+          "language": "Italian",
+          "name": "Sciamano Brucia-Albero",
+          "multiverseid": 460409
+        },
+        {
+          "language": "Japanese",
+          "name": "炎樹族のシャーマン",
+          "multiverseid": 460436
+        }
+      ],
+      "id": "9bed8350265ebbbd1131f063c8691d0fad819cfb",
+      "imageName": "burning-tree shaman",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{R}{G}",
+      "multiverseid": 460301,
+      "name": "Burning-Tree Shaman",
+      "number": "89",
+      "originalText": "Whenever a player activates an ability that isn't a mana ability, Burning-Tree Shaman deals 1 damage to that player.",
+      "originalType": "Creature — Centaur Shaman",
+      "power": "3",
+      "printings": [
+        "GPT",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2006-02-01",
+          "text": "A mana ability is an ability that adds mana to your mana pool, not one that costs mana to activate."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "A mana ability is an ability that (1) isn't a loyalty ability, (2) doesn't target, and (3) could put mana into a player's mana pool when it resolves."
+        }
+      ],
+      "subtypes": [
+        "Centaur",
+        "Shaman"
+      ],
+      "text": "Whenever a player activates an ability that isn't a mana ability, Burning-Tree Shaman deals 1 damage to that player.",
+      "toughness": "4",
+      "type": "Creature — Centaur Shaman",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Charles Urbach",
+      "cmc": 4,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "flavor": "\"The Simic come from the cold slow depths. How could they understand the fire in a wild heart?\"\n—Kroshkar, Gruul shaman",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Ghor-Clan-Randalierer",
+          "multiverseid": 460329
+        },
+        {
+          "language": "Spanish",
+          "name": "Arrasador del clan Ghor",
+          "multiverseid": 460356
+        },
+        {
+          "language": "French",
+          "name": "Saccageur du clan Ghor",
+          "multiverseid": 460383
+        },
+        {
+          "language": "Italian",
+          "name": "Furia del Clan Ghor",
+          "multiverseid": 460410
+        },
+        {
+          "language": "Japanese",
+          "name": "ゴーア族の暴行者",
+          "multiverseid": 460437
+        }
+      ],
+      "id": "0ed7a620893f98428087909b136bc86f1ad343a8",
+      "imageName": "ghor-clan rampager",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{R}{G}",
+      "multiverseid": 460302,
+      "name": "Ghor-Clan Rampager",
+      "number": "90",
+      "originalText": "Trample\n<i>Bloodrush</i> — {R}{G}, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn.",
+      "originalType": "Creature — Beast",
+      "power": "4",
+      "printings": [
+        "pFNM",
+        "GTC",
+        "MM3",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Beast"
+      ],
+      "text": "Trample\nBloodrush — {R}{G}, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn.",
+      "toughness": "4",
+      "type": "Creature — Beast",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Pat Lee",
+      "cmc": 4,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "flavor": "\"We respect all lifeforms, but this one we respect from a distance.\"\n—Mandor, Selesnya ranger",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Riesige Solifuge",
+          "multiverseid": 460330
+        },
+        {
+          "language": "Spanish",
+          "name": "Solífugo gigante",
+          "multiverseid": 460357
+        },
+        {
+          "language": "French",
+          "name": "Solifuge géante",
+          "multiverseid": 460384
+        },
+        {
+          "language": "Italian",
+          "name": "Solifugo Gigante",
+          "multiverseid": 460411
+        },
+        {
+          "language": "Japanese",
+          "name": "巨大ヒヨケムシ",
+          "multiverseid": 460438
+        }
+      ],
+      "id": "c10bf7c53c651ac424938111fc32f75b16ff8eaa",
+      "imageName": "giant solifuge",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{R/G}{R/G}",
+      "multiverseid": 460303,
+      "name": "Giant Solifuge",
+      "number": "91",
+      "originalText": "Trample, haste\nShroud <i>(This creature can't be the target of spells or abilities.)</i>",
+      "originalType": "Creature — Insect",
+      "power": "4",
+      "printings": [
+        "GPT",
+        "EMA",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Insect"
+      ],
+      "text": "({R/G} can be paid with either {R} or {G}.)\nTrample; haste; shroud (This creature can't be the target of spells or abilities.)",
+      "toughness": "1",
+      "type": "Creature — Insect",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Zoltan Boros",
+      "cmc": 2,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "flavor": "\"Not Gruul? Then die!\"\n—Borborygmos",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Gruul-Amulett",
+          "multiverseid": 460331
+        },
+        {
+          "language": "Spanish",
+          "name": "Amuleto gruul",
+          "multiverseid": 460358
+        },
+        {
+          "language": "French",
+          "name": "Charme de Gruul",
+          "multiverseid": 460385
+        },
+        {
+          "language": "Italian",
+          "name": "Talismano Gruul",
+          "multiverseid": 460412
+        },
+        {
+          "language": "Japanese",
+          "name": "グルールの魔除け",
+          "multiverseid": 460439
+        }
+      ],
+      "id": "84d7859270196b741c4e5790f100a3560676fe63",
+      "imageName": "gruul charm",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{R}{G}",
+      "multiverseid": 460304,
+      "name": "Gruul Charm",
+      "number": "92",
+      "originalText": "Choose one —\n• Creatures without flying can't block this turn.\n• Gain control of all permanents you own.\n• Gruul Charm deals 3 damage to each creature with flying.",
+      "originalType": "Instant",
+      "printings": [
+        "GTC",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "If you choose the first mode, no creature without flying will be able to block that turn, including creatures that lose flying and creatures without flying that enter the battlefield after Gruul Charm resolves."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "If you choose the second mode, Gruul Charm's effect will override any other control-changing effects on those permanents."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "A token is owned by the player under whose control it entered the battlefield."
+        }
+      ],
+      "text": "Choose one —\n• Creatures without flying can't block this turn.\n• Gain control of all permanents you own.\n• Gruul Charm deals 3 damage to each creature with flying.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Matt Stewart",
+      "cmc": 2,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "flavor": "\"All the coins in Ravnica can't save his soul now.\"\n—Narbulg Nine Fingers",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Grubenkampf",
+          "multiverseid": 460332
+        },
+        {
+          "language": "Spanish",
+          "name": "Lucha en el pozo",
+          "multiverseid": 460359
+        },
+        {
+          "language": "French",
+          "name": "Combat dans la fosse",
+          "multiverseid": 460386
+        },
+        {
+          "language": "Italian",
+          "name": "Combattimento nell'Arena",
+          "multiverseid": 460413
+        },
+        {
+          "language": "Japanese",
+          "name": "闘技",
+          "multiverseid": 460440
+        }
+      ],
+      "id": "fd9b2c8b91a0907e55096bd9505aaf4387389c2e",
+      "imageName": "pit fight",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{R/G}",
+      "multiverseid": 460305,
+      "name": "Pit Fight",
+      "number": "93",
+      "originalText": "Target creature you control fights another target creature. <i>(Each deals damage equal to its power to the other.)</i>",
+      "originalType": "Instant",
+      "printings": [
+        "GTC",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "The second target of Pit Fight can be another creature you control, but it can't be the same creature as the first target."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "If either target of Pit Fight is an illegal target when the ability tries to resolve, neither creature will deal or be dealt damage."
+        }
+      ],
+      "text": "Target creature you control fights another target creature. (Each deals damage equal to its power to the other.)",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Chippy",
+      "cmc": 4,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "flavor": "\"This city will perish, and the Gruul will cheer as the boar-god crushes the last bricks into dust.\"\n—Nikya of the Old Ways",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Plünderer des Geröllstreifens",
+          "multiverseid": 460333
+        },
+        {
+          "language": "Spanish",
+          "name": "Incursores de Barrioescombros",
+          "multiverseid": 460360
+        },
+        {
+          "language": "French",
+          "name": "Pillards des Éboulis",
+          "multiverseid": 460387
+        },
+        {
+          "language": "Italian",
+          "name": "Predoni della Zona di Macerie",
+          "multiverseid": 460414
+        },
+        {
+          "language": "Japanese",
+          "name": "瓦礫帯の略奪者",
+          "multiverseid": 460441
+        }
+      ],
+      "id": "185af10a23dd418c589ac3fb89bed4329379e53a",
+      "imageName": "rubblebelt raiders",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{R/G}{R/G}{R/G}",
+      "multiverseid": 460306,
+      "name": "Rubblebelt Raiders",
+      "number": "94",
+      "originalText": "Whenever Rubblebelt Raiders attacks, put a +1/+1 counter on it for each attacking creature you control.",
+      "originalType": "Creature — Human Warrior",
+      "power": "3",
+      "printings": [
+        "GTC",
+        "DDS",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "Count the number of attacking creatures you control when Rubblebelt Raiders's ability resolves, including Rubblebelt Raiders itself, to determine how many +1/+1 counters to put on it."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "text": "Whenever Rubblebelt Raiders attacks, put a +1/+1 counter on it for each attacking creature you control.",
+      "toughness": "3",
+      "type": "Creature — Human Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Raymond Swanland",
+      "cmc": 6,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Geröll-Moloch",
+          "multiverseid": 460334
+        },
+        {
+          "language": "Spanish",
+          "name": "Titán de escombros",
+          "multiverseid": 460361
+        },
+        {
+          "language": "French",
+          "name": "Carcasse de gravois",
+          "multiverseid": 460388
+        },
+        {
+          "language": "Italian",
+          "name": "Colosso di Macerie",
+          "multiverseid": 460415
+        },
+        {
+          "language": "Japanese",
+          "name": "瓦礫鬼",
+          "multiverseid": 460442
+        }
+      ],
+      "id": "7b5561f8b134014ae096e3bea686287d4235440c",
+      "imageName": "rubblehulk",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{R}{G}",
+      "multiverseid": 460307,
+      "name": "Rubblehulk",
+      "number": "95",
+      "originalText": "Rubblehulk's power and toughness are each equal to the number of lands you control.\n<i>Bloodrush</i> — {1}{R}{G}, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control.",
+      "originalType": "Creature — Elemental",
+      "power": "*",
+      "printings": [
+        "pPRE",
+        "GTC",
+        "C16",
+        "C18",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "The ability that defines Rubblehulk's power and toughness works in all zones, not just the battlefield."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "If you activate Rubblehulk's bloodrush ability, the value of X is the number of lands you control when that ability resolves."
+        }
+      ],
+      "subtypes": [
+        "Elemental"
+      ],
+      "text": "Rubblehulk's power and toughness are each equal to the number of lands you control.\nBloodrush — {1}{R}{G}, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control.",
+      "toughness": "*",
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Carl Critchlow",
+      "cmc": 4,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "flavor": "The Orzhov contract the Izzet to animate slum districts and banish them to the wastes. The Gruul adopt them and send them back to the city for vengeance.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Rumpelnder Schmutz",
+          "multiverseid": 460335
+        },
+        {
+          "language": "Spanish",
+          "name": "Distrito retumbante",
+          "multiverseid": 460362
+        },
+        {
+          "language": "French",
+          "name": "Quartier insalubre grondant",
+          "multiverseid": 460389
+        },
+        {
+          "language": "Italian",
+          "name": "Bassifondi Inquieti",
+          "multiverseid": 460416
+        },
+        {
+          "language": "Japanese",
+          "name": "喧騒の貧霊",
+          "multiverseid": 460443
+        }
+      ],
+      "id": "ed7b73ac1db9bcd58b88d830656cbfe1801f87f3",
+      "imageName": "rumbling slum",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{R}{G}{G}",
+      "multiverseid": 460308,
+      "name": "Rumbling Slum",
+      "number": "96",
+      "originalText": "At the beginning of your upkeep, Rumbling Slum deals 1 damage to each player.",
+      "originalType": "Creature — Elemental",
+      "power": "5",
+      "printings": [
+        "GPT",
+        "HOP",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Elemental"
+      ],
+      "text": "At the beginning of your upkeep, Rumbling Slum deals 1 damage to each player.",
+      "toughness": "5",
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Luca Zontini",
+      "cmc": 2,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "flavor": "\"Nature is the ultimate mindless destroyer, capable of power and ferocity no army can match, and the Gruul follow its example.\"\n—Trigori, Azorius senator",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Wilder Wirbelwind",
+          "multiverseid": 460336
+        },
+        {
+          "language": "Spanish",
+          "name": "Torbellino salvaje",
+          "multiverseid": 460363
+        },
+        {
+          "language": "French",
+          "name": "Tornade sauvage",
+          "multiverseid": 460390
+        },
+        {
+          "language": "Italian",
+          "name": "Tornado Scatenato",
+          "multiverseid": 460417
+        },
+        {
+          "language": "Japanese",
+          "name": "大竜巻",
+          "multiverseid": 460444
+        }
+      ],
+      "id": "adaf520d1bac9975885ae9afcca681de2eb862a1",
+      "imageName": "savage twister",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{X}{R}{G}",
+      "multiverseid": 460309,
+      "name": "Savage Twister",
+      "number": "97",
+      "originalText": "Savage Twister deals X damage to each creature.",
+      "originalType": "Sorcery",
+      "printings": [
+        "MIR",
+        "GPT",
+        "HOP",
+        "ARC",
+        "CMD",
+        "C13",
+        "MM2",
+        "C18",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Uncommon",
+      "text": "Savage Twister deals X damage to each creature.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Raymond Swanland",
+      "cmc": 2,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Gewaltgeborene Hydra",
+          "multiverseid": 460337
+        },
+        {
+          "language": "Spanish",
+          "name": "Hidra nacida salvaje",
+          "multiverseid": 460364
+        },
+        {
+          "language": "French",
+          "name": "Hydre née de la sauvagerie",
+          "multiverseid": 460391
+        },
+        {
+          "language": "Italian",
+          "name": "Idra Ferina",
+          "multiverseid": 460418
+        },
+        {
+          "language": "Japanese",
+          "name": "野蛮生まれのハイドラ",
+          "multiverseid": 460445
+        }
+      ],
+      "id": "d0a7defd2a817eba4480b0ac6c056bfb58346714",
+      "imageName": "savageborn hydra",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{X}{R}{G}",
+      "multiverseid": 460310,
+      "name": "Savageborn Hydra",
+      "number": "98",
+      "originalText": "Double strike\nSavageborn Hydra enters the battlefield with X +1/+1 counters on it.\n{1}{R/G}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.",
+      "originalType": "Creature — Hydra",
+      "power": "0",
+      "printings": [
+        "DGM",
+        "IMA",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Hydra"
+      ],
+      "text": "Double strike\nSavageborn Hydra enters the battlefield with X +1/+1 counters on it.\n{1}{R/G}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.",
+      "toughness": "0",
+      "type": "Creature — Hydra",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Liam Sharp",
+      "cmc": 2,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "flavor": "They inflict pain to forget their own and break foes to feel whole.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Malmer aus dem Schorf-Clan",
+          "multiverseid": 460338
+        },
+        {
+          "language": "Spanish",
+          "name": "Lacerador del clan Scab",
+          "multiverseid": 460365
+        },
+        {
+          "language": "French",
+          "name": "Meurtrisseur du clan Psora",
+          "multiverseid": 460392
+        },
+        {
+          "language": "Italian",
+          "name": "Picchiatore Scab-Clan",
+          "multiverseid": 460419
+        },
+        {
+          "language": "Japanese",
+          "name": "瘡蓋族のやっかい者",
+          "multiverseid": 460446
+        }
+      ],
+      "id": "c141d683be7c995577d3c858e7943bb5025f0ec2",
+      "imageName": "scab-clan mauler",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{R}{G}",
+      "multiverseid": 460311,
+      "name": "Scab-Clan Mauler",
+      "number": "99",
+      "originalText": "Bloodthirst 2 <i>(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)</i>\nTrample",
+      "originalType": "Creature — Human Berserker",
+      "power": "1",
+      "printings": [
+        "GPT",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Common",
+      "subtypes": [
+        "Human",
+        "Berserker"
+      ],
+      "text": "Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)\nTrample",
+      "toughness": "1",
+      "type": "Creature — Human Berserker",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Nottsuo",
+      "cmc": 4,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Ulasht, der Samen des Hasses",
+          "multiverseid": 460339
+        },
+        {
+          "language": "Spanish",
+          "name": "Ulasht, la semilla del odio",
+          "multiverseid": 460366
+        },
+        {
+          "language": "French",
+          "name": "Ulasht, la Semence de Haine",
+          "multiverseid": 460393
+        },
+        {
+          "language": "Italian",
+          "name": "Ulasht, il Seme dell'Odio",
+          "multiverseid": 460420
+        },
+        {
+          "language": "Japanese",
+          "name": "憎悪の種、ウラシュト",
+          "multiverseid": 460447
+        }
+      ],
+      "id": "ccaa266315053bee5c4b7e355e6edbc0c66fe1a4",
+      "imageName": "ulasht, the hate seed",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{R}{G}",
+      "multiverseid": 460312,
+      "name": "Ulasht, the Hate Seed",
+      "number": "100",
+      "originalText": "Ulasht, the Hate Seed enters the battlefield with a +1/+1 counter on it for each other red creature you control and a +1/+1 counter on it for each other green creature you control.\n{1}, Remove a +1/+1 counter from Ulasht: Choose one —\n• Ulasht deals 1 damage to target creature.\n• Create a 1/1 green Saproling creature token.",
+      "originalType": "Legendary Creature — Hellion Hydra",
+      "power": "0",
+      "printings": [
+        "GPT",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2006-02-01",
+          "text": "Creatures that are both red and green provide two +1/+1 counters."
+        }
+      ],
+      "subtypes": [
+        "Hellion",
+        "Hydra"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Ulasht, the Hate Seed enters the battlefield with a +1/+1 counter on it for each other red creature you control and a +1/+1 counter on it for each other green creature you control.\n{1}, Remove a +1/+1 counter from Ulasht: Choose one —\n• Ulasht deals 1 damage to target creature.\n• Create a 1/1 green Saproling creature token.",
+      "toughness": "0",
+      "type": "Legendary Creature — Hellion Hydra",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Mark Winters",
+      "cmc": 2,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "flavor": "\"Only the decadent think magic should be pristine and without cost.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Zhur-Taa-Druide",
+          "multiverseid": 460340
+        },
+        {
+          "language": "Spanish",
+          "name": "Druida Zhur-Taa",
+          "multiverseid": 460367
+        },
+        {
+          "language": "French",
+          "name": "Druide de Zhur-Taa",
+          "multiverseid": 460394
+        },
+        {
+          "language": "Italian",
+          "name": "Druido di Zhur-Taa",
+          "multiverseid": 460421
+        },
+        {
+          "language": "Japanese",
+          "name": "ザル＝ターのドルイド",
+          "multiverseid": 460448
+        }
+      ],
+      "id": "394ab843fde3dbfd2a2ae4a95feefe016c3b8866",
+      "imageName": "zhur-taa druid",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{R}{G}",
+      "multiverseid": 460313,
+      "name": "Zhur-Taa Druid",
+      "number": "101",
+      "originalText": "{T}: Add {G}.\nWhenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent.",
+      "originalType": "Creature — Human Druid",
+      "power": "1",
+      "printings": [
+        "DGM",
+        "DDL",
+        "C16",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "Zhur-Taa Druid's last ability doesn't trigger if it becomes tapped for any other reason. However, if Zhur-Taa Druid gains another mana ability that requires you tap it, its ability will trigger."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you tap Zhur-Taa Druid for mana during the process of casting a spell or activating an ability, its triggered ability will resolve before that spell or ability."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Zhur-Taa Druid's last ability isn't a mana ability. It uses the stack and can be responded to."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Druid"
+      ],
+      "text": "{T}: Add {G}.\nWhenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent.",
+      "toughness": "1",
+      "type": "Creature — Human Druid",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Yeong-Hao Han",
+      "cmc": 5,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "flavor": "Gurley was the first to domesticate one, though his widow didn't take much solace in that accomplishment.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Zhur-Taa-Schwein",
+          "multiverseid": 460341
+        },
+        {
+          "language": "Spanish",
+          "name": "Puerco Zhur-Taa",
+          "multiverseid": 460368
+        },
+        {
+          "language": "French",
+          "name": "Cochon de Zhur-Taa",
+          "multiverseid": 460395
+        },
+        {
+          "language": "Italian",
+          "name": "Suino di Zhur-Taa",
+          "multiverseid": 460422
+        },
+        {
+          "language": "Japanese",
+          "name": "ザル＝ターの豚",
+          "multiverseid": 460449
+        }
+      ],
+      "id": "43d7ad1fd86859b87aaeb194a544344e96b8af7b",
+      "imageName": "zhur-taa swine",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{R}{G}",
+      "multiverseid": 460314,
+      "name": "Zhur-Taa Swine",
+      "number": "102",
+      "originalText": "<i>Bloodrush</i> — {1}{R}{G}, Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn.",
+      "originalType": "Creature — Boar",
+      "power": "5",
+      "printings": [
+        "GTC",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Common",
+      "subtypes": [
+        "Boar"
+      ],
+      "text": "Bloodrush — {1}{R}{G}, Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn.",
+      "toughness": "4",
+      "type": "Creature — Boar",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "Efrem Palacios",
+      "cmc": 2,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "flavor": "Gruul territorial markings need not be legible. The blood, snot, and muck used to smear them are unmistakably Gruul.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Gruul-Petschaft",
+          "multiverseid": 460342
+        },
+        {
+          "language": "Spanish",
+          "name": "Sello gruul",
+          "multiverseid": 460369
+        },
+        {
+          "language": "French",
+          "name": "Cachet de Gruul",
+          "multiverseid": 460396
+        },
+        {
+          "language": "Italian",
+          "name": "Sigillo Gruul",
+          "multiverseid": 460423
+        },
+        {
+          "language": "Japanese",
+          "name": "グルールの印鑑",
+          "multiverseid": 460450
+        }
+      ],
+      "id": "e045b3031d07f66e1f9fd5718e771c9020d22bae",
+      "imageName": "gruul signet",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}",
+      "multiverseid": 460315,
+      "name": "Gruul Signet",
+      "number": "103",
+      "originalText": "{1}, {T}: Add {R}{G}.",
+      "originalType": "Artifact",
+      "printings": [
+        "GPT",
+        "ARC",
+        "CMD",
+        "C16",
+        "MM3",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Uncommon",
+      "text": "{1}, {T}: Add {R}{G}.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "John Avon",
+      "cmc": 0,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Gruulgrund",
+          "multiverseid": 460343
+        },
+        {
+          "language": "Spanish",
+          "name": "Territorio gruul",
+          "multiverseid": 460370
+        },
+        {
+          "language": "French",
+          "name": "Territoire des Gruul",
+          "multiverseid": 460397
+        },
+        {
+          "language": "Italian",
+          "name": "Torba Gruul",
+          "multiverseid": 460424
+        },
+        {
+          "language": "Japanese",
+          "name": "グルールの芝地",
+          "multiverseid": 460451
+        }
+      ],
+      "id": "54e87474b47c804507d756a72c789bb50cd87e93",
+      "imageName": "gruul turf",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 460316,
+      "name": "Gruul Turf",
+      "number": "104",
+      "originalText": "Gruul Turf enters the battlefield tapped.\nWhen Gruul Turf enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {R}{G}.",
+      "originalType": "Land",
+      "printings": [
+        "GPT",
+        "HOP",
+        "CMD",
+        "PC2",
+        "MM2",
+        "C16",
+        "PCA",
+        "IMA",
+        "C18",
+        "GK2_GRUUL"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand."
+        }
+      ],
+      "text": "Gruul Turf enters the battlefield tapped.\nWhen Gruul Turf enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {R}{G}.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Gruul"
+    },
+    {
+      "artist": "James Paick",
+      "cmc": 0,
+      "colorIdentity": [
+        "R"
+      ],
+      "id": "d3ca316da8918ed743639581ee83828ab3781b25",
+      "imageName": "mountain",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 460317,
+      "name": "Mountain",
+      "number": "105",
+      "originalText": "R",
+      "originalType": "Basic Land — Mountain",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "ME1",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_IZZET",
+        "GNT",
+        "RNA",
+        "GK2_GRUUL",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Mountain"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Mountain",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Red"
+    },
+    {
+      "artist": "James Paick",
+      "cmc": 0,
+      "colorIdentity": [
+        "G"
+      ],
+      "id": "01f0ea80842e56fa95dc1f5ae0366005cf28c179",
+      "imageName": "forest",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 460318,
+      "name": "Forest",
+      "number": "106",
+      "originalText": "G",
+      "originalType": "Basic Land — Forest",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "ME1",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_GOLGAR",
+        "GK1_SELESN",
+        "GNT",
+        "RNA",
+        "GK2_GRUUL",
+        "GK2_SIMIC"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Forest"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Forest",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Green"
+    }
+  ]
+}

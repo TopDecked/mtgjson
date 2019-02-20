@@ -1,0 +1,2671 @@
+{
+  "name": "Guild Kit: Rakdos",
+  "code": "GK2_RAKDOS",
+  "releaseDate": "2019-02-10",
+  "border": "black",
+  "type": "box",
+  "cards": [
+    {
+      "artist": "Yigit Koroglu",
+      "cmc": 4,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Rakdos, Fürst des Aufruhrs",
+          "multiverseid": 460626
+        },
+        {
+          "language": "Spanish",
+          "name": "Rakdos, señor de los motines",
+          "multiverseid": 460654
+        },
+        {
+          "language": "French",
+          "name": "Rakdos, seigneur des émeutes",
+          "multiverseid": 460682
+        },
+        {
+          "language": "Italian",
+          "name": "Rakdos, Signore delle Sommosse",
+          "multiverseid": 460710
+        },
+        {
+          "language": "Japanese",
+          "name": "暴動の長、ラクドス",
+          "multiverseid": 460738
+        }
+      ],
+      "id": "93dfe8b37449ce491f47f61d569ebf47b01742bc",
+      "imageName": "rakdos, lord of riots",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B}{B}{R}{R}",
+      "multiverseid": 460598,
+      "name": "Rakdos, Lord of Riots",
+      "number": "52",
+      "originalText": "You can't cast this spell unless an opponent lost life this turn.\nFlying, trample\nCreature spells you cast cost {1} less to cast for each 1 life your opponents have lost this turn.",
+      "originalType": "Legendary Creature — Demon",
+      "power": "6",
+      "printings": [
+        "RTR",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Mythic Rare",
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "Remember, damage dealt to a player causes that player to lose that much life (unless the source has infect)."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "Rakdos can be put onto the battlefield by another spell or ability even if no opponent has lost life that turn."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "Rakdos's last ability cares about the total life lost, not necessarily what an opponent's life total is compared to what it was at the beginning of the turn. For example, if an opponent loses 5 life and then gains 10 life in a turn, creature spells you cast will cost {5} less to cast."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "Rakdos's last ability can't reduce the colored mana requirement of a creature spell you cast."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "If there are additional costs to cast a creature spell, such as a kicker cost or a cost imposed by the rules of a Commander game, apply those increases before applying cost reductions."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "Rakdos's last ability won't reduce the cost to cast Rakdos itself. It applies only to creature spells you cast once Rakdos is on the battlefield."
+        }
+      ],
+      "subtypes": [
+        "Demon"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "You can't cast this spell unless an opponent lost life this turn.\nFlying, trample\nCreature spells you cast cost {1} less to cast for each 1 life your opponents have lost this turn.",
+      "toughness": "6",
+      "type": "Legendary Creature — Demon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Pete Venters",
+      "cmc": 4,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Champion der Krypta",
+          "multiverseid": 460627
+        },
+        {
+          "language": "Spanish",
+          "name": "Campeón de la cripta",
+          "multiverseid": 460655
+        },
+        {
+          "language": "French",
+          "name": "Champion de la crypte",
+          "multiverseid": 460683
+        },
+        {
+          "language": "Italian",
+          "name": "Campione della Cripta",
+          "multiverseid": 460711
+        },
+        {
+          "language": "Japanese",
+          "name": "墓所の勇者",
+          "multiverseid": 460739
+        }
+      ],
+      "id": "c5b492908e3cbd84493ed4e3b9639b59275184a5",
+      "imageName": "crypt champion",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{B}",
+      "multiverseid": 460599,
+      "name": "Crypt Champion",
+      "number": "53",
+      "originalText": "Double strike\nWhen Crypt Champion enters the battlefield, each player puts a creature card with converted mana cost 3 or less from their graveyard onto the battlefield.\nWhen Crypt Champion enters the battlefield, sacrifice it unless {R} was spent to cast it.",
+      "originalType": "Creature — Zombie",
+      "power": "2",
+      "printings": [
+        "DIS",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "The first triggered ability isn't targeted, so the creature cards aren't chosen until the ability resolves. Each player chooses which creature card from their own graveyard to return. If a player doesn't have an applicable creature card, that player does nothing. If a player does have any applicable cards, that player must return one to the battlefield."
+        },
+        {
+          "date": "2006-05-01",
+          "text": "If this enters the battlefield in a way other than announcing it as a spell, then the appropriate mana can't have been paid, and you'll have to sacrifice it."
+        }
+      ],
+      "subtypes": [
+        "Zombie"
+      ],
+      "text": "Double strike\nWhen Crypt Champion enters the battlefield, each player puts a creature card with converted mana cost 3 or less from their graveyard onto the battlefield.\nWhen Crypt Champion enters the battlefield, sacrifice it unless {R} was spent to cast it.",
+      "toughness": "2",
+      "type": "Creature — Zombie",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Tyler Jacobson",
+      "cmc": 2,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "As the bounty on Massacre Girl rose, so did the number of imitators.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Meuchelnde Thrill-Killerin",
+          "multiverseid": 460628
+        },
+        {
+          "language": "Spanish",
+          "name": "Asesina emoción mortal",
+          "multiverseid": 460656
+        },
+        {
+          "language": "French",
+          "name": "Assassin enivré par la tuerie",
+          "multiverseid": 460684
+        },
+        {
+          "language": "Italian",
+          "name": "Assassina di Brivido Omicida",
+          "multiverseid": 460712
+        },
+        {
+          "language": "Japanese",
+          "name": "快楽殺人の暗殺者",
+          "multiverseid": 460740
+        }
+      ],
+      "id": "fd6c2ed52ff4e7f66c91c97a14aa8d32dec70e60",
+      "imageName": "thrill-kill assassin",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{B}",
+      "multiverseid": 460600,
+      "name": "Thrill-Kill Assassin",
+      "number": "54",
+      "originalText": "Deathtouch\nUnleash <i>(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)</i>",
+      "originalType": "Creature — Human Assassin",
+      "power": "1",
+      "printings": [
+        "RTR",
+        "IMA",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "You make the choice to have the creature with unleash enter the battlefield with a +1/+1 counter or not as it's entering the battlefield. At that point, it's too late for a player to respond to the creature spell by trying to counter it, for example."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The unleash ability applies no matter where the creature is entering the battlefield from."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "A creature with unleash can't block if it has any +1/+1 counter on it, not just one put on it by the unleash ability."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Putting a +1/+1 counter on a creature with unleash that's already blocking won't remove it from combat. It will continue to block."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Assassin"
+      ],
+      "text": "Deathtouch\nUnleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)",
+      "toughness": "2",
+      "type": "Creature — Human Assassin",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Shishizaru",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"I like a little entertainment with my dinner.\"\n—Rakdos",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Kichernde Flammen",
+          "multiverseid": 460629
+        },
+        {
+          "language": "Spanish",
+          "name": "Llamas carcajeantes",
+          "multiverseid": 460657
+        },
+        {
+          "language": "French",
+          "name": "Flammes caquetantes",
+          "multiverseid": 460685
+        },
+        {
+          "language": "Italian",
+          "name": "Fiamme Crepitanti",
+          "multiverseid": 460713
+        },
+        {
+          "language": "Japanese",
+          "name": "大笑いの炎",
+          "multiverseid": 460741
+        }
+      ],
+      "id": "925c10df63fef90ba89c3e52b8481d0367bd80e7",
+      "imageName": "cackling flames",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{R}",
+      "multiverseid": 460601,
+      "name": "Cackling Flames",
+      "number": "55",
+      "originalText": "Cackling Flames deals 3 damage to any target.\n<i>Hellbent</i> — Cackling Flames deals 5 damage to that permanent or player instead if you have no cards in hand.",
+      "originalType": "Instant",
+      "printings": [
+        "DIS",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Common",
+      "text": "Cackling Flames deals 3 damage to any target.\nHellbent — Cackling Flames deals 5 damage to that permanent or player instead if you have no cards in hand.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Greg Staples",
+      "cmc": 1,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Dämonenfeuer",
+          "multiverseid": 460630
+        },
+        {
+          "language": "Spanish",
+          "name": "Fuego demoníaco",
+          "multiverseid": 460658
+        },
+        {
+          "language": "French",
+          "name": "Feu démoniaque",
+          "multiverseid": 460686
+        },
+        {
+          "language": "Italian",
+          "name": "Fuoco Demoniaco",
+          "multiverseid": 460714
+        },
+        {
+          "language": "Japanese",
+          "name": "悪魔火",
+          "multiverseid": 460742
+        }
+      ],
+      "id": "66ccc89ae162bd9f372f06f251aa69aa00c322da",
+      "imageName": "demonfire",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{X}{R}",
+      "multiverseid": 460602,
+      "name": "Demonfire",
+      "number": "56",
+      "originalText": "Demonfire deals X damage to any target. If a creature dealt damage this way would die this turn, exile it instead.\n<i>Hellbent</i> — If you have no cards in hand, this spell can't be countered and the damage can't be prevented.",
+      "originalType": "Sorcery",
+      "printings": [
+        "DIS",
+        "DD2",
+        "DD3_JVC",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Rare",
+      "text": "Demonfire deals X damage to any target. If a creature dealt damage this way would die this turn, exile it instead.\nHellbent — If you have no cards in hand, this spell can't be countered and the damage can't be prevented.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Rakdos-Grubendrache",
+          "multiverseid": 460631
+        },
+        {
+          "language": "Spanish",
+          "name": "Dragón del pozo rakdos",
+          "multiverseid": 460659
+        },
+        {
+          "language": "French",
+          "name": "Dragon des fosses de Rakdos",
+          "multiverseid": 460687
+        },
+        {
+          "language": "Italian",
+          "name": "Drago di Fossa Rakdos",
+          "multiverseid": 460715
+        },
+        {
+          "language": "Japanese",
+          "name": "ラクドスの地獄ドラゴン",
+          "multiverseid": 460743
+        }
+      ],
+      "id": "b78e1afcb96bf7d21c2ce7a0a9abde83e67a8eef",
+      "imageName": "rakdos pit dragon",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{R}{R}",
+      "multiverseid": 460603,
+      "name": "Rakdos Pit Dragon",
+      "number": "57",
+      "originalText": "{R}{R}: Rakdos Pit Dragon gains flying until end of turn.\n{R}: Rakdos Pit Dragon gets +1/+0 until end of turn.\n<i>Hellbent</i> — Rakdos Pit Dragon has double strike as long as you have no cards in hand.",
+      "originalType": "Creature — Dragon",
+      "power": "3",
+      "printings": [
+        "DIS",
+        "DD2",
+        "DD3_JVC",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "If Rakdos Pit Dragon loses double strike after first strike combat damage has been dealt, it won't deal damage during the normal combat damage step."
+        }
+      ],
+      "subtypes": [
+        "Dragon"
+      ],
+      "text": "{R}{R}: Rakdos Pit Dragon gains flying until end of turn.\n{R}: Rakdos Pit Dragon gets +1/+0 until end of turn.\nHellbent — Rakdos Pit Dragon has double strike as long as you have no cards in hand.",
+      "toughness": "3",
+      "type": "Creature — Dragon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "The mask isn't meant to hide his identity. It's meant to keep the viscera out of his eyes.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Blutspritzender Bandit",
+          "multiverseid": 460632
+        },
+        {
+          "language": "Spanish",
+          "name": "Malhechor salpicador",
+          "multiverseid": 460660
+        },
+        {
+          "language": "French",
+          "name": "Étrangleur tacheté",
+          "multiverseid": 460688
+        },
+        {
+          "language": "Italian",
+          "name": "Thug Schizzato",
+          "multiverseid": 460716
+        },
+        {
+          "language": "Japanese",
+          "name": "跳ね散らす凶漢",
+          "multiverseid": 460744
+        }
+      ],
+      "id": "8ae294f9f0db5bd2cb1a449ab2096d1d6d10b76e",
+      "imageName": "splatter thug",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{R}",
+      "multiverseid": 460604,
+      "name": "Splatter Thug",
+      "number": "58",
+      "originalText": "First strike\nUnleash <i>(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)</i>",
+      "originalType": "Creature — Human Warrior",
+      "power": "2",
+      "printings": [
+        "RTR",
+        "IMA",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "You make the choice to have the creature with unleash enter the battlefield with a +1/+1 counter or not as it's entering the battlefield. At that point, it's too late for a player to respond to the creature spell by trying to counter it, for example."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The unleash ability applies no matter where the creature is entering the battlefield from."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "A creature with unleash can't block if it has any +1/+1 counter on it, not just one put on it by the unleash ability."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Putting a +1/+1 counter on a creature with unleash that's already blocking won't remove it from combat. It will continue to block."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "text": "First strike\nUnleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)",
+      "toughness": "2",
+      "type": "Creature — Human Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Mark Zug",
+      "cmc": 8,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "The fear of dragons is as old and as powerful as the fear of death itself.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Utvara-Höllendrache",
+          "multiverseid": 460633
+        },
+        {
+          "language": "Spanish",
+          "name": "Engendro de Utvara",
+          "multiverseid": 460661
+        },
+        {
+          "language": "French",
+          "name": "Escouflenfer d'Utvara",
+          "multiverseid": 460689
+        },
+        {
+          "language": "Italian",
+          "name": "Nibbio Infernale di Utvara",
+          "multiverseid": 460717
+        },
+        {
+          "language": "Japanese",
+          "name": "ウトヴァラのヘルカイト",
+          "multiverseid": 460745
+        }
+      ],
+      "id": "2eebc425962122d290cd3e850cec1cac1659db40",
+      "imageName": "utvara hellkite",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{6}{R}{R}",
+      "multiverseid": 460605,
+      "name": "Utvara Hellkite",
+      "number": "59",
+      "originalText": "Flying\nWhenever a Dragon you control attacks, create a 6/6 red Dragon creature token with flying.",
+      "originalType": "Creature — Dragon",
+      "power": "6",
+      "printings": [
+        "RTR",
+        "C17",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Dragon"
+      ],
+      "text": "Flying\nWhenever a Dragon you control attacks, create a 6/6 red Dragon creature token with flying.",
+      "toughness": "6",
+      "type": "Creature — Dragon",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Raymond Swanland",
+      "cmc": 3,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "flavor": "\"Finally, a weapon the Boros can't confiscate!\"\n—Juri, proprietor of the Juri Revue",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Bohrrausch",
+          "multiverseid": 460634
+        },
+        {
+          "language": "Spanish",
+          "name": "Reguero de taladros",
+          "multiverseid": 460662
+        },
+        {
+          "language": "French",
+          "name": "Foret incontrôlé",
+          "multiverseid": 460690
+        },
+        {
+          "language": "Italian",
+          "name": "Follia di Trivelle",
+          "multiverseid": 460718
+        },
+        {
+          "language": "Japanese",
+          "name": "穴開け三昧",
+          "multiverseid": 460746
+        }
+      ],
+      "id": "b042009c02b8ecbae0bb84678147356f2e395e3d",
+      "imageName": "auger spree",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{B}{R}",
+      "multiverseid": 460606,
+      "name": "Auger Spree",
+      "number": "60",
+      "originalText": "Target creature gets +4/-4 until end of turn.",
+      "originalType": "Instant",
+      "printings": [
+        "RTR",
+        "MM3",
+        "BBD",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets +4/-4 until end of turn.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "rk post",
+      "cmc": 3,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "flavor": "Such is the power of Rakdos that even his shadow takes on a cruel life of its own.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Avatar des Missklangs",
+          "multiverseid": 460635
+        },
+        {
+          "language": "Spanish",
+          "name": "Avatar de la discordia",
+          "multiverseid": 460663
+        },
+        {
+          "language": "French",
+          "name": "Avatar de la discorde",
+          "multiverseid": 460691
+        },
+        {
+          "language": "Italian",
+          "name": "Avatar della Discordia",
+          "multiverseid": 460719
+        },
+        {
+          "language": "Japanese",
+          "name": "不和の化身",
+          "multiverseid": 460747
+        }
+      ],
+      "id": "14acf7bfedaa19b8b6331fa126999fa0675675d7",
+      "imageName": "avatar of discord",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B/R}{B/R}{B/R}",
+      "multiverseid": 460607,
+      "name": "Avatar of Discord",
+      "number": "61",
+      "originalText": "Flying\nWhen Avatar of Discord enters the battlefield, sacrifice it unless you discard two cards.",
+      "originalType": "Creature — Avatar",
+      "power": "5",
+      "printings": [
+        "pPRE",
+        "DIS",
+        "ARC",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Rare",
+      "subtypes": [
+        "Avatar"
+      ],
+      "text": "({B/R} can be paid with either {B} or {R}.)\nFlying\nWhen Avatar of Discord enters the battlefield, sacrifice it unless you discard two cards.",
+      "toughness": "3",
+      "type": "Creature — Avatar",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Chase Stone",
+      "cmc": 6,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "flavor": "Its favorite treats are candied hands and sweet hearts.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Rummelplatz-Höllenstute",
+          "multiverseid": 460636
+        },
+        {
+          "language": "Spanish",
+          "name": "Corcel infernal del carnaval",
+          "multiverseid": 460664
+        },
+        {
+          "language": "French",
+          "name": "Destrier des enfers de la foire",
+          "multiverseid": 460692
+        },
+        {
+          "language": "Italian",
+          "name": "Destriero Infernale di Carnevale",
+          "multiverseid": 460720
+        },
+        {
+          "language": "Japanese",
+          "name": "謝肉祭の地獄馬",
+          "multiverseid": 460748
+        }
+      ],
+      "id": "8979a63b18a7f6f780e5303970c09feb1e7cd2ed",
+      "imageName": "carnival hellsteed",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{4}{B}{R}",
+      "multiverseid": 460608,
+      "name": "Carnival Hellsteed",
+      "number": "62",
+      "originalText": "First strike, haste\nUnleash <i>(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)</i>",
+      "originalType": "Creature — Nightmare Horse",
+      "power": "5",
+      "printings": [
+        "pPRE",
+        "RTR",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "You make the choice to have the creature with unleash enter the battlefield with a +1/+1 counter or not as it's entering the battlefield. At that point, it's too late for a player to respond to the creature spell by trying to counter it, for example."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The unleash ability applies no matter where the creature is entering the battlefield from."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "A creature with unleash can't block if it has any +1/+1 counter on it, not just one put on it by the unleash ability."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Putting a +1/+1 counter on a creature with unleash that's already blocking won't remove it from combat. It will continue to block."
+        }
+      ],
+      "subtypes": [
+        "Nightmare",
+        "Horse"
+      ],
+      "text": "First strike, haste\nUnleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)",
+      "toughness": "4",
+      "type": "Creature — Nightmare Horse",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Wayne Reynolds",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "flavor": "In Rakdos-controlled neighborhoods, everyone is part of the show.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Grauenvolles Aufbohren",
+          "multiverseid": 460637
+        },
+        {
+          "language": "Spanish",
+          "name": "Taladro pavoroso",
+          "multiverseid": 460665
+        },
+        {
+          "language": "French",
+          "name": "Vrille d'effroi",
+          "multiverseid": 460693
+        },
+        {
+          "language": "Italian",
+          "name": "Foro del Terrore",
+          "multiverseid": 460721
+        },
+        {
+          "language": "Japanese",
+          "name": "戦慄掘り",
+          "multiverseid": 460749
+        }
+      ],
+      "id": "ef204aa185e794dc4b03d6a8620d178f9e84c632",
+      "imageName": "dreadbore",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B}{R}",
+      "multiverseid": 460609,
+      "name": "Dreadbore",
+      "number": "63",
+      "originalText": "Destroy target creature or planeswalker.",
+      "originalType": "Sorcery",
+      "printings": [
+        "RTR",
+        "E01",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Rare",
+      "text": "Destroy target creature or planeswalker.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Jeff Miracola",
+      "cmc": 3,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "flavor": "Few puppets are so willing.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Schroffer Popanz",
+          "multiverseid": 460638
+        },
+        {
+          "language": "Spanish",
+          "name": "Títere dentado",
+          "multiverseid": 460666
+        },
+        {
+          "language": "French",
+          "name": "Fantogre dentelé",
+          "multiverseid": 460694
+        },
+        {
+          "language": "Italian",
+          "name": "Burattino Dentellato",
+          "multiverseid": 460722
+        },
+        {
+          "language": "Japanese",
+          "name": "鋸歯の戯れ児",
+          "multiverseid": 460750
+        }
+      ],
+      "id": "763fef67b058bf0067f114e0fa8eb615e6cf9cec",
+      "imageName": "jagged poppet",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{B}{R}",
+      "multiverseid": 460610,
+      "name": "Jagged Poppet",
+      "number": "64",
+      "originalText": "Whenever Jagged Poppet is dealt damage, discard that many cards.\n<i>Hellbent</i> — Whenever Jagged Poppet deals combat damage to a player, if you have no cards in hand, that player discards cards equal to the damage.",
+      "originalType": "Creature — Ogre Warrior",
+      "power": "3",
+      "printings": [
+        "DIS",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Ogre",
+        "Warrior"
+      ],
+      "text": "Whenever Jagged Poppet is dealt damage, discard that many cards.\nHellbent — Whenever Jagged Poppet deals combat damage to a player, if you have no cards in hand, that player discards cards equal to the damage.",
+      "toughness": "4",
+      "type": "Creature — Ogre Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Jim Nelson",
+      "cmc": 3,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "flavor": "Sacrificial rites take place before an audience of cheering cultists, each begging to be the next on stage.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Lyzolda, die Bluthexe",
+          "multiverseid": 460639
+        },
+        {
+          "language": "Spanish",
+          "name": "Lyzolda, la bruja sangrienta",
+          "multiverseid": 460667
+        },
+        {
+          "language": "French",
+          "name": "Lyzolda, la Sorcière sanguinaire",
+          "multiverseid": 460695
+        },
+        {
+          "language": "Italian",
+          "name": "Lyzolda, la Strega di Sangue",
+          "multiverseid": 460723
+        },
+        {
+          "language": "Japanese",
+          "name": "血の魔女リゾルダ",
+          "multiverseid": 460751
+        }
+      ],
+      "id": "9864350602d27a4c610a6af623f3238ad2f61420",
+      "imageName": "lyzolda, the blood witch",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{1}{B}{R}",
+      "multiverseid": 460611,
+      "name": "Lyzolda, the Blood Witch",
+      "number": "65",
+      "originalText": "{2}, Sacrifice a creature: Lyzolda, the Blood Witch deals 2 damage to any target if the sacrificed creature was red. Draw a card if the sacrificed creature was black.",
+      "originalType": "Legendary Creature — Human Cleric",
+      "power": "3",
+      "printings": [
+        "DIS",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "You can sacrifice any creature you control to pay for this ability. If the creature was neither red nor black, the ability has no effect."
+        },
+        {
+          "date": "2006-05-01",
+          "text": "You must choose a target for the ability, even if the creature you sacrifice isn't red. If the target becomes illegal before the ability resolves, the ability won't resolve; you won't draw a card, even if the creature you sacrificed was black."
+        }
+      ],
+      "subtypes": [
+        "Human",
+        "Cleric"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "{2}, Sacrifice a creature: Lyzolda, the Blood Witch deals 2 damage to any target if the sacrificed creature was red. Draw a card if the sacrificed creature was black.",
+      "toughness": "1",
+      "type": "Legendary Creature — Human Cleric",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Chase Stone",
+      "cmc": 5,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Meister der Grausamkeiten",
+          "multiverseid": 460640
+        },
+        {
+          "language": "Spanish",
+          "name": "Maestro de crueldades",
+          "multiverseid": 460668
+        },
+        {
+          "language": "French",
+          "name": "Maître des cruautés",
+          "multiverseid": 460696
+        },
+        {
+          "language": "Italian",
+          "name": "Maestro di Crudeltà",
+          "multiverseid": 460724
+        },
+        {
+          "language": "Japanese",
+          "name": "残虐の達人",
+          "multiverseid": 460752
+        }
+      ],
+      "id": "52c4363a5d2967418ec71a774d9b10bb15fcc768",
+      "imageName": "master of cruelties",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}{B}{R}",
+      "multiverseid": 460612,
+      "name": "Master of Cruelties",
+      "number": "66",
+      "originalText": "First strike, deathtouch\nMaster of Cruelties can only attack alone.\nWhenever Master of Cruelties attacks a player and isn't blocked, that player's life total becomes 1. Master of Cruelties assigns no combat damage this combat.",
+      "originalType": "Creature — Demon",
+      "power": "1",
+      "printings": [
+        "DGM",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Mythic Rare",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "An ability that triggers when something \"attacks and isn't blocked\" triggers in the declare blockers step after blockers are declared if (1) that creature is attacking and (2) no creatures are declared to block it. It will trigger even if that creature was put onto the battlefield attacking rather than having been declared as an attacker in the declare attackers step."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Master of Cruelties isn't forced to attack, but if it does, it must do so alone. If you control another creature with an ability that says it must attack if able, that creature must attack and Master of Cruelties won't be able to."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If Master of Cruelties attacks alone, another creature entering the battlefield attacking will have no effect on it. Master of Cruelties continues to be an attacking creature. The other attacking creature will assign combat damage normally, regardless of whether Master of Cruelties's last ability triggers."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Master of Cruelties's last ability won't trigger if it attacks a planeswalker."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "For a player's life total to become 1, what actually happens is that the player loses (or in some rare cases, gains) the appropriate amount of life. For example, if the player's life total is 4 when the last ability resolves, it will cause that player to lose 3 life. Other effects that interact with life loss (or gain) will interact with this effect accordingly."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Assigning no combat damage isn't the same as preventing that damage. Effects that make damage unpreventable will have no effect if no combat damage can be assigned."
+        }
+      ],
+      "subtypes": [
+        "Demon"
+      ],
+      "text": "First strike, deathtouch\nMaster of Cruelties can only attack alone.\nWhenever Master of Cruelties attacks a player and isn't blocked, that player's life total becomes 1. Master of Cruelties assigns no combat damage this combat.",
+      "toughness": "4",
+      "type": "Creature — Demon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Ryan Barger",
+      "cmc": 1,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "flavor": "Devil-blades and dripping blood make music Rakdos never tires of hearing.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Gackernder Rakdos",
+          "multiverseid": 460641
+        },
+        {
+          "language": "Spanish",
+          "name": "Carcajeante rakdos",
+          "multiverseid": 460669
+        },
+        {
+          "language": "French",
+          "name": "Caqueteur rakdos",
+          "multiverseid": 460697
+        },
+        {
+          "language": "Italian",
+          "name": "Rakdos Isterico",
+          "multiverseid": 460725
+        },
+        {
+          "language": "Japanese",
+          "name": "ラクドスの哄笑者",
+          "multiverseid": 460753
+        }
+      ],
+      "id": "e26357c2337ccf55404337ce161026d6d6ea3ad7",
+      "imageName": "rakdos cackler",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B/R}",
+      "multiverseid": 460613,
+      "name": "Rakdos Cackler",
+      "number": "67",
+      "originalText": "Unleash <i>(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)</i>",
+      "originalType": "Creature — Devil",
+      "power": "1",
+      "printings": [
+        "pFNM",
+        "RTR",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "You make the choice to have the creature with unleash enter the battlefield with a +1/+1 counter or not as it's entering the battlefield. At that point, it's too late for a player to respond to the creature spell by trying to counter it, for example."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The unleash ability applies no matter where the creature is entering the battlefield from."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "A creature with unleash can't block if it has any +1/+1 counter on it, not just one put on it by the unleash ability."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Putting a +1/+1 counter on a creature with unleash that's already blocking won't remove it from combat. It will continue to block."
+        }
+      ],
+      "subtypes": [
+        "Devil"
+      ],
+      "text": "Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)",
+      "toughness": "1",
+      "type": "Creature — Devil",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Zoltan Boros",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Rakdos-Amulett",
+          "multiverseid": 460642
+        },
+        {
+          "language": "Spanish",
+          "name": "Amuleto rakdos",
+          "multiverseid": 460670
+        },
+        {
+          "language": "French",
+          "name": "Charme de Rakdos",
+          "multiverseid": 460698
+        },
+        {
+          "language": "Italian",
+          "name": "Talismano Rakdos",
+          "multiverseid": 460726
+        },
+        {
+          "language": "Japanese",
+          "name": "ラクドスの魔除け",
+          "multiverseid": 460754
+        }
+      ],
+      "id": "a8606969fe7bb51e4601ce11a9d9b1c24b5ad8bd",
+      "imageName": "rakdos charm",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B}{R}",
+      "multiverseid": 460614,
+      "name": "Rakdos Charm",
+      "number": "68",
+      "originalText": "Choose one —\n• Exile all cards from target player's graveyard.\n• Destroy target artifact.\n• Each creature deals 1 damage to its controller.",
+      "originalType": "Instant",
+      "printings": [
+        "RTR",
+        "C16",
+        "C17",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Uncommon",
+      "text": "Choose one —\n• Exile all cards from target player's graveyard.\n• Destroy target artifact.\n• Each creature deals 1 damage to its controller.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Jeremy Jarvis",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Rakdos-Gildenmagier",
+          "multiverseid": 460643
+        },
+        {
+          "language": "Spanish",
+          "name": "Mago del Gremio Rakdos",
+          "multiverseid": 460671
+        },
+        {
+          "language": "French",
+          "name": "Ghildmage de Rakdos",
+          "multiverseid": 460699
+        },
+        {
+          "language": "Italian",
+          "name": "Mago della Gilda Rakdos",
+          "multiverseid": 460727
+        },
+        {
+          "language": "Japanese",
+          "name": "ラクドスのギルド魔道士",
+          "multiverseid": 460755
+        }
+      ],
+      "id": "f4d510efc5e743ed3628f4c37b6b6b2679d49184",
+      "imageName": "rakdos guildmage",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B/R}{B/R}",
+      "multiverseid": 460615,
+      "name": "Rakdos Guildmage",
+      "number": "69",
+      "originalText": "{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn.\n{3}{R}: Create a 2/1 red Goblin creature token with haste. Exile it at the beginning of the next end step.",
+      "originalType": "Creature — Zombie Shaman",
+      "power": "2",
+      "printings": [
+        "pCMP",
+        "DIS",
+        "ARC",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "If the second ability is activated during the End step, the token won't be exiled until the following turn's End step."
+        }
+      ],
+      "subtypes": [
+        "Zombie",
+        "Shaman"
+      ],
+      "text": "({B/R} can be paid with either {B} or {R}.)\n{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn.\n{3}{R}: Create a 2/1 red Goblin creature token with haste. Exile it at the beginning of the next end step.",
+      "toughness": "2",
+      "type": "Creature — Zombie Shaman",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Wayne Reynolds",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "flavor": "\"If there were such a thing as a soul, I think it would be behind the gallbladder but above the kidneys.\"",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Rakdos-Schnetzler",
+          "multiverseid": 460644
+        },
+        {
+          "language": "Spanish",
+          "name": "Jironero rakdos",
+          "multiverseid": 460672
+        },
+        {
+          "language": "French",
+          "name": "Dilacérateur rakdos",
+          "multiverseid": 460700
+        },
+        {
+          "language": "Italian",
+          "name": "Rakdos Stagliuzzatore",
+          "multiverseid": 460728
+        },
+        {
+          "language": "Japanese",
+          "name": "ラクドスの切り刻み教徒",
+          "multiverseid": 460756
+        }
+      ],
+      "id": "a0488f99a7b333e264fbcc8428b39f27504bceeb",
+      "imageName": "rakdos shred-freak",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B/R}{B/R}",
+      "multiverseid": 460616,
+      "name": "Rakdos Shred-Freak",
+      "number": "70",
+      "originalText": "Haste",
+      "originalType": "Creature — Human Berserker",
+      "power": "2",
+      "printings": [
+        "RTR",
+        "UMA",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Common",
+      "subtypes": [
+        "Human",
+        "Berserker"
+      ],
+      "text": "Haste",
+      "toughness": "1",
+      "type": "Creature — Human Berserker",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "cmc": 6,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Rakdos der Schänder",
+          "multiverseid": 460645
+        },
+        {
+          "language": "Spanish",
+          "name": "Rakdos el profanador",
+          "multiverseid": 460673
+        },
+        {
+          "language": "French",
+          "name": "Rakdos le Contaminateur",
+          "multiverseid": 460701
+        },
+        {
+          "language": "Italian",
+          "name": "Rakdos il Contaminatore",
+          "multiverseid": 460729
+        },
+        {
+          "language": "Japanese",
+          "name": "穢すものラクドス",
+          "multiverseid": 460757
+        }
+      ],
+      "id": "09842a64b8f62fead683522a473c85e71891e5ed",
+      "imageName": "rakdos the defiler",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{B}{B}{R}{R}",
+      "multiverseid": 460617,
+      "name": "Rakdos the Defiler",
+      "number": "71",
+      "originalText": "Flying, trample\nWhenever Rakdos the Defiler attacks, sacrifice half the non-Demon permanents you control, rounded up.\nWhenever Rakdos deals combat damage to a player, that player sacrifices half the non-Demon permanents they control, rounded up.",
+      "originalType": "Legendary Creature — Demon",
+      "power": "7",
+      "printings": [
+        "DIS",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Rare",
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "To calculate the number of permanents that must be sacrificed, count the number of permanents the affected player controls that don't have the subtype Demon, then divide that number in half and round up. For example, a player who controls eleven non-Demon permanents will need to sacrifice six of them."
+        },
+        {
+          "date": "2006-05-01",
+          "text": "A permanent with the subtype Demon, including Rakdos the Defiler itself, can't be sacrificed this way."
+        }
+      ],
+      "subtypes": [
+        "Demon"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying, trample\nWhenever Rakdos the Defiler attacks, sacrifice half the non-Demon permanents you control, rounded up.\nWhenever Rakdos deals combat damage to a player, that player sacrifices half the non-Demon permanents they control, rounded up.",
+      "toughness": "6",
+      "type": "Legendary Creature — Demon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Daarken",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "flavor": "When Lord Rakdos stirred from his slumber, everyone else's nightmare began.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Rakdos' Rückkehr",
+          "multiverseid": 460646
+        },
+        {
+          "language": "Spanish",
+          "name": "Regreso de Rakdos",
+          "multiverseid": 460674
+        },
+        {
+          "language": "French",
+          "name": "Retour de Rakdos",
+          "multiverseid": 460702
+        },
+        {
+          "language": "Italian",
+          "name": "Ritorno di Rakdos",
+          "multiverseid": 460730
+        },
+        {
+          "language": "Japanese",
+          "name": "ラクドスの復活",
+          "multiverseid": 460758
+        }
+      ],
+      "id": "fb0e5290f0b28b140e52bcf6eeaf9eefcf27d7e5",
+      "imageName": "rakdos's return",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{X}{B}{R}",
+      "multiverseid": 460618,
+      "name": "Rakdos's Return",
+      "number": "72",
+      "originalText": "Rakdos's Return deals X damage to target opponent or planeswalker. That player or that planeswalker's controller discards X cards.",
+      "originalType": "Sorcery",
+      "printings": [
+        "RTR",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Mythic Rare",
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "The target opponent will discard X cards even if some or all of the damage dealt by Rakdos's Return is prevented or redirected."
+        }
+      ],
+      "text": "Rakdos's Return deals X damage to target opponent or planeswalker. That player or that planeswalker's controller discards X cards.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Christopher Moeller",
+      "cmc": 1,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "flavor": "Most auramancers would have let the spikes hover just above the skin. Having the spikes rip through the skin from beneath was a touch added by Rakdos himself.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Krawallstacheln",
+          "multiverseid": 460647
+        },
+        {
+          "language": "Spanish",
+          "name": "Púas perturbadoras",
+          "multiverseid": 460675
+        },
+        {
+          "language": "French",
+          "name": "Pointes anti-émeutes",
+          "multiverseid": 460703
+        },
+        {
+          "language": "Italian",
+          "name": "Spuntoni da Sommossa",
+          "multiverseid": 460731
+        },
+        {
+          "language": "Japanese",
+          "name": "暴動のとげ",
+          "multiverseid": 460759
+        }
+      ],
+      "id": "20c1a606ffa9fc2f26ee92fa504975f07b4fc1eb",
+      "imageName": "riot spikes",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{B/R}",
+      "multiverseid": 460619,
+      "name": "Riot Spikes",
+      "number": "73",
+      "originalText": "Enchant creature\nEnchanted creature gets +2/-1.",
+      "originalType": "Enchantment — Aura",
+      "printings": [
+        "DIS",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Common",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "({B/R} can be paid with either {B} or {R}.)\nEnchant creature\nEnchanted creature gets +2/-1.",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Ron Spears",
+      "cmc": 4,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "flavor": "Rakdos festivals almost leave enough rubble in their wake to hide the bodies.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Abrissbirne",
+          "multiverseid": 460648
+        },
+        {
+          "language": "Spanish",
+          "name": "Baile de demolición",
+          "multiverseid": 460676
+        },
+        {
+          "language": "French",
+          "name": "Boulet de démolition",
+          "multiverseid": 460704
+        },
+        {
+          "language": "Italian",
+          "name": "Ballo di Devastazione",
+          "multiverseid": 460732
+        },
+        {
+          "language": "Japanese",
+          "name": "破壊の宴",
+          "multiverseid": 460760
+        }
+      ],
+      "id": "938f78bd8c2490efec225dbc078c96c9372a8b7a",
+      "imageName": "wrecking ball",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}{B}{R}",
+      "multiverseid": 460620,
+      "name": "Wrecking Ball",
+      "number": "74",
+      "originalText": "Destroy target creature or land.",
+      "originalType": "Instant",
+      "printings": [
+        "DIS",
+        "CMD",
+        "MM2",
+        "CMA",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Common",
+      "text": "Destroy target creature or land.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Daniel Ljunggren",
+      "cmc": 3,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "flavor": "The Rakdos use it for everything you can think of and plenty more than that.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Rakdos-Runenschlüssel",
+          "multiverseid": 460649
+        },
+        {
+          "language": "Spanish",
+          "name": "Llave rúnica rakdos",
+          "multiverseid": 460677
+        },
+        {
+          "language": "French",
+          "name": "Runeclé de Rakdos",
+          "multiverseid": 460705
+        },
+        {
+          "language": "Italian",
+          "name": "Runachiave Rakdos",
+          "multiverseid": 460733
+        },
+        {
+          "language": "Japanese",
+          "name": "ラクドスの魔鍵",
+          "multiverseid": 460761
+        }
+      ],
+      "id": "90caa7b3191163fafc67563aad37851f7bbabd54",
+      "imageName": "rakdos keyrune",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{3}",
+      "multiverseid": 460621,
+      "name": "Rakdos Keyrune",
+      "number": "75",
+      "originalText": "{T}: Add {B} or {R}.\n{B}{R}: Rakdos Keyrune becomes a 3/1 black and red Devil artifact creature with first strike until end of turn.",
+      "originalType": "Artifact",
+      "printings": [
+        "RTR",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Uncommon",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "Until the ability that turns the Keyrune into a creature resolves, the Keyrune is colorless."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Activating the ability that turns the Keyrune into a creature while it's already a creature will override any effects that set its power and/or toughness to another number, but effects that modify power and/or toughness without directly setting them will still apply."
+        }
+      ],
+      "text": "{T}: Add {B} or {R}.\n{B}{R}: Rakdos Keyrune becomes a 3/1 black and red Devil artifact creature with first strike until end of turn.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Martina Pilcerova",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "flavor": "Made of bone and boiled in blood, a Rakdos signet is not considered finished until it has been used as a murder weapon.",
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Rakdos-Petschaft",
+          "multiverseid": 460650
+        },
+        {
+          "language": "Spanish",
+          "name": "Sello rakdos",
+          "multiverseid": 460678
+        },
+        {
+          "language": "French",
+          "name": "Cachet de Rakdos",
+          "multiverseid": 460706
+        },
+        {
+          "language": "Italian",
+          "name": "Sigillo Rakdos",
+          "multiverseid": 460734
+        },
+        {
+          "language": "Japanese",
+          "name": "ラクドスの印鑑",
+          "multiverseid": 460762
+        }
+      ],
+      "id": "de4b0f2ae1b95eaf2e6a7958043e2a04cbd32f46",
+      "imageName": "rakdos signet",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "manaCost": "{2}",
+      "multiverseid": 460622,
+      "name": "Rakdos Signet",
+      "number": "76",
+      "originalText": "{1}, {T}: Add {B}{R}.",
+      "originalType": "Artifact",
+      "printings": [
+        "DIS",
+        "ARC",
+        "CMD",
+        "C16",
+        "MM3",
+        "CMA",
+        "C17",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Uncommon",
+      "text": "{1}, {T}: Add {B}{R}.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "John Avon",
+      "cmc": 0,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "foreignNames": [
+        {
+          "language": "German",
+          "name": "Rakdos-Schlachtstätte",
+          "multiverseid": 460651
+        },
+        {
+          "language": "Spanish",
+          "name": "Carnarium rakdos",
+          "multiverseid": 460679
+        },
+        {
+          "language": "French",
+          "name": "Carnarium de Rakdos",
+          "multiverseid": 460707
+        },
+        {
+          "language": "Italian",
+          "name": "Carnario Rakdos",
+          "multiverseid": 460735
+        },
+        {
+          "language": "Japanese",
+          "name": "ラクドスの肉儀場",
+          "multiverseid": 460763
+        }
+      ],
+      "id": "021885eeb264c23ac5e14a1aab79cf92c4b62e42",
+      "imageName": "rakdos carnarium",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 460623,
+      "name": "Rakdos Carnarium",
+      "number": "77",
+      "originalText": "Rakdos Carnarium enters the battlefield tapped.\nWhen Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {B}{R}.",
+      "originalType": "Land",
+      "printings": [
+        "DIS",
+        "ARC",
+        "CMD",
+        "DDK",
+        "C13",
+        "MM2",
+        "C16",
+        "CMA",
+        "C17",
+        "IMA",
+        "C18",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand."
+        }
+      ],
+      "text": "Rakdos Carnarium enters the battlefield tapped.\nWhen Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {B}{R}.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Rakdos"
+    },
+    {
+      "artist": "Dimitar Marinski",
+      "cmc": 0,
+      "colorIdentity": [
+        "B"
+      ],
+      "id": "c054525e68693c1466e41604e9b67d36adff6b01",
+      "imageName": "swamp",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 460624,
+      "name": "Swamp",
+      "number": "78",
+      "originalText": "B",
+      "originalType": "Basic Land — Swamp",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "ME1",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM",
+        "BBD",
+        "CM2",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_DIMIR",
+        "GK1_GOLGAR",
+        "GNT",
+        "RNA",
+        "GK2_ORZHOV",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Swamp"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Swamp",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Black"
+    },
+    {
+      "artist": "Dimitar Marinski",
+      "cmc": 0,
+      "colorIdentity": [
+        "R"
+      ],
+      "id": "159f8e69e6a327f76a108f0dc1239a3e3b92a138",
+      "imageName": "mountain",
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 460625,
+      "name": "Mountain",
+      "number": "79",
+      "originalText": "R",
+      "originalType": "Basic Land — Mountain",
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "ME1",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19",
+        "C18",
+        "GRN",
+        "GK1_BOROS",
+        "GK1_IZZET",
+        "GNT",
+        "RNA",
+        "GK2_GRUUL",
+        "GK2_RAKDOS"
+      ],
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Mountain"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Mountain",
+      "types": [
+        "Land"
+      ],
+      "watermark": "Red"
+    }
+  ]
+}
