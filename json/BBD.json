@@ -9160,7 +9160,8 @@
         "GTC",
         "A25",
         "BBD",
-        "M19"
+        "M19",
+        "WAR"
       ],
       "rarity": "Common",
       "text": "Put target nonland permanent on top of its owner's library.",
@@ -13762,7 +13763,8 @@
         "DD3_GVL",
         "E02",
         "A25",
-        "BBD"
+        "BBD",
+        "WAR"
       ],
       "rarity": "Common",
       "text": "Target creature gets +3/+3 until end of turn.",
@@ -17241,7 +17243,8 @@
         "M19",
         "GRN",
         "GNT",
-        "RNA"
+        "RNA",
+        "WAR"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17413,7 +17416,8 @@
         "M19",
         "GRN",
         "GNT",
-        "RNA"
+        "RNA",
+        "WAR"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17588,7 +17592,8 @@
         "M19",
         "GRN",
         "GNT",
-        "RNA"
+        "RNA",
+        "WAR"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17766,7 +17771,8 @@
         "M19",
         "GRN",
         "GNT",
-        "RNA"
+        "RNA",
+        "WAR"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -17941,7 +17947,8 @@
         "M19",
         "GRN",
         "GNT",
-        "RNA"
+        "RNA",
+        "WAR"
       ],
       "rarity": "Basic Land",
       "subtypes": [

@@ -2112,7 +2112,8 @@
         "GNT",
         "RNA",
         "GK2_AZORIUS",
-        "GK2_ORZHOV"
+        "GK2_ORZHOV",
+        "WAR"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2285,7 +2286,8 @@
         "GNT",
         "RNA",
         "GK2_ORZHOV",
-        "GK2_RAKDOS"
+        "GK2_RAKDOS",
+        "WAR"
       ],
       "rarity": "Basic Land",
       "subtypes": [

@@ -2531,7 +2531,8 @@
         "GNT",
         "RNA",
         "GK2_AZORIUS",
-        "GK2_SIMIC"
+        "GK2_SIMIC",
+        "WAR"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2705,7 +2706,8 @@
         "GNT",
         "RNA",
         "GK2_GRUUL",
-        "GK2_SIMIC"
+        "GK2_SIMIC",
+        "WAR"
       ],
       "rarity": "Basic Land",
       "subtypes": [

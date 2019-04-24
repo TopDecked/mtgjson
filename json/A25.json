@@ -4898,7 +4898,8 @@
         "V13",
         "VMA",
         "EMA",
-        "A25"
+        "A25",
+        "MED2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -5826,7 +5827,8 @@
         "GTC",
         "A25",
         "BBD",
-        "M19"
+        "M19",
+        "WAR"
       ],
       "rarity": "Common",
       "text": "Put target nonland permanent on top of its owner's library.",
@@ -13503,7 +13505,8 @@
         "DD3_GVL",
         "E02",
         "A25",
-        "BBD"
+        "BBD",
+        "WAR"
       ],
       "rarity": "Common",
       "text": "Target creature gets +3/+3 until end of turn.",
