@@ -1,0 +1,11 @@
+{
+  "SET": {
+    "name": "Modern Horizons",
+    "code": "MH1",
+    "releaseDate": "2019-06-14",
+    "border": "black",
+    "type": "masters",
+    "onlineOnly": false,
+    "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "token"]
+  }
+}
